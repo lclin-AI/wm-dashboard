@@ -114,11 +114,29 @@ function metaLine(iso, staleMin){
   return "<div class=\"meta\">更新：" + esc(iso.replace("T"," ")) +
          "　<span" + cls + ">（" + ago(iso) + "）</span></div>";
 }
-function dayCols(dates){
-  return dates.map(d => "<th class=\"" + (d===today?"today":"") + "\">" + d.slice(5) + "</th>").join("");
-}
 function sortCodes(list){
   return list.slice().sort((a,b) => (NAME[a]||a).localeCompare(NAME[b]||b, "zh-HK"));
+}
+
+/* ── 共用：街市做行，日期下面再分四個時段 ────────────────── */
+function grid(dates, codes, cell){
+  let h = "<div class=\"scroll\"><table><thead><tr><th class=\"row\">街市</th>";
+  dates.forEach(dt => h += "<th class=\"" + (dt===today?"today":"") +
+    "\" colspan=\"4\">" + dt.slice(5) + "</th>");
+  h += "</tr><tr><th class=\"row\"></th>";
+  dates.forEach(dt => TS.forEach(t =>
+    h += "<th class=\"" + (dt===today?"today":"") + "\">" + t + "</th>"));
+  h += "</tr></thead><tbody>";
+  codes.forEach(code => {
+    h += "<tr><td class=\"row\">" + esc(NAME[code]||code) + "</td>";
+    dates.forEach(dt => TS.forEach(t => {
+      const c = cell(code, dt, t);
+      h += "<td class=\"" + (c.cls||"") + "\" title=\"" + esc(c.tip||"") + "\">" +
+           c.txt + "</td>";
+    }));
+    h += "</tr>";
+  });
+  return h + "</tbody></table></div>";
 }
 
 /* ── 1. 落單時段 ─────────────────────────────────────────── */
@@ -129,22 +147,11 @@ function renderTS(d){
   d.cells.forEach(c => by[c.code + "|" + c.date + "|" + SLOT2TS[c.slot]] = c);
   const TXT = {open:"有", gone:"冇", cutoff:"截", none:"–"};
   let h = metaLine(d.updatedAt, 5);
-  h += "<div class=\"scroll\"><table><thead><tr><th class=\"row\">街市</th>";
-  dates.forEach(dt => h += "<th class=\"" + (dt===today?"today":"") + "\" colspan=\"4\">" + dt.slice(5) + "</th>");
-  h += "</tr><tr><th class=\"row\"></th>";
-  dates.forEach(() => TS.forEach(t => h += "<th>" + t + "</th>"));
-  h += "</tr></thead><tbody>";
-  codes.forEach(code => {
-    h += "<tr><td class=\"row\">" + esc(NAME[code]||code) + "</td>";
-    dates.forEach(dt => TS.forEach(t => {
-      const c = by[code + "|" + dt + "|" + t];
-      const st = c ? c.status : "none";
-      const tip = c ? "截單 " + c.cutoff.replace("T"," ") : "";
-      h += "<td class=\"" + st + "\" title=\"" + esc(tip) + "\">" + TXT[st] + "</td>";
-    }));
-    h += "</tr>";
+  h += grid(dates, codes, (code, dt, t) => {
+    const c = by[code + "|" + dt + "|" + t];
+    const st = c ? c.status : "none";
+    return {cls: st, txt: TXT[st], tip: c ? "截單 " + c.cutoff.replace("T"," ") : ""};
   });
-  h += "</tbody></table></div>";
   h += "<div class=\"legend\">" +
        "<span><b class=\"open\">有</b> 揀得到</span>" +
        "<span><b class=\"gone\">冇</b> 截單前冇咗（爆）</span>" +
@@ -162,20 +169,14 @@ function renderDQ(d){
   const by = {};
   d.cells.forEach(c => by[c.code + "|" + c.date + "|" + OIX2TS[c.ts]] = c);
   let h = metaLine(d.updatedAt, 60);
-  h += "<div class=\"scroll\"><table><thead><tr><th class=\"row\">街市 / 時段</th>" +
-       dayCols(dates) + "</tr></thead><tbody>";
-  codes.forEach(code => TS.forEach(t => {
-    h += "<tr><td class=\"row\">" + esc(NAME[code]||code) + " " + t + "</td>";
-    dates.forEach(dt => {
-      const c = by[code + "|" + dt + "|" + t];
-      if(!c){ h += "<td class=\"none\">–</td>"; return; }
-      const r = c.quota ? c.used / c.quota : 0;
-      const cls = c.used >= c.quota ? "full" : (r >= 0.9 ? "tight" : "");
-      h += "<td class=\"" + cls + "\">" + c.used + "/" + c.quota + "</td>";
-    });
-    h += "</tr>";
-  }));
-  h += "</tbody></table></div>";
+  h += grid(dates, codes, (code, dt, t) => {
+    const c = by[code + "|" + dt + "|" + t];
+    if(!c) return {cls:"none", txt:"–"};
+    const r = c.quota ? c.used / c.quota : 0;
+    return {cls: c.used >= c.quota ? "full" : (r >= 0.9 ? "tight" : ""),
+            txt: c.used + "/" + c.quota,
+            tip: "用咗 " + c.used + "，配額 " + c.quota};
+  });
   h += "<div class=\"legend\">" +
        "<span><b class=\"full\">紅</b> 已用爆（≥ 配額）</span>" +
        "<span><b class=\"tight\">橙</b> 用咗 9 成或以上</span>" +
@@ -193,21 +194,13 @@ function renderCL(d){
   d.cells.forEach(c => by[c.code + "|" + c.date + "|" + OIX2TS[c.ts]] = c);
   let miss = 0;
   let h = metaLine(d.updatedAt, 24*60);
-  h += "<div class=\"scroll\"><table><thead><tr><th class=\"row\">街市 / 時段</th>" +
-       dayCols(dates) + "</tr></thead><tbody>";
-  codes.forEach(code => TS.forEach(t => {
-    h += "<tr><td class=\"row\">" + esc(NAME[code]||code) + " " + t + "</td>";
-    dates.forEach(dt => {
-      const c = by[code + "|" + dt + "|" + t];
-      const ok = !!(c && c.ok);
-      if(!ok) miss++;
-      const tip = c ? "rows=" + c.rows + " routes=" + c.routes : "";
-      h += "<td class=\"" + (ok?"open":"gone") + "\" title=\"" + esc(tip) + "\">" +
-           (ok ? "☑" : "☐") + "</td>";
-    });
-    h += "</tr>";
-  }));
-  h += "</tbody></table></div>";
+  h += grid(dates, codes, (code, dt, t) => {
+    const c = by[code + "|" + dt + "|" + t];
+    const ok = !!(c && c.ok);
+    if(!ok) miss++;
+    return {cls: ok ? "open" : "gone", txt: ok ? "☑" : "☐",
+            tip: c ? "rows=" + c.rows + " routes=" + c.routes : ""};
+  });
   h += "<div class=\"legend\"><span><b class=\"open\">☑</b> 車線已上</span>" +
        "<span><b class=\"gone\">☐</b> 未上</span></div>";
   h += "<div class=\"note\">未上：<b>" + miss + "</b> 格。各街市車線實際上到：" +

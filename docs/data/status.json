@@ -1,18 +1,18 @@
 {
- "updatedAt": "2026-09-14T15:14:43",
+ "updatedAt": "2026-09-14T15:19:07",
  "marketsChecked": 9,
  "marketsTotal": 9,
  "marketsFailed": [],
  "blownCount": 1,
  "oixOk": true,
- "carlineCheckedAt": "2026-09-14T12:51:20",
+ "carlineCheckedAt": "2026-09-14T15:19:07",
  "lastWhatsApp": null,
  "whatsappConn": {
   "ok": true,
   "state": "logged_in",
   "note": "登入緊，對話清單載到",
-  "tookS": 11.0,
-  "at": "2026-09-14T15:13:43"
+  "tookS": 8.4,
+  "at": "2026-09-14T15:19:31"
  },
- "collectedAt": "2026-09-14T15:15:03"
+ "collectedAt": "2026-09-14T15:20:02"
 }

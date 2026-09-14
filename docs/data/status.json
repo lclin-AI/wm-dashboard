@@ -1,18 +1,23 @@
 {
- "updatedAt": "2026-09-14T23:48:15",
+ "updatedAt": "2026-09-14T23:58:58",
  "marketsChecked": 9,
  "marketsTotal": 9,
  "marketsFailed": [],
- "blownCount": 1,
+ "blownCount": 2,
  "oixOk": true,
  "carlineCheckedAt": "2026-09-14T15:19:07",
- "lastWhatsApp": null,
- "whatsappConn": {
+ "lastWhatsApp": {
+  "at": "2026-09-14T23:57:58",
   "ok": true,
-  "state": "logged_in",
-  "note": "登入緊，對話清單載到",
-  "tookS": 14.6,
-  "at": "2026-09-14T23:35:56"
+  "rc": 0,
+  "head": "🚨 街市即日餸 爆 quota"
  },
- "collectedAt": "2026-09-14T23:55:03"
+ "whatsappConn": {
+  "ok": false,
+  "state": "error",
+  "note": "TargetClosedError: BrowserType.launch_persistent_context: Target page, context or browser has been closed\nBrowser logs:\n\n<launching> C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe --disable-fie",
+  "tookS": 4.8,
+  "at": "2026-09-14T23:59:16"
+ },
+ "collectedAt": "2026-09-15T00:00:03"
 }

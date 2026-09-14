@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-14T19:03:59",
+ "updatedAt": "2026-09-14T19:09:02",
  "cells": [
   {
    "code": "SMI00001",
@@ -974,5 +974,5 @@
    "cutoff": "2026-09-16T16:00:00"
   }
  ],
- "ageSeconds": 65
+ "ageSeconds": 62
 }

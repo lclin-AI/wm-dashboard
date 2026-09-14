@@ -53,12 +53,23 @@
   .legend{display:flex;gap:14px;flex-wrap:wrap;color:var(--dim);font-size:12px;margin-top:10px}
   .err{color:var(--bad)}
   .note{color:var(--dim);font-size:12px;margin-top:10px}
+  .status{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:16px}
+  .pill{border:1px solid var(--line);background:var(--card);border-radius:8px;
+        padding:7px 11px;font-size:12px;line-height:1.35;min-width:150px}
+  .pill .k{color:var(--dim);display:block;font-size:11px}
+  .pill .v{font-weight:600}
+  .pill.good{border-color:var(--ok)} .pill.good .v{color:var(--ok)}
+  .pill.bad{border-color:var(--bad);background:var(--badbg)} .pill.bad .v{color:var(--bad)}
+  .pill.idle .v{color:var(--mute)}
+  .pill .s{color:var(--dim);font-size:11px}
 </style>
 </head>
 <body>
 <div class="wrap">
   <h1>街市即日餸 — 時段 / Quota / 車線</h1>
   <div class="sub" id="sub">載入中…</div>
+
+  <div class="status" id="status"></div>
 
   <div class="tabs" role="tablist">
     <button role="tab" data-p="ts" aria-selected="true">落單時段</button>
@@ -206,6 +217,53 @@ function renderCL(d){
   el("p-cl").innerHTML = h;
 }
 
+/* ── 0. 狀態列 ───────────────────────────────────────────── */
+function minsAgo(iso){ return iso ? (Date.now() - new Date(iso)) / 60000 : null; }
+function hhmm(iso){ return iso ? iso.slice(11,16) : "—"; }
+function pill(cls, k, v, s){
+  return "<div class=\"pill " + cls + "\"><span class=\"k\">" + esc(k) + "</span>" +
+         "<span class=\"v\">" + esc(v) + "</span>" +
+         (s ? "<span class=\"s\"><br>" + esc(s) + "</span>" : "") + "</div>";
+}
+function renderStatus(h){
+  const p = [];
+
+  // 監察程式 —— 每分鐘一輪，超過 5 分鐘冇更新就係停咗
+  const mr = minsAgo(h.updatedAt);
+  const monStale = mr === null || mr > 5;
+  p.push(pill(monStale ? "bad" : "good", "監察程式",
+    monStale ? "停咗？" : "行緊",
+    (h.updatedAt ? "最後一輪 " + hhmm(h.updatedAt) + "（" + ago(h.updatedAt) + "）" : "冇數據")
+    + "　" + (h.marketsChecked || 0) + "/" + (h.marketsTotal || 0) + " 個街市"
+    + (h.blownCount ? "　爆緊 " + h.blownCount + " 格" : "")));
+
+  // WhatsApp —— 只知「最後一次發送嘅結果」，唔知而家登唔登入住
+  const w = h.lastWhatsApp;
+  if (!w) {
+    p.push(pill("idle", "WhatsApp", "未發過", "冇 alert 就唔會發，唔代表有問題"));
+  } else {
+    p.push(pill(w.ok ? "good" : "bad", "WhatsApp 最後一次發送",
+      w.ok ? "成功" : "失敗 (rc=" + w.rc + ")",
+      hhmm(w.at) + "　" + ago(w.at) + (w.head ? "　" + w.head.slice(0, 18) : "")));
+  }
+
+  // OIX
+  const o = h.oixOk;
+  p.push(pill(o === true ? "good" : (o === false ? "bad" : "idle"), "OIX 登入",
+    o === true ? "正常" : (o === false ? "叫唔到" : "未知"),
+    o === false ? "delivery quota 數字出唔到" : "District Quota 攞得到數"));
+
+  // 車線檢查 —— 一日一次，超過 26 個鐘就係冇跑過
+  const cr = minsAgo(h.carlineCheckedAt);
+  const clStale = cr === null || cr > 26 * 60;
+  p.push(pill(clStale ? "bad" : "good", "車線檢查 (T+0..T+2)",
+    clStale ? "未跑過 / 過期" : "正常",
+    h.carlineCheckedAt ? hhmm(h.carlineCheckedAt) + "　" + ago(h.carlineCheckedAt)
+                       : "monitor 開機後會跑第一次"));
+
+  el("status").innerHTML = p.join("");
+}
+
 /* ── tabs ───────────────────────────────────────────────── */
 document.querySelectorAll(".tabs button").forEach(b => b.onclick = () => {
   document.querySelectorAll(".tabs button").forEach(x =>
@@ -213,7 +271,7 @@ document.querySelectorAll(".tabs button").forEach(b => b.onclick = () => {
   ["ts","dq","cl"].forEach(p => el("p-" + p).hidden = (p !== b.dataset.p));
 });
 
-(async () => {
+async function refresh(){
   const jobs = [["timeslots.json", renderTS, "p-ts"],
                 ["district.json", renderDQ, "p-dq"],
                 ["carline.json", renderCL, "p-cl"]];
@@ -222,10 +280,17 @@ document.querySelectorAll(".tabs button").forEach(b => b.onclick = () => {
     try { const d = await load(f); fn(d); times.push(d.updatedAt); }
     catch (e) { el(id).innerHTML = "<div class=\"err\">載入 " + esc(f) + " 失敗：" + esc(e.message) + "</div>"; }
   }
-  el("sub").textContent = times.length
-    ? "最新一份數據：" + times.sort().slice(-1)[0].replace("T"," ")
-    : "冇數據";
-})();
+  try { renderStatus(await load("status.json")); }
+  catch (e) { el("status").innerHTML = "<div class=\"err\">載入 status.json 失敗：" + esc(e.message) + "</div>"; }
+
+  el("sub").textContent =
+    (times.length ? "最新一份數據：" + times.sort().slice(-1)[0].replace("T"," ") : "冇數據")
+    + "　·　本頁 " + new Date().toTimeString().slice(0,8) + " 載入，每 2 分鐘自動 reload";
+}
+refresh();
+// 個站係靜態檔，數據由 Task Scheduler 每 5 分鐘 push 上嚟。自己定時重讀，
+// 唔使人手 refresh 都見到最新（同埋「幾耐之前」個計時會跟住行）。
+setInterval(refresh, 120000);
 </script>
 </body>
 </html>

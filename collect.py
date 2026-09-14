@@ -57,6 +57,14 @@ def do_timeslots() -> None:
         print(f"  ⚠ snapshot 已經 {int(age//60)} 分鐘冇更新，monitor 可能停咗")
     _write("timeslots.json", d)
 
+    # 成條鏈嘅健康狀況（monitor 每輪寫）。冇 health.json 都唔好死 ——
+    # 舊版 monitor 未寫呢個檔。
+    h = MONITOR / "health.json"
+    if h.exists():
+        _write("status.json", json.loads(h.read_text(encoding="utf-8")))
+    else:
+        print("  ⚠ 冇 health.json（monitor 未跑過新版？）")
+
 
 def do_district() -> None:
     import oix_quota as Q

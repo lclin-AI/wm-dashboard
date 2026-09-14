@@ -75,8 +75,19 @@ def do_timeslots() -> None:
 def do_district() -> None:
     import oix_quota as Q
     today = datetime.now().date()
+    av = Q.available()
     cells = []
-    for code in sorted(Q.DISTRICTS):
+    # 九個街市全部出。OIX 未有 district 嗰啲照出 record，標 inOix=false，
+    # 等個站可以顯示「OIX 未有」而唔係靜靜雞少咗三行。
+    for code in sorted(Q.MARKETS):
+        if code not in av:
+            for i in range(DAYS):
+                day = today + timedelta(days=i)
+                for ts in ("AM", "PM", "PM2", "EV"):
+                    cells.append({"code": code, "date": f"{day:%Y-%m-%d}", "plusDay": i,
+                                  "ts": ts, "slot": Q.TS_LABEL.get(ts, ts),
+                                  "inOix": False, "used": None, "quota": None})
+            continue
         for i in range(DAYS):
             day = today + timedelta(days=i)
             try:
@@ -89,7 +100,7 @@ def do_district() -> None:
                     continue
                 cells.append({"code": code, "date": f"{day:%Y-%m-%d}", "plusDay": i,
                               "ts": ts, "slot": Q.TS_LABEL[ts],
-                              "used": used, "quota": quota})
+                              "inOix": True, "used": used, "quota": quota})
     _write("district.json", {"updatedAt": datetime.now().isoformat(timespec="seconds"),
                              "cells": cells})
 
@@ -101,7 +112,8 @@ def do_carline() -> None:
     _write("carline.json", {
         "updatedAt": datetime.now().isoformat(timespec="seconds"),
         "cells": [{"code": r["district"], "date": r["date"], "plusDay": r["plusDay"],
-                   "ts": r["timeslot"], "ok": bool(r["rows"] and r["routes"] and r["quota"]),
+                   "ts": r["timeslot"], "inOix": r.get("inOix", True),
+                   "ok": bool(r["rows"] and r["routes"] and r["quota"]),
                    "rows": r["rows"], "routes": r["routes"], "quota": r["quota"]}
                   for r in recs],
         "districtLatest": {c: lat.get(c) for c in C.MARKET_NAME}})

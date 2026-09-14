@@ -237,12 +237,26 @@ function renderStatus(h){
     + "　" + (h.marketsChecked || 0) + "/" + (h.marketsTotal || 0) + " 個街市"
     + (h.blownCount ? "　爆緊 " + h.blownCount + " 格" : "")));
 
-  // WhatsApp —— 只知「最後一次發送嘅結果」，唔知而家登唔登入住
+  // WhatsApp 連線 —— 每 15 分鐘 headless 開 .wa-profile 真查一次
+  const c = h.whatsappConn;
+  const ST = {logged_in:"連得上", logged_out:"登出咗！", timeout:"連唔上",
+              error:"檢查出錯", check_failed:"檢查行唔到"};
+  if (!c) {
+    p.push(pill("idle", "WhatsApp 連線", "未查過", "monitor 開機後 15 分鐘內會查"));
+  } else {
+    const cs = minsAgo(c.at);
+    const old = cs === null || cs > 40;      // 15 分鐘一次，超過 40 分鐘就係冇再查
+    p.push(pill(c.ok && !old ? "good" : "bad", "WhatsApp 連線",
+      old && c.ok ? "check 停咗" : (ST[c.state] || c.state),
+      hhmm(c.at) + "　" + ago(c.at) + (c.note ? "　" + c.note.slice(0, 22) : "")));
+  }
+
+  // 最後一次發送 —— 同「連唔連得上」係兩件事，唔好夾埋
   const w = h.lastWhatsApp;
   if (!w) {
-    p.push(pill("idle", "WhatsApp", "未發過", "冇 alert 就唔會發，唔代表有問題"));
+    p.push(pill("idle", "最後一次發送", "未發過", "冇 alert 就唔會發，唔代表有問題"));
   } else {
-    p.push(pill(w.ok ? "good" : "bad", "WhatsApp 最後一次發送",
+    p.push(pill(w.ok ? "good" : "bad", "最後一次發送",
       w.ok ? "成功" : "失敗 (rc=" + w.rc + ")",
       hhmm(w.at) + "　" + ago(w.at) + (w.head ? "　" + w.head.slice(0, 18) : "")));
   }

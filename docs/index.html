@@ -44,6 +44,7 @@
     font-weight:600;min-width:118px}
   thead th{background:var(--mutebg);font-weight:600;color:var(--dim)}
   thead th.today{color:var(--accent)}
+  td.row.today{color:var(--accent)}
   .open{background:var(--okbg);color:var(--ok);font-weight:600}
   .gone{background:var(--badbg);color:var(--bad);font-weight:700}
   .cutoff{background:var(--mutebg);color:var(--mute)}
@@ -139,6 +140,29 @@ function grid(dates, codes, cell){
   return h + "</tbody></table></div>";
 }
 
+/* 打橫轉：日期做行、街市做欄（街市下面再分四個時段）。
+   District Quota 同車線有 15 日 —— 日期做欄就變 60 欄，一定要捲到天光。
+   反轉之後得 24 欄，一版睇得晒，而且日期一行一行落嚟符合睇日曆嘅直覺。 */
+function gridT(dates, codes, cell){
+  let h = "<div class=\"scroll\"><table><thead><tr><th class=\"row\">日期</th>";
+  codes.forEach(code => h += "<th colspan=\"4\">" + esc(NAME[code]||code) + "</th>");
+  h += "</tr><tr><th class=\"row\"></th>";
+  codes.forEach(() => TS.forEach(t => h += "<th>" + t + "</th>"));
+  h += "</tr></thead><tbody>";
+  dates.forEach(dt => {
+    const cls = dt === today ? " today" : "";
+    h += "<tr><td class=\"row" + cls + "\">" + dt.slice(5) +
+         (dt === today ? "（今日）" : "") + "</td>";
+    codes.forEach(code => TS.forEach(t => {
+      const c = cell(code, dt, t);
+      h += "<td class=\"" + (c.cls||"") + "\" title=\"" + esc(c.tip||"") + "\">" +
+           c.txt + "</td>";
+    }));
+    h += "</tr>";
+  });
+  return h + "</tbody></table></div>";
+}
+
 /* ── 1. 落單時段 ─────────────────────────────────────────── */
 function renderTS(d){
   const dates = [...new Set(d.cells.map(c=>c.date))].sort();
@@ -169,7 +193,7 @@ function renderDQ(d){
   const by = {};
   d.cells.forEach(c => by[c.code + "|" + c.date + "|" + OIX2TS[c.ts]] = c);
   let h = metaLine(d.updatedAt, 60);
-  h += grid(dates, codes, (code, dt, t) => {
+  h += gridT(dates, codes, (code, dt, t) => {
     const c = by[code + "|" + dt + "|" + t];
     if(!c) return {cls:"none", txt:"–"};
     const r = c.quota ? c.used / c.quota : 0;
@@ -194,7 +218,7 @@ function renderCL(d){
   d.cells.forEach(c => by[c.code + "|" + c.date + "|" + OIX2TS[c.ts]] = c);
   let miss = 0;
   let h = metaLine(d.updatedAt, 24*60);
-  h += grid(dates, codes, (code, dt, t) => {
+  h += gridT(dates, codes, (code, dt, t) => {
     const c = by[code + "|" + dt + "|" + t];
     const ok = !!(c && c.ok);
     if(!ok) miss++;

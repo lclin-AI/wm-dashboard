@@ -48,6 +48,9 @@ def do_timeslots() -> None:
         print("  ✗ 搵唔到 monitor 嘅 snapshot.json（monitor 未跑過新版？）")
         return
     d = json.loads(src.read_text(encoding="utf-8"))
+    # 唔好出街：snapshot 入面嘅 addresses 係監察 account 嘅真實送貨地址
+    # （屋苑／座數），dashboard 用唔着，公開網站更加唔應該有。
+    d.pop("addresses", None)
     age = (datetime.now() - datetime.fromisoformat(d["updatedAt"])).total_seconds()
     d["ageSeconds"] = int(age)
     if age > 600:

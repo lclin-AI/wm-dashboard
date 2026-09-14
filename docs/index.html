@@ -245,14 +245,27 @@ function pill(cls, k, v, s){
 function renderStatus(h){
   const p = [];
 
-  // 監察程式 —— 每分鐘一輪，超過 5 分鐘冇更新就係停咗
-  const mr = minsAgo(h.updatedAt);
-  const monStale = mr === null || mr > 5;
+  // 監察程式 —— 每分鐘一輪。
+  // ⚠ 一定要用「collect 抄嗰刻」減「monitor 最後一輪」嚟量，唔可以用瀏覽器而家：
+  //   個站係靜態檔，monitor 寫完到你見到，中間有 task 間隔（5 分鐘）＋ push
+  //   ＋ Pages 部署 ＋ 頁面 reload，加埋隨時 8 分鐘。用瀏覽器時間去減就一定
+  //   誤報「停咗」——2026-09-14 就係咁報咗一次假警。
+  const base = h.collectedAt ? new Date(h.collectedAt) : new Date();
+  const lag = h.updatedAt ? (base - new Date(h.updatedAt)) / 60000 : null;
+  const monStale = lag === null || lag > 5;
   p.push(pill(monStale ? "bad" : "good", "監察程式",
     monStale ? "停咗？" : "行緊",
-    (h.updatedAt ? "最後一輪 " + hhmm(h.updatedAt) + "（" + ago(h.updatedAt) + "）" : "冇數據")
+    (h.updatedAt ? "最後一輪 " + hhmm(h.updatedAt) : "冇數據")
     + "　" + (h.marketsChecked || 0) + "/" + (h.marketsTotal || 0) + " 個街市"
     + (h.blownCount ? "　爆緊 " + h.blownCount + " 格" : "")));
+
+  // 推送鏈 —— collect + push 每 5 分鐘一次。呢個死咗，成版嘢就會靜靜雞停喺舊數。
+  const cAge = minsAgo(h.collectedAt);
+  const pushDead = cAge === null || cAge > 15;
+  p.push(pill(pushDead ? "bad" : "good", "數據推送",
+    pushDead ? (cAge === null ? "舊版數據" : "停咗？") : "正常",
+    h.collectedAt ? hhmm(h.collectedAt) + "　" + ago(h.collectedAt) + "　每 5 分鐘一次"
+                  : "status.json 冇 collectedAt"));
 
   // WhatsApp 連線 —— 每 15 分鐘 headless 開 .wa-profile 真查一次
   const c = h.whatsappConn;
@@ -261,8 +274,10 @@ function renderStatus(h){
   if (!c) {
     p.push(pill("idle", "WhatsApp 連線", "未查過", "monitor 開機後 15 分鐘內會查"));
   } else {
-    const cs = minsAgo(c.at);
-    const old = cs === null || cs > 40;      // 15 分鐘一次，超過 40 分鐘就係冇再查
+    // 同樣用 collectedAt 做基準（唔係瀏覽器而家）—— 推送鏈嘅延遲唔應該
+    // 算落「check 停咗」度。15 分鐘一次，超過 40 分鐘就係真係冇再查。
+    const cs = c.at ? (base - new Date(c.at)) / 60000 : null;
+    const old = cs === null || cs > 40;
     p.push(pill(c.ok && !old ? "good" : "bad", "WhatsApp 連線",
       old && c.ok ? "check 停咗" : (ST[c.state] || c.state),
       hhmm(c.at) + "　" + ago(c.at) + (c.note ? "　" + c.note.slice(0, 22) : "")));
@@ -285,8 +300,8 @@ function renderStatus(h){
     o === false ? "delivery quota 數字出唔到" : "District Quota 攞得到數"));
 
   // 車線檢查 —— 一日一次，超過 26 個鐘就係冇跑過
-  const cr = minsAgo(h.carlineCheckedAt);
-  const clStale = cr === null || cr > 26 * 60;
+  const cr = h.carlineCheckedAt ? (base - new Date(h.carlineCheckedAt)) / 60000 : null;
+  const clStale = cr === null || cr > 26 * 60;      // 一日一次，26 個鐘先算過期
   p.push(pill(clStale ? "bad" : "good", "車線檢查 (T+0..T+2)",
     clStale ? "未跑過 / 過期" : "正常",
     h.carlineCheckedAt ? hhmm(h.carlineCheckedAt) + "　" + ago(h.carlineCheckedAt)

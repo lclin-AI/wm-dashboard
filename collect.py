@@ -61,7 +61,13 @@ def do_timeslots() -> None:
     # 舊版 monitor 未寫呢個檔。
     h = MONITOR / "health.json"
     if h.exists():
-        _write("status.json", json.loads(h.read_text(encoding="utf-8")))
+        st = json.loads(h.read_text(encoding="utf-8"))
+        # 幾時抄嘅。冇咗呢個就分唔開「monitor 停咗」同「推送慢咗」——
+        # 個站係靜態檔，由 monitor 寫到瀏覽器見到，中間有 task 間隔（5 分鐘）
+        # ＋ push ＋ Pages 部署 ＋ 頁面自己 reload，加埋隨時 8 分鐘。
+        # 用「瀏覽器而家」減「monitor 最後一輪」去判斷 monitor 死未，一定誤報。
+        st["collectedAt"] = datetime.now().isoformat(timespec="seconds")
+        _write("status.json", st)
     else:
         print("  ⚠ 冇 health.json（monitor 未跑過新版？）")
 

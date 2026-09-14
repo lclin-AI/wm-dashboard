@@ -1,13 +1,13 @@
 {
- "updatedAt": "2026-09-15T04:24:20",
+ "updatedAt": "2026-09-15T04:29:29",
  "marketsChecked": 9,
  "marketsTotal": 9,
  "marketsFailed": [],
- "blownCount": 2,
+ "blownCount": 3,
  "oixOk": true,
  "carlineCheckedAt": "2026-09-14T15:19:07",
  "lastWhatsApp": {
-  "at": "2026-09-15T01:11:00",
+  "at": "2026-09-15T04:27:14",
   "ok": true,
   "rc": 0,
   "head": "🚨 街市即日餸 爆 quota"
@@ -19,5 +19,5 @@
   "tookS": 14.3,
   "at": "2026-09-15T04:24:51"
  },
- "collectedAt": "2026-09-15T04:25:04"
+ "collectedAt": "2026-09-15T04:30:04"
 }

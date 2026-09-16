@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-16T14:19:24",
+ "updatedAt": "2026-09-16T14:24:10",
  "marketsChecked": 9,
  "marketsTotal": 9,
  "marketsFailed": [],
@@ -14,10 +14,10 @@
  },
  "whatsappConn": {
   "ok": false,
-  "state": "error",
-  "note": "TargetClosedError: BrowserType.launch_persistent_context: Target page, context or browser has been closed\nBrowser logs:\n\n<launching> C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe --disable-fie",
-  "tookS": 1.4,
-  "at": "2026-09-16T14:09:18"
+  "state": "logged_out",
+  "note": "見到 QR，要重新連結裝置",
+  "tookS": 15.6,
+  "at": "2026-09-16T14:24:36"
  },
- "collectedAt": "2026-09-16T14:20:02"
+ "collectedAt": "2026-09-16T14:25:02"
 }

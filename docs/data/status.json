@@ -1,23 +1,23 @@
 {
- "updatedAt": "2026-09-16T00:13:00",
+ "updatedAt": "2026-09-16T09:46:57",
  "marketsChecked": 9,
  "marketsTotal": 9,
  "marketsFailed": [],
  "blownCount": 0,
- "oixOk": true,
- "carlineCheckedAt": "2026-09-15T09:23:56",
+ "oixOk": false,
+ "carlineCheckedAt": null,
  "lastWhatsApp": {
-  "at": "2026-09-15T12:53:54",
+  "at": "2026-09-16T09:54:32",
   "ok": true,
   "rc": 0,
-  "head": "🚨 街市即日餸 爆 quota"
+  "head": "⚠️ OIX 登入唔到 — 爆 quota alert 出唔到 delivery 用量數字。"
  },
  "whatsappConn": {
   "ok": true,
   "state": "logged_in",
   "note": "登入緊，對話清單載到",
-  "tookS": 37.2,
-  "at": "2026-09-16T00:01:39"
+  "tookS": 8.3,
+  "at": "2026-09-16T09:54:40"
  },
- "collectedAt": "2026-09-16T09:50:02"
+ "collectedAt": "2026-09-16T09:55:01"
 }

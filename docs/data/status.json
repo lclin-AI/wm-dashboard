@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-16T14:04:31",
+ "updatedAt": "2026-09-16T14:09:08",
  "marketsChecked": 9,
  "marketsTotal": 9,
  "marketsFailed": [],
@@ -13,11 +13,11 @@
   "head": "🚨 街市即日餸 爆 quota"
  },
  "whatsappConn": {
-  "ok": true,
-  "state": "logged_in",
-  "note": "登入緊，對話清單載到",
-  "tookS": 8.0,
-  "at": "2026-09-16T13:54:00"
+  "ok": false,
+  "state": "error",
+  "note": "TargetClosedError: BrowserType.launch_persistent_context: Target page, context or browser has been closed\nBrowser logs:\n\n<launching> C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe --disable-fie",
+  "tookS": 1.4,
+  "at": "2026-09-16T14:09:18"
  },
- "collectedAt": "2026-09-16T14:05:02"
+ "collectedAt": "2026-09-16T14:10:07"
 }

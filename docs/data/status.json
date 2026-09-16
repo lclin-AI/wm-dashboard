@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-16T14:34:24",
+ "updatedAt": "2026-09-16T14:39:29",
  "marketsChecked": 9,
  "marketsTotal": 9,
  "marketsFailed": [],
@@ -16,8 +16,8 @@
   "ok": false,
   "state": "logged_out",
   "note": "見到 QR，要重新連結裝置",
-  "tookS": 15.6,
-  "at": "2026-09-16T14:24:36"
+  "tookS": 7.5,
+  "at": "2026-09-16T14:39:54"
  },
- "collectedAt": "2026-09-16T14:35:02"
+ "collectedAt": "2026-09-16T14:40:02"
 }

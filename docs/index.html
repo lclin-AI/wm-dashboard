@@ -301,11 +301,25 @@ function renderStatus(h){
   // 最後一次發送 —— 同「連唔連得上」係兩件事，唔好夾埋
   const w = h.lastWhatsApp;
   if (!w) {
-    p.push(pill("idle", "最後一次發送", "未發過", "冇 alert 就唔會發，唔代表有問題"));
+    p.push(pill("idle", "WhatsApp 最後發送", "未發過",
+                "冇 alert 就唔會發，唔代表有問題"));
   } else {
-    p.push(pill(w.ok ? "good" : "bad", "最後一次發送",
+    p.push(pill(w.ok ? "good" : "bad", "WhatsApp 最後發送",
       w.ok ? "成功" : "失敗 (rc=" + w.rc + ")",
       hhmm(w.at) + "　" + ago(w.at) + (w.head ? "　" + w.head.slice(0, 18) : "")));
+  }
+
+  // Slack —— 第二通道。WhatsApp 登出嗰種故障冇得靠 WhatsApp 自己通知，
+  // 所以呢格要同 WhatsApp 分開睇：一邊紅一邊綠先知邊條通道死咗。
+  const sl = h.lastSlack;
+  if (!sl) {
+    p.push(pill("idle", "Slack 最後發送", "未發過",
+                "#express-wm-quota-alert　冇 alert 就唔會發"));
+  } else {
+    p.push(pill(sl.ok ? "good" : "bad", "Slack 最後發送",
+      sl.ok ? "成功" : "失敗",
+      hhmm(sl.at) + "　" + ago(sl.at) +
+      (sl.note ? "　" + sl.note.slice(0, 30) : "　#express-wm-quota-alert")));
   }
 
   // OIX

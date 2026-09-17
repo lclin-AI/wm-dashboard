@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-17T14:50:07",
+ "updatedAt": "2026-09-17T14:55:09",
  "cells": [
   {
    "code": "KOWC00001",
@@ -478,7 +478,7 @@
    "ts": "EV",
    "slot": "18:00-20:30",
    "inOix": true,
-   "used": 31,
+   "used": 32,
    "quota": 140
   },
   {

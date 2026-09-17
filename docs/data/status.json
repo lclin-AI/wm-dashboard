@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-18T05:19:04",
+ "updatedAt": "2026-09-18T05:24:14",
  "marketsChecked": 9,
  "marketsTotal": 9,
  "marketsFailed": [],
@@ -21,8 +21,8 @@
   "ok": true,
   "state": "logged_in",
   "note": "登入緊，對話清單載到",
-  "tookS": 37.9,
-  "at": "2026-09-18T05:06:38"
+  "tookS": 12.2,
+  "at": "2026-09-18T05:21:59"
  },
- "collectedAt": "2026-09-18T05:20:02"
+ "collectedAt": "2026-09-18T05:25:02"
 }

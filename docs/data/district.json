@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-19T09:05:07",
+ "updatedAt": "2026-09-19T09:10:06",
  "cells": [
   {
    "code": "KOWC00001",
@@ -18,7 +18,7 @@
    "ts": "PM",
    "slot": "13:00-15:30",
    "inOix": true,
-   "used": 60,
+   "used": 61,
    "quota": 98
   },
   {
@@ -28,7 +28,7 @@
    "ts": "PM2",
    "slot": "16:00-18:30",
    "inOix": true,
-   "used": 53,
+   "used": 55,
    "quota": 84
   },
   {
@@ -378,7 +378,7 @@
    "ts": "PM",
    "slot": "13:00-15:30",
    "inOix": true,
-   "used": 55,
+   "used": 57,
    "quota": 140
   },
   {
@@ -388,7 +388,7 @@
    "ts": "PM2",
    "slot": "16:00-18:30",
    "inOix": true,
-   "used": 69,
+   "used": 72,
    "quota": 132
   },
   {
@@ -468,7 +468,7 @@
    "ts": "PM2",
    "slot": "16:00-18:30",
    "inOix": true,
-   "used": 7,
+   "used": 9,
    "quota": 130
   },
   {
@@ -858,7 +858,7 @@
    "ts": "PM",
    "slot": "13:00-15:30",
    "inOix": true,
-   "used": 64,
+   "used": 65,
    "quota": 168
   },
   {
@@ -868,7 +868,7 @@
    "ts": "PM2",
    "slot": "16:00-18:30",
    "inOix": true,
-   "used": 66,
+   "used": 68,
    "quota": 144
   },
   {
@@ -948,7 +948,7 @@
    "ts": "PM2",
    "slot": "16:00-18:30",
    "inOix": true,
-   "used": 7,
+   "used": 9,
    "quota": 156
   },
   {
@@ -1218,7 +1218,7 @@
    "ts": "PM",
    "slot": "13:00-15:30",
    "inOix": true,
-   "used": 39,
+   "used": 41,
    "quota": 98
   },
   {
@@ -3258,7 +3258,7 @@
    "ts": "PM",
    "slot": "13:00-15:30",
    "inOix": true,
-   "used": 53,
+   "used": 54,
    "quota": 112
   },
   {
@@ -3348,7 +3348,7 @@
    "ts": "PM2",
    "slot": "16:00-18:30",
    "inOix": true,
-   "used": 5,
+   "used": 6,
    "quota": 108
   },
   {

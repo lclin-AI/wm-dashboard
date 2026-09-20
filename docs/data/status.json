@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-21T06:08:52",
+ "updatedAt": "2026-09-21T06:14:21",
  "marketsChecked": 9,
  "marketsTotal": 9,
  "marketsFailed": [],
@@ -18,11 +18,11 @@
   "note": ""
  },
  "whatsappConn": {
-  "ok": true,
-  "state": "logged_in",
-  "note": "登入緊，對話清單載到",
-  "tookS": 18.1,
-  "at": "2026-09-21T05:54:23"
+  "ok": false,
+  "state": "timeout",
+  "note": "等咗 60 秒都見唔到對話清單",
+  "tookS": 65.6,
+  "at": "2026-09-21T06:11:14"
  },
- "collectedAt": "2026-09-21T06:10:04"
+ "collectedAt": "2026-09-21T06:15:04"
 }

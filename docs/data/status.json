@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-09-21T00:28:57",
+ "updatedAt": "2026-09-21T00:34:11",
  "marketsChecked": 9,
  "marketsTotal": 9,
  "marketsFailed": [],
- "blownCount": 5,
+ "blownCount": 6,
  "oixOk": true,
  "carlineCheckedAt": "2026-09-20T15:17:58",
  "lastWhatsApp": {
@@ -21,8 +21,8 @@
   "ok": true,
   "state": "logged_in",
   "note": "登入緊，對話清單載到",
-  "tookS": 20.5,
-  "at": "2026-09-20T23:53:18"
+  "tookS": 16.6,
+  "at": "2026-09-21T00:32:03"
  },
- "collectedAt": "2026-09-21T00:30:04"
+ "collectedAt": "2026-09-21T00:35:05"
 }

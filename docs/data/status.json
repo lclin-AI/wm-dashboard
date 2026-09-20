@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-20T09:23:56",
+ "updatedAt": "2026-09-20T09:28:53",
  "marketsChecked": 9,
  "marketsTotal": 9,
  "marketsFailed": [],
@@ -24,5 +24,5 @@
   "tookS": 21.5,
   "at": "2026-09-20T09:19:22"
  },
- "collectedAt": "2026-09-20T09:25:04"
+ "collectedAt": "2026-09-20T09:30:04"
 }

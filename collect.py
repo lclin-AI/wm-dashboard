@@ -28,6 +28,8 @@ from pathlib import Path
 sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 
 HERE = Path(__file__).resolve().parent
+sys.path.insert(0, str(HERE))
+from runlock import RunLock
 DATA = HERE / "docs" / "data"
 MONITOR = Path(r"C:\Users\lclin\Downloads\wm-quota-monitor")
 sys.path.insert(0, str(MONITOR))
@@ -128,13 +130,17 @@ def main() -> int:
     a = ap.parse_args()
     if not any((a.all, a.timeslots, a.district, a.carline)):
         ap.error("要揀至少一樣：--all / --timeslots / --district / --carline")
-    print(f"collect {datetime.now():%Y-%m-%d %H:%M:%S}")
-    if a.all or a.timeslots:
-        do_timeslots()
-    if a.all or a.district:
-        do_district()
-    if a.all or a.carline:
-        do_carline()
+    # ⚠ Fast（每 5 分鐘）同 Carline（每日 06:30）會撞正 06:30 —— 兩個一齊
+    # 改 docs/data/*.json 又一齊 git commit，邊個搶輸就 exit 1。
+    # 2026-09-18~21 車線連續四日冇更新就係咁，而且靜靜雞失敗。
+    with RunLock():
+        print(f"collect {datetime.now():%Y-%m-%d %H:%M:%S}")
+        if a.all or a.timeslots:
+            do_timeslots()
+        if a.all or a.district:
+            do_district()
+        if a.all or a.carline:
+            do_carline()
     return 0
 
 

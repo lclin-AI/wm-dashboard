@@ -13,6 +13,8 @@ from pathlib import Path
 
 sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 HERE = Path(__file__).resolve().parent
+sys.path.insert(0, str(HERE))
+from runlock import RunLock
 
 
 def git(*a, check=True):
@@ -27,14 +29,16 @@ def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--message", default="")
     a = ap.parse_args()
-    if not git("status", "--porcelain"):
-        print("冇嘢變，唔使 push")
-        return 0
-    git("add", "-A")
-    msg = a.message or f"data: {datetime.now():%Y-%m-%d %H:%M}"
-    git("commit", "-m", msg)
-    git("push")
-    print(f"已 push：{msg}")
+    # 同 collect.py 共用一個鎖 —— 兩個 task 一齊 git commit 會撞 index.lock。
+    with RunLock():
+        if not git("status", "--porcelain"):
+            print("冇嘢變，唔使 push")
+            return 0
+        git("add", "-A")
+        msg = a.message or f"data: {datetime.now():%Y-%m-%d %H:%M}"
+        git("commit", "-m", msg)
+        git("push")
+        print(f"已 push：{msg}")
     return 0
 
 

@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-21T10:44:09",
+ "updatedAt": "2026-09-21T10:49:28",
  "marketsChecked": 9,
  "marketsTotal": 9,
  "marketsFailed": [],
@@ -14,7 +14,10 @@
  },
  "lastSlack": null,
  "whatsappConn": {
-  "at": "2026-09-21T10:32:52"
+  "ok": false,
+  "state": "logged_out",
+  "note": "要重新掃 QR（session 冇咗）— 行 node wa_login.js",
+  "at": "2026-09-21T10:48:28"
  },
- "collectedAt": "2026-09-21T10:45:03"
+ "collectedAt": "2026-09-21T10:50:03"
 }

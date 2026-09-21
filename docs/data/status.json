@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-21T09:58:40",
+ "updatedAt": "2026-09-21T10:04:17",
  "marketsChecked": 9,
  "marketsTotal": 9,
  "marketsFailed": [],
@@ -18,11 +18,11 @@
   "note": ""
  },
  "whatsappConn": {
-  "ok": true,
-  "state": "logged_in",
-  "note": "登入緊，對話清單載到",
-  "tookS": 11.9,
-  "at": "2026-09-21T09:48:23"
+  "ok": false,
+  "state": "error",
+  "note": "TargetClosedError: BrowserType.launch_persistent_context: Target page, context or browser has been closed\nBrowser logs:\n\n<launching> C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe --disable-fie",
+  "tookS": 3.9,
+  "at": "2026-09-21T10:03:17"
  },
- "collectedAt": "2026-09-21T10:00:04"
+ "collectedAt": "2026-09-21T10:05:05"
 }

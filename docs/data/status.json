@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-09-21T10:49:28",
+ "updatedAt": "2026-09-21T10:54:27",
  "marketsChecked": 9,
  "marketsTotal": 9,
  "marketsFailed": [],
  "blownCount": 2,
  "oixOk": true,
- "carlineCheckedAt": "2026-09-21T10:32:36",
+ "carlineCheckedAt": "2026-09-21T10:53:02",
  "lastWhatsApp": {
   "at": "2026-09-21T09:55:45",
   "ok": false,
@@ -14,10 +14,11 @@
  },
  "lastSlack": null,
  "whatsappConn": {
-  "ok": false,
-  "state": "logged_out",
-  "note": "要重新掃 QR（session 冇咗）— 行 node wa_login.js",
-  "at": "2026-09-21T10:48:28"
+  "ok": true,
+  "state": "logged_in",
+  "me": "85252174668:51@s.whatsapp.net",
+  "note": "連得上",
+  "at": "2026-09-21T10:53:27"
  },
- "collectedAt": "2026-09-21T10:50:03"
+ "collectedAt": "2026-09-21T10:55:04"
 }

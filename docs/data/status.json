@@ -1,21 +1,30 @@
 {
- "updatedAt": "2026-09-23T06:04:03",
- "marketsChecked": 8,
+ "updatedAt": "2026-09-23T06:09:00",
+ "marketsChecked": 0,
  "marketsTotal": 8,
- "marketsFailed": [],
+ "marketsFailed": [
+  "士美菲路街市（ConnectionError）",
+  "屯門·新墟街市（ConnectionError）",
+  "九龍城街市（ConnectionError）",
+  "大埔墟街市（ConnectionError）",
+  "荃灣·楊屋道街市（ConnectionError）",
+  "灣仔街市（ConnectionError）",
+  "保安道街市（ConnectionError）",
+  "將軍澳·尚德街市（ConnectionError）"
+ ],
  "blownCount": 0,
- "oixOk": true,
+ "oixOk": false,
  "carlineCheckedAt": "2026-09-22T11:38:35",
  "lastWhatsApp": {
-  "at": "2026-09-23T01:25:42",
-  "ok": true,
-  "rc": 0,
-  "head": "🚨 街市即日餸 爆 quota"
+  "at": "2026-09-23T06:08:08",
+  "ok": false,
+  "rc": 1,
+  "head": "🔌 街市即日餸 App 叫唔到"
  },
  "lastSlack": {
-  "at": "2026-09-23T01:25:29",
-  "ok": true,
-  "note": ""
+  "at": "2026-09-23T06:08:00",
+  "ok": false,
+  "note": "URLError: <urlopen error [Errno 11001] getaddrinfo failed>"
  },
  "whatsappConn": {
   "ok": true,
@@ -24,5 +33,5 @@
   "note": "連得上",
   "at": "2026-09-23T05:55:44"
  },
- "collectedAt": "2026-09-23T06:05:04"
+ "collectedAt": "2026-09-23T06:10:02"
 }

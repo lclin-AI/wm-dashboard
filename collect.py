@@ -118,7 +118,7 @@ def do_carline() -> None:
                    "ok": bool(r["rows"] and r["routes"] and r["quota"]),
                    "rows": r["rows"], "routes": r["routes"], "quota": r["quota"]}
                   for r in recs],
-        "districtLatest": {c: lat.get(c) for c in C.MARKET_NAME}})
+        "districtLatest": {c: C.latest_for_market(lat, c) for c in C.MARKET_NAME}})
 
 
 def main() -> int:

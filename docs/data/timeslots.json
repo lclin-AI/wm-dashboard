@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-25T09:53:46",
+ "updatedAt": "2026-09-25T09:59:30",
  "cells": [
   {
    "code": "SMI00001",
@@ -232,7 +232,7 @@
    "date": "2026-09-25",
    "plusDay": 0,
    "slot": "13:00-15:30",
-   "status": "none",
+   "status": "cutoff",
    "cutoff": "2026-09-25T10:00:00"
   },
   {
@@ -340,7 +340,7 @@
    "date": "2026-09-25",
    "plusDay": 0,
    "slot": "13:00-15:30",
-   "status": "gone",
+   "status": "cutoff",
    "cutoff": "2026-09-25T10:00:00"
   },
   {
@@ -448,7 +448,7 @@
    "date": "2026-09-25",
    "plusDay": 0,
    "slot": "13:00-15:30",
-   "status": "gone",
+   "status": "cutoff",
    "cutoff": "2026-09-25T10:00:00"
   },
   {
@@ -772,7 +772,7 @@
    "date": "2026-09-25",
    "plusDay": 0,
    "slot": "13:00-15:30",
-   "status": "gone",
+   "status": "cutoff",
    "cutoff": "2026-09-25T10:00:00"
   },
   {
@@ -866,5 +866,5 @@
    "cutoff": "2026-09-27T16:00:00"
   }
  ],
- "ageSeconds": 79
+ "ageSeconds": 34
 }

@@ -1,10 +1,13 @@
 {
- "updatedAt": "2026-09-29T18:59:26",
- "marketsChecked": 8,
+ "updatedAt": "2026-09-29T19:01:54",
+ "marketsChecked": 6,
  "marketsTotal": 8,
- "marketsFailed": [],
+ "marketsFailed": [
+  "灣仔街市（ReadTimeout）",
+  "將軍澳·尚德街市（ReadTimeout）"
+ ],
  "blownCount": 0,
- "oixOk": true,
+ "oixOk": false,
  "carlineCheckedAt": "2026-09-29T11:31:38",
  "lastWhatsApp": {
   "at": "2026-09-29T12:51:58",
@@ -24,5 +27,5 @@
   "note": "連得上",
   "at": "2026-09-29T18:48:31"
  },
- "collectedAt": "2026-09-29T19:00:03"
+ "collectedAt": "2026-09-29T19:05:03"
 }

@@ -1,6 +1,114 @@
 {
- "updatedAt": "2026-09-29T19:07:14",
+ "updatedAt": "2026-09-29T19:14:41",
  "cells": [
+  {
+   "code": "SMI00001",
+   "name": "士美菲路街市",
+   "date": "2026-09-29",
+   "plusDay": 0,
+   "slot": "10:00-12:30",
+   "status": "cutoff",
+   "cutoff": "2026-09-29T06:00:00"
+  },
+  {
+   "code": "SMI00001",
+   "name": "士美菲路街市",
+   "date": "2026-09-29",
+   "plusDay": 0,
+   "slot": "13:00-15:30",
+   "status": "cutoff",
+   "cutoff": "2026-09-29T10:00:00"
+  },
+  {
+   "code": "SMI00001",
+   "name": "士美菲路街市",
+   "date": "2026-09-29",
+   "plusDay": 0,
+   "slot": "16:00-18:30",
+   "status": "cutoff",
+   "cutoff": "2026-09-29T13:00:00"
+  },
+  {
+   "code": "SMI00001",
+   "name": "士美菲路街市",
+   "date": "2026-09-29",
+   "plusDay": 0,
+   "slot": "18:00-20:30",
+   "status": "cutoff",
+   "cutoff": "2026-09-29T16:00:00"
+  },
+  {
+   "code": "SMI00001",
+   "name": "士美菲路街市",
+   "date": "2026-09-30",
+   "plusDay": 1,
+   "slot": "10:00-12:30",
+   "status": "open",
+   "cutoff": "2026-09-30T06:00:00"
+  },
+  {
+   "code": "SMI00001",
+   "name": "士美菲路街市",
+   "date": "2026-09-30",
+   "plusDay": 1,
+   "slot": "13:00-15:30",
+   "status": "open",
+   "cutoff": "2026-09-30T10:00:00"
+  },
+  {
+   "code": "SMI00001",
+   "name": "士美菲路街市",
+   "date": "2026-09-30",
+   "plusDay": 1,
+   "slot": "16:00-18:30",
+   "status": "open",
+   "cutoff": "2026-09-30T13:00:00"
+  },
+  {
+   "code": "SMI00001",
+   "name": "士美菲路街市",
+   "date": "2026-09-30",
+   "plusDay": 1,
+   "slot": "18:00-20:30",
+   "status": "open",
+   "cutoff": "2026-09-30T16:00:00"
+  },
+  {
+   "code": "SMI00001",
+   "name": "士美菲路街市",
+   "date": "2026-10-01",
+   "plusDay": 2,
+   "slot": "10:00-12:30",
+   "status": "open",
+   "cutoff": "2026-10-01T06:00:00"
+  },
+  {
+   "code": "SMI00001",
+   "name": "士美菲路街市",
+   "date": "2026-10-01",
+   "plusDay": 2,
+   "slot": "13:00-15:30",
+   "status": "open",
+   "cutoff": "2026-10-01T10:00:00"
+  },
+  {
+   "code": "SMI00001",
+   "name": "士美菲路街市",
+   "date": "2026-10-01",
+   "plusDay": 2,
+   "slot": "16:00-18:30",
+   "status": "open",
+   "cutoff": "2026-10-01T13:00:00"
+  },
+  {
+   "code": "SMI00001",
+   "name": "士美菲路街市",
+   "date": "2026-10-01",
+   "plusDay": 2,
+   "slot": "18:00-20:30",
+   "status": "open",
+   "cutoff": "2026-10-01T16:00:00"
+  },
   {
    "code": "TM00001",
    "name": "屯門·新墟街市",
@@ -103,6 +211,114 @@
   {
    "code": "TM00001",
    "name": "屯門·新墟街市",
+   "date": "2026-10-01",
+   "plusDay": 2,
+   "slot": "18:00-20:30",
+   "status": "open",
+   "cutoff": "2026-10-01T16:00:00"
+  },
+  {
+   "code": "KOWC00001",
+   "name": "九龍城街市",
+   "date": "2026-09-29",
+   "plusDay": 0,
+   "slot": "10:00-12:30",
+   "status": "cutoff",
+   "cutoff": "2026-09-29T06:00:00"
+  },
+  {
+   "code": "KOWC00001",
+   "name": "九龍城街市",
+   "date": "2026-09-29",
+   "plusDay": 0,
+   "slot": "13:00-15:30",
+   "status": "cutoff",
+   "cutoff": "2026-09-29T10:00:00"
+  },
+  {
+   "code": "KOWC00001",
+   "name": "九龍城街市",
+   "date": "2026-09-29",
+   "plusDay": 0,
+   "slot": "16:00-18:30",
+   "status": "cutoff",
+   "cutoff": "2026-09-29T13:00:00"
+  },
+  {
+   "code": "KOWC00001",
+   "name": "九龍城街市",
+   "date": "2026-09-29",
+   "plusDay": 0,
+   "slot": "18:00-20:30",
+   "status": "cutoff",
+   "cutoff": "2026-09-29T16:00:00"
+  },
+  {
+   "code": "KOWC00001",
+   "name": "九龍城街市",
+   "date": "2026-09-30",
+   "plusDay": 1,
+   "slot": "10:00-12:30",
+   "status": "open",
+   "cutoff": "2026-09-30T06:00:00"
+  },
+  {
+   "code": "KOWC00001",
+   "name": "九龍城街市",
+   "date": "2026-09-30",
+   "plusDay": 1,
+   "slot": "13:00-15:30",
+   "status": "open",
+   "cutoff": "2026-09-30T10:00:00"
+  },
+  {
+   "code": "KOWC00001",
+   "name": "九龍城街市",
+   "date": "2026-09-30",
+   "plusDay": 1,
+   "slot": "16:00-18:30",
+   "status": "open",
+   "cutoff": "2026-09-30T13:00:00"
+  },
+  {
+   "code": "KOWC00001",
+   "name": "九龍城街市",
+   "date": "2026-09-30",
+   "plusDay": 1,
+   "slot": "18:00-20:30",
+   "status": "open",
+   "cutoff": "2026-09-30T16:00:00"
+  },
+  {
+   "code": "KOWC00001",
+   "name": "九龍城街市",
+   "date": "2026-10-01",
+   "plusDay": 2,
+   "slot": "10:00-12:30",
+   "status": "open",
+   "cutoff": "2026-10-01T06:00:00"
+  },
+  {
+   "code": "KOWC00001",
+   "name": "九龍城街市",
+   "date": "2026-10-01",
+   "plusDay": 2,
+   "slot": "13:00-15:30",
+   "status": "open",
+   "cutoff": "2026-10-01T10:00:00"
+  },
+  {
+   "code": "KOWC00001",
+   "name": "九龍城街市",
+   "date": "2026-10-01",
+   "plusDay": 2,
+   "slot": "16:00-18:30",
+   "status": "open",
+   "cutoff": "2026-10-01T13:00:00"
+  },
+  {
+   "code": "KOWC00001",
+   "name": "九龍城街市",
    "date": "2026-10-01",
    "plusDay": 2,
    "slot": "18:00-20:30",
@@ -650,5 +866,5 @@
    "cutoff": "2026-10-01T16:00:00"
   }
  ],
- "ageSeconds": 169
+ "ageSeconds": 22
 }

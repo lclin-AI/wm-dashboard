@@ -1,22 +1,19 @@
 {
- "updatedAt": "2026-09-29T19:07:14",
- "marketsChecked": 6,
+ "updatedAt": "2026-09-29T19:14:41",
+ "marketsChecked": 8,
  "marketsTotal": 8,
- "marketsFailed": [
-  "士美菲路街市（ReadTimeout）",
-  "九龍城街市（ReadTimeout）"
- ],
+ "marketsFailed": [],
  "blownCount": 0,
  "oixOk": true,
  "carlineCheckedAt": "2026-09-29T11:31:38",
  "lastWhatsApp": {
-  "at": "2026-09-29T12:51:58",
+  "at": "2026-09-29T19:09:07",
   "ok": true,
   "rc": 0,
-  "head": "🚨 街市即日餸 爆 quota"
+  "head": "🔌 街市即日餸 App 叫唔到"
  },
  "lastSlack": {
-  "at": "2026-09-29T12:51:51",
+  "at": "2026-09-29T19:08:28",
   "ok": true,
   "note": ""
  },
@@ -27,5 +24,5 @@
   "note": "連得上",
   "at": "2026-09-29T19:06:14"
  },
- "collectedAt": "2026-09-29T19:10:03"
+ "collectedAt": "2026-09-29T19:15:03"
 }

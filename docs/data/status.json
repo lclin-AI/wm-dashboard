@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-30T15:09:39",
+ "updatedAt": "2026-09-30T15:13:36",
  "marketsChecked": 8,
  "marketsTotal": 8,
  "marketsFailed": [],
@@ -18,11 +18,10 @@
   "note": ""
  },
  "whatsappConn": {
-  "ok": true,
-  "state": "logged_in",
-  "me": "85252174668:51@s.whatsapp.net",
-  "note": "連得上",
-  "at": "2026-09-30T14:57:36"
+  "ok": false,
+  "state": "check_failed",
+  "note": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+  "at": "2026-09-30T15:12:36"
  },
- "collectedAt": "2026-09-30T15:10:03"
+ "collectedAt": "2026-09-30T15:15:03"
 }

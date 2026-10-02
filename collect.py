@@ -5,6 +5,7 @@ collect.py — 砌 dashboard 要嘅三份 JSON，寫落 docs/data/。
     python collect.py --all
     python collect.py --timeslots --district      # 平，可以密啲跑
     python collect.py --carline                   # 重（~90 requests），一日一兩次
+    python collect.py --zonegap                   # CMS 地址 × OIX 車線，逐日搵冇車線嘅地址
 
 三份數據：
   timeslots.json  街市即日餸實際落單時段（open / cutoff / gone / none）

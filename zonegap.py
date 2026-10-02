@@ -5,7 +5,7 @@ zonegap.py — 搵出「CMS 話送得到、但 OIX 冇車線」嘅地址，逐�
   OIX  auto_delivery_route_delivery_zone_setting      -> 每日每個 zone 喺邊個時段有 route
 
 規則（lclin 2026-10-02）：
-  · 只計 active estate，isolatedArea=true（偏遠）一律剔走。
+  · 只計 active estate，isolatedArea=true（偏遠）一律剔走；O2O 店自取點都剔走。
   · mapping 跟 estate 行（ZoneStoreGroupMapping 開關 = N，即係 legacy estate mapping），
     唔係跟 zone —— 同一個 zone 可以有啲 estate map 咗、有啲冇。
   · 一個街市嘅車線唔止喺自己個 district：屯門嘅元朗區仲行緊 NT-YTEX（舊元朗 WMYL*），
@@ -57,6 +57,9 @@ def cms_estates() -> list[dict]:
         for (code, name), rows in ex.map(f, ds):
             for e in rows:
                 if not e.get("active") or e.get("isolatedArea"):
+                    continue
+                # O2O 店自取點（冇專屬 estateType，淨係認得個名；zone 亦唔係 *EX）唔係送貨上門地址
+                if "O2O店" in (e.get("nameZh") or ""):
                     continue
                 wms = [s for s in e.get("availableStores") or [] if s in ACTIVE]
                 if wms:

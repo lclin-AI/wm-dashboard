@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-02T14:54:22",
+ "updatedAt": "2026-10-02T14:57:30",
  "dates": [
   "2026-10-02",
   "2026-10-03",
@@ -17,7 +17,7 @@
   "2026-10-15",
   "2026-10-16"
  ],
- "estatesChecked": 32676,
+ "estatesChecked": 32633,
  "byDate": {
   "2026-10-02": {
    "SMI00001": {
@@ -73,54 +73,6 @@
       "none": true
      },
      {
-      "zone": "HK038-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "鴨脷洲 - 海怡西商場O2O店"
-      ],
-      "districts": [
-       "鴨脷洲"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK040-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "堅尼地城 - 士美菲路O2O店"
-      ],
-      "districts": [
-       "堅尼地城"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK100-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "中環 - 堅道O2O店"
-      ],
-      "districts": [
-       "中環"
-      ],
-      "none": true
-     },
-     {
       "zone": "HK1028-1",
       "miss": [
        "AM",
@@ -135,25 +87,9 @@
        "西環"
       ],
       "none": true
-     },
-     {
-      "zone": "HK135-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "香港仔 - 香港仔中心O2O店"
-      ],
-      "districts": [
-       "香港仔"
-      ],
-      "none": true
      }
     ],
-    "addresses": 9
+    "addresses": 5
    },
    "KOWC00001": {
     "window": true,
@@ -290,54 +226,6 @@
       "none": true
      },
      {
-      "zone": "KN1080-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "黃大仙新光中心O2O店"
-      ],
-      "districts": [
-       "黃大仙"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN1090-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "土瓜灣 - 馬頭角道O2O店"
-      ],
-      "districts": [
-       "土瓜灣"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN1103-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "九龍灣 - 淘大商場O2O店"
-      ],
-      "districts": [
-       "九龍灣"
-      ],
-      "none": true
-     },
-     {
       "zone": "KN465-2EX",
       "miss": [
        "AM",
@@ -402,7 +290,7 @@
       "none": true
      }
     ],
-    "addresses": 33
+    "addresses": 30
    },
    "TW00001": {
     "window": true,
@@ -534,22 +422,6 @@
       "none": true
      },
      {
-      "zone": "KN191-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "葵涌 - 石籬商場O2O店"
-      ],
-      "districts": [
-       "葵涌"
-      ],
-      "none": true
-     },
-     {
       "zone": "NT056EX",
       "miss": [
        "AM",
@@ -564,89 +436,9 @@
        "青衣"
       ],
       "none": true
-     },
-     {
-      "zone": "NT074-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "葵涌 - 葵涌廣場O2O店"
-      ],
-      "districts": [
-       "葵涌"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT083-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "荃灣西 - 愉景新城O2O店"
-      ],
-      "districts": [
-       "荃灣西"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT1140-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "悅來坊O2O店"
-      ],
-      "districts": [
-       "荃灣東"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT1196-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "深井 - 海韻花園O2O店"
-      ],
-      "districts": [
-       "深井"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT879-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "青衣 - 長亨商場O2O店"
-      ],
-      "districts": [
-       "青衣"
-      ],
-      "none": true
      }
     ],
-    "addresses": 58
+    "addresses": 52
    },
    "WAN00001": {
     "window": true,
@@ -670,22 +462,6 @@
       "none": true
      },
      {
-      "zone": "HK025-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "杏花邨 - 杏花新城O2O店"
-      ],
-      "districts": [
-       "杏花邨"
-      ],
-      "none": true
-     },
-     {
       "zone": "HK045EX",
       "miss": [
        "AM",
@@ -700,121 +476,9 @@
        "灣仔"
       ],
       "none": true
-     },
-     {
-      "zone": "HK056-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "北角 - 健威O2O店"
-      ],
-      "districts": [
-       "北角"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK057-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "小西灣 - 富景花園O2O店"
-      ],
-      "districts": [
-       "小西灣"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK101-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "灣仔 - 英皇集團中心O2O店"
-      ],
-      "districts": [
-       "灣仔"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK1065-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "銅鑼灣東角商場O2O店"
-      ],
-      "districts": [
-       "銅鑼灣"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK1101-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "灣仔 - 春園街O2O店"
-      ],
-      "districts": [
-       "灣仔"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK134-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "西灣河 - 筲箕灣道O2O店"
-      ],
-      "districts": [
-       "西灣河"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK137-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "太古 - 康怡廣場O2O店"
-      ],
-      "districts": [
-       "太古"
-      ],
-      "none": true
      }
     ],
-    "addresses": 12
+    "addresses": 4
    },
    "POR00001": {
     "window": true,
@@ -896,134 +560,6 @@
       "none": true
      },
      {
-      "zone": "KN039-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "美孚 - 萬事達廣場O2O店"
-      ],
-      "districts": [
-       "美孚"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN051-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "紅磡 - 黃埔新邨O2O店"
-      ],
-      "districts": [
-       "紅磡"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN1092-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "荔枝角泓景匯O2O店"
-      ],
-      "districts": [
-       "荔枝角"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN1292-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "旺角 - 亞皆老街O2O店"
-      ],
-      "districts": [
-       "旺角"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN139-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "大角咀 - 港灣豪庭廣場O2O店"
-      ],
-      "districts": [
-       "大角咀"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN140-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "長沙灣 - 元洲街O2O店"
-      ],
-      "districts": [
-       "長沙灣"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN160-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "大角咀 - 奧海城O2O店"
-      ],
-      "districts": [
-       "大角咀"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN198-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "紅磡 - 煥然懿居O2O店"
-      ],
-      "districts": [
-       "紅磡"
-      ],
-      "none": true
-     },
-     {
       "zone": "KN580-4EX",
       "miss": [
        "AM",
@@ -1072,7 +608,7 @@
       "none": true
      }
     ],
-    "addresses": 27
+    "addresses": 19
    },
    "MCP00001": {
     "window": true,
@@ -1094,38 +630,6 @@
       "none": true
      },
      {
-      "zone": "KN044-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "將軍澳 - 寶琳新都城中心O2O店"
-      ],
-      "districts": [
-       "寶琳"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN052-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "油塘 - 大本型O2O店"
-      ],
-      "districts": [
-       "油塘"
-      ],
-      "none": true
-     },
-     {
       "zone": "KN057-1EX",
       "miss": [
        "AM",
@@ -1140,41 +644,9 @@
        "將軍澳"
       ],
       "none": true
-     },
-     {
-      "zone": "KN101-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "藍田 - 滙景廣場O2O店"
-      ],
-      "districts": [
-       "藍田"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN193-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "觀塘 - 裕民坊商場O2O店"
-      ],
-      "districts": [
-       "觀塘"
-      ],
-      "none": true
      }
     ],
-    "addresses": 6
+    "addresses": 2
    },
    "TM00001": {
     "window": true,
@@ -1255,54 +727,6 @@
       "none": true
      },
      {
-      "zone": "NT076-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "屯門 - 海趣坊O2O店"
-      ],
-      "districts": [
-       "屯門"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT115-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "屯門 - 景峰花園O2O店"
-      ],
-      "districts": [
-       "屯門"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT1209-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "屯門 - 愛定商場O2O店"
-      ],
-      "districts": [
-       "屯門"
-      ],
-      "none": true
-     },
-     {
       "zone": "NT733-1EX",
       "miss": [
        "AM",
@@ -1319,7 +743,7 @@
       "none": true
      }
     ],
-    "addresses": 17
+    "addresses": 14
    },
    "TPH00001": {
     "window": true,
@@ -1411,118 +835,6 @@
       ],
       "districts": [
        "太子"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT064-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "大埔 - 大埔廣場O2O店"
-      ],
-      "districts": [
-       "大埔"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT073-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "沙田 - 沙田圍田園閣O2O店"
-      ],
-      "districts": [
-       "沙田"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT1023-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "粉嶺 - 華明商場O2O店"
-      ],
-      "districts": [
-       "粉嶺"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT1119-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "馬鞍山廣場O2O店"
-      ],
-      "districts": [
-       "馬鞍山"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT1120-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "粉嶺名都商場O2O店"
-      ],
-      "districts": [
-       "粉嶺"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT124-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "上水 - 上水中心O2O店"
-      ],
-      "districts": [
-       "上水"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT182-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "粉嶺 - 逸峯廣場O2O店"
-      ],
-      "districts": [
-       "粉嶺"
       ],
       "none": true
      },
@@ -1623,7 +935,7 @@
       "none": true
      }
     ],
-    "addresses": 28
+    "addresses": 21
    }
   },
   "2026-10-03": {
@@ -1680,54 +992,6 @@
       "none": true
      },
      {
-      "zone": "HK038-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "鴨脷洲 - 海怡西商場O2O店"
-      ],
-      "districts": [
-       "鴨脷洲"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK040-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "堅尼地城 - 士美菲路O2O店"
-      ],
-      "districts": [
-       "堅尼地城"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK100-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "中環 - 堅道O2O店"
-      ],
-      "districts": [
-       "中環"
-      ],
-      "none": true
-     },
-     {
       "zone": "HK1028-1",
       "miss": [
        "AM",
@@ -1742,25 +1006,9 @@
        "西環"
       ],
       "none": true
-     },
-     {
-      "zone": "HK135-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "香港仔 - 香港仔中心O2O店"
-      ],
-      "districts": [
-       "香港仔"
-      ],
-      "none": true
      }
     ],
-    "addresses": 9
+    "addresses": 5
    },
    "KOWC00001": {
     "window": true,
@@ -1897,54 +1145,6 @@
       "none": true
      },
      {
-      "zone": "KN1080-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "黃大仙新光中心O2O店"
-      ],
-      "districts": [
-       "黃大仙"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN1090-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "土瓜灣 - 馬頭角道O2O店"
-      ],
-      "districts": [
-       "土瓜灣"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN1103-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "九龍灣 - 淘大商場O2O店"
-      ],
-      "districts": [
-       "九龍灣"
-      ],
-      "none": true
-     },
-     {
       "zone": "KN465-2EX",
       "miss": [
        "AM",
@@ -2009,7 +1209,7 @@
       "none": true
      }
     ],
-    "addresses": 33
+    "addresses": 30
    },
    "TW00001": {
     "window": true,
@@ -2141,22 +1341,6 @@
       "none": true
      },
      {
-      "zone": "KN191-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "葵涌 - 石籬商場O2O店"
-      ],
-      "districts": [
-       "葵涌"
-      ],
-      "none": true
-     },
-     {
       "zone": "NT056EX",
       "miss": [
        "AM",
@@ -2171,89 +1355,9 @@
        "青衣"
       ],
       "none": true
-     },
-     {
-      "zone": "NT074-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "葵涌 - 葵涌廣場O2O店"
-      ],
-      "districts": [
-       "葵涌"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT083-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "荃灣西 - 愉景新城O2O店"
-      ],
-      "districts": [
-       "荃灣西"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT1140-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "悅來坊O2O店"
-      ],
-      "districts": [
-       "荃灣東"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT1196-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "深井 - 海韻花園O2O店"
-      ],
-      "districts": [
-       "深井"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT879-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "青衣 - 長亨商場O2O店"
-      ],
-      "districts": [
-       "青衣"
-      ],
-      "none": true
      }
     ],
-    "addresses": 58
+    "addresses": 52
    },
    "WAN00001": {
     "window": true,
@@ -2277,22 +1381,6 @@
       "none": true
      },
      {
-      "zone": "HK025-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "杏花邨 - 杏花新城O2O店"
-      ],
-      "districts": [
-       "杏花邨"
-      ],
-      "none": true
-     },
-     {
       "zone": "HK045EX",
       "miss": [
        "AM",
@@ -2307,121 +1395,9 @@
        "灣仔"
       ],
       "none": true
-     },
-     {
-      "zone": "HK056-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "北角 - 健威O2O店"
-      ],
-      "districts": [
-       "北角"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK057-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "小西灣 - 富景花園O2O店"
-      ],
-      "districts": [
-       "小西灣"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK101-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "灣仔 - 英皇集團中心O2O店"
-      ],
-      "districts": [
-       "灣仔"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK1065-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "銅鑼灣東角商場O2O店"
-      ],
-      "districts": [
-       "銅鑼灣"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK1101-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "灣仔 - 春園街O2O店"
-      ],
-      "districts": [
-       "灣仔"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK134-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "西灣河 - 筲箕灣道O2O店"
-      ],
-      "districts": [
-       "西灣河"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK137-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "太古 - 康怡廣場O2O店"
-      ],
-      "districts": [
-       "太古"
-      ],
-      "none": true
      }
     ],
-    "addresses": 12
+    "addresses": 4
    },
    "POR00001": {
     "window": true,
@@ -2503,134 +1479,6 @@
       "none": true
      },
      {
-      "zone": "KN039-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "美孚 - 萬事達廣場O2O店"
-      ],
-      "districts": [
-       "美孚"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN051-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "紅磡 - 黃埔新邨O2O店"
-      ],
-      "districts": [
-       "紅磡"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN1092-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "荔枝角泓景匯O2O店"
-      ],
-      "districts": [
-       "荔枝角"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN1292-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "旺角 - 亞皆老街O2O店"
-      ],
-      "districts": [
-       "旺角"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN139-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "大角咀 - 港灣豪庭廣場O2O店"
-      ],
-      "districts": [
-       "大角咀"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN140-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "長沙灣 - 元洲街O2O店"
-      ],
-      "districts": [
-       "長沙灣"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN160-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "大角咀 - 奧海城O2O店"
-      ],
-      "districts": [
-       "大角咀"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN198-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "紅磡 - 煥然懿居O2O店"
-      ],
-      "districts": [
-       "紅磡"
-      ],
-      "none": true
-     },
-     {
       "zone": "KN580-4EX",
       "miss": [
        "AM",
@@ -2679,7 +1527,7 @@
       "none": true
      }
     ],
-    "addresses": 27
+    "addresses": 19
    },
    "MCP00001": {
     "window": true,
@@ -2701,38 +1549,6 @@
       "none": true
      },
      {
-      "zone": "KN044-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "將軍澳 - 寶琳新都城中心O2O店"
-      ],
-      "districts": [
-       "寶琳"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN052-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "油塘 - 大本型O2O店"
-      ],
-      "districts": [
-       "油塘"
-      ],
-      "none": true
-     },
-     {
       "zone": "KN057-1EX",
       "miss": [
        "AM",
@@ -2747,41 +1563,9 @@
        "將軍澳"
       ],
       "none": true
-     },
-     {
-      "zone": "KN101-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "藍田 - 滙景廣場O2O店"
-      ],
-      "districts": [
-       "藍田"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN193-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "觀塘 - 裕民坊商場O2O店"
-      ],
-      "districts": [
-       "觀塘"
-      ],
-      "none": true
      }
     ],
-    "addresses": 6
+    "addresses": 2
    },
    "TM00001": {
     "window": true,
@@ -2844,54 +1628,6 @@
       "none": true
      },
      {
-      "zone": "NT076-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "屯門 - 海趣坊O2O店"
-      ],
-      "districts": [
-       "屯門"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT115-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "屯門 - 景峰花園O2O店"
-      ],
-      "districts": [
-       "屯門"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT1209-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "屯門 - 愛定商場O2O店"
-      ],
-      "districts": [
-       "屯門"
-      ],
-      "none": true
-     },
-     {
       "zone": "NT733-1EX",
       "miss": [
        "AM",
@@ -2908,7 +1644,7 @@
       "none": true
      }
     ],
-    "addresses": 14
+    "addresses": 11
    },
    "TPH00001": {
     "window": true,
@@ -3000,118 +1736,6 @@
       ],
       "districts": [
        "太子"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT064-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "大埔 - 大埔廣場O2O店"
-      ],
-      "districts": [
-       "大埔"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT073-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "沙田 - 沙田圍田園閣O2O店"
-      ],
-      "districts": [
-       "沙田"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT1023-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "粉嶺 - 華明商場O2O店"
-      ],
-      "districts": [
-       "粉嶺"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT1119-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "馬鞍山廣場O2O店"
-      ],
-      "districts": [
-       "馬鞍山"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT1120-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "粉嶺名都商場O2O店"
-      ],
-      "districts": [
-       "粉嶺"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT124-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "上水 - 上水中心O2O店"
-      ],
-      "districts": [
-       "上水"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT182-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "粉嶺 - 逸峯廣場O2O店"
-      ],
-      "districts": [
-       "粉嶺"
       ],
       "none": true
      },
@@ -3212,7 +1836,7 @@
       "none": true
      }
     ],
-    "addresses": 28
+    "addresses": 21
    }
   },
   "2026-10-04": {
@@ -3269,54 +1893,6 @@
       "none": true
      },
      {
-      "zone": "HK038-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "鴨脷洲 - 海怡西商場O2O店"
-      ],
-      "districts": [
-       "鴨脷洲"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK040-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "堅尼地城 - 士美菲路O2O店"
-      ],
-      "districts": [
-       "堅尼地城"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK100-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "中環 - 堅道O2O店"
-      ],
-      "districts": [
-       "中環"
-      ],
-      "none": true
-     },
-     {
       "zone": "HK1028-1",
       "miss": [
        "AM",
@@ -3331,25 +1907,9 @@
        "西環"
       ],
       "none": true
-     },
-     {
-      "zone": "HK135-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "香港仔 - 香港仔中心O2O店"
-      ],
-      "districts": [
-       "香港仔"
-      ],
-      "none": true
      }
     ],
-    "addresses": 9
+    "addresses": 5
    },
    "KOWC00001": {
     "window": true,
@@ -3486,54 +2046,6 @@
       "none": true
      },
      {
-      "zone": "KN1080-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "黃大仙新光中心O2O店"
-      ],
-      "districts": [
-       "黃大仙"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN1090-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "土瓜灣 - 馬頭角道O2O店"
-      ],
-      "districts": [
-       "土瓜灣"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN1103-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "九龍灣 - 淘大商場O2O店"
-      ],
-      "districts": [
-       "九龍灣"
-      ],
-      "none": true
-     },
-     {
       "zone": "KN465-2EX",
       "miss": [
        "AM",
@@ -3598,7 +2110,7 @@
       "none": true
      }
     ],
-    "addresses": 33
+    "addresses": 30
    },
    "TW00001": {
     "window": true,
@@ -3730,22 +2242,6 @@
       "none": true
      },
      {
-      "zone": "KN191-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "葵涌 - 石籬商場O2O店"
-      ],
-      "districts": [
-       "葵涌"
-      ],
-      "none": true
-     },
-     {
       "zone": "NT056EX",
       "miss": [
        "AM",
@@ -3760,89 +2256,9 @@
        "青衣"
       ],
       "none": true
-     },
-     {
-      "zone": "NT074-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "葵涌 - 葵涌廣場O2O店"
-      ],
-      "districts": [
-       "葵涌"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT083-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "荃灣西 - 愉景新城O2O店"
-      ],
-      "districts": [
-       "荃灣西"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT1140-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "悅來坊O2O店"
-      ],
-      "districts": [
-       "荃灣東"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT1196-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "深井 - 海韻花園O2O店"
-      ],
-      "districts": [
-       "深井"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT879-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "青衣 - 長亨商場O2O店"
-      ],
-      "districts": [
-       "青衣"
-      ],
-      "none": true
      }
     ],
-    "addresses": 58
+    "addresses": 52
    },
    "WAN00001": {
     "window": true,
@@ -3866,22 +2282,6 @@
       "none": true
      },
      {
-      "zone": "HK025-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "杏花邨 - 杏花新城O2O店"
-      ],
-      "districts": [
-       "杏花邨"
-      ],
-      "none": true
-     },
-     {
       "zone": "HK045EX",
       "miss": [
        "AM",
@@ -3896,121 +2296,9 @@
        "灣仔"
       ],
       "none": true
-     },
-     {
-      "zone": "HK056-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "北角 - 健威O2O店"
-      ],
-      "districts": [
-       "北角"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK057-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "小西灣 - 富景花園O2O店"
-      ],
-      "districts": [
-       "小西灣"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK101-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "灣仔 - 英皇集團中心O2O店"
-      ],
-      "districts": [
-       "灣仔"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK1065-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "銅鑼灣東角商場O2O店"
-      ],
-      "districts": [
-       "銅鑼灣"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK1101-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "灣仔 - 春園街O2O店"
-      ],
-      "districts": [
-       "灣仔"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK134-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "西灣河 - 筲箕灣道O2O店"
-      ],
-      "districts": [
-       "西灣河"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK137-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "太古 - 康怡廣場O2O店"
-      ],
-      "districts": [
-       "太古"
-      ],
-      "none": true
      }
     ],
-    "addresses": 12
+    "addresses": 4
    },
    "POR00001": {
     "window": true,
@@ -4092,134 +2380,6 @@
       "none": true
      },
      {
-      "zone": "KN039-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "美孚 - 萬事達廣場O2O店"
-      ],
-      "districts": [
-       "美孚"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN051-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "紅磡 - 黃埔新邨O2O店"
-      ],
-      "districts": [
-       "紅磡"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN1092-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "荔枝角泓景匯O2O店"
-      ],
-      "districts": [
-       "荔枝角"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN1292-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "旺角 - 亞皆老街O2O店"
-      ],
-      "districts": [
-       "旺角"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN139-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "大角咀 - 港灣豪庭廣場O2O店"
-      ],
-      "districts": [
-       "大角咀"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN140-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "長沙灣 - 元洲街O2O店"
-      ],
-      "districts": [
-       "長沙灣"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN160-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "大角咀 - 奧海城O2O店"
-      ],
-      "districts": [
-       "大角咀"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN198-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "紅磡 - 煥然懿居O2O店"
-      ],
-      "districts": [
-       "紅磡"
-      ],
-      "none": true
-     },
-     {
       "zone": "KN580-4EX",
       "miss": [
        "AM",
@@ -4268,7 +2428,7 @@
       "none": true
      }
     ],
-    "addresses": 27
+    "addresses": 19
    },
    "MCP00001": {
     "window": true,
@@ -4290,38 +2450,6 @@
       "none": true
      },
      {
-      "zone": "KN044-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "將軍澳 - 寶琳新都城中心O2O店"
-      ],
-      "districts": [
-       "寶琳"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN052-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "油塘 - 大本型O2O店"
-      ],
-      "districts": [
-       "油塘"
-      ],
-      "none": true
-     },
-     {
       "zone": "KN057-1EX",
       "miss": [
        "AM",
@@ -4336,41 +2464,9 @@
        "將軍澳"
       ],
       "none": true
-     },
-     {
-      "zone": "KN101-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "藍田 - 滙景廣場O2O店"
-      ],
-      "districts": [
-       "藍田"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN193-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "觀塘 - 裕民坊商場O2O店"
-      ],
-      "districts": [
-       "觀塘"
-      ],
-      "none": true
      }
     ],
-    "addresses": 6
+    "addresses": 2
    },
    "TM00001": {
     "window": true,
@@ -4433,7 +2529,7 @@
       "none": true
      },
      {
-      "zone": "NT076-1",
+      "zone": "NT733-1EX",
       "miss": [
        "AM",
        "PM1",
@@ -4441,7 +2537,151 @@
        "EV"
       ],
       "estates": [
-       "屯門 - 海趣坊O2O店"
+       "GOODMAN WESTLINK (小冷水路) (只限小冷水路GOODMAN閘口交收)"
+      ],
+      "districts": [
+       "屯門"
+      ],
+      "none": true
+     }
+    ],
+    "addresses": 11
+   },
+   "TPH00001": {
+    "window": true,
+    "zones": [
+     {
+      "zone": "NT472-2EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "肇軒臺",
+       "粉嶺嶺皮村",
+       "嶺仔村",
+       "馬料水新村 (只限馬料水新村牌坊交收)",
+       "獅頭嶺村 (只限獅頭嶺村公所交收)",
+       "馬尾下 (只限公廁旁空地交收)",
+       "粉嶺大塘湖村",
+       "軍地村 (只限君悅豪庭對出空地交收)"
+      ],
+      "districts": [
+       "沙頭角"
+      ],
+      "none": true
+     },
+     {
+      "zone": "NT004EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "觀音花園",
+       "香港賽馬會沙田"
+      ],
+      "districts": [
+       "沙田"
+      ],
+      "none": true
+     },
+     {
+      "zone": "NT446-3EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "好時花園 (只限地面交收)",
+       "好時華廷2期 (只限地面交收)"
+      ],
+      "districts": [
+       "太和"
+      ],
+      "none": true
+     },
+     {
+      "zone": "NT471-2EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "百勝山莊 (只限地面交收)",
+       "孔嶺村"
+      ],
+      "districts": [
+       "打鼓嶺"
+      ],
+      "none": true
+     },
+     {
+      "zone": "KN655-1EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "新華銀行大廈 (彌敦道774號)"
+      ],
+      "districts": [
+       "太子"
+      ],
+      "none": true
+     },
+     {
+      "zone": "NT470-1EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "虎地坳村 (只限梧桐河水閘交收)"
+      ],
+      "districts": [
+       "文錦渡"
+      ],
+      "none": true
+     },
+     {
+      "zone": "NT470-2EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "木湖村 (只限告示牌空地交收)"
+      ],
+      "districts": [
+       "文錦渡"
+      ],
+      "none": true
+     },
+     {
+      "zone": "NT699-3EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "虎地上村"
       ],
       "districts": [
        "屯門"
@@ -4449,7 +2689,7 @@
       "none": true
      },
      {
-      "zone": "NT115-1",
+      "zone": "NT722-3EX",
       "miss": [
        "AM",
        "PM1",
@@ -4457,7 +2697,7 @@
        "EV"
       ],
       "estates": [
-       "屯門 - 景峰花園O2O店"
+       "屯門和平新村"
       ],
       "districts": [
        "屯門"
@@ -4465,7 +2705,7 @@
       "none": true
      },
      {
-      "zone": "NT1209-1",
+      "zone": "NT729-7EX",
       "miss": [
        "AM",
        "PM1",
@@ -4473,10 +2713,737 @@
        "EV"
       ],
       "estates": [
-       "屯門 - 愛定商場O2O店"
+       "陳屋埔 (只限欣景豪園閘口前空地交收)"
+      ],
+      "districts": [
+       "錦田"
+      ],
+      "none": true
+     },
+     {
+      "zone": "NT876-2EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "散石灣村"
+      ],
+      "districts": [
+       "梅窩"
+      ],
+      "none": true
+     }
+    ],
+    "addresses": 21
+   }
+  },
+  "2026-10-05": {
+   "SMI00001": {
+    "window": true,
+    "zones": [
+     {
+      "zone": "HK007EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "美輪樓 (中環美輪街2號)",
+       "天主教總堂區學校"
+      ],
+      "districts": [
+       "上環"
+      ],
+      "none": true
+     },
+     {
+      "zone": "HK005EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "宋德樓"
+      ],
+      "districts": [
+       "中環"
+      ],
+      "none": true
+     },
+     {
+      "zone": "HK008EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "貝沙灣3期 (洋房)"
+      ],
+      "districts": [
+       "薄扶林"
+      ],
+      "none": true
+     },
+     {
+      "zone": "HK1028-1",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "西環 - HKTVmall超級市場 (西環石塘坊店)"
+      ],
+      "districts": [
+       "西環"
+      ],
+      "none": true
+     }
+    ],
+    "addresses": 5
+   },
+   "KOWC00001": {
+    "window": true,
+    "zones": [
+     {
+      "zone": "KN405-1EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "三湘九龍灣貨運中心",
+       "卓越培訓發展中心 (九龍灣)",
+       "青年學院九龍灣校舍",
+       "香港大學附屬學院-製衣業訓練局",
+       "酒店及旅遊學院(九龍灣)",
+       "牛頭角電話機房",
+       "電訊盈科",
+       "牛頭角分區警署",
+       "東九龍交通部",
+       "職業訓練局九龍灣大樓",
+       "香港電訊盈科電話機房"
+      ],
+      "districts": [
+       "九龍灣"
+      ],
+      "none": true
+     },
+     {
+      "zone": "KN403-5EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "啟德海灣 1期 2A座",
+       "啟德海灣 1期 2B座",
+       "啟德海灣 1期 2C座",
+       "啟德海灣會所",
+       "啟德海灣 2期 1C座"
+      ],
+      "districts": [
+       "九龍灣"
+      ],
+      "none": true
+     },
+     {
+      "zone": "KN403-4EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "DOUBLE COAST I 第5座",
+       "DOUBLE COAST I 第3座",
+       "DOUBLE COAST III 1A座",
+       "DOUBLE COAST III 1B座"
+      ],
+      "districts": [
+       "九龍灣"
+      ],
+      "none": true
+     },
+     {
+      "zone": "KN421-2EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "宏緻苑A 富緻閣",
+       "宏緻苑B 喜致閣",
+       "宏緻苑C 崇緻閣"
+      ],
+      "districts": [
+       "九龍灣"
+      ],
+      "none": true
+     },
+     {
+      "zone": "AL002-1EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "華興工業大廈 (新蒲崗大有街36號)"
+      ],
+      "districts": [
+       "新蒲崗"
+      ],
+      "none": true
+     },
+     {
+      "zone": "CL002-1EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "華興工業大廈 (新蒲崗大有街36號)"
+      ],
+      "districts": [
+       "新蒲崗"
+      ],
+      "none": true
+     },
+     {
+      "zone": "HK831-1EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "香島道官立小學 (只限地面交收)"
+      ],
+      "districts": [
+       "香港仔"
+      ],
+      "none": true
+     },
+     {
+      "zone": "KN465-2EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "鴻鵠臺第一座"
+      ],
+      "districts": [
+       "牛頭角"
+      ],
+      "none": true
+     },
+     {
+      "zone": "KN548-1EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "香港道教聯合會雲泉學校 (只限地面交收)"
+      ],
+      "districts": [
+       "秀茂坪"
+      ],
+      "none": true
+     },
+     {
+      "zone": "KN834-2EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "水務署機電工場"
+      ],
+      "districts": [
+       "石硤尾"
+      ],
+      "none": true
+     },
+     {
+      "zone": "KN872-1EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "陳樹渠紀念中學 (只限地面交收)"
+      ],
+      "districts": [
+       "長沙灣"
+      ],
+      "none": true
+     }
+    ],
+    "addresses": 30
+   },
+   "TW00001": {
+    "window": true,
+    "zones": [
+     {
+      "zone": "NT008EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "明愛賽馬會荃灣診所",
+       "可觀自然教育中心天文館",
+       "聯合大廈",
+       "聯和大樓",
+       "寶城唐樓",
+       "荃灣電話機樓",
+       "東林佛教安老院",
+       "詠達軒",
+       "和盛大廈",
+       "仁濟醫院賽馬會分科診療所",
+       "仁愛樓",
+       "美港二倉",
+       "流芳園 A座",
+       "流芳園 B座",
+       "芙蓉雅苑 洋房A",
+       "芙蓉雅苑 洋房B",
+       "芙蓉雅苑 洋房C",
+       "芙蓉雅苑 洋房D",
+       "永華台 A座",
+       "永華台 B座",
+       "永華台 C座",
+       "永華台 D座",
+       "永華台 E座"
+      ],
+      "districts": [
+       "荃灣東"
+      ],
+      "none": true
+     },
+     {
+      "zone": "NT009EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "陶氏化學青衣廠",
+       "香港聯集貨運辦事處",
+       "香港水泥廠",
+       "香港船廠行政大樓",
+       "太古漆廠",
+       "天廚(青衣)工業中心",
+       "友聯船廠",
+       "加德士油庫",
+       "香港聯合船塢",
+       "陶氏化工廠",
+       "蜆殼油庫",
+       "宣道會青霖堂",
+       "青衣市區普通科門診診所",
+       "歐亞船廠 (青強街5-9號)"
+      ],
+      "districts": [
+       "青衣"
+      ],
+      "none": true
+     },
+     {
+      "zone": "NT043EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "清快塘新村",
+       "深井東村",
+       "紅屋",
+       "排棉角村",
+       "嘉龍村",
+       "龍圃",
+       "黃金花園 A座",
+       "黃金花園 B座",
+       "黃金花園 C座",
+       "黃金花園 D座",
+       "黃金花園 E座",
+       "黃金花園 F座"
+      ],
+      "districts": [
+       "深井"
+      ],
+      "none": true
+     },
+     {
+      "zone": "AL001-1EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "金基工業大廈 (大連排道35-41號)"
+      ],
+      "districts": [
+       "葵涌"
+      ],
+      "none": true
+     },
+     {
+      "zone": "HK797-1EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "太益樓(只限地面交收)"
+      ],
+      "districts": [
+       "西營盤"
+      ],
+      "none": true
+     },
+     {
+      "zone": "NT056EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "青衣長康普通科門診診所"
+      ],
+      "districts": [
+       "青衣"
+      ],
+      "none": true
+     }
+    ],
+    "addresses": 52
+   },
+   "WAN00001": {
+    "window": true,
+    "zones": [
+     {
+      "zone": "HK036EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "律敦治療養院",
+       "錫克廟",
+       "灣仔分科診所"
+      ],
+      "districts": [
+       "灣仔"
+      ],
+      "none": true
+     },
+     {
+      "zone": "HK045EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "李東海大樓 (皇后大道東266號)"
+      ],
+      "districts": [
+       "灣仔"
+      ],
+      "none": true
+     }
+    ],
+    "addresses": 4
+   },
+   "POR00001": {
+    "window": true,
+    "zones": [
+     {
+      "zone": "KN854-3EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "匯華工廠大廈",
+       "福源廣場",
+       "兆威工業大廈",
+       "安泰大廈 (長沙灣道910號)",
+       "宣道國際學校 (瓊林街33號) (只限地面交收)",
+       "瓊林街83號A座",
+       "瓊林街83號B座"
+      ],
+      "districts": [
+       "荔枝角"
+      ],
+      "none": true
+     },
+     {
+      "zone": "KN823-4EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "香港城市大學電機工程系實驗室 (楊健民樓地下)",
+       "香港城市大學 - 劉鳴煒學術樓",
+       "香港城市大學賽馬會健康一體化大樓",
+       "香港城市大學葉傑全樓"
+      ],
+      "districts": [
+       "九龍塘"
+      ],
+      "none": true
+     },
+     {
+      "zone": "KN857-3EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "荔枝角收押所職員宿舍G座",
+       "饒宗頤文化館",
+       "荔枝角收押所職員宿舍 H座"
+      ],
+      "districts": [
+       "荔枝角"
+      ],
+      "none": true
+     },
+     {
+      "zone": "KN858-4EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "東方石油大廈",
+       "一號·西九龍2座"
+      ],
+      "districts": [
+       "荔枝角"
+      ],
+      "none": true
+     },
+     {
+      "zone": "KN580-4EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "北帝街28-28A號"
+      ],
+      "districts": [
+       "土瓜灣"
+      ],
+      "none": true
+     },
+     {
+      "zone": "KN820-2EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "聖母玫瑰書院 (只限地面交收)"
+      ],
+      "districts": [
+       "石硤尾"
+      ],
+      "none": true
+     },
+     {
+      "zone": "KN834-3EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "緹山 (洋房) (龍駒道9號)"
+      ],
+      "districts": [
+       "石硤尾"
+      ],
+      "none": true
+     }
+    ],
+    "addresses": 19
+   },
+   "MCP00001": {
+    "window": true,
+    "zones": [
+     {
+      "zone": "KN020EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "香港中華基督教青年會- 聯青社 - 青年會黃宜洲青年營"
+      ],
+      "districts": [
+       "寶琳"
+      ],
+      "none": true
+     },
+     {
+      "zone": "KN057-1EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "香港電視多媒體及電子商貿中心 - 辦公室 (10樓)"
+      ],
+      "districts": [
+       "將軍澳"
+      ],
+      "none": true
+     }
+    ],
+    "addresses": 2
+   },
+   "TM00001": {
+    "window": true,
+    "zones": [
+     {
+      "zone": "NT015EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "樂怡居",
+       "凱和山2座",
+       "凱和山 (洋房)",
+       "凱和山 1號別墅",
+       "凱和山 2號別墅"
       ],
       "districts": [
        "屯門"
+      ],
+      "none": true
+     },
+     {
+      "zone": "NT049EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "雁聚樓",
+       "躍思（大欖）幼稚園",
+       "宏廣國際幼稚園"
+      ],
+      "districts": [
+       "元朗",
+       "屯門"
+      ],
+      "none": true
+     },
+     {
+      "zone": "NT648-2EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "朗天苑 朗杏閣 (C座)",
+       "朗天苑 朗松閣 (A座)",
+       "朗天苑 朗桃閣 (B座)"
+      ],
+      "districts": [
+       "洪水橋"
+      ],
+      "none": true
+     },
+     {
+      "zone": "NT039EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "中華傳道會佳音堂",
+       "基督教信心會藍地福音堂"
+      ],
+      "districts": [
+       "屯門",
+       "藍地"
       ],
       "none": true
      },
@@ -4593,118 +3560,6 @@
       "none": true
      },
      {
-      "zone": "NT064-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "大埔 - 大埔廣場O2O店"
-      ],
-      "districts": [
-       "大埔"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT073-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "沙田 - 沙田圍田園閣O2O店"
-      ],
-      "districts": [
-       "沙田"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT1023-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "粉嶺 - 華明商場O2O店"
-      ],
-      "districts": [
-       "粉嶺"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT1119-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "馬鞍山廣場O2O店"
-      ],
-      "districts": [
-       "馬鞍山"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT1120-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "粉嶺名都商場O2O店"
-      ],
-      "districts": [
-       "粉嶺"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT124-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "上水 - 上水中心O2O店"
-      ],
-      "districts": [
-       "上水"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT182-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "粉嶺 - 逸峯廣場O2O店"
-      ],
-      "districts": [
-       "粉嶺"
-      ],
-      "none": true
-     },
-     {
       "zone": "NT470-1EX",
       "miss": [
        "AM",
@@ -4801,1614 +3656,7 @@
       "none": true
      }
     ],
-    "addresses": 28
-   }
-  },
-  "2026-10-05": {
-   "SMI00001": {
-    "window": true,
-    "zones": [
-     {
-      "zone": "HK007EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "美輪樓 (中環美輪街2號)",
-       "天主教總堂區學校"
-      ],
-      "districts": [
-       "上環"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK005EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "宋德樓"
-      ],
-      "districts": [
-       "中環"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK008EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "貝沙灣3期 (洋房)"
-      ],
-      "districts": [
-       "薄扶林"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK038-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "鴨脷洲 - 海怡西商場O2O店"
-      ],
-      "districts": [
-       "鴨脷洲"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK040-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "堅尼地城 - 士美菲路O2O店"
-      ],
-      "districts": [
-       "堅尼地城"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK100-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "中環 - 堅道O2O店"
-      ],
-      "districts": [
-       "中環"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK1028-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "西環 - HKTVmall超級市場 (西環石塘坊店)"
-      ],
-      "districts": [
-       "西環"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK135-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "香港仔 - 香港仔中心O2O店"
-      ],
-      "districts": [
-       "香港仔"
-      ],
-      "none": true
-     }
-    ],
-    "addresses": 9
-   },
-   "KOWC00001": {
-    "window": true,
-    "zones": [
-     {
-      "zone": "KN405-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "三湘九龍灣貨運中心",
-       "卓越培訓發展中心 (九龍灣)",
-       "青年學院九龍灣校舍",
-       "香港大學附屬學院-製衣業訓練局",
-       "酒店及旅遊學院(九龍灣)",
-       "牛頭角電話機房",
-       "電訊盈科",
-       "牛頭角分區警署",
-       "東九龍交通部",
-       "職業訓練局九龍灣大樓",
-       "香港電訊盈科電話機房"
-      ],
-      "districts": [
-       "九龍灣"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN403-5EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "啟德海灣 1期 2A座",
-       "啟德海灣 1期 2B座",
-       "啟德海灣 1期 2C座",
-       "啟德海灣會所",
-       "啟德海灣 2期 1C座"
-      ],
-      "districts": [
-       "九龍灣"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN403-4EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "DOUBLE COAST I 第5座",
-       "DOUBLE COAST I 第3座",
-       "DOUBLE COAST III 1A座",
-       "DOUBLE COAST III 1B座"
-      ],
-      "districts": [
-       "九龍灣"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN421-2EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "宏緻苑A 富緻閣",
-       "宏緻苑B 喜致閣",
-       "宏緻苑C 崇緻閣"
-      ],
-      "districts": [
-       "九龍灣"
-      ],
-      "none": true
-     },
-     {
-      "zone": "AL002-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "華興工業大廈 (新蒲崗大有街36號)"
-      ],
-      "districts": [
-       "新蒲崗"
-      ],
-      "none": true
-     },
-     {
-      "zone": "CL002-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "華興工業大廈 (新蒲崗大有街36號)"
-      ],
-      "districts": [
-       "新蒲崗"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK831-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "香島道官立小學 (只限地面交收)"
-      ],
-      "districts": [
-       "香港仔"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN1080-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "黃大仙新光中心O2O店"
-      ],
-      "districts": [
-       "黃大仙"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN1090-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "土瓜灣 - 馬頭角道O2O店"
-      ],
-      "districts": [
-       "土瓜灣"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN1103-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "九龍灣 - 淘大商場O2O店"
-      ],
-      "districts": [
-       "九龍灣"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN465-2EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "鴻鵠臺第一座"
-      ],
-      "districts": [
-       "牛頭角"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN548-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "香港道教聯合會雲泉學校 (只限地面交收)"
-      ],
-      "districts": [
-       "秀茂坪"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN834-2EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "水務署機電工場"
-      ],
-      "districts": [
-       "石硤尾"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN872-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "陳樹渠紀念中學 (只限地面交收)"
-      ],
-      "districts": [
-       "長沙灣"
-      ],
-      "none": true
-     }
-    ],
-    "addresses": 33
-   },
-   "TW00001": {
-    "window": true,
-    "zones": [
-     {
-      "zone": "NT008EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "明愛賽馬會荃灣診所",
-       "可觀自然教育中心天文館",
-       "聯合大廈",
-       "聯和大樓",
-       "寶城唐樓",
-       "荃灣電話機樓",
-       "東林佛教安老院",
-       "詠達軒",
-       "和盛大廈",
-       "仁濟醫院賽馬會分科診療所",
-       "仁愛樓",
-       "美港二倉",
-       "流芳園 A座",
-       "流芳園 B座",
-       "芙蓉雅苑 洋房A",
-       "芙蓉雅苑 洋房B",
-       "芙蓉雅苑 洋房C",
-       "芙蓉雅苑 洋房D",
-       "永華台 A座",
-       "永華台 B座",
-       "永華台 C座",
-       "永華台 D座",
-       "永華台 E座"
-      ],
-      "districts": [
-       "荃灣東"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT009EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "陶氏化學青衣廠",
-       "香港聯集貨運辦事處",
-       "香港水泥廠",
-       "香港船廠行政大樓",
-       "太古漆廠",
-       "天廚(青衣)工業中心",
-       "友聯船廠",
-       "加德士油庫",
-       "香港聯合船塢",
-       "陶氏化工廠",
-       "蜆殼油庫",
-       "宣道會青霖堂",
-       "青衣市區普通科門診診所",
-       "歐亞船廠 (青強街5-9號)"
-      ],
-      "districts": [
-       "青衣"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT043EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "清快塘新村",
-       "深井東村",
-       "紅屋",
-       "排棉角村",
-       "嘉龍村",
-       "龍圃",
-       "黃金花園 A座",
-       "黃金花園 B座",
-       "黃金花園 C座",
-       "黃金花園 D座",
-       "黃金花園 E座",
-       "黃金花園 F座"
-      ],
-      "districts": [
-       "深井"
-      ],
-      "none": true
-     },
-     {
-      "zone": "AL001-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "金基工業大廈 (大連排道35-41號)"
-      ],
-      "districts": [
-       "葵涌"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK797-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "太益樓(只限地面交收)"
-      ],
-      "districts": [
-       "西營盤"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN191-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "葵涌 - 石籬商場O2O店"
-      ],
-      "districts": [
-       "葵涌"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT056EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "青衣長康普通科門診診所"
-      ],
-      "districts": [
-       "青衣"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT074-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "葵涌 - 葵涌廣場O2O店"
-      ],
-      "districts": [
-       "葵涌"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT083-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "荃灣西 - 愉景新城O2O店"
-      ],
-      "districts": [
-       "荃灣西"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT1140-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "悅來坊O2O店"
-      ],
-      "districts": [
-       "荃灣東"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT1196-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "深井 - 海韻花園O2O店"
-      ],
-      "districts": [
-       "深井"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT879-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "青衣 - 長亨商場O2O店"
-      ],
-      "districts": [
-       "青衣"
-      ],
-      "none": true
-     }
-    ],
-    "addresses": 58
-   },
-   "WAN00001": {
-    "window": true,
-    "zones": [
-     {
-      "zone": "HK036EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "律敦治療養院",
-       "錫克廟",
-       "灣仔分科診所"
-      ],
-      "districts": [
-       "灣仔"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK025-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "杏花邨 - 杏花新城O2O店"
-      ],
-      "districts": [
-       "杏花邨"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK045EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "李東海大樓 (皇后大道東266號)"
-      ],
-      "districts": [
-       "灣仔"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK056-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "北角 - 健威O2O店"
-      ],
-      "districts": [
-       "北角"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK057-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "小西灣 - 富景花園O2O店"
-      ],
-      "districts": [
-       "小西灣"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK101-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "灣仔 - 英皇集團中心O2O店"
-      ],
-      "districts": [
-       "灣仔"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK1065-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "銅鑼灣東角商場O2O店"
-      ],
-      "districts": [
-       "銅鑼灣"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK1101-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "灣仔 - 春園街O2O店"
-      ],
-      "districts": [
-       "灣仔"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK134-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "西灣河 - 筲箕灣道O2O店"
-      ],
-      "districts": [
-       "西灣河"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK137-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "太古 - 康怡廣場O2O店"
-      ],
-      "districts": [
-       "太古"
-      ],
-      "none": true
-     }
-    ],
-    "addresses": 12
-   },
-   "POR00001": {
-    "window": true,
-    "zones": [
-     {
-      "zone": "KN854-3EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "匯華工廠大廈",
-       "福源廣場",
-       "兆威工業大廈",
-       "安泰大廈 (長沙灣道910號)",
-       "宣道國際學校 (瓊林街33號) (只限地面交收)",
-       "瓊林街83號A座",
-       "瓊林街83號B座"
-      ],
-      "districts": [
-       "荔枝角"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN823-4EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "香港城市大學電機工程系實驗室 (楊健民樓地下)",
-       "香港城市大學 - 劉鳴煒學術樓",
-       "香港城市大學賽馬會健康一體化大樓",
-       "香港城市大學葉傑全樓"
-      ],
-      "districts": [
-       "九龍塘"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN857-3EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "荔枝角收押所職員宿舍G座",
-       "饒宗頤文化館",
-       "荔枝角收押所職員宿舍 H座"
-      ],
-      "districts": [
-       "荔枝角"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN858-4EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "東方石油大廈",
-       "一號·西九龍2座"
-      ],
-      "districts": [
-       "荔枝角"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN039-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "美孚 - 萬事達廣場O2O店"
-      ],
-      "districts": [
-       "美孚"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN051-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "紅磡 - 黃埔新邨O2O店"
-      ],
-      "districts": [
-       "紅磡"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN1092-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "荔枝角泓景匯O2O店"
-      ],
-      "districts": [
-       "荔枝角"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN1292-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "旺角 - 亞皆老街O2O店"
-      ],
-      "districts": [
-       "旺角"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN139-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "大角咀 - 港灣豪庭廣場O2O店"
-      ],
-      "districts": [
-       "大角咀"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN140-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "長沙灣 - 元洲街O2O店"
-      ],
-      "districts": [
-       "長沙灣"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN160-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "大角咀 - 奧海城O2O店"
-      ],
-      "districts": [
-       "大角咀"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN198-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "紅磡 - 煥然懿居O2O店"
-      ],
-      "districts": [
-       "紅磡"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN580-4EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "北帝街28-28A號"
-      ],
-      "districts": [
-       "土瓜灣"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN820-2EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "聖母玫瑰書院 (只限地面交收)"
-      ],
-      "districts": [
-       "石硤尾"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN834-3EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "緹山 (洋房) (龍駒道9號)"
-      ],
-      "districts": [
-       "石硤尾"
-      ],
-      "none": true
-     }
-    ],
-    "addresses": 27
-   },
-   "MCP00001": {
-    "window": true,
-    "zones": [
-     {
-      "zone": "KN020EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "香港中華基督教青年會- 聯青社 - 青年會黃宜洲青年營"
-      ],
-      "districts": [
-       "寶琳"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN044-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "將軍澳 - 寶琳新都城中心O2O店"
-      ],
-      "districts": [
-       "寶琳"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN052-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "油塘 - 大本型O2O店"
-      ],
-      "districts": [
-       "油塘"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN057-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "香港電視多媒體及電子商貿中心 - 辦公室 (10樓)"
-      ],
-      "districts": [
-       "將軍澳"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN101-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "藍田 - 滙景廣場O2O店"
-      ],
-      "districts": [
-       "藍田"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN193-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "觀塘 - 裕民坊商場O2O店"
-      ],
-      "districts": [
-       "觀塘"
-      ],
-      "none": true
-     }
-    ],
-    "addresses": 6
-   },
-   "TM00001": {
-    "window": true,
-    "zones": [
-     {
-      "zone": "NT015EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "樂怡居",
-       "凱和山2座",
-       "凱和山 (洋房)",
-       "凱和山 1號別墅",
-       "凱和山 2號別墅"
-      ],
-      "districts": [
-       "屯門"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT049EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "雁聚樓",
-       "躍思（大欖）幼稚園",
-       "宏廣國際幼稚園"
-      ],
-      "districts": [
-       "元朗",
-       "屯門"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT648-2EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "朗天苑 朗杏閣 (C座)",
-       "朗天苑 朗松閣 (A座)",
-       "朗天苑 朗桃閣 (B座)"
-      ],
-      "districts": [
-       "洪水橋"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT039EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "中華傳道會佳音堂",
-       "基督教信心會藍地福音堂"
-      ],
-      "districts": [
-       "屯門",
-       "藍地"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT076-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "屯門 - 海趣坊O2O店"
-      ],
-      "districts": [
-       "屯門"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT115-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "屯門 - 景峰花園O2O店"
-      ],
-      "districts": [
-       "屯門"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT1209-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "屯門 - 愛定商場O2O店"
-      ],
-      "districts": [
-       "屯門"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT733-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "GOODMAN WESTLINK (小冷水路) (只限小冷水路GOODMAN閘口交收)"
-      ],
-      "districts": [
-       "屯門"
-      ],
-      "none": true
-     }
-    ],
-    "addresses": 17
-   },
-   "TPH00001": {
-    "window": true,
-    "zones": [
-     {
-      "zone": "NT472-2EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "肇軒臺",
-       "粉嶺嶺皮村",
-       "嶺仔村",
-       "馬料水新村 (只限馬料水新村牌坊交收)",
-       "獅頭嶺村 (只限獅頭嶺村公所交收)",
-       "馬尾下 (只限公廁旁空地交收)",
-       "粉嶺大塘湖村",
-       "軍地村 (只限君悅豪庭對出空地交收)"
-      ],
-      "districts": [
-       "沙頭角"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT004EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "觀音花園",
-       "香港賽馬會沙田"
-      ],
-      "districts": [
-       "沙田"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT446-3EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "好時花園 (只限地面交收)",
-       "好時華廷2期 (只限地面交收)"
-      ],
-      "districts": [
-       "太和"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT471-2EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "百勝山莊 (只限地面交收)",
-       "孔嶺村"
-      ],
-      "districts": [
-       "打鼓嶺"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN655-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "新華銀行大廈 (彌敦道774號)"
-      ],
-      "districts": [
-       "太子"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT064-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "大埔 - 大埔廣場O2O店"
-      ],
-      "districts": [
-       "大埔"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT073-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "沙田 - 沙田圍田園閣O2O店"
-      ],
-      "districts": [
-       "沙田"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT1023-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "粉嶺 - 華明商場O2O店"
-      ],
-      "districts": [
-       "粉嶺"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT1119-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "馬鞍山廣場O2O店"
-      ],
-      "districts": [
-       "馬鞍山"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT1120-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "粉嶺名都商場O2O店"
-      ],
-      "districts": [
-       "粉嶺"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT124-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "上水 - 上水中心O2O店"
-      ],
-      "districts": [
-       "上水"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT182-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "粉嶺 - 逸峯廣場O2O店"
-      ],
-      "districts": [
-       "粉嶺"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT470-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "虎地坳村 (只限梧桐河水閘交收)"
-      ],
-      "districts": [
-       "文錦渡"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT470-2EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "木湖村 (只限告示牌空地交收)"
-      ],
-      "districts": [
-       "文錦渡"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT699-3EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "虎地上村"
-      ],
-      "districts": [
-       "屯門"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT722-3EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "屯門和平新村"
-      ],
-      "districts": [
-       "屯門"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT729-7EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "陳屋埔 (只限欣景豪園閘口前空地交收)"
-      ],
-      "districts": [
-       "錦田"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT876-2EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "散石灣村"
-      ],
-      "districts": [
-       "梅窩"
-      ],
-      "none": true
-     }
-    ],
-    "addresses": 28
+    "addresses": 21
    }
   },
   "2026-10-06": {
@@ -6465,54 +3713,6 @@
       "none": true
      },
      {
-      "zone": "HK038-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "鴨脷洲 - 海怡西商場O2O店"
-      ],
-      "districts": [
-       "鴨脷洲"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK040-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "堅尼地城 - 士美菲路O2O店"
-      ],
-      "districts": [
-       "堅尼地城"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK100-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "中環 - 堅道O2O店"
-      ],
-      "districts": [
-       "中環"
-      ],
-      "none": true
-     },
-     {
       "zone": "HK1028-1",
       "miss": [
        "AM",
@@ -6527,25 +3727,9 @@
        "西環"
       ],
       "none": true
-     },
-     {
-      "zone": "HK135-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "香港仔 - 香港仔中心O2O店"
-      ],
-      "districts": [
-       "香港仔"
-      ],
-      "none": true
      }
     ],
-    "addresses": 9
+    "addresses": 5
    },
    "KOWC00001": {
     "window": true,
@@ -6682,54 +3866,6 @@
       "none": true
      },
      {
-      "zone": "KN1080-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "黃大仙新光中心O2O店"
-      ],
-      "districts": [
-       "黃大仙"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN1090-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "土瓜灣 - 馬頭角道O2O店"
-      ],
-      "districts": [
-       "土瓜灣"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN1103-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "九龍灣 - 淘大商場O2O店"
-      ],
-      "districts": [
-       "九龍灣"
-      ],
-      "none": true
-     },
-     {
       "zone": "KN465-2EX",
       "miss": [
        "AM",
@@ -6794,7 +3930,7 @@
       "none": true
      }
     ],
-    "addresses": 33
+    "addresses": 30
    },
    "TW00001": {
     "window": true,
@@ -6926,22 +4062,6 @@
       "none": true
      },
      {
-      "zone": "KN191-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "葵涌 - 石籬商場O2O店"
-      ],
-      "districts": [
-       "葵涌"
-      ],
-      "none": true
-     },
-     {
       "zone": "NT056EX",
       "miss": [
        "AM",
@@ -6956,89 +4076,9 @@
        "青衣"
       ],
       "none": true
-     },
-     {
-      "zone": "NT074-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "葵涌 - 葵涌廣場O2O店"
-      ],
-      "districts": [
-       "葵涌"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT083-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "荃灣西 - 愉景新城O2O店"
-      ],
-      "districts": [
-       "荃灣西"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT1140-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "悅來坊O2O店"
-      ],
-      "districts": [
-       "荃灣東"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT1196-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "深井 - 海韻花園O2O店"
-      ],
-      "districts": [
-       "深井"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT879-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "青衣 - 長亨商場O2O店"
-      ],
-      "districts": [
-       "青衣"
-      ],
-      "none": true
      }
     ],
-    "addresses": 58
+    "addresses": 52
    },
    "WAN00001": {
     "window": true,
@@ -7062,22 +4102,6 @@
       "none": true
      },
      {
-      "zone": "HK025-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "杏花邨 - 杏花新城O2O店"
-      ],
-      "districts": [
-       "杏花邨"
-      ],
-      "none": true
-     },
-     {
       "zone": "HK045EX",
       "miss": [
        "AM",
@@ -7092,121 +4116,9 @@
        "灣仔"
       ],
       "none": true
-     },
-     {
-      "zone": "HK056-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "北角 - 健威O2O店"
-      ],
-      "districts": [
-       "北角"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK057-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "小西灣 - 富景花園O2O店"
-      ],
-      "districts": [
-       "小西灣"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK101-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "灣仔 - 英皇集團中心O2O店"
-      ],
-      "districts": [
-       "灣仔"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK1065-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "銅鑼灣東角商場O2O店"
-      ],
-      "districts": [
-       "銅鑼灣"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK1101-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "灣仔 - 春園街O2O店"
-      ],
-      "districts": [
-       "灣仔"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK134-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "西灣河 - 筲箕灣道O2O店"
-      ],
-      "districts": [
-       "西灣河"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK137-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "太古 - 康怡廣場O2O店"
-      ],
-      "districts": [
-       "太古"
-      ],
-      "none": true
      }
     ],
-    "addresses": 12
+    "addresses": 4
    },
    "POR00001": {
     "window": true,
@@ -7288,134 +4200,6 @@
       "none": true
      },
      {
-      "zone": "KN039-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "美孚 - 萬事達廣場O2O店"
-      ],
-      "districts": [
-       "美孚"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN051-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "紅磡 - 黃埔新邨O2O店"
-      ],
-      "districts": [
-       "紅磡"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN1092-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "荔枝角泓景匯O2O店"
-      ],
-      "districts": [
-       "荔枝角"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN1292-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "旺角 - 亞皆老街O2O店"
-      ],
-      "districts": [
-       "旺角"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN139-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "大角咀 - 港灣豪庭廣場O2O店"
-      ],
-      "districts": [
-       "大角咀"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN140-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "長沙灣 - 元洲街O2O店"
-      ],
-      "districts": [
-       "長沙灣"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN160-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "大角咀 - 奧海城O2O店"
-      ],
-      "districts": [
-       "大角咀"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN198-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "紅磡 - 煥然懿居O2O店"
-      ],
-      "districts": [
-       "紅磡"
-      ],
-      "none": true
-     },
-     {
       "zone": "KN580-4EX",
       "miss": [
        "AM",
@@ -7464,7 +4248,7 @@
       "none": true
      }
     ],
-    "addresses": 27
+    "addresses": 19
    },
    "MCP00001": {
     "window": true,
@@ -7486,38 +4270,6 @@
       "none": true
      },
      {
-      "zone": "KN044-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "將軍澳 - 寶琳新都城中心O2O店"
-      ],
-      "districts": [
-       "寶琳"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN052-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "油塘 - 大本型O2O店"
-      ],
-      "districts": [
-       "油塘"
-      ],
-      "none": true
-     },
-     {
       "zone": "KN057-1EX",
       "miss": [
        "AM",
@@ -7532,41 +4284,9 @@
        "將軍澳"
       ],
       "none": true
-     },
-     {
-      "zone": "KN101-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "藍田 - 滙景廣場O2O店"
-      ],
-      "districts": [
-       "藍田"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN193-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "觀塘 - 裕民坊商場O2O店"
-      ],
-      "districts": [
-       "觀塘"
-      ],
-      "none": true
      }
     ],
-    "addresses": 6
+    "addresses": 2
    },
    "TM00001": {
     "window": true,
@@ -7647,54 +4367,6 @@
       "none": true
      },
      {
-      "zone": "NT076-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "屯門 - 海趣坊O2O店"
-      ],
-      "districts": [
-       "屯門"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT115-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "屯門 - 景峰花園O2O店"
-      ],
-      "districts": [
-       "屯門"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT1209-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "屯門 - 愛定商場O2O店"
-      ],
-      "districts": [
-       "屯門"
-      ],
-      "none": true
-     },
-     {
       "zone": "NT733-1EX",
       "miss": [
        "AM",
@@ -7711,7 +4383,7 @@
       "none": true
      }
     ],
-    "addresses": 17
+    "addresses": 14
    },
    "TPH00001": {
     "window": true,
@@ -7803,118 +4475,6 @@
       ],
       "districts": [
        "太子"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT064-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "大埔 - 大埔廣場O2O店"
-      ],
-      "districts": [
-       "大埔"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT073-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "沙田 - 沙田圍田園閣O2O店"
-      ],
-      "districts": [
-       "沙田"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT1023-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "粉嶺 - 華明商場O2O店"
-      ],
-      "districts": [
-       "粉嶺"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT1119-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "馬鞍山廣場O2O店"
-      ],
-      "districts": [
-       "馬鞍山"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT1120-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "粉嶺名都商場O2O店"
-      ],
-      "districts": [
-       "粉嶺"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT124-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "上水 - 上水中心O2O店"
-      ],
-      "districts": [
-       "上水"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT182-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "粉嶺 - 逸峯廣場O2O店"
-      ],
-      "districts": [
-       "粉嶺"
       ],
       "none": true
      },
@@ -8015,7 +4575,7 @@
       "none": true
      }
     ],
-    "addresses": 28
+    "addresses": 21
    }
   },
   "2026-10-07": {
@@ -8072,54 +4632,6 @@
       "none": true
      },
      {
-      "zone": "HK038-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "鴨脷洲 - 海怡西商場O2O店"
-      ],
-      "districts": [
-       "鴨脷洲"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK040-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "堅尼地城 - 士美菲路O2O店"
-      ],
-      "districts": [
-       "堅尼地城"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK100-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "中環 - 堅道O2O店"
-      ],
-      "districts": [
-       "中環"
-      ],
-      "none": true
-     },
-     {
       "zone": "HK1028-1",
       "miss": [
        "AM",
@@ -8134,25 +4646,9 @@
        "西環"
       ],
       "none": true
-     },
-     {
-      "zone": "HK135-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "香港仔 - 香港仔中心O2O店"
-      ],
-      "districts": [
-       "香港仔"
-      ],
-      "none": true
      }
     ],
-    "addresses": 9
+    "addresses": 5
    },
    "KOWC00001": {
     "window": true,
@@ -8289,54 +4785,6 @@
       "none": true
      },
      {
-      "zone": "KN1080-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "黃大仙新光中心O2O店"
-      ],
-      "districts": [
-       "黃大仙"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN1090-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "土瓜灣 - 馬頭角道O2O店"
-      ],
-      "districts": [
-       "土瓜灣"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN1103-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "九龍灣 - 淘大商場O2O店"
-      ],
-      "districts": [
-       "九龍灣"
-      ],
-      "none": true
-     },
-     {
       "zone": "KN465-2EX",
       "miss": [
        "AM",
@@ -8401,7 +4849,7 @@
       "none": true
      }
     ],
-    "addresses": 33
+    "addresses": 30
    },
    "TW00001": {
     "window": true,
@@ -8533,22 +4981,6 @@
       "none": true
      },
      {
-      "zone": "KN191-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "葵涌 - 石籬商場O2O店"
-      ],
-      "districts": [
-       "葵涌"
-      ],
-      "none": true
-     },
-     {
       "zone": "NT056EX",
       "miss": [
        "AM",
@@ -8563,89 +4995,9 @@
        "青衣"
       ],
       "none": true
-     },
-     {
-      "zone": "NT074-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "葵涌 - 葵涌廣場O2O店"
-      ],
-      "districts": [
-       "葵涌"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT083-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "荃灣西 - 愉景新城O2O店"
-      ],
-      "districts": [
-       "荃灣西"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT1140-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "悅來坊O2O店"
-      ],
-      "districts": [
-       "荃灣東"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT1196-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "深井 - 海韻花園O2O店"
-      ],
-      "districts": [
-       "深井"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT879-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "青衣 - 長亨商場O2O店"
-      ],
-      "districts": [
-       "青衣"
-      ],
-      "none": true
      }
     ],
-    "addresses": 58
+    "addresses": 52
    },
    "WAN00001": {
     "window": true,
@@ -8669,22 +5021,6 @@
       "none": true
      },
      {
-      "zone": "HK025-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "杏花邨 - 杏花新城O2O店"
-      ],
-      "districts": [
-       "杏花邨"
-      ],
-      "none": true
-     },
-     {
       "zone": "HK045EX",
       "miss": [
        "AM",
@@ -8699,121 +5035,9 @@
        "灣仔"
       ],
       "none": true
-     },
-     {
-      "zone": "HK056-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "北角 - 健威O2O店"
-      ],
-      "districts": [
-       "北角"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK057-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "小西灣 - 富景花園O2O店"
-      ],
-      "districts": [
-       "小西灣"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK101-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "灣仔 - 英皇集團中心O2O店"
-      ],
-      "districts": [
-       "灣仔"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK1065-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "銅鑼灣東角商場O2O店"
-      ],
-      "districts": [
-       "銅鑼灣"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK1101-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "灣仔 - 春園街O2O店"
-      ],
-      "districts": [
-       "灣仔"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK134-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "西灣河 - 筲箕灣道O2O店"
-      ],
-      "districts": [
-       "西灣河"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK137-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "太古 - 康怡廣場O2O店"
-      ],
-      "districts": [
-       "太古"
-      ],
-      "none": true
      }
     ],
-    "addresses": 12
+    "addresses": 4
    },
    "POR00001": {
     "window": true,
@@ -8895,134 +5119,6 @@
       "none": true
      },
      {
-      "zone": "KN039-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "美孚 - 萬事達廣場O2O店"
-      ],
-      "districts": [
-       "美孚"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN051-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "紅磡 - 黃埔新邨O2O店"
-      ],
-      "districts": [
-       "紅磡"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN1092-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "荔枝角泓景匯O2O店"
-      ],
-      "districts": [
-       "荔枝角"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN1292-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "旺角 - 亞皆老街O2O店"
-      ],
-      "districts": [
-       "旺角"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN139-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "大角咀 - 港灣豪庭廣場O2O店"
-      ],
-      "districts": [
-       "大角咀"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN140-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "長沙灣 - 元洲街O2O店"
-      ],
-      "districts": [
-       "長沙灣"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN160-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "大角咀 - 奧海城O2O店"
-      ],
-      "districts": [
-       "大角咀"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN198-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "紅磡 - 煥然懿居O2O店"
-      ],
-      "districts": [
-       "紅磡"
-      ],
-      "none": true
-     },
-     {
       "zone": "KN580-4EX",
       "miss": [
        "AM",
@@ -9071,7 +5167,7 @@
       "none": true
      }
     ],
-    "addresses": 27
+    "addresses": 19
    },
    "MCP00001": {
     "window": true,
@@ -9093,38 +5189,6 @@
       "none": true
      },
      {
-      "zone": "KN044-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "將軍澳 - 寶琳新都城中心O2O店"
-      ],
-      "districts": [
-       "寶琳"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN052-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "油塘 - 大本型O2O店"
-      ],
-      "districts": [
-       "油塘"
-      ],
-      "none": true
-     },
-     {
       "zone": "KN057-1EX",
       "miss": [
        "AM",
@@ -9139,41 +5203,9 @@
        "將軍澳"
       ],
       "none": true
-     },
-     {
-      "zone": "KN101-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "藍田 - 滙景廣場O2O店"
-      ],
-      "districts": [
-       "藍田"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN193-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "觀塘 - 裕民坊商場O2O店"
-      ],
-      "districts": [
-       "觀塘"
-      ],
-      "none": true
      }
     ],
-    "addresses": 6
+    "addresses": 2
    },
    "TM00001": {
     "window": true,
@@ -9254,54 +5286,6 @@
       "none": true
      },
      {
-      "zone": "NT076-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "屯門 - 海趣坊O2O店"
-      ],
-      "districts": [
-       "屯門"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT115-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "屯門 - 景峰花園O2O店"
-      ],
-      "districts": [
-       "屯門"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT1209-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "屯門 - 愛定商場O2O店"
-      ],
-      "districts": [
-       "屯門"
-      ],
-      "none": true
-     },
-     {
       "zone": "NT733-1EX",
       "miss": [
        "AM",
@@ -9318,7 +5302,7 @@
       "none": true
      }
     ],
-    "addresses": 17
+    "addresses": 14
    },
    "TPH00001": {
     "window": true,
@@ -9410,118 +5394,6 @@
       ],
       "districts": [
        "太子"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT064-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "大埔 - 大埔廣場O2O店"
-      ],
-      "districts": [
-       "大埔"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT073-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "沙田 - 沙田圍田園閣O2O店"
-      ],
-      "districts": [
-       "沙田"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT1023-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "粉嶺 - 華明商場O2O店"
-      ],
-      "districts": [
-       "粉嶺"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT1119-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "馬鞍山廣場O2O店"
-      ],
-      "districts": [
-       "馬鞍山"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT1120-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "粉嶺名都商場O2O店"
-      ],
-      "districts": [
-       "粉嶺"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT124-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "上水 - 上水中心O2O店"
-      ],
-      "districts": [
-       "上水"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT182-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "粉嶺 - 逸峯廣場O2O店"
-      ],
-      "districts": [
-       "粉嶺"
       ],
       "none": true
      },
@@ -9622,7 +5494,7 @@
       "none": true
      }
     ],
-    "addresses": 28
+    "addresses": 21
    }
   },
   "2026-10-08": {
@@ -9679,54 +5551,6 @@
       "none": true
      },
      {
-      "zone": "HK038-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "鴨脷洲 - 海怡西商場O2O店"
-      ],
-      "districts": [
-       "鴨脷洲"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK040-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "堅尼地城 - 士美菲路O2O店"
-      ],
-      "districts": [
-       "堅尼地城"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK100-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "中環 - 堅道O2O店"
-      ],
-      "districts": [
-       "中環"
-      ],
-      "none": true
-     },
-     {
       "zone": "HK1028-1",
       "miss": [
        "AM",
@@ -9741,25 +5565,9 @@
        "西環"
       ],
       "none": true
-     },
-     {
-      "zone": "HK135-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "香港仔 - 香港仔中心O2O店"
-      ],
-      "districts": [
-       "香港仔"
-      ],
-      "none": true
      }
     ],
-    "addresses": 9
+    "addresses": 5
    },
    "KOWC00001": {
     "window": true,
@@ -9896,54 +5704,6 @@
       "none": true
      },
      {
-      "zone": "KN1080-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "黃大仙新光中心O2O店"
-      ],
-      "districts": [
-       "黃大仙"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN1090-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "土瓜灣 - 馬頭角道O2O店"
-      ],
-      "districts": [
-       "土瓜灣"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN1103-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "九龍灣 - 淘大商場O2O店"
-      ],
-      "districts": [
-       "九龍灣"
-      ],
-      "none": true
-     },
-     {
       "zone": "KN465-2EX",
       "miss": [
        "AM",
@@ -10008,7 +5768,7 @@
       "none": true
      }
     ],
-    "addresses": 33
+    "addresses": 30
    },
    "TW00001": {
     "window": true,
@@ -10140,22 +5900,6 @@
       "none": true
      },
      {
-      "zone": "KN191-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "葵涌 - 石籬商場O2O店"
-      ],
-      "districts": [
-       "葵涌"
-      ],
-      "none": true
-     },
-     {
       "zone": "NT056EX",
       "miss": [
        "AM",
@@ -10170,89 +5914,9 @@
        "青衣"
       ],
       "none": true
-     },
-     {
-      "zone": "NT074-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "葵涌 - 葵涌廣場O2O店"
-      ],
-      "districts": [
-       "葵涌"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT083-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "荃灣西 - 愉景新城O2O店"
-      ],
-      "districts": [
-       "荃灣西"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT1140-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "悅來坊O2O店"
-      ],
-      "districts": [
-       "荃灣東"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT1196-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "深井 - 海韻花園O2O店"
-      ],
-      "districts": [
-       "深井"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT879-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "青衣 - 長亨商場O2O店"
-      ],
-      "districts": [
-       "青衣"
-      ],
-      "none": true
      }
     ],
-    "addresses": 58
+    "addresses": 52
    },
    "WAN00001": {
     "window": true,
@@ -10276,22 +5940,6 @@
       "none": true
      },
      {
-      "zone": "HK025-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "杏花邨 - 杏花新城O2O店"
-      ],
-      "districts": [
-       "杏花邨"
-      ],
-      "none": true
-     },
-     {
       "zone": "HK045EX",
       "miss": [
        "AM",
@@ -10306,121 +5954,9 @@
        "灣仔"
       ],
       "none": true
-     },
-     {
-      "zone": "HK056-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "北角 - 健威O2O店"
-      ],
-      "districts": [
-       "北角"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK057-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "小西灣 - 富景花園O2O店"
-      ],
-      "districts": [
-       "小西灣"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK101-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "灣仔 - 英皇集團中心O2O店"
-      ],
-      "districts": [
-       "灣仔"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK1065-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "銅鑼灣東角商場O2O店"
-      ],
-      "districts": [
-       "銅鑼灣"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK1101-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "灣仔 - 春園街O2O店"
-      ],
-      "districts": [
-       "灣仔"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK134-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "西灣河 - 筲箕灣道O2O店"
-      ],
-      "districts": [
-       "西灣河"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK137-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "太古 - 康怡廣場O2O店"
-      ],
-      "districts": [
-       "太古"
-      ],
-      "none": true
      }
     ],
-    "addresses": 12
+    "addresses": 4
    },
    "POR00001": {
     "window": true,
@@ -10502,134 +6038,6 @@
       "none": true
      },
      {
-      "zone": "KN039-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "美孚 - 萬事達廣場O2O店"
-      ],
-      "districts": [
-       "美孚"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN051-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "紅磡 - 黃埔新邨O2O店"
-      ],
-      "districts": [
-       "紅磡"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN1092-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "荔枝角泓景匯O2O店"
-      ],
-      "districts": [
-       "荔枝角"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN1292-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "旺角 - 亞皆老街O2O店"
-      ],
-      "districts": [
-       "旺角"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN139-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "大角咀 - 港灣豪庭廣場O2O店"
-      ],
-      "districts": [
-       "大角咀"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN140-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "長沙灣 - 元洲街O2O店"
-      ],
-      "districts": [
-       "長沙灣"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN160-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "大角咀 - 奧海城O2O店"
-      ],
-      "districts": [
-       "大角咀"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN198-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "紅磡 - 煥然懿居O2O店"
-      ],
-      "districts": [
-       "紅磡"
-      ],
-      "none": true
-     },
-     {
       "zone": "KN580-4EX",
       "miss": [
        "AM",
@@ -10678,7 +6086,7 @@
       "none": true
      }
     ],
-    "addresses": 27
+    "addresses": 19
    },
    "MCP00001": {
     "window": true,
@@ -10700,38 +6108,6 @@
       "none": true
      },
      {
-      "zone": "KN044-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "將軍澳 - 寶琳新都城中心O2O店"
-      ],
-      "districts": [
-       "寶琳"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN052-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "油塘 - 大本型O2O店"
-      ],
-      "districts": [
-       "油塘"
-      ],
-      "none": true
-     },
-     {
       "zone": "KN057-1EX",
       "miss": [
        "AM",
@@ -10746,41 +6122,9 @@
        "將軍澳"
       ],
       "none": true
-     },
-     {
-      "zone": "KN101-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "藍田 - 滙景廣場O2O店"
-      ],
-      "districts": [
-       "藍田"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN193-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "觀塘 - 裕民坊商場O2O店"
-      ],
-      "districts": [
-       "觀塘"
-      ],
-      "none": true
      }
     ],
-    "addresses": 6
+    "addresses": 2
    },
    "TM00001": {
     "window": true,
@@ -10861,54 +6205,6 @@
       "none": true
      },
      {
-      "zone": "NT076-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "屯門 - 海趣坊O2O店"
-      ],
-      "districts": [
-       "屯門"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT115-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "屯門 - 景峰花園O2O店"
-      ],
-      "districts": [
-       "屯門"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT1209-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "屯門 - 愛定商場O2O店"
-      ],
-      "districts": [
-       "屯門"
-      ],
-      "none": true
-     },
-     {
       "zone": "NT733-1EX",
       "miss": [
        "AM",
@@ -10925,7 +6221,7 @@
       "none": true
      }
     ],
-    "addresses": 17
+    "addresses": 14
    },
    "TPH00001": {
     "window": true,
@@ -11017,118 +6313,6 @@
       ],
       "districts": [
        "太子"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT064-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "大埔 - 大埔廣場O2O店"
-      ],
-      "districts": [
-       "大埔"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT073-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "沙田 - 沙田圍田園閣O2O店"
-      ],
-      "districts": [
-       "沙田"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT1023-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "粉嶺 - 華明商場O2O店"
-      ],
-      "districts": [
-       "粉嶺"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT1119-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "馬鞍山廣場O2O店"
-      ],
-      "districts": [
-       "馬鞍山"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT1120-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "粉嶺名都商場O2O店"
-      ],
-      "districts": [
-       "粉嶺"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT124-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "上水 - 上水中心O2O店"
-      ],
-      "districts": [
-       "上水"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT182-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "粉嶺 - 逸峯廣場O2O店"
-      ],
-      "districts": [
-       "粉嶺"
       ],
       "none": true
      },
@@ -11229,7 +6413,7 @@
       "none": true
      }
     ],
-    "addresses": 28
+    "addresses": 21
    }
   },
   "2026-10-09": {
@@ -11286,54 +6470,6 @@
       "none": true
      },
      {
-      "zone": "HK038-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "鴨脷洲 - 海怡西商場O2O店"
-      ],
-      "districts": [
-       "鴨脷洲"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK040-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "堅尼地城 - 士美菲路O2O店"
-      ],
-      "districts": [
-       "堅尼地城"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK100-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "中環 - 堅道O2O店"
-      ],
-      "districts": [
-       "中環"
-      ],
-      "none": true
-     },
-     {
       "zone": "HK1028-1",
       "miss": [
        "AM",
@@ -11348,25 +6484,9 @@
        "西環"
       ],
       "none": true
-     },
-     {
-      "zone": "HK135-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "香港仔 - 香港仔中心O2O店"
-      ],
-      "districts": [
-       "香港仔"
-      ],
-      "none": true
      }
     ],
-    "addresses": 9
+    "addresses": 5
    },
    "KOWC00001": {
     "window": true,
@@ -11503,54 +6623,6 @@
       "none": true
      },
      {
-      "zone": "KN1080-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "黃大仙新光中心O2O店"
-      ],
-      "districts": [
-       "黃大仙"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN1090-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "土瓜灣 - 馬頭角道O2O店"
-      ],
-      "districts": [
-       "土瓜灣"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN1103-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "九龍灣 - 淘大商場O2O店"
-      ],
-      "districts": [
-       "九龍灣"
-      ],
-      "none": true
-     },
-     {
       "zone": "KN465-2EX",
       "miss": [
        "AM",
@@ -11615,7 +6687,7 @@
       "none": true
      }
     ],
-    "addresses": 33
+    "addresses": 30
    },
    "TW00001": {
     "window": true,
@@ -11747,22 +6819,6 @@
       "none": true
      },
      {
-      "zone": "KN191-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "葵涌 - 石籬商場O2O店"
-      ],
-      "districts": [
-       "葵涌"
-      ],
-      "none": true
-     },
-     {
       "zone": "NT056EX",
       "miss": [
        "AM",
@@ -11777,89 +6833,9 @@
        "青衣"
       ],
       "none": true
-     },
-     {
-      "zone": "NT074-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "葵涌 - 葵涌廣場O2O店"
-      ],
-      "districts": [
-       "葵涌"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT083-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "荃灣西 - 愉景新城O2O店"
-      ],
-      "districts": [
-       "荃灣西"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT1140-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "悅來坊O2O店"
-      ],
-      "districts": [
-       "荃灣東"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT1196-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "深井 - 海韻花園O2O店"
-      ],
-      "districts": [
-       "深井"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT879-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "青衣 - 長亨商場O2O店"
-      ],
-      "districts": [
-       "青衣"
-      ],
-      "none": true
      }
     ],
-    "addresses": 58
+    "addresses": 52
    },
    "WAN00001": {
     "window": true,
@@ -11883,22 +6859,6 @@
       "none": true
      },
      {
-      "zone": "HK025-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "杏花邨 - 杏花新城O2O店"
-      ],
-      "districts": [
-       "杏花邨"
-      ],
-      "none": true
-     },
-     {
       "zone": "HK045EX",
       "miss": [
        "AM",
@@ -11913,121 +6873,9 @@
        "灣仔"
       ],
       "none": true
-     },
-     {
-      "zone": "HK056-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "北角 - 健威O2O店"
-      ],
-      "districts": [
-       "北角"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK057-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "小西灣 - 富景花園O2O店"
-      ],
-      "districts": [
-       "小西灣"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK101-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "灣仔 - 英皇集團中心O2O店"
-      ],
-      "districts": [
-       "灣仔"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK1065-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "銅鑼灣東角商場O2O店"
-      ],
-      "districts": [
-       "銅鑼灣"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK1101-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "灣仔 - 春園街O2O店"
-      ],
-      "districts": [
-       "灣仔"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK134-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "西灣河 - 筲箕灣道O2O店"
-      ],
-      "districts": [
-       "西灣河"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK137-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "太古 - 康怡廣場O2O店"
-      ],
-      "districts": [
-       "太古"
-      ],
-      "none": true
      }
     ],
-    "addresses": 12
+    "addresses": 4
    },
    "POR00001": {
     "window": true,
@@ -12109,134 +6957,6 @@
       "none": true
      },
      {
-      "zone": "KN039-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "美孚 - 萬事達廣場O2O店"
-      ],
-      "districts": [
-       "美孚"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN051-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "紅磡 - 黃埔新邨O2O店"
-      ],
-      "districts": [
-       "紅磡"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN1092-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "荔枝角泓景匯O2O店"
-      ],
-      "districts": [
-       "荔枝角"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN1292-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "旺角 - 亞皆老街O2O店"
-      ],
-      "districts": [
-       "旺角"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN139-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "大角咀 - 港灣豪庭廣場O2O店"
-      ],
-      "districts": [
-       "大角咀"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN140-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "長沙灣 - 元洲街O2O店"
-      ],
-      "districts": [
-       "長沙灣"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN160-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "大角咀 - 奧海城O2O店"
-      ],
-      "districts": [
-       "大角咀"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN198-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "紅磡 - 煥然懿居O2O店"
-      ],
-      "districts": [
-       "紅磡"
-      ],
-      "none": true
-     },
-     {
       "zone": "KN580-4EX",
       "miss": [
        "AM",
@@ -12285,7 +7005,7 @@
       "none": true
      }
     ],
-    "addresses": 27
+    "addresses": 19
    },
    "MCP00001": {
     "window": true,
@@ -12307,38 +7027,6 @@
       "none": true
      },
      {
-      "zone": "KN044-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "將軍澳 - 寶琳新都城中心O2O店"
-      ],
-      "districts": [
-       "寶琳"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN052-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "油塘 - 大本型O2O店"
-      ],
-      "districts": [
-       "油塘"
-      ],
-      "none": true
-     },
-     {
       "zone": "KN057-1EX",
       "miss": [
        "AM",
@@ -12353,41 +7041,9 @@
        "將軍澳"
       ],
       "none": true
-     },
-     {
-      "zone": "KN101-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "藍田 - 滙景廣場O2O店"
-      ],
-      "districts": [
-       "藍田"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN193-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "觀塘 - 裕民坊商場O2O店"
-      ],
-      "districts": [
-       "觀塘"
-      ],
-      "none": true
      }
     ],
-    "addresses": 6
+    "addresses": 2
    },
    "TM00001": {
     "window": true,
@@ -12468,54 +7124,6 @@
       "none": true
      },
      {
-      "zone": "NT076-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "屯門 - 海趣坊O2O店"
-      ],
-      "districts": [
-       "屯門"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT115-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "屯門 - 景峰花園O2O店"
-      ],
-      "districts": [
-       "屯門"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT1209-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "屯門 - 愛定商場O2O店"
-      ],
-      "districts": [
-       "屯門"
-      ],
-      "none": true
-     },
-     {
       "zone": "NT733-1EX",
       "miss": [
        "AM",
@@ -12532,7 +7140,7 @@
       "none": true
      }
     ],
-    "addresses": 17
+    "addresses": 14
    },
    "TPH00001": {
     "window": true,
@@ -12624,118 +7232,6 @@
       ],
       "districts": [
        "太子"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT064-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "大埔 - 大埔廣場O2O店"
-      ],
-      "districts": [
-       "大埔"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT073-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "沙田 - 沙田圍田園閣O2O店"
-      ],
-      "districts": [
-       "沙田"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT1023-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "粉嶺 - 華明商場O2O店"
-      ],
-      "districts": [
-       "粉嶺"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT1119-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "馬鞍山廣場O2O店"
-      ],
-      "districts": [
-       "馬鞍山"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT1120-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "粉嶺名都商場O2O店"
-      ],
-      "districts": [
-       "粉嶺"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT124-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "上水 - 上水中心O2O店"
-      ],
-      "districts": [
-       "上水"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT182-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "粉嶺 - 逸峯廣場O2O店"
-      ],
-      "districts": [
-       "粉嶺"
       ],
       "none": true
      },
@@ -12836,7 +7332,7 @@
       "none": true
      }
     ],
-    "addresses": 28
+    "addresses": 21
    }
   },
   "2026-10-10": {
@@ -12893,54 +7389,6 @@
       "none": true
      },
      {
-      "zone": "HK038-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "鴨脷洲 - 海怡西商場O2O店"
-      ],
-      "districts": [
-       "鴨脷洲"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK040-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "堅尼地城 - 士美菲路O2O店"
-      ],
-      "districts": [
-       "堅尼地城"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK100-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "中環 - 堅道O2O店"
-      ],
-      "districts": [
-       "中環"
-      ],
-      "none": true
-     },
-     {
       "zone": "HK1028-1",
       "miss": [
        "AM",
@@ -12955,25 +7403,9 @@
        "西環"
       ],
       "none": true
-     },
-     {
-      "zone": "HK135-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "香港仔 - 香港仔中心O2O店"
-      ],
-      "districts": [
-       "香港仔"
-      ],
-      "none": true
      }
     ],
-    "addresses": 9
+    "addresses": 5
    },
    "KOWC00001": {
     "window": true,
@@ -13110,54 +7542,6 @@
       "none": true
      },
      {
-      "zone": "KN1080-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "黃大仙新光中心O2O店"
-      ],
-      "districts": [
-       "黃大仙"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN1090-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "土瓜灣 - 馬頭角道O2O店"
-      ],
-      "districts": [
-       "土瓜灣"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN1103-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "九龍灣 - 淘大商場O2O店"
-      ],
-      "districts": [
-       "九龍灣"
-      ],
-      "none": true
-     },
-     {
       "zone": "KN465-2EX",
       "miss": [
        "AM",
@@ -13222,7 +7606,7 @@
       "none": true
      }
     ],
-    "addresses": 33
+    "addresses": 30
    },
    "TW00001": {
     "window": true,
@@ -13354,22 +7738,6 @@
       "none": true
      },
      {
-      "zone": "KN191-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "葵涌 - 石籬商場O2O店"
-      ],
-      "districts": [
-       "葵涌"
-      ],
-      "none": true
-     },
-     {
       "zone": "NT056EX",
       "miss": [
        "AM",
@@ -13384,89 +7752,9 @@
        "青衣"
       ],
       "none": true
-     },
-     {
-      "zone": "NT074-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "葵涌 - 葵涌廣場O2O店"
-      ],
-      "districts": [
-       "葵涌"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT083-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "荃灣西 - 愉景新城O2O店"
-      ],
-      "districts": [
-       "荃灣西"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT1140-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "悅來坊O2O店"
-      ],
-      "districts": [
-       "荃灣東"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT1196-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "深井 - 海韻花園O2O店"
-      ],
-      "districts": [
-       "深井"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT879-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "青衣 - 長亨商場O2O店"
-      ],
-      "districts": [
-       "青衣"
-      ],
-      "none": true
      }
     ],
-    "addresses": 58
+    "addresses": 52
    },
    "WAN00001": {
     "window": true,
@@ -13490,22 +7778,6 @@
       "none": true
      },
      {
-      "zone": "HK025-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "杏花邨 - 杏花新城O2O店"
-      ],
-      "districts": [
-       "杏花邨"
-      ],
-      "none": true
-     },
-     {
       "zone": "HK045EX",
       "miss": [
        "AM",
@@ -13520,121 +7792,9 @@
        "灣仔"
       ],
       "none": true
-     },
-     {
-      "zone": "HK056-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "北角 - 健威O2O店"
-      ],
-      "districts": [
-       "北角"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK057-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "小西灣 - 富景花園O2O店"
-      ],
-      "districts": [
-       "小西灣"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK101-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "灣仔 - 英皇集團中心O2O店"
-      ],
-      "districts": [
-       "灣仔"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK1065-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "銅鑼灣東角商場O2O店"
-      ],
-      "districts": [
-       "銅鑼灣"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK1101-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "灣仔 - 春園街O2O店"
-      ],
-      "districts": [
-       "灣仔"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK134-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "西灣河 - 筲箕灣道O2O店"
-      ],
-      "districts": [
-       "西灣河"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK137-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "太古 - 康怡廣場O2O店"
-      ],
-      "districts": [
-       "太古"
-      ],
-      "none": true
      }
     ],
-    "addresses": 12
+    "addresses": 4
    },
    "POR00001": {
     "window": true,
@@ -13716,134 +7876,6 @@
       "none": true
      },
      {
-      "zone": "KN039-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "美孚 - 萬事達廣場O2O店"
-      ],
-      "districts": [
-       "美孚"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN051-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "紅磡 - 黃埔新邨O2O店"
-      ],
-      "districts": [
-       "紅磡"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN1092-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "荔枝角泓景匯O2O店"
-      ],
-      "districts": [
-       "荔枝角"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN1292-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "旺角 - 亞皆老街O2O店"
-      ],
-      "districts": [
-       "旺角"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN139-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "大角咀 - 港灣豪庭廣場O2O店"
-      ],
-      "districts": [
-       "大角咀"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN140-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "長沙灣 - 元洲街O2O店"
-      ],
-      "districts": [
-       "長沙灣"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN160-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "大角咀 - 奧海城O2O店"
-      ],
-      "districts": [
-       "大角咀"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN198-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "紅磡 - 煥然懿居O2O店"
-      ],
-      "districts": [
-       "紅磡"
-      ],
-      "none": true
-     },
-     {
       "zone": "KN580-4EX",
       "miss": [
        "AM",
@@ -13892,7 +7924,7 @@
       "none": true
      }
     ],
-    "addresses": 27
+    "addresses": 19
    },
    "MCP00001": {
     "window": true,
@@ -13914,38 +7946,6 @@
       "none": true
      },
      {
-      "zone": "KN044-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "將軍澳 - 寶琳新都城中心O2O店"
-      ],
-      "districts": [
-       "寶琳"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN052-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "油塘 - 大本型O2O店"
-      ],
-      "districts": [
-       "油塘"
-      ],
-      "none": true
-     },
-     {
       "zone": "KN057-1EX",
       "miss": [
        "AM",
@@ -13960,41 +7960,9 @@
        "將軍澳"
       ],
       "none": true
-     },
-     {
-      "zone": "KN101-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "藍田 - 滙景廣場O2O店"
-      ],
-      "districts": [
-       "藍田"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN193-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "觀塘 - 裕民坊商場O2O店"
-      ],
-      "districts": [
-       "觀塘"
-      ],
-      "none": true
      }
     ],
-    "addresses": 6
+    "addresses": 2
    },
    "TM00001": {
     "window": true,
@@ -14075,54 +8043,6 @@
       "none": true
      },
      {
-      "zone": "NT076-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "屯門 - 海趣坊O2O店"
-      ],
-      "districts": [
-       "屯門"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT115-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "屯門 - 景峰花園O2O店"
-      ],
-      "districts": [
-       "屯門"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT1209-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "屯門 - 愛定商場O2O店"
-      ],
-      "districts": [
-       "屯門"
-      ],
-      "none": true
-     },
-     {
       "zone": "NT733-1EX",
       "miss": [
        "AM",
@@ -14139,7 +8059,7 @@
       "none": true
      }
     ],
-    "addresses": 17
+    "addresses": 14
    },
    "TPH00001": {
     "window": true,
@@ -14231,118 +8151,6 @@
       ],
       "districts": [
        "太子"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT064-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "大埔 - 大埔廣場O2O店"
-      ],
-      "districts": [
-       "大埔"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT073-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "沙田 - 沙田圍田園閣O2O店"
-      ],
-      "districts": [
-       "沙田"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT1023-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "粉嶺 - 華明商場O2O店"
-      ],
-      "districts": [
-       "粉嶺"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT1119-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "馬鞍山廣場O2O店"
-      ],
-      "districts": [
-       "馬鞍山"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT1120-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "粉嶺名都商場O2O店"
-      ],
-      "districts": [
-       "粉嶺"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT124-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "上水 - 上水中心O2O店"
-      ],
-      "districts": [
-       "上水"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT182-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "粉嶺 - 逸峯廣場O2O店"
-      ],
-      "districts": [
-       "粉嶺"
       ],
       "none": true
      },
@@ -14443,7 +8251,7 @@
       "none": true
      }
     ],
-    "addresses": 28
+    "addresses": 21
    }
   },
   "2026-10-11": {
@@ -14500,54 +8308,6 @@
       "none": true
      },
      {
-      "zone": "HK038-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "鴨脷洲 - 海怡西商場O2O店"
-      ],
-      "districts": [
-       "鴨脷洲"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK040-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "堅尼地城 - 士美菲路O2O店"
-      ],
-      "districts": [
-       "堅尼地城"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK100-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "中環 - 堅道O2O店"
-      ],
-      "districts": [
-       "中環"
-      ],
-      "none": true
-     },
-     {
       "zone": "HK1028-1",
       "miss": [
        "AM",
@@ -14562,25 +8322,9 @@
        "西環"
       ],
       "none": true
-     },
-     {
-      "zone": "HK135-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "香港仔 - 香港仔中心O2O店"
-      ],
-      "districts": [
-       "香港仔"
-      ],
-      "none": true
      }
     ],
-    "addresses": 9
+    "addresses": 5
    },
    "KOWC00001": {
     "window": true,
@@ -14717,54 +8461,6 @@
       "none": true
      },
      {
-      "zone": "KN1080-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "黃大仙新光中心O2O店"
-      ],
-      "districts": [
-       "黃大仙"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN1090-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "土瓜灣 - 馬頭角道O2O店"
-      ],
-      "districts": [
-       "土瓜灣"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN1103-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "九龍灣 - 淘大商場O2O店"
-      ],
-      "districts": [
-       "九龍灣"
-      ],
-      "none": true
-     },
-     {
       "zone": "KN465-2EX",
       "miss": [
        "AM",
@@ -14829,7 +8525,7 @@
       "none": true
      }
     ],
-    "addresses": 33
+    "addresses": 30
    },
    "TW00001": {
     "window": true,
@@ -14961,22 +8657,6 @@
       "none": true
      },
      {
-      "zone": "KN191-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "葵涌 - 石籬商場O2O店"
-      ],
-      "districts": [
-       "葵涌"
-      ],
-      "none": true
-     },
-     {
       "zone": "NT056EX",
       "miss": [
        "AM",
@@ -14991,89 +8671,9 @@
        "青衣"
       ],
       "none": true
-     },
-     {
-      "zone": "NT074-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "葵涌 - 葵涌廣場O2O店"
-      ],
-      "districts": [
-       "葵涌"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT083-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "荃灣西 - 愉景新城O2O店"
-      ],
-      "districts": [
-       "荃灣西"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT1140-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "悅來坊O2O店"
-      ],
-      "districts": [
-       "荃灣東"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT1196-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "深井 - 海韻花園O2O店"
-      ],
-      "districts": [
-       "深井"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT879-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "青衣 - 長亨商場O2O店"
-      ],
-      "districts": [
-       "青衣"
-      ],
-      "none": true
      }
     ],
-    "addresses": 58
+    "addresses": 52
    },
    "WAN00001": {
     "window": true,
@@ -15097,22 +8697,6 @@
       "none": true
      },
      {
-      "zone": "HK025-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "杏花邨 - 杏花新城O2O店"
-      ],
-      "districts": [
-       "杏花邨"
-      ],
-      "none": true
-     },
-     {
       "zone": "HK045EX",
       "miss": [
        "AM",
@@ -15127,121 +8711,9 @@
        "灣仔"
       ],
       "none": true
-     },
-     {
-      "zone": "HK056-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "北角 - 健威O2O店"
-      ],
-      "districts": [
-       "北角"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK057-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "小西灣 - 富景花園O2O店"
-      ],
-      "districts": [
-       "小西灣"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK101-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "灣仔 - 英皇集團中心O2O店"
-      ],
-      "districts": [
-       "灣仔"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK1065-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "銅鑼灣東角商場O2O店"
-      ],
-      "districts": [
-       "銅鑼灣"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK1101-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "灣仔 - 春園街O2O店"
-      ],
-      "districts": [
-       "灣仔"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK134-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "西灣河 - 筲箕灣道O2O店"
-      ],
-      "districts": [
-       "西灣河"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK137-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "太古 - 康怡廣場O2O店"
-      ],
-      "districts": [
-       "太古"
-      ],
-      "none": true
      }
     ],
-    "addresses": 12
+    "addresses": 4
    },
    "POR00001": {
     "window": true,
@@ -15323,134 +8795,6 @@
       "none": true
      },
      {
-      "zone": "KN039-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "美孚 - 萬事達廣場O2O店"
-      ],
-      "districts": [
-       "美孚"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN051-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "紅磡 - 黃埔新邨O2O店"
-      ],
-      "districts": [
-       "紅磡"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN1092-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "荔枝角泓景匯O2O店"
-      ],
-      "districts": [
-       "荔枝角"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN1292-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "旺角 - 亞皆老街O2O店"
-      ],
-      "districts": [
-       "旺角"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN139-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "大角咀 - 港灣豪庭廣場O2O店"
-      ],
-      "districts": [
-       "大角咀"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN140-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "長沙灣 - 元洲街O2O店"
-      ],
-      "districts": [
-       "長沙灣"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN160-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "大角咀 - 奧海城O2O店"
-      ],
-      "districts": [
-       "大角咀"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN198-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "紅磡 - 煥然懿居O2O店"
-      ],
-      "districts": [
-       "紅磡"
-      ],
-      "none": true
-     },
-     {
       "zone": "KN580-4EX",
       "miss": [
        "AM",
@@ -15499,7 +8843,7 @@
       "none": true
      }
     ],
-    "addresses": 27
+    "addresses": 19
    },
    "MCP00001": {
     "window": true,
@@ -15521,38 +8865,6 @@
       "none": true
      },
      {
-      "zone": "KN044-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "將軍澳 - 寶琳新都城中心O2O店"
-      ],
-      "districts": [
-       "寶琳"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN052-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "油塘 - 大本型O2O店"
-      ],
-      "districts": [
-       "油塘"
-      ],
-      "none": true
-     },
-     {
       "zone": "KN057-1EX",
       "miss": [
        "AM",
@@ -15567,41 +8879,9 @@
        "將軍澳"
       ],
       "none": true
-     },
-     {
-      "zone": "KN101-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "藍田 - 滙景廣場O2O店"
-      ],
-      "districts": [
-       "藍田"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN193-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "觀塘 - 裕民坊商場O2O店"
-      ],
-      "districts": [
-       "觀塘"
-      ],
-      "none": true
      }
     ],
-    "addresses": 6
+    "addresses": 2
    },
    "TM00001": {
     "window": true,
@@ -15682,54 +8962,6 @@
       "none": true
      },
      {
-      "zone": "NT076-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "屯門 - 海趣坊O2O店"
-      ],
-      "districts": [
-       "屯門"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT115-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "屯門 - 景峰花園O2O店"
-      ],
-      "districts": [
-       "屯門"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT1209-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "屯門 - 愛定商場O2O店"
-      ],
-      "districts": [
-       "屯門"
-      ],
-      "none": true
-     },
-     {
       "zone": "NT733-1EX",
       "miss": [
        "AM",
@@ -15746,7 +8978,7 @@
       "none": true
      }
     ],
-    "addresses": 17
+    "addresses": 14
    },
    "TPH00001": {
     "window": true,
@@ -15838,118 +9070,6 @@
       ],
       "districts": [
        "太子"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT064-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "大埔 - 大埔廣場O2O店"
-      ],
-      "districts": [
-       "大埔"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT073-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "沙田 - 沙田圍田園閣O2O店"
-      ],
-      "districts": [
-       "沙田"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT1023-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "粉嶺 - 華明商場O2O店"
-      ],
-      "districts": [
-       "粉嶺"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT1119-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "馬鞍山廣場O2O店"
-      ],
-      "districts": [
-       "馬鞍山"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT1120-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "粉嶺名都商場O2O店"
-      ],
-      "districts": [
-       "粉嶺"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT124-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "上水 - 上水中心O2O店"
-      ],
-      "districts": [
-       "上水"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT182-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "粉嶺 - 逸峯廣場O2O店"
-      ],
-      "districts": [
-       "粉嶺"
       ],
       "none": true
      },
@@ -16050,7 +9170,7 @@
       "none": true
      }
     ],
-    "addresses": 28
+    "addresses": 21
    }
   },
   "2026-10-12": {
@@ -16190,22 +9310,6 @@
       "none": true
      },
      {
-      "zone": "KN191-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "葵涌 - 石籬商場O2O店"
-      ],
-      "districts": [
-       "葵涌"
-      ],
-      "none": true
-     },
-     {
       "zone": "NT056EX",
       "miss": [
        "AM",
@@ -16220,89 +9324,9 @@
        "青衣"
       ],
       "none": true
-     },
-     {
-      "zone": "NT074-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "葵涌 - 葵涌廣場O2O店"
-      ],
-      "districts": [
-       "葵涌"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT083-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "荃灣西 - 愉景新城O2O店"
-      ],
-      "districts": [
-       "荃灣西"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT1140-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "悅來坊O2O店"
-      ],
-      "districts": [
-       "荃灣東"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT1196-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "深井 - 海韻花園O2O店"
-      ],
-      "districts": [
-       "深井"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT879-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "青衣 - 長亨商場O2O店"
-      ],
-      "districts": [
-       "青衣"
-      ],
-      "none": true
      }
     ],
-    "addresses": 58
+    "addresses": 52
    },
    "WAN00001": {
     "window": false
@@ -16330,38 +9354,6 @@
       "none": true
      },
      {
-      "zone": "KN044-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "將軍澳 - 寶琳新都城中心O2O店"
-      ],
-      "districts": [
-       "寶琳"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN052-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "油塘 - 大本型O2O店"
-      ],
-      "districts": [
-       "油塘"
-      ],
-      "none": true
-     },
-     {
       "zone": "KN057-1EX",
       "miss": [
        "AM",
@@ -16376,41 +9368,9 @@
        "將軍澳"
       ],
       "none": true
-     },
-     {
-      "zone": "KN101-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "藍田 - 滙景廣場O2O店"
-      ],
-      "districts": [
-       "藍田"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN193-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "觀塘 - 裕民坊商場O2O店"
-      ],
-      "districts": [
-       "觀塘"
-      ],
-      "none": true
      }
     ],
-    "addresses": 6
+    "addresses": 2
    },
    "TM00001": {
     "window": false
@@ -16556,22 +9516,6 @@
       "none": true
      },
      {
-      "zone": "KN191-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "葵涌 - 石籬商場O2O店"
-      ],
-      "districts": [
-       "葵涌"
-      ],
-      "none": true
-     },
-     {
       "zone": "NT056EX",
       "miss": [
        "AM",
@@ -16586,89 +9530,9 @@
        "青衣"
       ],
       "none": true
-     },
-     {
-      "zone": "NT074-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "葵涌 - 葵涌廣場O2O店"
-      ],
-      "districts": [
-       "葵涌"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT083-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "荃灣西 - 愉景新城O2O店"
-      ],
-      "districts": [
-       "荃灣西"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT1140-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "悅來坊O2O店"
-      ],
-      "districts": [
-       "荃灣東"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT1196-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "深井 - 海韻花園O2O店"
-      ],
-      "districts": [
-       "深井"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT879-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "青衣 - 長亨商場O2O店"
-      ],
-      "districts": [
-       "青衣"
-      ],
-      "none": true
      }
     ],
-    "addresses": 58
+    "addresses": 52
    },
    "WAN00001": {
     "window": false
@@ -16696,38 +9560,6 @@
       "none": true
      },
      {
-      "zone": "KN044-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "將軍澳 - 寶琳新都城中心O2O店"
-      ],
-      "districts": [
-       "寶琳"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN052-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "油塘 - 大本型O2O店"
-      ],
-      "districts": [
-       "油塘"
-      ],
-      "none": true
-     },
-     {
       "zone": "KN057-1EX",
       "miss": [
        "AM",
@@ -16742,41 +9574,9 @@
        "將軍澳"
       ],
       "none": true
-     },
-     {
-      "zone": "KN101-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "藍田 - 滙景廣場O2O店"
-      ],
-      "districts": [
-       "藍田"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN193-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "觀塘 - 裕民坊商場O2O店"
-      ],
-      "districts": [
-       "觀塘"
-      ],
-      "none": true
      }
     ],
-    "addresses": 6
+    "addresses": 2
    },
    "TM00001": {
     "window": false
@@ -16922,22 +9722,6 @@
       "none": true
      },
      {
-      "zone": "KN191-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "葵涌 - 石籬商場O2O店"
-      ],
-      "districts": [
-       "葵涌"
-      ],
-      "none": true
-     },
-     {
       "zone": "NT056EX",
       "miss": [
        "AM",
@@ -16952,89 +9736,9 @@
        "青衣"
       ],
       "none": true
-     },
-     {
-      "zone": "NT074-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "葵涌 - 葵涌廣場O2O店"
-      ],
-      "districts": [
-       "葵涌"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT083-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "荃灣西 - 愉景新城O2O店"
-      ],
-      "districts": [
-       "荃灣西"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT1140-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "悅來坊O2O店"
-      ],
-      "districts": [
-       "荃灣東"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT1196-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "深井 - 海韻花園O2O店"
-      ],
-      "districts": [
-       "深井"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT879-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "青衣 - 長亨商場O2O店"
-      ],
-      "districts": [
-       "青衣"
-      ],
-      "none": true
      }
     ],
-    "addresses": 58
+    "addresses": 52
    },
    "WAN00001": {
     "window": false
@@ -17062,38 +9766,6 @@
       "none": true
      },
      {
-      "zone": "KN044-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "將軍澳 - 寶琳新都城中心O2O店"
-      ],
-      "districts": [
-       "寶琳"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN052-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "油塘 - 大本型O2O店"
-      ],
-      "districts": [
-       "油塘"
-      ],
-      "none": true
-     },
-     {
       "zone": "KN057-1EX",
       "miss": [
        "AM",
@@ -17108,41 +9780,9 @@
        "將軍澳"
       ],
       "none": true
-     },
-     {
-      "zone": "KN101-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "藍田 - 滙景廣場O2O店"
-      ],
-      "districts": [
-       "藍田"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN193-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "觀塘 - 裕民坊商場O2O店"
-      ],
-      "districts": [
-       "觀塘"
-      ],
-      "none": true
      }
     ],
-    "addresses": 6
+    "addresses": 2
    },
    "TM00001": {
     "window": false
@@ -17288,22 +9928,6 @@
       "none": true
      },
      {
-      "zone": "KN191-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "葵涌 - 石籬商場O2O店"
-      ],
-      "districts": [
-       "葵涌"
-      ],
-      "none": true
-     },
-     {
       "zone": "NT056EX",
       "miss": [
        "AM",
@@ -17318,89 +9942,9 @@
        "青衣"
       ],
       "none": true
-     },
-     {
-      "zone": "NT074-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "葵涌 - 葵涌廣場O2O店"
-      ],
-      "districts": [
-       "葵涌"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT083-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "荃灣西 - 愉景新城O2O店"
-      ],
-      "districts": [
-       "荃灣西"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT1140-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "悅來坊O2O店"
-      ],
-      "districts": [
-       "荃灣東"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT1196-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "深井 - 海韻花園O2O店"
-      ],
-      "districts": [
-       "深井"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT879-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "青衣 - 長亨商場O2O店"
-      ],
-      "districts": [
-       "青衣"
-      ],
-      "none": true
      }
     ],
-    "addresses": 58
+    "addresses": 52
    },
    "WAN00001": {
     "window": false
@@ -17428,38 +9972,6 @@
       "none": true
      },
      {
-      "zone": "KN044-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "將軍澳 - 寶琳新都城中心O2O店"
-      ],
-      "districts": [
-       "寶琳"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN052-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "油塘 - 大本型O2O店"
-      ],
-      "districts": [
-       "油塘"
-      ],
-      "none": true
-     },
-     {
       "zone": "KN057-1EX",
       "miss": [
        "AM",
@@ -17474,41 +9986,9 @@
        "將軍澳"
       ],
       "none": true
-     },
-     {
-      "zone": "KN101-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "藍田 - 滙景廣場O2O店"
-      ],
-      "districts": [
-       "藍田"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN193-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "觀塘 - 裕民坊商場O2O店"
-      ],
-      "districts": [
-       "觀塘"
-      ],
-      "none": true
      }
     ],
-    "addresses": 6
+    "addresses": 2
    },
    "TM00001": {
     "window": false
@@ -17654,22 +10134,6 @@
       "none": true
      },
      {
-      "zone": "KN191-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "葵涌 - 石籬商場O2O店"
-      ],
-      "districts": [
-       "葵涌"
-      ],
-      "none": true
-     },
-     {
       "zone": "NT056EX",
       "miss": [
        "AM",
@@ -17684,89 +10148,9 @@
        "青衣"
       ],
       "none": true
-     },
-     {
-      "zone": "NT074-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "葵涌 - 葵涌廣場O2O店"
-      ],
-      "districts": [
-       "葵涌"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT083-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "荃灣西 - 愉景新城O2O店"
-      ],
-      "districts": [
-       "荃灣西"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT1140-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "悅來坊O2O店"
-      ],
-      "districts": [
-       "荃灣東"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT1196-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "深井 - 海韻花園O2O店"
-      ],
-      "districts": [
-       "深井"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT879-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "青衣 - 長亨商場O2O店"
-      ],
-      "districts": [
-       "青衣"
-      ],
-      "none": true
      }
     ],
-    "addresses": 58
+    "addresses": 52
    },
    "WAN00001": {
     "window": false
@@ -17794,38 +10178,6 @@
       "none": true
      },
      {
-      "zone": "KN044-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "將軍澳 - 寶琳新都城中心O2O店"
-      ],
-      "districts": [
-       "寶琳"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN052-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "油塘 - 大本型O2O店"
-      ],
-      "districts": [
-       "油塘"
-      ],
-      "none": true
-     },
-     {
       "zone": "KN057-1EX",
       "miss": [
        "AM",
@@ -17840,41 +10192,9 @@
        "將軍澳"
       ],
       "none": true
-     },
-     {
-      "zone": "KN101-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "藍田 - 滙景廣場O2O店"
-      ],
-      "districts": [
-       "藍田"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN193-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "觀塘 - 裕民坊商場O2O店"
-      ],
-      "districts": [
-       "觀塘"
-      ],
-      "none": true
      }
     ],
-    "addresses": 6
+    "addresses": 2
    },
    "TM00001": {
     "window": false

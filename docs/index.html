@@ -66,6 +66,14 @@
   .pill.bad{border-color:var(--bad);background:var(--badbg)} .pill.bad .v{color:var(--bad)}
   .pill.idle .v{color:var(--mute)}
   .pill .s{color:var(--dim);font-size:11px}
+  td.pick{cursor:pointer} td.pick:hover{outline:2px solid var(--accent);outline-offset:-2px}
+  td.sel{outline:2px solid var(--accent);outline-offset:-2px}
+  tr.selrow td.row{color:var(--accent)}
+  .zg h3{font-size:14px;margin:16px 0 6px}
+  .zg table{white-space:normal}
+  .zg td{text-align:left;vertical-align:top}
+  .zg td.n{text-align:right}
+  .zg .addr{color:var(--dim);font-size:12px;max-width:640px}
 </style>
 </head>
 <body>
@@ -79,11 +87,13 @@
     <button role="tab" data-p="ts" aria-selected="true">落單時段</button>
     <button role="tab" data-p="dq" aria-selected="false">District Quota</button>
     <button role="tab" data-p="cl" aria-selected="false">車線 Carline</button>
+    <button role="tab" data-p="zg" aria-selected="false">地址冇車線</button>
   </div>
 
   <section class="card" id="p-ts"></section>
   <section class="card" id="p-dq" hidden></section>
   <section class="card" id="p-cl" hidden></section>
+  <section class="card" id="p-zg" hidden></section>
 </div>
 
 <script>
@@ -249,6 +259,74 @@ function renderCL(d){
   el("p-cl").innerHTML = h;
 }
 
+/* ── 4. 地址冇車線 ──────────────────────────────────────────
+   CMS（estate.availableStores）話送得到，但 OIX 嗰日嗰個 zone 冇 route。
+   偏遠（isolatedArea）已剔走。上面一張日期×街市總覽，撳一格睇嗰日明細。 */
+let ZG = null, zgDate = null;
+function renderZG(d){
+  ZG = d;
+  if (!zgDate || !d.dates.includes(zgDate)) {
+    zgDate = d.dates.find(dt => dt >= today) || d.dates[0];
+  }
+  const codes = sortCodes(Object.keys(d.byDate[d.dates[0]] || {}));
+  let h = metaLine(d.updatedAt, 26*60);
+  h += "<div class=\"scroll\"><table><thead><tr><th class=\"row\">日期</th>";
+  codes.forEach(c => h += "<th>" + esc(NAME[c]||c) + "</th>");
+  h += "<th>合計</th></tr></thead><tbody>";
+  d.dates.forEach(dt => {
+    const per = d.byDate[dt];
+    let tot = 0, any = false;
+    h += "<tr class=\"" + (dt===zgDate?"selrow":"") + "\"><td class=\"row" + (dt===today?" today":"") +
+         "\">" + dt.slice(5) + (dt===today?"（今日）":"") + "</td>";
+    codes.forEach(c => {
+      const v = per[c];
+      if (!v || !v.window) { h += "<td class=\"na\" title=\"OIX 車線未開到呢日\">未開</td>"; return; }
+      any = true; tot += v.addresses;
+      const cls = (v.addresses ? "gone" : "open") + " pick" + (dt===zgDate?" sel":"");
+      h += "<td class=\"" + cls + "\" data-d=\"" + dt + "\" title=\"" + v.zones.length + " 個 zone\">" +
+           (v.addresses || "✓") + "</td>";
+    });
+    h += "<td class=\"pick" + (dt===zgDate?" sel":"") + "\" data-d=\"" + dt + "\"><b>" +
+         (any ? tot : "—") + "</b></td></tr>";
+  });
+  h += "</tbody></table></div>";
+  h += "<div class=\"legend\"><span><b class=\"gone\">數字</b> 有幾多個地址冇車線</span>" +
+       "<span><b class=\"open\">✓</b> 全部有車線</span>" +
+       "<span><b class=\"na\">未開</b> OIX 車線未推到呢日（批次推），唔逐個報</span>" +
+       "<span>撳一格睇嗰日明細</span></div>";
+
+  // 明細
+  const per = d.byDate[zgDate] || {};
+  h += "<div class=\"zg\"><h3>" + zgDate + (zgDate===today?"（今日）":"") + " 明細</h3>";
+  let shown = 0;
+  codes.forEach(c => {
+    const v = per[c];
+    if (!v || !v.window || !v.zones.length) return;
+    shown++;
+    h += "<h3>" + esc(NAME[c]||c) + "　<span class=\"nas\">" + v.addresses + " 個地址 · " +
+         v.zones.length + " 個 zone</span></h3>";
+    h += "<div class=\"scroll\"><table><thead><tr><th>Zone</th><th>冇車線時段</th>" +
+         "<th>地址數</th><th>地區</th><th>地址</th></tr></thead><tbody>";
+    v.zones.forEach(z => {
+      h += "<tr><td>" + esc(z.zone) + "</td><td class=\"" + (z.none ? "gone" : "tight") + "\">" +
+           (z.none ? "全日" : esc(z.miss.join(" / "))) + "</td><td class=\"n\">" + z.estates.length +
+           "</td><td>" + esc(z.districts.join("、")) + "</td><td class=\"addr\">" +
+           esc(z.estates.join("、")) + "</td></tr>";
+    });
+    h += "</tbody></table></div>";
+  });
+  if (!shown) h += "<div class=\"note\">呢日冇問題地址（或者車線未開到）。</div>";
+  h += "</div>";
+  h += "<div class=\"note\">地址嚟自 CMS 地址庫（active、唔計偏遠 isolatedArea），" +
+       "按 availableStores 歸街市；車線嚟自 OIX Delivery Zone。屯門連埋 NT-YTEX（元朗區）、" +
+       "大埔墟連埋 NT-TSMEX（火炭／大學）一齊睇。共查 " + d.estatesChecked.toLocaleString() +
+       " 個地址，每日更新一次。</div>";
+  el("p-zg").innerHTML = h;
+  el("p-zg").querySelectorAll("td.pick").forEach(td => td.onclick = () => {
+    zgDate = td.dataset.d; renderZG(ZG);
+  });
+}
+
 /* ── 0. 狀態列 ───────────────────────────────────────────── */
 function minsAgo(iso){ return iso ? (Date.now() - new Date(iso)) / 60000 : null; }
 function hhmm(iso){ return iso ? iso.slice(11,16) : "—"; }
@@ -343,13 +421,14 @@ function renderStatus(h){
 document.querySelectorAll(".tabs button").forEach(b => b.onclick = () => {
   document.querySelectorAll(".tabs button").forEach(x =>
     x.setAttribute("aria-selected", String(x === b)));
-  ["ts","dq","cl"].forEach(p => el("p-" + p).hidden = (p !== b.dataset.p));
+  ["ts","dq","cl","zg"].forEach(p => el("p-" + p).hidden = (p !== b.dataset.p));
 });
 
 async function refresh(){
   const jobs = [["timeslots.json", renderTS, "p-ts"],
                 ["district.json", renderDQ, "p-dq"],
-                ["carline.json", renderCL, "p-cl"]];
+                ["carline.json", renderCL, "p-cl"],
+                ["zonegap.json", renderZG, "p-zg"]];
   const times = [];
   for (const [f, fn, id] of jobs) {
     try { const d = await load(f); fn(d); times.push(d.updatedAt); }

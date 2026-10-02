@@ -121,15 +121,22 @@ def do_carline() -> None:
         "districtLatest": {c: C.latest_for_market(lat, c) for c in C.MARKET_NAME}})
 
 
+def do_zonegap() -> None:
+    # CMS 話送得到、OIX 冇車線嘅地址（逐日）。~130 個 CMS + ~150 個 OIX request。
+    import zonegap
+    _write("zonegap.json", zonegap.build(DAYS))
+
+
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--all", action="store_true")
     ap.add_argument("--timeslots", action="store_true")
     ap.add_argument("--district", action="store_true")
     ap.add_argument("--carline", action="store_true")
+    ap.add_argument("--zonegap", action="store_true")
     a = ap.parse_args()
-    if not any((a.all, a.timeslots, a.district, a.carline)):
-        ap.error("要揀至少一樣：--all / --timeslots / --district / --carline")
+    if not any((a.all, a.timeslots, a.district, a.carline, a.zonegap)):
+        ap.error("要揀至少一樣：--all / --timeslots / --district / --carline / --zonegap")
     # ⚠ Fast（每 5 分鐘）同 Carline（每日 06:30）會撞正 06:30 —— 兩個一齊
     # 改 docs/data/*.json 又一齊 git commit，邊個搶輸就 exit 1。
     # 2026-09-18~21 車線連續四日冇更新就係咁，而且靜靜雞失敗。
@@ -141,6 +148,8 @@ def main() -> int:
             do_district()
         if a.all or a.carline:
             do_carline()
+        if a.all or a.zonegap:
+            do_zonegap()
     return 0
 
 

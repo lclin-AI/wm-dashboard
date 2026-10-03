@@ -1,19 +1,19 @@
 {
- "updatedAt": "2026-10-03T22:18:53",
+ "updatedAt": "2026-10-03T22:24:52",
  "marketsChecked": 8,
  "marketsTotal": 8,
  "marketsFailed": [],
- "blownCount": 0,
+ "blownCount": 1,
  "oixOk": true,
  "carlineCheckedAt": "2026-10-03T14:53:00",
  "lastWhatsApp": {
-  "at": "2026-10-03T11:51:18",
+  "at": "2026-10-03T22:23:58",
   "ok": false,
   "rc": 1,
   "head": "🚨 街市即日餸 爆 quota"
  },
  "lastSlack": {
-  "at": "2026-10-03T11:51:10",
+  "at": "2026-10-03T22:23:53",
   "ok": true,
   "note": ""
  },
@@ -23,5 +23,5 @@
   "note": "已登出 (401)，要重新掃 QR — 行 node wa_login.js",
   "at": "2026-10-03T22:12:22"
  },
- "collectedAt": "2026-10-03T22:20:03"
+ "collectedAt": "2026-10-03T22:25:03"
 }

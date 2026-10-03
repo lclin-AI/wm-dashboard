@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-10-04T05:54:24",
+ "updatedAt": "2026-10-04T05:58:52",
  "marketsChecked": 8,
  "marketsTotal": 8,
  "marketsFailed": [],
- "blownCount": 6,
+ "blownCount": 0,
  "oixOk": true,
  "carlineCheckedAt": "2026-10-03T14:53:00",
  "lastWhatsApp": {
@@ -23,5 +23,5 @@
   "note": "已登出 (401)，要重新掃 QR — 行 node wa_login.js",
   "at": "2026-10-04T05:46:44"
  },
- "collectedAt": "2026-10-04T05:55:02"
+ "collectedAt": "2026-10-04T06:00:02"
 }

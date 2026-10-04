@@ -1,10 +1,10 @@
 {
- "updatedAt": "2026-10-05T00:24:53",
+ "updatedAt": "2026-10-05T00:29:19",
  "marketsChecked": 8,
  "marketsTotal": 8,
  "marketsFailed": [],
  "blownCount": 4,
- "oixOk": false,
+ "oixOk": true,
  "carlineCheckedAt": "2026-10-04T14:54:04",
  "lastWhatsApp": {
   "at": "2026-10-05T00:17:28",
@@ -21,7 +21,7 @@
   "ok": false,
   "state": "logged_out",
   "note": "已登出 (401)，要重新掃 QR — 行 node wa_login.js",
-  "at": "2026-10-05T00:13:10"
+  "at": "2026-10-05T00:27:12"
  },
- "collectedAt": "2026-10-05T00:25:02"
+ "collectedAt": "2026-10-05T00:30:02"
 }

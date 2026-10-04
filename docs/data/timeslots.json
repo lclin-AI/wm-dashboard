@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-05T01:24:17",
+ "updatedAt": "2026-10-05T01:28:53",
  "cells": [
   {
    "code": "SMI00001",
@@ -763,7 +763,7 @@
    "date": "2026-10-05",
    "plusDay": 0,
    "slot": "10:00-12:30",
-   "status": "open",
+   "status": "gone",
    "cutoff": "2026-10-05T06:00:00"
   },
   {
@@ -866,5 +866,5 @@
    "cutoff": "2026-10-07T16:00:00"
   }
  ],
- "ageSeconds": 45
+ "ageSeconds": 70
 }

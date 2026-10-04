@@ -1,23 +1,19 @@
 {
- "updatedAt": "2026-10-05T00:11:01",
- "marketsChecked": 5,
+ "updatedAt": "2026-10-05T00:19:26",
+ "marketsChecked": 8,
  "marketsTotal": 8,
- "marketsFailed": [
-  "九龍城街市（ReadTimeout）",
-  "荃灣·楊屋道街市（ReadTimeout）",
-  "灣仔街市（ReadTimeout）"
- ],
+ "marketsFailed": [],
  "blownCount": 4,
  "oixOk": false,
  "carlineCheckedAt": "2026-10-04T14:54:04",
  "lastWhatsApp": {
-  "at": "2026-10-05T00:01:48",
+  "at": "2026-10-05T00:17:28",
   "ok": false,
   "rc": 1,
-  "head": "🔌 街市即日餸 App 叫唔到"
+  "head": "✅ 街市即日餸 App 返返正常，時段又查得返。"
  },
  "lastSlack": {
-  "at": "2026-10-05T00:01:45",
+  "at": "2026-10-05T00:17:22",
   "ok": true,
   "note": ""
  },
@@ -27,5 +23,5 @@
   "note": "已登出 (401)，要重新掃 QR — 行 node wa_login.js",
   "at": "2026-10-05T00:13:10"
  },
- "collectedAt": "2026-10-05T00:15:03"
+ "collectedAt": "2026-10-05T00:20:02"
 }

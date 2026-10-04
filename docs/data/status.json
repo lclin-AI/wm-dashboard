@@ -1,8 +1,15 @@
 {
- "updatedAt": "2026-10-04T23:48:12",
- "marketsChecked": 8,
+ "updatedAt": "2026-10-04T23:49:18",
+ "marketsChecked": 2,
  "marketsTotal": 8,
- "marketsFailed": [],
+ "marketsFailed": [
+  "士美菲路街市（ReadTimeout）",
+  "屯門·新墟街市（ReadTimeout）",
+  "九龍城街市（ReadTimeout）",
+  "大埔墟街市（ReadTimeout）",
+  "灣仔街市（ReadTimeout）",
+  "將軍澳·尚德街市（ReadTimeout）"
+ ],
  "blownCount": 3,
  "oixOk": false,
  "carlineCheckedAt": "2026-10-04T14:54:04",
@@ -23,5 +30,5 @@
   "note": "已登出 (401)，要重新掃 QR — 行 node wa_login.js",
   "at": "2026-10-04T23:35:28"
  },
- "collectedAt": "2026-10-04T23:50:02"
+ "collectedAt": "2026-10-04T23:55:02"
 }

@@ -1,19 +1,19 @@
 {
- "updatedAt": "2026-10-05T00:29:19",
+ "updatedAt": "2026-10-05T00:33:51",
  "marketsChecked": 8,
  "marketsTotal": 8,
  "marketsFailed": [],
- "blownCount": 4,
+ "blownCount": 5,
  "oixOk": true,
  "carlineCheckedAt": "2026-10-04T14:54:04",
  "lastWhatsApp": {
-  "at": "2026-10-05T00:17:28",
+  "at": "2026-10-05T00:31:50",
   "ok": false,
   "rc": 1,
-  "head": "✅ 街市即日餸 App 返返正常，時段又查得返。"
+  "head": "🚨 街市即日餸 爆 quota"
  },
  "lastSlack": {
-  "at": "2026-10-05T00:17:22",
+  "at": "2026-10-05T00:31:45",
   "ok": true,
   "note": ""
  },
@@ -23,5 +23,5 @@
   "note": "已登出 (401)，要重新掃 QR — 行 node wa_login.js",
   "at": "2026-10-05T00:27:12"
  },
- "collectedAt": "2026-10-05T00:30:02"
+ "collectedAt": "2026-10-05T00:35:02"
 }

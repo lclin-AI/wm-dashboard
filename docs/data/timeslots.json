@@ -1,47 +1,11 @@
 {
- "updatedAt": "2026-10-04T23:58:32",
+ "updatedAt": "2026-10-05T00:06:23",
  "cells": [
   {
    "code": "TM00001",
    "name": "屯門·新墟街市",
-   "date": "2026-10-04",
-   "plusDay": 0,
-   "slot": "10:00-12:30",
-   "status": "cutoff",
-   "cutoff": "2026-10-04T06:00:00"
-  },
-  {
-   "code": "TM00001",
-   "name": "屯門·新墟街市",
-   "date": "2026-10-04",
-   "plusDay": 0,
-   "slot": "13:00-15:30",
-   "status": "cutoff",
-   "cutoff": "2026-10-04T10:00:00"
-  },
-  {
-   "code": "TM00001",
-   "name": "屯門·新墟街市",
-   "date": "2026-10-04",
-   "plusDay": 0,
-   "slot": "16:00-18:30",
-   "status": "cutoff",
-   "cutoff": "2026-10-04T13:00:00"
-  },
-  {
-   "code": "TM00001",
-   "name": "屯門·新墟街市",
-   "date": "2026-10-04",
-   "plusDay": 0,
-   "slot": "18:00-20:30",
-   "status": "cutoff",
-   "cutoff": "2026-10-04T16:00:00"
-  },
-  {
-   "code": "TM00001",
-   "name": "屯門·新墟街市",
    "date": "2026-10-05",
-   "plusDay": 1,
+   "plusDay": 0,
    "slot": "10:00-12:30",
    "status": "gone",
    "cutoff": "2026-10-05T06:00:00"
@@ -50,7 +14,7 @@
    "code": "TM00001",
    "name": "屯門·新墟街市",
    "date": "2026-10-05",
-   "plusDay": 1,
+   "plusDay": 0,
    "slot": "13:00-15:30",
    "status": "open",
    "cutoff": "2026-10-05T10:00:00"
@@ -59,7 +23,7 @@
    "code": "TM00001",
    "name": "屯門·新墟街市",
    "date": "2026-10-05",
-   "plusDay": 1,
+   "plusDay": 0,
    "slot": "16:00-18:30",
    "status": "open",
    "cutoff": "2026-10-05T13:00:00"
@@ -68,7 +32,7 @@
    "code": "TM00001",
    "name": "屯門·新墟街市",
    "date": "2026-10-05",
-   "plusDay": 1,
+   "plusDay": 0,
    "slot": "18:00-20:30",
    "status": "open",
    "cutoff": "2026-10-05T16:00:00"
@@ -77,7 +41,7 @@
    "code": "TM00001",
    "name": "屯門·新墟街市",
    "date": "2026-10-06",
-   "plusDay": 2,
+   "plusDay": 1,
    "slot": "10:00-12:30",
    "status": "open",
    "cutoff": "2026-10-06T06:00:00"
@@ -86,7 +50,7 @@
    "code": "TM00001",
    "name": "屯門·新墟街市",
    "date": "2026-10-06",
-   "plusDay": 2,
+   "plusDay": 1,
    "slot": "13:00-15:30",
    "status": "open",
    "cutoff": "2026-10-06T10:00:00"
@@ -95,7 +59,7 @@
    "code": "TM00001",
    "name": "屯門·新墟街市",
    "date": "2026-10-06",
-   "plusDay": 2,
+   "plusDay": 1,
    "slot": "16:00-18:30",
    "status": "open",
    "cutoff": "2026-10-06T13:00:00"
@@ -104,227 +68,155 @@
    "code": "TM00001",
    "name": "屯門·新墟街市",
    "date": "2026-10-06",
-   "plusDay": 2,
+   "plusDay": 1,
    "slot": "18:00-20:30",
    "status": "open",
    "cutoff": "2026-10-06T16:00:00"
   },
   {
-   "code": "KOWC00001",
-   "name": "九龍城街市",
-   "date": "2026-10-04",
-   "plusDay": 0,
+   "code": "TM00001",
+   "name": "屯門·新墟街市",
+   "date": "2026-10-07",
+   "plusDay": 2,
    "slot": "10:00-12:30",
-   "status": "cutoff",
-   "cutoff": "2026-10-04T06:00:00"
+   "status": "open",
+   "cutoff": "2026-10-07T06:00:00"
   },
   {
-   "code": "KOWC00001",
-   "name": "九龍城街市",
-   "date": "2026-10-04",
-   "plusDay": 0,
+   "code": "TM00001",
+   "name": "屯門·新墟街市",
+   "date": "2026-10-07",
+   "plusDay": 2,
    "slot": "13:00-15:30",
-   "status": "cutoff",
-   "cutoff": "2026-10-04T10:00:00"
+   "status": "open",
+   "cutoff": "2026-10-07T10:00:00"
   },
   {
-   "code": "KOWC00001",
-   "name": "九龍城街市",
-   "date": "2026-10-04",
-   "plusDay": 0,
+   "code": "TM00001",
+   "name": "屯門·新墟街市",
+   "date": "2026-10-07",
+   "plusDay": 2,
    "slot": "16:00-18:30",
-   "status": "cutoff",
-   "cutoff": "2026-10-04T13:00:00"
+   "status": "open",
+   "cutoff": "2026-10-07T13:00:00"
   },
   {
-   "code": "KOWC00001",
-   "name": "九龍城街市",
-   "date": "2026-10-04",
-   "plusDay": 0,
+   "code": "TM00001",
+   "name": "屯門·新墟街市",
+   "date": "2026-10-07",
+   "plusDay": 2,
    "slot": "18:00-20:30",
-   "status": "cutoff",
-   "cutoff": "2026-10-04T16:00:00"
+   "status": "open",
+   "cutoff": "2026-10-07T16:00:00"
   },
   {
-   "code": "KOWC00001",
-   "name": "九龍城街市",
+   "code": "POR00001",
+   "name": "保安道街市",
    "date": "2026-10-05",
-   "plusDay": 1,
+   "plusDay": 0,
    "slot": "10:00-12:30",
-   "status": "gone",
+   "status": "open",
    "cutoff": "2026-10-05T06:00:00"
   },
   {
-   "code": "KOWC00001",
-   "name": "九龍城街市",
+   "code": "POR00001",
+   "name": "保安道街市",
    "date": "2026-10-05",
-   "plusDay": 1,
+   "plusDay": 0,
    "slot": "13:00-15:30",
    "status": "open",
    "cutoff": "2026-10-05T10:00:00"
   },
   {
-   "code": "KOWC00001",
-   "name": "九龍城街市",
+   "code": "POR00001",
+   "name": "保安道街市",
    "date": "2026-10-05",
-   "plusDay": 1,
+   "plusDay": 0,
    "slot": "16:00-18:30",
    "status": "open",
    "cutoff": "2026-10-05T13:00:00"
   },
   {
-   "code": "KOWC00001",
-   "name": "九龍城街市",
+   "code": "POR00001",
+   "name": "保安道街市",
    "date": "2026-10-05",
-   "plusDay": 1,
+   "plusDay": 0,
    "slot": "18:00-20:30",
    "status": "open",
    "cutoff": "2026-10-05T16:00:00"
   },
   {
-   "code": "KOWC00001",
-   "name": "九龍城街市",
+   "code": "POR00001",
+   "name": "保安道街市",
    "date": "2026-10-06",
-   "plusDay": 2,
+   "plusDay": 1,
    "slot": "10:00-12:30",
    "status": "open",
    "cutoff": "2026-10-06T06:00:00"
   },
   {
-   "code": "KOWC00001",
-   "name": "九龍城街市",
+   "code": "POR00001",
+   "name": "保安道街市",
    "date": "2026-10-06",
-   "plusDay": 2,
+   "plusDay": 1,
    "slot": "13:00-15:30",
    "status": "open",
    "cutoff": "2026-10-06T10:00:00"
   },
   {
-   "code": "KOWC00001",
-   "name": "九龍城街市",
+   "code": "POR00001",
+   "name": "保安道街市",
    "date": "2026-10-06",
-   "plusDay": 2,
+   "plusDay": 1,
    "slot": "16:00-18:30",
    "status": "open",
    "cutoff": "2026-10-06T13:00:00"
   },
   {
-   "code": "KOWC00001",
-   "name": "九龍城街市",
+   "code": "POR00001",
+   "name": "保安道街市",
    "date": "2026-10-06",
-   "plusDay": 2,
+   "plusDay": 1,
    "slot": "18:00-20:30",
    "status": "open",
    "cutoff": "2026-10-06T16:00:00"
   },
   {
-   "code": "TW00001",
-   "name": "荃灣·楊屋道街市",
-   "date": "2026-10-04",
-   "plusDay": 0,
-   "slot": "10:00-12:30",
-   "status": "cutoff",
-   "cutoff": "2026-10-04T06:00:00"
-  },
-  {
-   "code": "TW00001",
-   "name": "荃灣·楊屋道街市",
-   "date": "2026-10-04",
-   "plusDay": 0,
-   "slot": "13:00-15:30",
-   "status": "cutoff",
-   "cutoff": "2026-10-04T10:00:00"
-  },
-  {
-   "code": "TW00001",
-   "name": "荃灣·楊屋道街市",
-   "date": "2026-10-04",
-   "plusDay": 0,
-   "slot": "16:00-18:30",
-   "status": "cutoff",
-   "cutoff": "2026-10-04T13:00:00"
-  },
-  {
-   "code": "TW00001",
-   "name": "荃灣·楊屋道街市",
-   "date": "2026-10-04",
-   "plusDay": 0,
-   "slot": "18:00-20:30",
-   "status": "cutoff",
-   "cutoff": "2026-10-04T16:00:00"
-  },
-  {
-   "code": "TW00001",
-   "name": "荃灣·楊屋道街市",
-   "date": "2026-10-05",
-   "plusDay": 1,
-   "slot": "10:00-12:30",
-   "status": "gone",
-   "cutoff": "2026-10-05T06:00:00"
-  },
-  {
-   "code": "TW00001",
-   "name": "荃灣·楊屋道街市",
-   "date": "2026-10-05",
-   "plusDay": 1,
-   "slot": "13:00-15:30",
-   "status": "open",
-   "cutoff": "2026-10-05T10:00:00"
-  },
-  {
-   "code": "TW00001",
-   "name": "荃灣·楊屋道街市",
-   "date": "2026-10-05",
-   "plusDay": 1,
-   "slot": "16:00-18:30",
-   "status": "open",
-   "cutoff": "2026-10-05T13:00:00"
-  },
-  {
-   "code": "TW00001",
-   "name": "荃灣·楊屋道街市",
-   "date": "2026-10-05",
-   "plusDay": 1,
-   "slot": "18:00-20:30",
-   "status": "open",
-   "cutoff": "2026-10-05T16:00:00"
-  },
-  {
-   "code": "TW00001",
-   "name": "荃灣·楊屋道街市",
-   "date": "2026-10-06",
+   "code": "POR00001",
+   "name": "保安道街市",
+   "date": "2026-10-07",
    "plusDay": 2,
    "slot": "10:00-12:30",
    "status": "open",
-   "cutoff": "2026-10-06T06:00:00"
+   "cutoff": "2026-10-07T06:00:00"
   },
   {
-   "code": "TW00001",
-   "name": "荃灣·楊屋道街市",
-   "date": "2026-10-06",
+   "code": "POR00001",
+   "name": "保安道街市",
+   "date": "2026-10-07",
    "plusDay": 2,
    "slot": "13:00-15:30",
    "status": "open",
-   "cutoff": "2026-10-06T10:00:00"
+   "cutoff": "2026-10-07T10:00:00"
   },
   {
-   "code": "TW00001",
-   "name": "荃灣·楊屋道街市",
-   "date": "2026-10-06",
+   "code": "POR00001",
+   "name": "保安道街市",
+   "date": "2026-10-07",
    "plusDay": 2,
    "slot": "16:00-18:30",
    "status": "open",
-   "cutoff": "2026-10-06T13:00:00"
+   "cutoff": "2026-10-07T13:00:00"
   },
   {
-   "code": "TW00001",
-   "name": "荃灣·楊屋道街市",
-   "date": "2026-10-06",
+   "code": "POR00001",
+   "name": "保安道街市",
+   "date": "2026-10-07",
    "plusDay": 2,
    "slot": "18:00-20:30",
    "status": "open",
-   "cutoff": "2026-10-06T16:00:00"
+   "cutoff": "2026-10-07T16:00:00"
   }
  ],
- "ageSeconds": 390
+ "ageSeconds": 219
 }

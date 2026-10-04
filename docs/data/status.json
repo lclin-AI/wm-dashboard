@@ -1,25 +1,26 @@
 {
- "updatedAt": "2026-10-04T23:58:32",
- "marketsChecked": 3,
+ "updatedAt": "2026-10-05T00:06:23",
+ "marketsChecked": 2,
  "marketsTotal": 8,
  "marketsFailed": [
   "士美菲路街市（ReadTimeout）",
+  "九龍城街市（ReadTimeout）",
   "大埔墟街市（ReadTimeout）",
+  "荃灣·楊屋道街市（ReadTimeout）",
   "灣仔街市（ReadTimeout）",
-  "保安道街市（ReadTimeout）",
   "將軍澳·尚德街市（ReadTimeout）"
  ],
- "blownCount": 3,
+ "blownCount": 4,
  "oixOk": false,
  "carlineCheckedAt": "2026-10-04T14:54:04",
  "lastWhatsApp": {
-  "at": "2026-10-04T23:34:19",
+  "at": "2026-10-05T00:01:48",
   "ok": false,
   "rc": 1,
-  "head": "🚨 街市即日餸 爆 quota"
+  "head": "🔌 街市即日餸 App 叫唔到"
  },
  "lastSlack": {
-  "at": "2026-10-04T23:34:12",
+  "at": "2026-10-05T00:01:45",
   "ok": true,
   "note": ""
  },
@@ -29,5 +30,5 @@
   "note": "已登出 (401)，要重新掃 QR — 行 node wa_login.js",
   "at": "2026-10-04T23:57:32"
  },
- "collectedAt": "2026-10-05T00:05:02"
+ "collectedAt": "2026-10-05T00:10:02"
 }

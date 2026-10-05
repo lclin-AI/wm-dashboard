@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-05T11:49:50",
+ "updatedAt": "2026-10-05T11:54:15",
  "marketsChecked": 8,
  "marketsTotal": 8,
  "marketsFailed": [],
@@ -13,7 +13,7 @@
   "head": "🚨 街市即日餸 爆 quota"
  },
  "lastSlack": {
-  "at": "2026-10-05T09:14:59",
+  "at": "2026-10-05T11:54:24",
   "ok": true,
   "note": ""
  },
@@ -21,7 +21,7 @@
   "ok": false,
   "state": "logged_out",
   "note": "已登出 (401)，要重新掃 QR — 行 node wa_login.js",
-  "at": "2026-10-05T11:39:06"
+  "at": "2026-10-05T11:54:27"
  },
- "collectedAt": "2026-10-05T11:50:03"
+ "collectedAt": "2026-10-05T11:55:02"
 }

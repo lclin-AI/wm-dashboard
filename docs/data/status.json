@@ -1,30 +1,21 @@
 {
- "updatedAt": "2026-10-06T06:10:00",
- "marketsChecked": 0,
+ "updatedAt": "2026-10-06T06:14:16",
+ "marketsChecked": 8,
  "marketsTotal": 8,
- "marketsFailed": [
-  "士美菲路街市（ConnectionError）",
-  "屯門·新墟街市（ConnectionError）",
-  "九龍城街市（ConnectionError）",
-  "大埔墟街市（ConnectionError）",
-  "荃灣·楊屋道街市（ConnectionError）",
-  "灣仔街市（ConnectionError）",
-  "保安道街市（ConnectionError）",
-  "將軍澳·尚德街市（ConnectionError）"
- ],
+ "marketsFailed": [],
  "blownCount": 0,
  "oixOk": false,
  "carlineCheckedAt": "2026-10-05T14:55:03",
  "lastWhatsApp": {
-  "at": "2026-10-06T06:08:06",
+  "at": "2026-10-06T06:11:09",
   "ok": false,
   "rc": 1,
-  "head": "🔌 街市即日餸 App 叫唔到"
+  "head": "✅ 街市即日餸 App 返返正常，時段又查得返。"
  },
  "lastSlack": {
-  "at": "2026-10-06T06:08:00",
-  "ok": false,
-  "note": "URLError: <urlopen error [Errno 11001] getaddrinfo failed>"
+  "at": "2026-10-06T06:11:07",
+  "ok": true,
+  "note": ""
  },
  "whatsappConn": {
   "ok": false,
@@ -32,5 +23,5 @@
   "note": "已登出 (401)，要重新掃 QR — 行 node wa_login.js",
   "at": "2026-10-06T06:00:11"
  },
- "collectedAt": "2026-10-06T06:10:02"
+ "collectedAt": "2026-10-06T06:15:03"
 }

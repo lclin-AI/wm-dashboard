@@ -11,6 +11,7 @@ zonegap.py — 搵出「CMS 話送得到、但 OIX 冇車線」嘅地址，逐�
   · 一個街市嘅車線唔止喺自己個 district：屯門嘅元朗區仲行緊 NT-YTEX（舊元朗 WMYL*），
     大埔墟嘅火炭／大學行 NT-TSMEX（WMTPS*/WMTPM*）。漏咗呢兩個會誤報 300+ 個 zone。
   · 某街市某日自己個 district 完全冇 row = 車線未開到嗰日（批次推），唔逐個地址報。
+  · zone 冇「-」嗰啲（HK005EX / NT008EX / KN020EX 咁）唔報（lclin 2026-10-06）。
 """
 from __future__ import annotations
 
@@ -33,6 +34,16 @@ WM_DISTRICTS["TM00001"].append("NT-YTEX")
 WM_DISTRICTS["TPH00001"].append("NT-TSMEX")
 THREE_SLOT = set(C.THREE_SLOT) | {"NT-YTEX", "NT-TSMEX"}
 SLOTS = ("AM", "PM1", "PM2", "EV")
+
+# zone 有兩種格式：`KN421-2EX` / `HK1028-1`（有「-」）同 `NT008EX`（冇）。
+# 冇「-」嗰啲係粗粒度嘅舊區號，入面絕大部分係診所／學校／教堂／工廠／營地
+# 呢類非住宅地址，本來就唔會派 Express 車線 —— 報出嚟全部係 noise。
+# 2026-10-06 實測：佔咗成份報告 63% 嘅地址（1496 → 555 個地址-day）。
+EXCLUDE_NO_DASH = True
+
+
+def reportable(zone) -> bool:
+    return (not EXCLUDE_NO_DASH) or ("-" in str(zone))
 
 
 def _slots(district: str, ts: str) -> tuple[str, ...]:
@@ -93,6 +104,7 @@ def build(days: int) -> dict:
     est = cms_estates()
     cover, nrows = oix_cover(dates)
 
+    skipped = 0
     out = {}
     for d in dates:
         per = {}
@@ -112,6 +124,10 @@ def build(days: int) -> dict:
                 miss = sorted(need - got, key=SLOTS.index)
                 if not miss:
                     continue
+                # 擺喺 miss 計完之後先剔，個 skipped 數先係「本來會報但剔走咗」
+                if not reportable(e["zone"]):
+                    skipped += 1
+                    continue
                 z = zones.setdefault(e["zone"], {"zone": e["zone"], "miss": miss, "estates": [],
                                                  "districts": set()})
                 z["estates"].append(e["name"])
@@ -125,4 +141,6 @@ def build(days: int) -> dict:
         out[d] = per
     return {"updatedAt": datetime.now().isoformat(timespec="seconds"),
             "dates": dates, "estatesChecked": len(est), "byDate": out,
-            "districts": WM_DISTRICTS}
+            "districts": WM_DISTRICTS,
+            # 剔走咗幾多個「zone 冇 -」嘅地址-day（本來會報嗰啲）
+            "excludedNoDash": skipped}

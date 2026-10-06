@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-06T06:35:05",
+ "updatedAt": "2026-10-06T14:44:34",
  "dates": [
   "2026-10-06",
   "2026-10-07",
@@ -24,55 +24,6 @@
     "window": true,
     "zones": [
      {
-      "zone": "HK007EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "美輪樓 (中環美輪街2號)",
-       "天主教總堂區學校"
-      ],
-      "districts": [
-       "上環"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK005EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "宋德樓"
-      ],
-      "districts": [
-       "中環"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK008EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "貝沙灣3期 (洋房)"
-      ],
-      "districts": [
-       "薄扶林"
-      ],
-      "none": true
-     },
-     {
       "zone": "HK1028-1",
       "miss": [
        "AM",
@@ -89,7 +40,7 @@
       "none": true
      }
     ],
-    "addresses": 5
+    "addresses": 1
    },
    "KOWC00001": {
     "window": true,
@@ -231,100 +182,6 @@
     "window": true,
     "zones": [
      {
-      "zone": "NT008EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "明愛賽馬會荃灣診所",
-       "可觀自然教育中心天文館",
-       "聯合大廈",
-       "聯和大樓",
-       "寶城唐樓",
-       "荃灣電話機樓",
-       "東林佛教安老院",
-       "詠達軒",
-       "和盛大廈",
-       "仁濟醫院賽馬會分科診療所",
-       "仁愛樓",
-       "美港二倉",
-       "流芳園 A座",
-       "流芳園 B座",
-       "芙蓉雅苑 洋房A",
-       "芙蓉雅苑 洋房B",
-       "芙蓉雅苑 洋房C",
-       "芙蓉雅苑 洋房D",
-       "永華台 A座",
-       "永華台 B座",
-       "永華台 C座",
-       "永華台 D座",
-       "永華台 E座"
-      ],
-      "districts": [
-       "荃灣東"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT009EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "陶氏化學青衣廠",
-       "香港聯集貨運辦事處",
-       "香港水泥廠",
-       "香港船廠行政大樓",
-       "太古漆廠",
-       "天廚(青衣)工業中心",
-       "友聯船廠",
-       "加德士油庫",
-       "香港聯合船塢",
-       "陶氏化工廠",
-       "蜆殼油庫",
-       "宣道會青霖堂",
-       "青衣市區普通科門診診所",
-       "歐亞船廠 (青強街5-9號)"
-      ],
-      "districts": [
-       "青衣"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT043EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "清快塘新村",
-       "深井東村",
-       "紅屋",
-       "排棉角村",
-       "嘉龍村",
-       "龍圃",
-       "黃金花園 A座",
-       "黃金花園 B座",
-       "黃金花園 C座",
-       "黃金花園 D座",
-       "黃金花園 E座",
-       "黃金花園 F座"
-      ],
-      "districts": [
-       "深井"
-      ],
-      "none": true
-     },
-     {
       "zone": "AL001-1EX",
       "miss": [
        "AM",
@@ -355,65 +212,14 @@
        "西營盤"
       ],
       "none": true
-     },
-     {
-      "zone": "NT056EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "青衣長康普通科門診診所"
-      ],
-      "districts": [
-       "青衣"
-      ],
-      "none": true
      }
     ],
-    "addresses": 52
+    "addresses": 2
    },
    "WAN00001": {
     "window": true,
-    "zones": [
-     {
-      "zone": "HK036EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "律敦治療養院",
-       "錫克廟",
-       "灣仔分科診所"
-      ],
-      "districts": [
-       "灣仔"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK045EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "李東海大樓 (皇后大道東266號)"
-      ],
-      "districts": [
-       "灣仔"
-      ],
-      "none": true
-     }
-    ],
-    "addresses": 4
+    "zones": [],
+    "addresses": 0
    },
    "POR00001": {
     "window": true,
@@ -549,22 +355,6 @@
     "window": true,
     "zones": [
      {
-      "zone": "KN020EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "香港中華基督教青年會- 聯青社 - 青年會黃宜洲青年營"
-      ],
-      "districts": [
-       "寶琳"
-      ],
-      "none": true
-     },
-     {
       "zone": "KN057-1EX",
       "miss": [
        "AM",
@@ -581,68 +371,11 @@
       "none": true
      }
     ],
-    "addresses": 2
+    "addresses": 1
    },
    "TM00001": {
     "window": true,
     "zones": [
-     {
-      "zone": "NT015EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "樂怡居",
-       "凱和山2座",
-       "凱和山 (洋房)",
-       "凱和山 1號別墅",
-       "凱和山 2號別墅"
-      ],
-      "districts": [
-       "屯門"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT049EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "雁聚樓",
-       "躍思（大欖）幼稚園",
-       "宏廣國際幼稚園"
-      ],
-      "districts": [
-       "元朗",
-       "屯門"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT039EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "中華傳道會佳音堂",
-       "基督教信心會藍地福音堂"
-      ],
-      "districts": [
-       "屯門",
-       "藍地"
-      ],
-      "none": true
-     },
      {
       "zone": "NT733-1EX",
       "miss": [
@@ -660,7 +393,7 @@
       "none": true
      }
     ],
-    "addresses": 11
+    "addresses": 1
    },
    "TPH00001": {
     "window": true,
@@ -685,23 +418,6 @@
       ],
       "districts": [
        "沙頭角"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT004EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "觀音花園",
-       "香港賽馬會沙田"
-      ],
-      "districts": [
-       "沙田"
       ],
       "none": true
      },
@@ -852,7 +568,7 @@
       "none": true
      }
     ],
-    "addresses": 21
+    "addresses": 19
    }
   },
   "2026-10-07": {
@@ -860,55 +576,6 @@
     "window": true,
     "zones": [
      {
-      "zone": "HK007EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "美輪樓 (中環美輪街2號)",
-       "天主教總堂區學校"
-      ],
-      "districts": [
-       "上環"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK005EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "宋德樓"
-      ],
-      "districts": [
-       "中環"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK008EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "貝沙灣3期 (洋房)"
-      ],
-      "districts": [
-       "薄扶林"
-      ],
-      "none": true
-     },
-     {
       "zone": "HK1028-1",
       "miss": [
        "AM",
@@ -925,7 +592,7 @@
       "none": true
      }
     ],
-    "addresses": 5
+    "addresses": 1
    },
    "KOWC00001": {
     "window": true,
@@ -1067,100 +734,6 @@
     "window": true,
     "zones": [
      {
-      "zone": "NT008EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "明愛賽馬會荃灣診所",
-       "可觀自然教育中心天文館",
-       "聯合大廈",
-       "聯和大樓",
-       "寶城唐樓",
-       "荃灣電話機樓",
-       "東林佛教安老院",
-       "詠達軒",
-       "和盛大廈",
-       "仁濟醫院賽馬會分科診療所",
-       "仁愛樓",
-       "美港二倉",
-       "流芳園 A座",
-       "流芳園 B座",
-       "芙蓉雅苑 洋房A",
-       "芙蓉雅苑 洋房B",
-       "芙蓉雅苑 洋房C",
-       "芙蓉雅苑 洋房D",
-       "永華台 A座",
-       "永華台 B座",
-       "永華台 C座",
-       "永華台 D座",
-       "永華台 E座"
-      ],
-      "districts": [
-       "荃灣東"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT009EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "陶氏化學青衣廠",
-       "香港聯集貨運辦事處",
-       "香港水泥廠",
-       "香港船廠行政大樓",
-       "太古漆廠",
-       "天廚(青衣)工業中心",
-       "友聯船廠",
-       "加德士油庫",
-       "香港聯合船塢",
-       "陶氏化工廠",
-       "蜆殼油庫",
-       "宣道會青霖堂",
-       "青衣市區普通科門診診所",
-       "歐亞船廠 (青強街5-9號)"
-      ],
-      "districts": [
-       "青衣"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT043EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "清快塘新村",
-       "深井東村",
-       "紅屋",
-       "排棉角村",
-       "嘉龍村",
-       "龍圃",
-       "黃金花園 A座",
-       "黃金花園 B座",
-       "黃金花園 C座",
-       "黃金花園 D座",
-       "黃金花園 E座",
-       "黃金花園 F座"
-      ],
-      "districts": [
-       "深井"
-      ],
-      "none": true
-     },
-     {
       "zone": "AL001-1EX",
       "miss": [
        "AM",
@@ -1191,65 +764,14 @@
        "西營盤"
       ],
       "none": true
-     },
-     {
-      "zone": "NT056EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "青衣長康普通科門診診所"
-      ],
-      "districts": [
-       "青衣"
-      ],
-      "none": true
      }
     ],
-    "addresses": 52
+    "addresses": 2
    },
    "WAN00001": {
     "window": true,
-    "zones": [
-     {
-      "zone": "HK036EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "律敦治療養院",
-       "錫克廟",
-       "灣仔分科診所"
-      ],
-      "districts": [
-       "灣仔"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK045EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "李東海大樓 (皇后大道東266號)"
-      ],
-      "districts": [
-       "灣仔"
-      ],
-      "none": true
-     }
-    ],
-    "addresses": 4
+    "zones": [],
+    "addresses": 0
    },
    "POR00001": {
     "window": true,
@@ -1385,22 +907,6 @@
     "window": true,
     "zones": [
      {
-      "zone": "KN020EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "香港中華基督教青年會- 聯青社 - 青年會黃宜洲青年營"
-      ],
-      "districts": [
-       "寶琳"
-      ],
-      "none": true
-     },
-     {
       "zone": "KN057-1EX",
       "miss": [
        "AM",
@@ -1417,68 +923,11 @@
       "none": true
      }
     ],
-    "addresses": 2
+    "addresses": 1
    },
    "TM00001": {
     "window": true,
     "zones": [
-     {
-      "zone": "NT015EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "樂怡居",
-       "凱和山2座",
-       "凱和山 (洋房)",
-       "凱和山 1號別墅",
-       "凱和山 2號別墅"
-      ],
-      "districts": [
-       "屯門"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT049EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "雁聚樓",
-       "躍思（大欖）幼稚園",
-       "宏廣國際幼稚園"
-      ],
-      "districts": [
-       "元朗",
-       "屯門"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT039EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "中華傳道會佳音堂",
-       "基督教信心會藍地福音堂"
-      ],
-      "districts": [
-       "屯門",
-       "藍地"
-      ],
-      "none": true
-     },
      {
       "zone": "NT733-1EX",
       "miss": [
@@ -1496,7 +945,7 @@
       "none": true
      }
     ],
-    "addresses": 11
+    "addresses": 1
    },
    "TPH00001": {
     "window": true,
@@ -1521,23 +970,6 @@
       ],
       "districts": [
        "沙頭角"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT004EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "觀音花園",
-       "香港賽馬會沙田"
-      ],
-      "districts": [
-       "沙田"
       ],
       "none": true
      },
@@ -1688,7 +1120,7 @@
       "none": true
      }
     ],
-    "addresses": 21
+    "addresses": 19
    }
   },
   "2026-10-08": {
@@ -1696,55 +1128,6 @@
     "window": true,
     "zones": [
      {
-      "zone": "HK007EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "美輪樓 (中環美輪街2號)",
-       "天主教總堂區學校"
-      ],
-      "districts": [
-       "上環"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK005EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "宋德樓"
-      ],
-      "districts": [
-       "中環"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK008EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "貝沙灣3期 (洋房)"
-      ],
-      "districts": [
-       "薄扶林"
-      ],
-      "none": true
-     },
-     {
       "zone": "HK1028-1",
       "miss": [
        "AM",
@@ -1761,7 +1144,7 @@
       "none": true
      }
     ],
-    "addresses": 5
+    "addresses": 1
    },
    "KOWC00001": {
     "window": true,
@@ -1903,100 +1286,6 @@
     "window": true,
     "zones": [
      {
-      "zone": "NT008EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "明愛賽馬會荃灣診所",
-       "可觀自然教育中心天文館",
-       "聯合大廈",
-       "聯和大樓",
-       "寶城唐樓",
-       "荃灣電話機樓",
-       "東林佛教安老院",
-       "詠達軒",
-       "和盛大廈",
-       "仁濟醫院賽馬會分科診療所",
-       "仁愛樓",
-       "美港二倉",
-       "流芳園 A座",
-       "流芳園 B座",
-       "芙蓉雅苑 洋房A",
-       "芙蓉雅苑 洋房B",
-       "芙蓉雅苑 洋房C",
-       "芙蓉雅苑 洋房D",
-       "永華台 A座",
-       "永華台 B座",
-       "永華台 C座",
-       "永華台 D座",
-       "永華台 E座"
-      ],
-      "districts": [
-       "荃灣東"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT009EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "陶氏化學青衣廠",
-       "香港聯集貨運辦事處",
-       "香港水泥廠",
-       "香港船廠行政大樓",
-       "太古漆廠",
-       "天廚(青衣)工業中心",
-       "友聯船廠",
-       "加德士油庫",
-       "香港聯合船塢",
-       "陶氏化工廠",
-       "蜆殼油庫",
-       "宣道會青霖堂",
-       "青衣市區普通科門診診所",
-       "歐亞船廠 (青強街5-9號)"
-      ],
-      "districts": [
-       "青衣"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT043EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "清快塘新村",
-       "深井東村",
-       "紅屋",
-       "排棉角村",
-       "嘉龍村",
-       "龍圃",
-       "黃金花園 A座",
-       "黃金花園 B座",
-       "黃金花園 C座",
-       "黃金花園 D座",
-       "黃金花園 E座",
-       "黃金花園 F座"
-      ],
-      "districts": [
-       "深井"
-      ],
-      "none": true
-     },
-     {
       "zone": "AL001-1EX",
       "miss": [
        "AM",
@@ -2027,65 +1316,14 @@
        "西營盤"
       ],
       "none": true
-     },
-     {
-      "zone": "NT056EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "青衣長康普通科門診診所"
-      ],
-      "districts": [
-       "青衣"
-      ],
-      "none": true
      }
     ],
-    "addresses": 52
+    "addresses": 2
    },
    "WAN00001": {
     "window": true,
-    "zones": [
-     {
-      "zone": "HK036EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "律敦治療養院",
-       "錫克廟",
-       "灣仔分科診所"
-      ],
-      "districts": [
-       "灣仔"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK045EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "李東海大樓 (皇后大道東266號)"
-      ],
-      "districts": [
-       "灣仔"
-      ],
-      "none": true
-     }
-    ],
-    "addresses": 4
+    "zones": [],
+    "addresses": 0
    },
    "POR00001": {
     "window": true,
@@ -2221,22 +1459,6 @@
     "window": true,
     "zones": [
      {
-      "zone": "KN020EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "香港中華基督教青年會- 聯青社 - 青年會黃宜洲青年營"
-      ],
-      "districts": [
-       "寶琳"
-      ],
-      "none": true
-     },
-     {
       "zone": "KN057-1EX",
       "miss": [
        "AM",
@@ -2253,68 +1475,11 @@
       "none": true
      }
     ],
-    "addresses": 2
+    "addresses": 1
    },
    "TM00001": {
     "window": true,
     "zones": [
-     {
-      "zone": "NT015EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "樂怡居",
-       "凱和山2座",
-       "凱和山 (洋房)",
-       "凱和山 1號別墅",
-       "凱和山 2號別墅"
-      ],
-      "districts": [
-       "屯門"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT049EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "雁聚樓",
-       "躍思（大欖）幼稚園",
-       "宏廣國際幼稚園"
-      ],
-      "districts": [
-       "元朗",
-       "屯門"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT039EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "中華傳道會佳音堂",
-       "基督教信心會藍地福音堂"
-      ],
-      "districts": [
-       "屯門",
-       "藍地"
-      ],
-      "none": true
-     },
      {
       "zone": "NT733-1EX",
       "miss": [
@@ -2332,7 +1497,7 @@
       "none": true
      }
     ],
-    "addresses": 11
+    "addresses": 1
    },
    "TPH00001": {
     "window": true,
@@ -2357,23 +1522,6 @@
       ],
       "districts": [
        "沙頭角"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT004EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "觀音花園",
-       "香港賽馬會沙田"
-      ],
-      "districts": [
-       "沙田"
       ],
       "none": true
      },
@@ -2524,7 +1672,7 @@
       "none": true
      }
     ],
-    "addresses": 21
+    "addresses": 19
    }
   },
   "2026-10-09": {
@@ -2532,55 +1680,6 @@
     "window": true,
     "zones": [
      {
-      "zone": "HK007EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "美輪樓 (中環美輪街2號)",
-       "天主教總堂區學校"
-      ],
-      "districts": [
-       "上環"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK005EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "宋德樓"
-      ],
-      "districts": [
-       "中環"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK008EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "貝沙灣3期 (洋房)"
-      ],
-      "districts": [
-       "薄扶林"
-      ],
-      "none": true
-     },
-     {
       "zone": "HK1028-1",
       "miss": [
        "AM",
@@ -2597,7 +1696,7 @@
       "none": true
      }
     ],
-    "addresses": 5
+    "addresses": 1
    },
    "KOWC00001": {
     "window": true,
@@ -2739,100 +1838,6 @@
     "window": true,
     "zones": [
      {
-      "zone": "NT008EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "明愛賽馬會荃灣診所",
-       "可觀自然教育中心天文館",
-       "聯合大廈",
-       "聯和大樓",
-       "寶城唐樓",
-       "荃灣電話機樓",
-       "東林佛教安老院",
-       "詠達軒",
-       "和盛大廈",
-       "仁濟醫院賽馬會分科診療所",
-       "仁愛樓",
-       "美港二倉",
-       "流芳園 A座",
-       "流芳園 B座",
-       "芙蓉雅苑 洋房A",
-       "芙蓉雅苑 洋房B",
-       "芙蓉雅苑 洋房C",
-       "芙蓉雅苑 洋房D",
-       "永華台 A座",
-       "永華台 B座",
-       "永華台 C座",
-       "永華台 D座",
-       "永華台 E座"
-      ],
-      "districts": [
-       "荃灣東"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT009EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "陶氏化學青衣廠",
-       "香港聯集貨運辦事處",
-       "香港水泥廠",
-       "香港船廠行政大樓",
-       "太古漆廠",
-       "天廚(青衣)工業中心",
-       "友聯船廠",
-       "加德士油庫",
-       "香港聯合船塢",
-       "陶氏化工廠",
-       "蜆殼油庫",
-       "宣道會青霖堂",
-       "青衣市區普通科門診診所",
-       "歐亞船廠 (青強街5-9號)"
-      ],
-      "districts": [
-       "青衣"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT043EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "清快塘新村",
-       "深井東村",
-       "紅屋",
-       "排棉角村",
-       "嘉龍村",
-       "龍圃",
-       "黃金花園 A座",
-       "黃金花園 B座",
-       "黃金花園 C座",
-       "黃金花園 D座",
-       "黃金花園 E座",
-       "黃金花園 F座"
-      ],
-      "districts": [
-       "深井"
-      ],
-      "none": true
-     },
-     {
       "zone": "AL001-1EX",
       "miss": [
        "AM",
@@ -2863,65 +1868,14 @@
        "西營盤"
       ],
       "none": true
-     },
-     {
-      "zone": "NT056EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "青衣長康普通科門診診所"
-      ],
-      "districts": [
-       "青衣"
-      ],
-      "none": true
      }
     ],
-    "addresses": 52
+    "addresses": 2
    },
    "WAN00001": {
     "window": true,
-    "zones": [
-     {
-      "zone": "HK036EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "律敦治療養院",
-       "錫克廟",
-       "灣仔分科診所"
-      ],
-      "districts": [
-       "灣仔"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK045EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "李東海大樓 (皇后大道東266號)"
-      ],
-      "districts": [
-       "灣仔"
-      ],
-      "none": true
-     }
-    ],
-    "addresses": 4
+    "zones": [],
+    "addresses": 0
    },
    "POR00001": {
     "window": true,
@@ -3057,22 +2011,6 @@
     "window": true,
     "zones": [
      {
-      "zone": "KN020EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "香港中華基督教青年會- 聯青社 - 青年會黃宜洲青年營"
-      ],
-      "districts": [
-       "寶琳"
-      ],
-      "none": true
-     },
-     {
       "zone": "KN057-1EX",
       "miss": [
        "AM",
@@ -3089,68 +2027,11 @@
       "none": true
      }
     ],
-    "addresses": 2
+    "addresses": 1
    },
    "TM00001": {
     "window": true,
     "zones": [
-     {
-      "zone": "NT015EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "樂怡居",
-       "凱和山2座",
-       "凱和山 (洋房)",
-       "凱和山 1號別墅",
-       "凱和山 2號別墅"
-      ],
-      "districts": [
-       "屯門"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT049EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "雁聚樓",
-       "躍思（大欖）幼稚園",
-       "宏廣國際幼稚園"
-      ],
-      "districts": [
-       "元朗",
-       "屯門"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT039EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "中華傳道會佳音堂",
-       "基督教信心會藍地福音堂"
-      ],
-      "districts": [
-       "屯門",
-       "藍地"
-      ],
-      "none": true
-     },
      {
       "zone": "NT733-1EX",
       "miss": [
@@ -3168,7 +2049,7 @@
       "none": true
      }
     ],
-    "addresses": 11
+    "addresses": 1
    },
    "TPH00001": {
     "window": true,
@@ -3193,23 +2074,6 @@
       ],
       "districts": [
        "沙頭角"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT004EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "觀音花園",
-       "香港賽馬會沙田"
-      ],
-      "districts": [
-       "沙田"
       ],
       "none": true
      },
@@ -3360,7 +2224,7 @@
       "none": true
      }
     ],
-    "addresses": 21
+    "addresses": 19
    }
   },
   "2026-10-10": {
@@ -3368,55 +2232,6 @@
     "window": true,
     "zones": [
      {
-      "zone": "HK007EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "美輪樓 (中環美輪街2號)",
-       "天主教總堂區學校"
-      ],
-      "districts": [
-       "上環"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK005EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "宋德樓"
-      ],
-      "districts": [
-       "中環"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK008EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "貝沙灣3期 (洋房)"
-      ],
-      "districts": [
-       "薄扶林"
-      ],
-      "none": true
-     },
-     {
       "zone": "HK1028-1",
       "miss": [
        "AM",
@@ -3433,7 +2248,7 @@
       "none": true
      }
     ],
-    "addresses": 5
+    "addresses": 1
    },
    "KOWC00001": {
     "window": true,
@@ -3575,100 +2390,6 @@
     "window": true,
     "zones": [
      {
-      "zone": "NT008EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "明愛賽馬會荃灣診所",
-       "可觀自然教育中心天文館",
-       "聯合大廈",
-       "聯和大樓",
-       "寶城唐樓",
-       "荃灣電話機樓",
-       "東林佛教安老院",
-       "詠達軒",
-       "和盛大廈",
-       "仁濟醫院賽馬會分科診療所",
-       "仁愛樓",
-       "美港二倉",
-       "流芳園 A座",
-       "流芳園 B座",
-       "芙蓉雅苑 洋房A",
-       "芙蓉雅苑 洋房B",
-       "芙蓉雅苑 洋房C",
-       "芙蓉雅苑 洋房D",
-       "永華台 A座",
-       "永華台 B座",
-       "永華台 C座",
-       "永華台 D座",
-       "永華台 E座"
-      ],
-      "districts": [
-       "荃灣東"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT009EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "陶氏化學青衣廠",
-       "香港聯集貨運辦事處",
-       "香港水泥廠",
-       "香港船廠行政大樓",
-       "太古漆廠",
-       "天廚(青衣)工業中心",
-       "友聯船廠",
-       "加德士油庫",
-       "香港聯合船塢",
-       "陶氏化工廠",
-       "蜆殼油庫",
-       "宣道會青霖堂",
-       "青衣市區普通科門診診所",
-       "歐亞船廠 (青強街5-9號)"
-      ],
-      "districts": [
-       "青衣"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT043EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "清快塘新村",
-       "深井東村",
-       "紅屋",
-       "排棉角村",
-       "嘉龍村",
-       "龍圃",
-       "黃金花園 A座",
-       "黃金花園 B座",
-       "黃金花園 C座",
-       "黃金花園 D座",
-       "黃金花園 E座",
-       "黃金花園 F座"
-      ],
-      "districts": [
-       "深井"
-      ],
-      "none": true
-     },
-     {
       "zone": "AL001-1EX",
       "miss": [
        "AM",
@@ -3699,65 +2420,14 @@
        "西營盤"
       ],
       "none": true
-     },
-     {
-      "zone": "NT056EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "青衣長康普通科門診診所"
-      ],
-      "districts": [
-       "青衣"
-      ],
-      "none": true
      }
     ],
-    "addresses": 52
+    "addresses": 2
    },
    "WAN00001": {
     "window": true,
-    "zones": [
-     {
-      "zone": "HK036EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "律敦治療養院",
-       "錫克廟",
-       "灣仔分科診所"
-      ],
-      "districts": [
-       "灣仔"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK045EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "李東海大樓 (皇后大道東266號)"
-      ],
-      "districts": [
-       "灣仔"
-      ],
-      "none": true
-     }
-    ],
-    "addresses": 4
+    "zones": [],
+    "addresses": 0
    },
    "POR00001": {
     "window": true,
@@ -3893,22 +2563,6 @@
     "window": true,
     "zones": [
      {
-      "zone": "KN020EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "香港中華基督教青年會- 聯青社 - 青年會黃宜洲青年營"
-      ],
-      "districts": [
-       "寶琳"
-      ],
-      "none": true
-     },
-     {
       "zone": "KN057-1EX",
       "miss": [
        "AM",
@@ -3925,68 +2579,11 @@
       "none": true
      }
     ],
-    "addresses": 2
+    "addresses": 1
    },
    "TM00001": {
     "window": true,
     "zones": [
-     {
-      "zone": "NT015EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "樂怡居",
-       "凱和山2座",
-       "凱和山 (洋房)",
-       "凱和山 1號別墅",
-       "凱和山 2號別墅"
-      ],
-      "districts": [
-       "屯門"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT049EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "雁聚樓",
-       "躍思（大欖）幼稚園",
-       "宏廣國際幼稚園"
-      ],
-      "districts": [
-       "元朗",
-       "屯門"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT039EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "中華傳道會佳音堂",
-       "基督教信心會藍地福音堂"
-      ],
-      "districts": [
-       "屯門",
-       "藍地"
-      ],
-      "none": true
-     },
      {
       "zone": "NT733-1EX",
       "miss": [
@@ -4004,7 +2601,7 @@
       "none": true
      }
     ],
-    "addresses": 11
+    "addresses": 1
    },
    "TPH00001": {
     "window": true,
@@ -4029,23 +2626,6 @@
       ],
       "districts": [
        "沙頭角"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT004EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "觀音花園",
-       "香港賽馬會沙田"
-      ],
-      "districts": [
-       "沙田"
       ],
       "none": true
      },
@@ -4196,7 +2776,7 @@
       "none": true
      }
     ],
-    "addresses": 21
+    "addresses": 19
    }
   },
   "2026-10-11": {
@@ -4204,55 +2784,6 @@
     "window": true,
     "zones": [
      {
-      "zone": "HK007EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "美輪樓 (中環美輪街2號)",
-       "天主教總堂區學校"
-      ],
-      "districts": [
-       "上環"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK005EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "宋德樓"
-      ],
-      "districts": [
-       "中環"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK008EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "貝沙灣3期 (洋房)"
-      ],
-      "districts": [
-       "薄扶林"
-      ],
-      "none": true
-     },
-     {
       "zone": "HK1028-1",
       "miss": [
        "AM",
@@ -4269,7 +2800,7 @@
       "none": true
      }
     ],
-    "addresses": 5
+    "addresses": 1
    },
    "KOWC00001": {
     "window": true,
@@ -4411,100 +2942,6 @@
     "window": true,
     "zones": [
      {
-      "zone": "NT008EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "明愛賽馬會荃灣診所",
-       "可觀自然教育中心天文館",
-       "聯合大廈",
-       "聯和大樓",
-       "寶城唐樓",
-       "荃灣電話機樓",
-       "東林佛教安老院",
-       "詠達軒",
-       "和盛大廈",
-       "仁濟醫院賽馬會分科診療所",
-       "仁愛樓",
-       "美港二倉",
-       "流芳園 A座",
-       "流芳園 B座",
-       "芙蓉雅苑 洋房A",
-       "芙蓉雅苑 洋房B",
-       "芙蓉雅苑 洋房C",
-       "芙蓉雅苑 洋房D",
-       "永華台 A座",
-       "永華台 B座",
-       "永華台 C座",
-       "永華台 D座",
-       "永華台 E座"
-      ],
-      "districts": [
-       "荃灣東"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT009EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "陶氏化學青衣廠",
-       "香港聯集貨運辦事處",
-       "香港水泥廠",
-       "香港船廠行政大樓",
-       "太古漆廠",
-       "天廚(青衣)工業中心",
-       "友聯船廠",
-       "加德士油庫",
-       "香港聯合船塢",
-       "陶氏化工廠",
-       "蜆殼油庫",
-       "宣道會青霖堂",
-       "青衣市區普通科門診診所",
-       "歐亞船廠 (青強街5-9號)"
-      ],
-      "districts": [
-       "青衣"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT043EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "清快塘新村",
-       "深井東村",
-       "紅屋",
-       "排棉角村",
-       "嘉龍村",
-       "龍圃",
-       "黃金花園 A座",
-       "黃金花園 B座",
-       "黃金花園 C座",
-       "黃金花園 D座",
-       "黃金花園 E座",
-       "黃金花園 F座"
-      ],
-      "districts": [
-       "深井"
-      ],
-      "none": true
-     },
-     {
       "zone": "AL001-1EX",
       "miss": [
        "AM",
@@ -4535,65 +2972,14 @@
        "西營盤"
       ],
       "none": true
-     },
-     {
-      "zone": "NT056EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "青衣長康普通科門診診所"
-      ],
-      "districts": [
-       "青衣"
-      ],
-      "none": true
      }
     ],
-    "addresses": 52
+    "addresses": 2
    },
    "WAN00001": {
     "window": true,
-    "zones": [
-     {
-      "zone": "HK036EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "律敦治療養院",
-       "錫克廟",
-       "灣仔分科診所"
-      ],
-      "districts": [
-       "灣仔"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK045EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "李東海大樓 (皇后大道東266號)"
-      ],
-      "districts": [
-       "灣仔"
-      ],
-      "none": true
-     }
-    ],
-    "addresses": 4
+    "zones": [],
+    "addresses": 0
    },
    "POR00001": {
     "window": true,
@@ -4729,22 +3115,6 @@
     "window": true,
     "zones": [
      {
-      "zone": "KN020EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "香港中華基督教青年會- 聯青社 - 青年會黃宜洲青年營"
-      ],
-      "districts": [
-       "寶琳"
-      ],
-      "none": true
-     },
-     {
       "zone": "KN057-1EX",
       "miss": [
        "AM",
@@ -4761,68 +3131,11 @@
       "none": true
      }
     ],
-    "addresses": 2
+    "addresses": 1
    },
    "TM00001": {
     "window": true,
     "zones": [
-     {
-      "zone": "NT015EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "樂怡居",
-       "凱和山2座",
-       "凱和山 (洋房)",
-       "凱和山 1號別墅",
-       "凱和山 2號別墅"
-      ],
-      "districts": [
-       "屯門"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT049EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "雁聚樓",
-       "躍思（大欖）幼稚園",
-       "宏廣國際幼稚園"
-      ],
-      "districts": [
-       "元朗",
-       "屯門"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT039EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "中華傳道會佳音堂",
-       "基督教信心會藍地福音堂"
-      ],
-      "districts": [
-       "屯門",
-       "藍地"
-      ],
-      "none": true
-     },
      {
       "zone": "NT733-1EX",
       "miss": [
@@ -4840,7 +3153,7 @@
       "none": true
      }
     ],
-    "addresses": 11
+    "addresses": 1
    },
    "TPH00001": {
     "window": true,
@@ -4865,23 +3178,6 @@
       ],
       "districts": [
        "沙頭角"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT004EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "觀音花園",
-       "香港賽馬會沙田"
-      ],
-      "districts": [
-       "沙田"
       ],
       "none": true
      },
@@ -5032,7 +3328,7 @@
       "none": true
      }
     ],
-    "addresses": 21
+    "addresses": 19
    }
   },
   "2026-10-12": {
@@ -5040,55 +3336,6 @@
     "window": true,
     "zones": [
      {
-      "zone": "HK007EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "美輪樓 (中環美輪街2號)",
-       "天主教總堂區學校"
-      ],
-      "districts": [
-       "上環"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK005EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "宋德樓"
-      ],
-      "districts": [
-       "中環"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK008EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "貝沙灣3期 (洋房)"
-      ],
-      "districts": [
-       "薄扶林"
-      ],
-      "none": true
-     },
-     {
       "zone": "HK1028-1",
       "miss": [
        "AM",
@@ -5105,7 +3352,7 @@
       "none": true
      }
     ],
-    "addresses": 5
+    "addresses": 1
    },
    "KOWC00001": {
     "window": true,
@@ -5247,100 +3494,6 @@
     "window": true,
     "zones": [
      {
-      "zone": "NT008EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "明愛賽馬會荃灣診所",
-       "可觀自然教育中心天文館",
-       "聯合大廈",
-       "聯和大樓",
-       "寶城唐樓",
-       "荃灣電話機樓",
-       "東林佛教安老院",
-       "詠達軒",
-       "和盛大廈",
-       "仁濟醫院賽馬會分科診療所",
-       "仁愛樓",
-       "美港二倉",
-       "流芳園 A座",
-       "流芳園 B座",
-       "芙蓉雅苑 洋房A",
-       "芙蓉雅苑 洋房B",
-       "芙蓉雅苑 洋房C",
-       "芙蓉雅苑 洋房D",
-       "永華台 A座",
-       "永華台 B座",
-       "永華台 C座",
-       "永華台 D座",
-       "永華台 E座"
-      ],
-      "districts": [
-       "荃灣東"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT009EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "陶氏化學青衣廠",
-       "香港聯集貨運辦事處",
-       "香港水泥廠",
-       "香港船廠行政大樓",
-       "太古漆廠",
-       "天廚(青衣)工業中心",
-       "友聯船廠",
-       "加德士油庫",
-       "香港聯合船塢",
-       "陶氏化工廠",
-       "蜆殼油庫",
-       "宣道會青霖堂",
-       "青衣市區普通科門診診所",
-       "歐亞船廠 (青強街5-9號)"
-      ],
-      "districts": [
-       "青衣"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT043EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "清快塘新村",
-       "深井東村",
-       "紅屋",
-       "排棉角村",
-       "嘉龍村",
-       "龍圃",
-       "黃金花園 A座",
-       "黃金花園 B座",
-       "黃金花園 C座",
-       "黃金花園 D座",
-       "黃金花園 E座",
-       "黃金花園 F座"
-      ],
-      "districts": [
-       "深井"
-      ],
-      "none": true
-     },
-     {
       "zone": "AL001-1EX",
       "miss": [
        "AM",
@@ -5371,65 +3524,14 @@
        "西營盤"
       ],
       "none": true
-     },
-     {
-      "zone": "NT056EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "青衣長康普通科門診診所"
-      ],
-      "districts": [
-       "青衣"
-      ],
-      "none": true
      }
     ],
-    "addresses": 52
+    "addresses": 2
    },
    "WAN00001": {
     "window": true,
-    "zones": [
-     {
-      "zone": "HK036EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "律敦治療養院",
-       "錫克廟",
-       "灣仔分科診所"
-      ],
-      "districts": [
-       "灣仔"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK045EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "李東海大樓 (皇后大道東266號)"
-      ],
-      "districts": [
-       "灣仔"
-      ],
-      "none": true
-     }
-    ],
-    "addresses": 4
+    "zones": [],
+    "addresses": 0
    },
    "POR00001": {
     "window": true,
@@ -5565,22 +3667,6 @@
     "window": true,
     "zones": [
      {
-      "zone": "KN020EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "香港中華基督教青年會- 聯青社 - 青年會黃宜洲青年營"
-      ],
-      "districts": [
-       "寶琳"
-      ],
-      "none": true
-     },
-     {
       "zone": "KN057-1EX",
       "miss": [
        "AM",
@@ -5597,13 +3683,204 @@
       "none": true
      }
     ],
-    "addresses": 2
+    "addresses": 1
    },
    "TM00001": {
-    "window": false
+    "window": true,
+    "zones": [
+     {
+      "zone": "NT733-1EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "GOODMAN WESTLINK (小冷水路) (只限小冷水路GOODMAN閘口交收)"
+      ],
+      "districts": [
+       "屯門"
+      ],
+      "none": true
+     }
+    ],
+    "addresses": 1
    },
    "TPH00001": {
-    "window": false
+    "window": true,
+    "zones": [
+     {
+      "zone": "NT472-2EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "肇軒臺",
+       "粉嶺嶺皮村",
+       "嶺仔村",
+       "馬料水新村 (只限馬料水新村牌坊交收)",
+       "獅頭嶺村 (只限獅頭嶺村公所交收)",
+       "馬尾下 (只限公廁旁空地交收)",
+       "粉嶺大塘湖村",
+       "軍地村 (只限君悅豪庭對出空地交收)"
+      ],
+      "districts": [
+       "沙頭角"
+      ],
+      "none": true
+     },
+     {
+      "zone": "NT446-3EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "好時花園 (只限地面交收)",
+       "好時華廷2期 (只限地面交收)"
+      ],
+      "districts": [
+       "太和"
+      ],
+      "none": true
+     },
+     {
+      "zone": "NT471-2EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "百勝山莊 (只限地面交收)",
+       "孔嶺村"
+      ],
+      "districts": [
+       "打鼓嶺"
+      ],
+      "none": true
+     },
+     {
+      "zone": "KN655-1EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "新華銀行大廈 (彌敦道774號)"
+      ],
+      "districts": [
+       "太子"
+      ],
+      "none": true
+     },
+     {
+      "zone": "NT470-1EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "虎地坳村 (只限梧桐河水閘交收)"
+      ],
+      "districts": [
+       "文錦渡"
+      ],
+      "none": true
+     },
+     {
+      "zone": "NT470-2EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "木湖村 (只限告示牌空地交收)"
+      ],
+      "districts": [
+       "文錦渡"
+      ],
+      "none": true
+     },
+     {
+      "zone": "NT699-3EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "虎地上村"
+      ],
+      "districts": [
+       "屯門"
+      ],
+      "none": true
+     },
+     {
+      "zone": "NT722-3EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "屯門和平新村"
+      ],
+      "districts": [
+       "屯門"
+      ],
+      "none": true
+     },
+     {
+      "zone": "NT729-7EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "陳屋埔 (只限欣景豪園閘口前空地交收)"
+      ],
+      "districts": [
+       "錦田"
+      ],
+      "none": true
+     },
+     {
+      "zone": "NT876-2EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "散石灣村"
+      ],
+      "districts": [
+       "梅窩"
+      ],
+      "none": true
+     }
+    ],
+    "addresses": 19
    }
   },
   "2026-10-13": {
@@ -5611,55 +3888,6 @@
     "window": true,
     "zones": [
      {
-      "zone": "HK007EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "美輪樓 (中環美輪街2號)",
-       "天主教總堂區學校"
-      ],
-      "districts": [
-       "上環"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK005EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "宋德樓"
-      ],
-      "districts": [
-       "中環"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK008EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "貝沙灣3期 (洋房)"
-      ],
-      "districts": [
-       "薄扶林"
-      ],
-      "none": true
-     },
-     {
       "zone": "HK1028-1",
       "miss": [
        "AM",
@@ -5676,7 +3904,7 @@
       "none": true
      }
     ],
-    "addresses": 5
+    "addresses": 1
    },
    "KOWC00001": {
     "window": true,
@@ -5818,100 +4046,6 @@
     "window": true,
     "zones": [
      {
-      "zone": "NT008EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "明愛賽馬會荃灣診所",
-       "可觀自然教育中心天文館",
-       "聯合大廈",
-       "聯和大樓",
-       "寶城唐樓",
-       "荃灣電話機樓",
-       "東林佛教安老院",
-       "詠達軒",
-       "和盛大廈",
-       "仁濟醫院賽馬會分科診療所",
-       "仁愛樓",
-       "美港二倉",
-       "流芳園 A座",
-       "流芳園 B座",
-       "芙蓉雅苑 洋房A",
-       "芙蓉雅苑 洋房B",
-       "芙蓉雅苑 洋房C",
-       "芙蓉雅苑 洋房D",
-       "永華台 A座",
-       "永華台 B座",
-       "永華台 C座",
-       "永華台 D座",
-       "永華台 E座"
-      ],
-      "districts": [
-       "荃灣東"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT009EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "陶氏化學青衣廠",
-       "香港聯集貨運辦事處",
-       "香港水泥廠",
-       "香港船廠行政大樓",
-       "太古漆廠",
-       "天廚(青衣)工業中心",
-       "友聯船廠",
-       "加德士油庫",
-       "香港聯合船塢",
-       "陶氏化工廠",
-       "蜆殼油庫",
-       "宣道會青霖堂",
-       "青衣市區普通科門診診所",
-       "歐亞船廠 (青強街5-9號)"
-      ],
-      "districts": [
-       "青衣"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT043EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "清快塘新村",
-       "深井東村",
-       "紅屋",
-       "排棉角村",
-       "嘉龍村",
-       "龍圃",
-       "黃金花園 A座",
-       "黃金花園 B座",
-       "黃金花園 C座",
-       "黃金花園 D座",
-       "黃金花園 E座",
-       "黃金花園 F座"
-      ],
-      "districts": [
-       "深井"
-      ],
-      "none": true
-     },
-     {
       "zone": "AL001-1EX",
       "miss": [
        "AM",
@@ -5942,65 +4076,14 @@
        "西營盤"
       ],
       "none": true
-     },
-     {
-      "zone": "NT056EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "青衣長康普通科門診診所"
-      ],
-      "districts": [
-       "青衣"
-      ],
-      "none": true
      }
     ],
-    "addresses": 52
+    "addresses": 2
    },
    "WAN00001": {
     "window": true,
-    "zones": [
-     {
-      "zone": "HK036EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "律敦治療養院",
-       "錫克廟",
-       "灣仔分科診所"
-      ],
-      "districts": [
-       "灣仔"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK045EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "李東海大樓 (皇后大道東266號)"
-      ],
-      "districts": [
-       "灣仔"
-      ],
-      "none": true
-     }
-    ],
-    "addresses": 4
+    "zones": [],
+    "addresses": 0
    },
    "POR00001": {
     "window": true,
@@ -6136,22 +4219,6 @@
     "window": true,
     "zones": [
      {
-      "zone": "KN020EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "香港中華基督教青年會- 聯青社 - 青年會黃宜洲青年營"
-      ],
-      "districts": [
-       "寶琳"
-      ],
-      "none": true
-     },
-     {
       "zone": "KN057-1EX",
       "miss": [
        "AM",
@@ -6168,13 +4235,204 @@
       "none": true
      }
     ],
-    "addresses": 2
+    "addresses": 1
    },
    "TM00001": {
-    "window": false
+    "window": true,
+    "zones": [
+     {
+      "zone": "NT733-1EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "GOODMAN WESTLINK (小冷水路) (只限小冷水路GOODMAN閘口交收)"
+      ],
+      "districts": [
+       "屯門"
+      ],
+      "none": true
+     }
+    ],
+    "addresses": 1
    },
    "TPH00001": {
-    "window": false
+    "window": true,
+    "zones": [
+     {
+      "zone": "NT472-2EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "肇軒臺",
+       "粉嶺嶺皮村",
+       "嶺仔村",
+       "馬料水新村 (只限馬料水新村牌坊交收)",
+       "獅頭嶺村 (只限獅頭嶺村公所交收)",
+       "馬尾下 (只限公廁旁空地交收)",
+       "粉嶺大塘湖村",
+       "軍地村 (只限君悅豪庭對出空地交收)"
+      ],
+      "districts": [
+       "沙頭角"
+      ],
+      "none": true
+     },
+     {
+      "zone": "NT446-3EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "好時花園 (只限地面交收)",
+       "好時華廷2期 (只限地面交收)"
+      ],
+      "districts": [
+       "太和"
+      ],
+      "none": true
+     },
+     {
+      "zone": "NT471-2EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "百勝山莊 (只限地面交收)",
+       "孔嶺村"
+      ],
+      "districts": [
+       "打鼓嶺"
+      ],
+      "none": true
+     },
+     {
+      "zone": "KN655-1EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "新華銀行大廈 (彌敦道774號)"
+      ],
+      "districts": [
+       "太子"
+      ],
+      "none": true
+     },
+     {
+      "zone": "NT470-1EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "虎地坳村 (只限梧桐河水閘交收)"
+      ],
+      "districts": [
+       "文錦渡"
+      ],
+      "none": true
+     },
+     {
+      "zone": "NT470-2EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "木湖村 (只限告示牌空地交收)"
+      ],
+      "districts": [
+       "文錦渡"
+      ],
+      "none": true
+     },
+     {
+      "zone": "NT699-3EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "虎地上村"
+      ],
+      "districts": [
+       "屯門"
+      ],
+      "none": true
+     },
+     {
+      "zone": "NT722-3EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "屯門和平新村"
+      ],
+      "districts": [
+       "屯門"
+      ],
+      "none": true
+     },
+     {
+      "zone": "NT729-7EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "陳屋埔 (只限欣景豪園閘口前空地交收)"
+      ],
+      "districts": [
+       "錦田"
+      ],
+      "none": true
+     },
+     {
+      "zone": "NT876-2EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "散石灣村"
+      ],
+      "districts": [
+       "梅窩"
+      ],
+      "none": true
+     }
+    ],
+    "addresses": 19
    }
   },
   "2026-10-14": {
@@ -6182,55 +4440,6 @@
     "window": true,
     "zones": [
      {
-      "zone": "HK007EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "美輪樓 (中環美輪街2號)",
-       "天主教總堂區學校"
-      ],
-      "districts": [
-       "上環"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK005EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "宋德樓"
-      ],
-      "districts": [
-       "中環"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK008EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "貝沙灣3期 (洋房)"
-      ],
-      "districts": [
-       "薄扶林"
-      ],
-      "none": true
-     },
-     {
       "zone": "HK1028-1",
       "miss": [
        "AM",
@@ -6247,7 +4456,7 @@
       "none": true
      }
     ],
-    "addresses": 5
+    "addresses": 1
    },
    "KOWC00001": {
     "window": true,
@@ -6389,100 +4598,6 @@
     "window": true,
     "zones": [
      {
-      "zone": "NT008EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "明愛賽馬會荃灣診所",
-       "可觀自然教育中心天文館",
-       "聯合大廈",
-       "聯和大樓",
-       "寶城唐樓",
-       "荃灣電話機樓",
-       "東林佛教安老院",
-       "詠達軒",
-       "和盛大廈",
-       "仁濟醫院賽馬會分科診療所",
-       "仁愛樓",
-       "美港二倉",
-       "流芳園 A座",
-       "流芳園 B座",
-       "芙蓉雅苑 洋房A",
-       "芙蓉雅苑 洋房B",
-       "芙蓉雅苑 洋房C",
-       "芙蓉雅苑 洋房D",
-       "永華台 A座",
-       "永華台 B座",
-       "永華台 C座",
-       "永華台 D座",
-       "永華台 E座"
-      ],
-      "districts": [
-       "荃灣東"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT009EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "陶氏化學青衣廠",
-       "香港聯集貨運辦事處",
-       "香港水泥廠",
-       "香港船廠行政大樓",
-       "太古漆廠",
-       "天廚(青衣)工業中心",
-       "友聯船廠",
-       "加德士油庫",
-       "香港聯合船塢",
-       "陶氏化工廠",
-       "蜆殼油庫",
-       "宣道會青霖堂",
-       "青衣市區普通科門診診所",
-       "歐亞船廠 (青強街5-9號)"
-      ],
-      "districts": [
-       "青衣"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT043EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "清快塘新村",
-       "深井東村",
-       "紅屋",
-       "排棉角村",
-       "嘉龍村",
-       "龍圃",
-       "黃金花園 A座",
-       "黃金花園 B座",
-       "黃金花園 C座",
-       "黃金花園 D座",
-       "黃金花園 E座",
-       "黃金花園 F座"
-      ],
-      "districts": [
-       "深井"
-      ],
-      "none": true
-     },
-     {
       "zone": "AL001-1EX",
       "miss": [
        "AM",
@@ -6513,65 +4628,14 @@
        "西營盤"
       ],
       "none": true
-     },
-     {
-      "zone": "NT056EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "青衣長康普通科門診診所"
-      ],
-      "districts": [
-       "青衣"
-      ],
-      "none": true
      }
     ],
-    "addresses": 52
+    "addresses": 2
    },
    "WAN00001": {
     "window": true,
-    "zones": [
-     {
-      "zone": "HK036EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "律敦治療養院",
-       "錫克廟",
-       "灣仔分科診所"
-      ],
-      "districts": [
-       "灣仔"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK045EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "李東海大樓 (皇后大道東266號)"
-      ],
-      "districts": [
-       "灣仔"
-      ],
-      "none": true
-     }
-    ],
-    "addresses": 4
+    "zones": [],
+    "addresses": 0
    },
    "POR00001": {
     "window": true,
@@ -6707,22 +4771,6 @@
     "window": true,
     "zones": [
      {
-      "zone": "KN020EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "香港中華基督教青年會- 聯青社 - 青年會黃宜洲青年營"
-      ],
-      "districts": [
-       "寶琳"
-      ],
-      "none": true
-     },
-     {
       "zone": "KN057-1EX",
       "miss": [
        "AM",
@@ -6739,13 +4787,204 @@
       "none": true
      }
     ],
-    "addresses": 2
+    "addresses": 1
    },
    "TM00001": {
-    "window": false
+    "window": true,
+    "zones": [
+     {
+      "zone": "NT733-1EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "GOODMAN WESTLINK (小冷水路) (只限小冷水路GOODMAN閘口交收)"
+      ],
+      "districts": [
+       "屯門"
+      ],
+      "none": true
+     }
+    ],
+    "addresses": 1
    },
    "TPH00001": {
-    "window": false
+    "window": true,
+    "zones": [
+     {
+      "zone": "NT472-2EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "肇軒臺",
+       "粉嶺嶺皮村",
+       "嶺仔村",
+       "馬料水新村 (只限馬料水新村牌坊交收)",
+       "獅頭嶺村 (只限獅頭嶺村公所交收)",
+       "馬尾下 (只限公廁旁空地交收)",
+       "粉嶺大塘湖村",
+       "軍地村 (只限君悅豪庭對出空地交收)"
+      ],
+      "districts": [
+       "沙頭角"
+      ],
+      "none": true
+     },
+     {
+      "zone": "NT446-3EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "好時花園 (只限地面交收)",
+       "好時華廷2期 (只限地面交收)"
+      ],
+      "districts": [
+       "太和"
+      ],
+      "none": true
+     },
+     {
+      "zone": "NT471-2EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "百勝山莊 (只限地面交收)",
+       "孔嶺村"
+      ],
+      "districts": [
+       "打鼓嶺"
+      ],
+      "none": true
+     },
+     {
+      "zone": "KN655-1EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "新華銀行大廈 (彌敦道774號)"
+      ],
+      "districts": [
+       "太子"
+      ],
+      "none": true
+     },
+     {
+      "zone": "NT470-1EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "虎地坳村 (只限梧桐河水閘交收)"
+      ],
+      "districts": [
+       "文錦渡"
+      ],
+      "none": true
+     },
+     {
+      "zone": "NT470-2EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "木湖村 (只限告示牌空地交收)"
+      ],
+      "districts": [
+       "文錦渡"
+      ],
+      "none": true
+     },
+     {
+      "zone": "NT699-3EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "虎地上村"
+      ],
+      "districts": [
+       "屯門"
+      ],
+      "none": true
+     },
+     {
+      "zone": "NT722-3EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "屯門和平新村"
+      ],
+      "districts": [
+       "屯門"
+      ],
+      "none": true
+     },
+     {
+      "zone": "NT729-7EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "陳屋埔 (只限欣景豪園閘口前空地交收)"
+      ],
+      "districts": [
+       "錦田"
+      ],
+      "none": true
+     },
+     {
+      "zone": "NT876-2EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "散石灣村"
+      ],
+      "districts": [
+       "梅窩"
+      ],
+      "none": true
+     }
+    ],
+    "addresses": 19
    }
   },
   "2026-10-15": {
@@ -6753,55 +4992,6 @@
     "window": true,
     "zones": [
      {
-      "zone": "HK007EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "美輪樓 (中環美輪街2號)",
-       "天主教總堂區學校"
-      ],
-      "districts": [
-       "上環"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK005EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "宋德樓"
-      ],
-      "districts": [
-       "中環"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK008EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "貝沙灣3期 (洋房)"
-      ],
-      "districts": [
-       "薄扶林"
-      ],
-      "none": true
-     },
-     {
       "zone": "HK1028-1",
       "miss": [
        "AM",
@@ -6818,7 +5008,7 @@
       "none": true
      }
     ],
-    "addresses": 5
+    "addresses": 1
    },
    "KOWC00001": {
     "window": true,
@@ -6960,100 +5150,6 @@
     "window": true,
     "zones": [
      {
-      "zone": "NT008EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "明愛賽馬會荃灣診所",
-       "可觀自然教育中心天文館",
-       "聯合大廈",
-       "聯和大樓",
-       "寶城唐樓",
-       "荃灣電話機樓",
-       "東林佛教安老院",
-       "詠達軒",
-       "和盛大廈",
-       "仁濟醫院賽馬會分科診療所",
-       "仁愛樓",
-       "美港二倉",
-       "流芳園 A座",
-       "流芳園 B座",
-       "芙蓉雅苑 洋房A",
-       "芙蓉雅苑 洋房B",
-       "芙蓉雅苑 洋房C",
-       "芙蓉雅苑 洋房D",
-       "永華台 A座",
-       "永華台 B座",
-       "永華台 C座",
-       "永華台 D座",
-       "永華台 E座"
-      ],
-      "districts": [
-       "荃灣東"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT009EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "陶氏化學青衣廠",
-       "香港聯集貨運辦事處",
-       "香港水泥廠",
-       "香港船廠行政大樓",
-       "太古漆廠",
-       "天廚(青衣)工業中心",
-       "友聯船廠",
-       "加德士油庫",
-       "香港聯合船塢",
-       "陶氏化工廠",
-       "蜆殼油庫",
-       "宣道會青霖堂",
-       "青衣市區普通科門診診所",
-       "歐亞船廠 (青強街5-9號)"
-      ],
-      "districts": [
-       "青衣"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT043EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "清快塘新村",
-       "深井東村",
-       "紅屋",
-       "排棉角村",
-       "嘉龍村",
-       "龍圃",
-       "黃金花園 A座",
-       "黃金花園 B座",
-       "黃金花園 C座",
-       "黃金花園 D座",
-       "黃金花園 E座",
-       "黃金花園 F座"
-      ],
-      "districts": [
-       "深井"
-      ],
-      "none": true
-     },
-     {
       "zone": "AL001-1EX",
       "miss": [
        "AM",
@@ -7084,65 +5180,14 @@
        "西營盤"
       ],
       "none": true
-     },
-     {
-      "zone": "NT056EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "青衣長康普通科門診診所"
-      ],
-      "districts": [
-       "青衣"
-      ],
-      "none": true
      }
     ],
-    "addresses": 52
+    "addresses": 2
    },
    "WAN00001": {
     "window": true,
-    "zones": [
-     {
-      "zone": "HK036EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "律敦治療養院",
-       "錫克廟",
-       "灣仔分科診所"
-      ],
-      "districts": [
-       "灣仔"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK045EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "李東海大樓 (皇后大道東266號)"
-      ],
-      "districts": [
-       "灣仔"
-      ],
-      "none": true
-     }
-    ],
-    "addresses": 4
+    "zones": [],
+    "addresses": 0
    },
    "POR00001": {
     "window": true,
@@ -7278,22 +5323,6 @@
     "window": true,
     "zones": [
      {
-      "zone": "KN020EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "香港中華基督教青年會- 聯青社 - 青年會黃宜洲青年營"
-      ],
-      "districts": [
-       "寶琳"
-      ],
-      "none": true
-     },
-     {
       "zone": "KN057-1EX",
       "miss": [
        "AM",
@@ -7310,13 +5339,204 @@
       "none": true
      }
     ],
-    "addresses": 2
+    "addresses": 1
    },
    "TM00001": {
-    "window": false
+    "window": true,
+    "zones": [
+     {
+      "zone": "NT733-1EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "GOODMAN WESTLINK (小冷水路) (只限小冷水路GOODMAN閘口交收)"
+      ],
+      "districts": [
+       "屯門"
+      ],
+      "none": true
+     }
+    ],
+    "addresses": 1
    },
    "TPH00001": {
-    "window": false
+    "window": true,
+    "zones": [
+     {
+      "zone": "NT472-2EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "肇軒臺",
+       "粉嶺嶺皮村",
+       "嶺仔村",
+       "馬料水新村 (只限馬料水新村牌坊交收)",
+       "獅頭嶺村 (只限獅頭嶺村公所交收)",
+       "馬尾下 (只限公廁旁空地交收)",
+       "粉嶺大塘湖村",
+       "軍地村 (只限君悅豪庭對出空地交收)"
+      ],
+      "districts": [
+       "沙頭角"
+      ],
+      "none": true
+     },
+     {
+      "zone": "NT446-3EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "好時花園 (只限地面交收)",
+       "好時華廷2期 (只限地面交收)"
+      ],
+      "districts": [
+       "太和"
+      ],
+      "none": true
+     },
+     {
+      "zone": "NT471-2EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "百勝山莊 (只限地面交收)",
+       "孔嶺村"
+      ],
+      "districts": [
+       "打鼓嶺"
+      ],
+      "none": true
+     },
+     {
+      "zone": "KN655-1EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "新華銀行大廈 (彌敦道774號)"
+      ],
+      "districts": [
+       "太子"
+      ],
+      "none": true
+     },
+     {
+      "zone": "NT470-1EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "虎地坳村 (只限梧桐河水閘交收)"
+      ],
+      "districts": [
+       "文錦渡"
+      ],
+      "none": true
+     },
+     {
+      "zone": "NT470-2EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "木湖村 (只限告示牌空地交收)"
+      ],
+      "districts": [
+       "文錦渡"
+      ],
+      "none": true
+     },
+     {
+      "zone": "NT699-3EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "虎地上村"
+      ],
+      "districts": [
+       "屯門"
+      ],
+      "none": true
+     },
+     {
+      "zone": "NT722-3EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "屯門和平新村"
+      ],
+      "districts": [
+       "屯門"
+      ],
+      "none": true
+     },
+     {
+      "zone": "NT729-7EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "陳屋埔 (只限欣景豪園閘口前空地交收)"
+      ],
+      "districts": [
+       "錦田"
+      ],
+      "none": true
+     },
+     {
+      "zone": "NT876-2EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "散石灣村"
+      ],
+      "districts": [
+       "梅窩"
+      ],
+      "none": true
+     }
+    ],
+    "addresses": 19
    }
   },
   "2026-10-16": {
@@ -7324,55 +5544,6 @@
     "window": true,
     "zones": [
      {
-      "zone": "HK007EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "美輪樓 (中環美輪街2號)",
-       "天主教總堂區學校"
-      ],
-      "districts": [
-       "上環"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK005EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "宋德樓"
-      ],
-      "districts": [
-       "中環"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK008EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "貝沙灣3期 (洋房)"
-      ],
-      "districts": [
-       "薄扶林"
-      ],
-      "none": true
-     },
-     {
       "zone": "HK1028-1",
       "miss": [
        "AM",
@@ -7389,7 +5560,7 @@
       "none": true
      }
     ],
-    "addresses": 5
+    "addresses": 1
    },
    "KOWC00001": {
     "window": true,
@@ -7531,100 +5702,6 @@
     "window": true,
     "zones": [
      {
-      "zone": "NT008EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "明愛賽馬會荃灣診所",
-       "可觀自然教育中心天文館",
-       "聯合大廈",
-       "聯和大樓",
-       "寶城唐樓",
-       "荃灣電話機樓",
-       "東林佛教安老院",
-       "詠達軒",
-       "和盛大廈",
-       "仁濟醫院賽馬會分科診療所",
-       "仁愛樓",
-       "美港二倉",
-       "流芳園 A座",
-       "流芳園 B座",
-       "芙蓉雅苑 洋房A",
-       "芙蓉雅苑 洋房B",
-       "芙蓉雅苑 洋房C",
-       "芙蓉雅苑 洋房D",
-       "永華台 A座",
-       "永華台 B座",
-       "永華台 C座",
-       "永華台 D座",
-       "永華台 E座"
-      ],
-      "districts": [
-       "荃灣東"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT009EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "陶氏化學青衣廠",
-       "香港聯集貨運辦事處",
-       "香港水泥廠",
-       "香港船廠行政大樓",
-       "太古漆廠",
-       "天廚(青衣)工業中心",
-       "友聯船廠",
-       "加德士油庫",
-       "香港聯合船塢",
-       "陶氏化工廠",
-       "蜆殼油庫",
-       "宣道會青霖堂",
-       "青衣市區普通科門診診所",
-       "歐亞船廠 (青強街5-9號)"
-      ],
-      "districts": [
-       "青衣"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT043EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "清快塘新村",
-       "深井東村",
-       "紅屋",
-       "排棉角村",
-       "嘉龍村",
-       "龍圃",
-       "黃金花園 A座",
-       "黃金花園 B座",
-       "黃金花園 C座",
-       "黃金花園 D座",
-       "黃金花園 E座",
-       "黃金花園 F座"
-      ],
-      "districts": [
-       "深井"
-      ],
-      "none": true
-     },
-     {
       "zone": "AL001-1EX",
       "miss": [
        "AM",
@@ -7655,65 +5732,14 @@
        "西營盤"
       ],
       "none": true
-     },
-     {
-      "zone": "NT056EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "青衣長康普通科門診診所"
-      ],
-      "districts": [
-       "青衣"
-      ],
-      "none": true
      }
     ],
-    "addresses": 52
+    "addresses": 2
    },
    "WAN00001": {
     "window": true,
-    "zones": [
-     {
-      "zone": "HK036EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "律敦治療養院",
-       "錫克廟",
-       "灣仔分科診所"
-      ],
-      "districts": [
-       "灣仔"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK045EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "李東海大樓 (皇后大道東266號)"
-      ],
-      "districts": [
-       "灣仔"
-      ],
-      "none": true
-     }
-    ],
-    "addresses": 4
+    "zones": [],
+    "addresses": 0
    },
    "POR00001": {
     "window": true,
@@ -7849,22 +5875,6 @@
     "window": true,
     "zones": [
      {
-      "zone": "KN020EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "香港中華基督教青年會- 聯青社 - 青年會黃宜洲青年營"
-      ],
-      "districts": [
-       "寶琳"
-      ],
-      "none": true
-     },
-     {
       "zone": "KN057-1EX",
       "miss": [
        "AM",
@@ -7881,13 +5891,204 @@
       "none": true
      }
     ],
-    "addresses": 2
+    "addresses": 1
    },
    "TM00001": {
-    "window": false
+    "window": true,
+    "zones": [
+     {
+      "zone": "NT733-1EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "GOODMAN WESTLINK (小冷水路) (只限小冷水路GOODMAN閘口交收)"
+      ],
+      "districts": [
+       "屯門"
+      ],
+      "none": true
+     }
+    ],
+    "addresses": 1
    },
    "TPH00001": {
-    "window": false
+    "window": true,
+    "zones": [
+     {
+      "zone": "NT472-2EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "肇軒臺",
+       "粉嶺嶺皮村",
+       "嶺仔村",
+       "馬料水新村 (只限馬料水新村牌坊交收)",
+       "獅頭嶺村 (只限獅頭嶺村公所交收)",
+       "馬尾下 (只限公廁旁空地交收)",
+       "粉嶺大塘湖村",
+       "軍地村 (只限君悅豪庭對出空地交收)"
+      ],
+      "districts": [
+       "沙頭角"
+      ],
+      "none": true
+     },
+     {
+      "zone": "NT446-3EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "好時花園 (只限地面交收)",
+       "好時華廷2期 (只限地面交收)"
+      ],
+      "districts": [
+       "太和"
+      ],
+      "none": true
+     },
+     {
+      "zone": "NT471-2EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "百勝山莊 (只限地面交收)",
+       "孔嶺村"
+      ],
+      "districts": [
+       "打鼓嶺"
+      ],
+      "none": true
+     },
+     {
+      "zone": "KN655-1EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "新華銀行大廈 (彌敦道774號)"
+      ],
+      "districts": [
+       "太子"
+      ],
+      "none": true
+     },
+     {
+      "zone": "NT470-1EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "虎地坳村 (只限梧桐河水閘交收)"
+      ],
+      "districts": [
+       "文錦渡"
+      ],
+      "none": true
+     },
+     {
+      "zone": "NT470-2EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "木湖村 (只限告示牌空地交收)"
+      ],
+      "districts": [
+       "文錦渡"
+      ],
+      "none": true
+     },
+     {
+      "zone": "NT699-3EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "虎地上村"
+      ],
+      "districts": [
+       "屯門"
+      ],
+      "none": true
+     },
+     {
+      "zone": "NT722-3EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "屯門和平新村"
+      ],
+      "districts": [
+       "屯門"
+      ],
+      "none": true
+     },
+     {
+      "zone": "NT729-7EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "陳屋埔 (只限欣景豪園閘口前空地交收)"
+      ],
+      "districts": [
+       "錦田"
+      ],
+      "none": true
+     },
+     {
+      "zone": "NT876-2EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "散石灣村"
+      ],
+      "districts": [
+       "梅窩"
+      ],
+      "none": true
+     }
+    ],
+    "addresses": 19
    }
   },
   "2026-10-17": {
@@ -7895,55 +6096,6 @@
     "window": true,
     "zones": [
      {
-      "zone": "HK007EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "美輪樓 (中環美輪街2號)",
-       "天主教總堂區學校"
-      ],
-      "districts": [
-       "上環"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK005EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "宋德樓"
-      ],
-      "districts": [
-       "中環"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK008EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "貝沙灣3期 (洋房)"
-      ],
-      "districts": [
-       "薄扶林"
-      ],
-      "none": true
-     },
-     {
       "zone": "HK1028-1",
       "miss": [
        "AM",
@@ -7960,7 +6112,7 @@
       "none": true
      }
     ],
-    "addresses": 5
+    "addresses": 1
    },
    "KOWC00001": {
     "window": true,
@@ -8102,100 +6254,6 @@
     "window": true,
     "zones": [
      {
-      "zone": "NT008EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "明愛賽馬會荃灣診所",
-       "可觀自然教育中心天文館",
-       "聯合大廈",
-       "聯和大樓",
-       "寶城唐樓",
-       "荃灣電話機樓",
-       "東林佛教安老院",
-       "詠達軒",
-       "和盛大廈",
-       "仁濟醫院賽馬會分科診療所",
-       "仁愛樓",
-       "美港二倉",
-       "流芳園 A座",
-       "流芳園 B座",
-       "芙蓉雅苑 洋房A",
-       "芙蓉雅苑 洋房B",
-       "芙蓉雅苑 洋房C",
-       "芙蓉雅苑 洋房D",
-       "永華台 A座",
-       "永華台 B座",
-       "永華台 C座",
-       "永華台 D座",
-       "永華台 E座"
-      ],
-      "districts": [
-       "荃灣東"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT009EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "陶氏化學青衣廠",
-       "香港聯集貨運辦事處",
-       "香港水泥廠",
-       "香港船廠行政大樓",
-       "太古漆廠",
-       "天廚(青衣)工業中心",
-       "友聯船廠",
-       "加德士油庫",
-       "香港聯合船塢",
-       "陶氏化工廠",
-       "蜆殼油庫",
-       "宣道會青霖堂",
-       "青衣市區普通科門診診所",
-       "歐亞船廠 (青強街5-9號)"
-      ],
-      "districts": [
-       "青衣"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT043EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "清快塘新村",
-       "深井東村",
-       "紅屋",
-       "排棉角村",
-       "嘉龍村",
-       "龍圃",
-       "黃金花園 A座",
-       "黃金花園 B座",
-       "黃金花園 C座",
-       "黃金花園 D座",
-       "黃金花園 E座",
-       "黃金花園 F座"
-      ],
-      "districts": [
-       "深井"
-      ],
-      "none": true
-     },
-     {
       "zone": "AL001-1EX",
       "miss": [
        "AM",
@@ -8226,65 +6284,14 @@
        "西營盤"
       ],
       "none": true
-     },
-     {
-      "zone": "NT056EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "青衣長康普通科門診診所"
-      ],
-      "districts": [
-       "青衣"
-      ],
-      "none": true
      }
     ],
-    "addresses": 52
+    "addresses": 2
    },
    "WAN00001": {
     "window": true,
-    "zones": [
-     {
-      "zone": "HK036EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "律敦治療養院",
-       "錫克廟",
-       "灣仔分科診所"
-      ],
-      "districts": [
-       "灣仔"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK045EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "李東海大樓 (皇后大道東266號)"
-      ],
-      "districts": [
-       "灣仔"
-      ],
-      "none": true
-     }
-    ],
-    "addresses": 4
+    "zones": [],
+    "addresses": 0
    },
    "POR00001": {
     "window": true,
@@ -8420,22 +6427,6 @@
     "window": true,
     "zones": [
      {
-      "zone": "KN020EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "香港中華基督教青年會- 聯青社 - 青年會黃宜洲青年營"
-      ],
-      "districts": [
-       "寶琳"
-      ],
-      "none": true
-     },
-     {
       "zone": "KN057-1EX",
       "miss": [
        "AM",
@@ -8452,13 +6443,204 @@
       "none": true
      }
     ],
-    "addresses": 2
+    "addresses": 1
    },
    "TM00001": {
-    "window": false
+    "window": true,
+    "zones": [
+     {
+      "zone": "NT733-1EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "GOODMAN WESTLINK (小冷水路) (只限小冷水路GOODMAN閘口交收)"
+      ],
+      "districts": [
+       "屯門"
+      ],
+      "none": true
+     }
+    ],
+    "addresses": 1
    },
    "TPH00001": {
-    "window": false
+    "window": true,
+    "zones": [
+     {
+      "zone": "NT472-2EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "肇軒臺",
+       "粉嶺嶺皮村",
+       "嶺仔村",
+       "馬料水新村 (只限馬料水新村牌坊交收)",
+       "獅頭嶺村 (只限獅頭嶺村公所交收)",
+       "馬尾下 (只限公廁旁空地交收)",
+       "粉嶺大塘湖村",
+       "軍地村 (只限君悅豪庭對出空地交收)"
+      ],
+      "districts": [
+       "沙頭角"
+      ],
+      "none": true
+     },
+     {
+      "zone": "NT446-3EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "好時花園 (只限地面交收)",
+       "好時華廷2期 (只限地面交收)"
+      ],
+      "districts": [
+       "太和"
+      ],
+      "none": true
+     },
+     {
+      "zone": "NT471-2EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "百勝山莊 (只限地面交收)",
+       "孔嶺村"
+      ],
+      "districts": [
+       "打鼓嶺"
+      ],
+      "none": true
+     },
+     {
+      "zone": "KN655-1EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "新華銀行大廈 (彌敦道774號)"
+      ],
+      "districts": [
+       "太子"
+      ],
+      "none": true
+     },
+     {
+      "zone": "NT470-1EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "虎地坳村 (只限梧桐河水閘交收)"
+      ],
+      "districts": [
+       "文錦渡"
+      ],
+      "none": true
+     },
+     {
+      "zone": "NT470-2EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "木湖村 (只限告示牌空地交收)"
+      ],
+      "districts": [
+       "文錦渡"
+      ],
+      "none": true
+     },
+     {
+      "zone": "NT699-3EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "虎地上村"
+      ],
+      "districts": [
+       "屯門"
+      ],
+      "none": true
+     },
+     {
+      "zone": "NT722-3EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "屯門和平新村"
+      ],
+      "districts": [
+       "屯門"
+      ],
+      "none": true
+     },
+     {
+      "zone": "NT729-7EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "陳屋埔 (只限欣景豪園閘口前空地交收)"
+      ],
+      "districts": [
+       "錦田"
+      ],
+      "none": true
+     },
+     {
+      "zone": "NT876-2EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "散石灣村"
+      ],
+      "districts": [
+       "梅窩"
+      ],
+      "none": true
+     }
+    ],
+    "addresses": 19
    }
   },
   "2026-10-18": {
@@ -8466,55 +6648,6 @@
     "window": true,
     "zones": [
      {
-      "zone": "HK007EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "美輪樓 (中環美輪街2號)",
-       "天主教總堂區學校"
-      ],
-      "districts": [
-       "上環"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK005EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "宋德樓"
-      ],
-      "districts": [
-       "中環"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK008EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "貝沙灣3期 (洋房)"
-      ],
-      "districts": [
-       "薄扶林"
-      ],
-      "none": true
-     },
-     {
       "zone": "HK1028-1",
       "miss": [
        "AM",
@@ -8531,7 +6664,7 @@
       "none": true
      }
     ],
-    "addresses": 5
+    "addresses": 1
    },
    "KOWC00001": {
     "window": true,
@@ -8673,100 +6806,6 @@
     "window": true,
     "zones": [
      {
-      "zone": "NT008EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "明愛賽馬會荃灣診所",
-       "可觀自然教育中心天文館",
-       "聯合大廈",
-       "聯和大樓",
-       "寶城唐樓",
-       "荃灣電話機樓",
-       "東林佛教安老院",
-       "詠達軒",
-       "和盛大廈",
-       "仁濟醫院賽馬會分科診療所",
-       "仁愛樓",
-       "美港二倉",
-       "流芳園 A座",
-       "流芳園 B座",
-       "芙蓉雅苑 洋房A",
-       "芙蓉雅苑 洋房B",
-       "芙蓉雅苑 洋房C",
-       "芙蓉雅苑 洋房D",
-       "永華台 A座",
-       "永華台 B座",
-       "永華台 C座",
-       "永華台 D座",
-       "永華台 E座"
-      ],
-      "districts": [
-       "荃灣東"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT009EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "陶氏化學青衣廠",
-       "香港聯集貨運辦事處",
-       "香港水泥廠",
-       "香港船廠行政大樓",
-       "太古漆廠",
-       "天廚(青衣)工業中心",
-       "友聯船廠",
-       "加德士油庫",
-       "香港聯合船塢",
-       "陶氏化工廠",
-       "蜆殼油庫",
-       "宣道會青霖堂",
-       "青衣市區普通科門診診所",
-       "歐亞船廠 (青強街5-9號)"
-      ],
-      "districts": [
-       "青衣"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT043EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "清快塘新村",
-       "深井東村",
-       "紅屋",
-       "排棉角村",
-       "嘉龍村",
-       "龍圃",
-       "黃金花園 A座",
-       "黃金花園 B座",
-       "黃金花園 C座",
-       "黃金花園 D座",
-       "黃金花園 E座",
-       "黃金花園 F座"
-      ],
-      "districts": [
-       "深井"
-      ],
-      "none": true
-     },
-     {
       "zone": "AL001-1EX",
       "miss": [
        "AM",
@@ -8797,65 +6836,14 @@
        "西營盤"
       ],
       "none": true
-     },
-     {
-      "zone": "NT056EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "青衣長康普通科門診診所"
-      ],
-      "districts": [
-       "青衣"
-      ],
-      "none": true
      }
     ],
-    "addresses": 52
+    "addresses": 2
    },
    "WAN00001": {
     "window": true,
-    "zones": [
-     {
-      "zone": "HK036EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "律敦治療養院",
-       "錫克廟",
-       "灣仔分科診所"
-      ],
-      "districts": [
-       "灣仔"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK045EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "李東海大樓 (皇后大道東266號)"
-      ],
-      "districts": [
-       "灣仔"
-      ],
-      "none": true
-     }
-    ],
-    "addresses": 4
+    "zones": [],
+    "addresses": 0
    },
    "POR00001": {
     "window": true,
@@ -8991,22 +6979,6 @@
     "window": true,
     "zones": [
      {
-      "zone": "KN020EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "香港中華基督教青年會- 聯青社 - 青年會黃宜洲青年營"
-      ],
-      "districts": [
-       "寶琳"
-      ],
-      "none": true
-     },
-     {
       "zone": "KN057-1EX",
       "miss": [
        "AM",
@@ -9023,13 +6995,204 @@
       "none": true
      }
     ],
-    "addresses": 2
+    "addresses": 1
    },
    "TM00001": {
-    "window": false
+    "window": true,
+    "zones": [
+     {
+      "zone": "NT733-1EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "GOODMAN WESTLINK (小冷水路) (只限小冷水路GOODMAN閘口交收)"
+      ],
+      "districts": [
+       "屯門"
+      ],
+      "none": true
+     }
+    ],
+    "addresses": 1
    },
    "TPH00001": {
-    "window": false
+    "window": true,
+    "zones": [
+     {
+      "zone": "NT472-2EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "肇軒臺",
+       "粉嶺嶺皮村",
+       "嶺仔村",
+       "馬料水新村 (只限馬料水新村牌坊交收)",
+       "獅頭嶺村 (只限獅頭嶺村公所交收)",
+       "馬尾下 (只限公廁旁空地交收)",
+       "粉嶺大塘湖村",
+       "軍地村 (只限君悅豪庭對出空地交收)"
+      ],
+      "districts": [
+       "沙頭角"
+      ],
+      "none": true
+     },
+     {
+      "zone": "NT446-3EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "好時花園 (只限地面交收)",
+       "好時華廷2期 (只限地面交收)"
+      ],
+      "districts": [
+       "太和"
+      ],
+      "none": true
+     },
+     {
+      "zone": "NT471-2EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "百勝山莊 (只限地面交收)",
+       "孔嶺村"
+      ],
+      "districts": [
+       "打鼓嶺"
+      ],
+      "none": true
+     },
+     {
+      "zone": "KN655-1EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "新華銀行大廈 (彌敦道774號)"
+      ],
+      "districts": [
+       "太子"
+      ],
+      "none": true
+     },
+     {
+      "zone": "NT470-1EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "虎地坳村 (只限梧桐河水閘交收)"
+      ],
+      "districts": [
+       "文錦渡"
+      ],
+      "none": true
+     },
+     {
+      "zone": "NT470-2EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "木湖村 (只限告示牌空地交收)"
+      ],
+      "districts": [
+       "文錦渡"
+      ],
+      "none": true
+     },
+     {
+      "zone": "NT699-3EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "虎地上村"
+      ],
+      "districts": [
+       "屯門"
+      ],
+      "none": true
+     },
+     {
+      "zone": "NT722-3EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "屯門和平新村"
+      ],
+      "districts": [
+       "屯門"
+      ],
+      "none": true
+     },
+     {
+      "zone": "NT729-7EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "陳屋埔 (只限欣景豪園閘口前空地交收)"
+      ],
+      "districts": [
+       "錦田"
+      ],
+      "none": true
+     },
+     {
+      "zone": "NT876-2EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "散石灣村"
+      ],
+      "districts": [
+       "梅窩"
+      ],
+      "none": true
+     }
+    ],
+    "addresses": 19
    }
   },
   "2026-10-19": {
@@ -9043,100 +7206,6 @@
     "window": true,
     "zones": [
      {
-      "zone": "NT008EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "明愛賽馬會荃灣診所",
-       "可觀自然教育中心天文館",
-       "聯合大廈",
-       "聯和大樓",
-       "寶城唐樓",
-       "荃灣電話機樓",
-       "東林佛教安老院",
-       "詠達軒",
-       "和盛大廈",
-       "仁濟醫院賽馬會分科診療所",
-       "仁愛樓",
-       "美港二倉",
-       "流芳園 A座",
-       "流芳園 B座",
-       "芙蓉雅苑 洋房A",
-       "芙蓉雅苑 洋房B",
-       "芙蓉雅苑 洋房C",
-       "芙蓉雅苑 洋房D",
-       "永華台 A座",
-       "永華台 B座",
-       "永華台 C座",
-       "永華台 D座",
-       "永華台 E座"
-      ],
-      "districts": [
-       "荃灣東"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT009EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "陶氏化學青衣廠",
-       "香港聯集貨運辦事處",
-       "香港水泥廠",
-       "香港船廠行政大樓",
-       "太古漆廠",
-       "天廚(青衣)工業中心",
-       "友聯船廠",
-       "加德士油庫",
-       "香港聯合船塢",
-       "陶氏化工廠",
-       "蜆殼油庫",
-       "宣道會青霖堂",
-       "青衣市區普通科門診診所",
-       "歐亞船廠 (青強街5-9號)"
-      ],
-      "districts": [
-       "青衣"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT043EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "清快塘新村",
-       "深井東村",
-       "紅屋",
-       "排棉角村",
-       "嘉龍村",
-       "龍圃",
-       "黃金花園 A座",
-       "黃金花園 B座",
-       "黃金花園 C座",
-       "黃金花園 D座",
-       "黃金花園 E座",
-       "黃金花園 F座"
-      ],
-      "districts": [
-       "深井"
-      ],
-      "none": true
-     },
-     {
       "zone": "AL001-1EX",
       "miss": [
        "AM",
@@ -9167,25 +7236,9 @@
        "西營盤"
       ],
       "none": true
-     },
-     {
-      "zone": "NT056EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "青衣長康普通科門診診所"
-      ],
-      "districts": [
-       "青衣"
-      ],
-      "none": true
      }
     ],
-    "addresses": 52
+    "addresses": 2
    },
    "WAN00001": {
     "window": false
@@ -9196,22 +7249,6 @@
    "MCP00001": {
     "window": true,
     "zones": [
-     {
-      "zone": "KN020EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "香港中華基督教青年會- 聯青社 - 青年會黃宜洲青年營"
-      ],
-      "districts": [
-       "寶琳"
-      ],
-      "none": true
-     },
      {
       "zone": "KN057-1EX",
       "miss": [
@@ -9229,7 +7266,7 @@
       "none": true
      }
     ],
-    "addresses": 2
+    "addresses": 1
    },
    "TM00001": {
     "window": false
@@ -9249,100 +7286,6 @@
     "window": true,
     "zones": [
      {
-      "zone": "NT008EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "明愛賽馬會荃灣診所",
-       "可觀自然教育中心天文館",
-       "聯合大廈",
-       "聯和大樓",
-       "寶城唐樓",
-       "荃灣電話機樓",
-       "東林佛教安老院",
-       "詠達軒",
-       "和盛大廈",
-       "仁濟醫院賽馬會分科診療所",
-       "仁愛樓",
-       "美港二倉",
-       "流芳園 A座",
-       "流芳園 B座",
-       "芙蓉雅苑 洋房A",
-       "芙蓉雅苑 洋房B",
-       "芙蓉雅苑 洋房C",
-       "芙蓉雅苑 洋房D",
-       "永華台 A座",
-       "永華台 B座",
-       "永華台 C座",
-       "永華台 D座",
-       "永華台 E座"
-      ],
-      "districts": [
-       "荃灣東"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT009EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "陶氏化學青衣廠",
-       "香港聯集貨運辦事處",
-       "香港水泥廠",
-       "香港船廠行政大樓",
-       "太古漆廠",
-       "天廚(青衣)工業中心",
-       "友聯船廠",
-       "加德士油庫",
-       "香港聯合船塢",
-       "陶氏化工廠",
-       "蜆殼油庫",
-       "宣道會青霖堂",
-       "青衣市區普通科門診診所",
-       "歐亞船廠 (青強街5-9號)"
-      ],
-      "districts": [
-       "青衣"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT043EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "清快塘新村",
-       "深井東村",
-       "紅屋",
-       "排棉角村",
-       "嘉龍村",
-       "龍圃",
-       "黃金花園 A座",
-       "黃金花園 B座",
-       "黃金花園 C座",
-       "黃金花園 D座",
-       "黃金花園 E座",
-       "黃金花園 F座"
-      ],
-      "districts": [
-       "深井"
-      ],
-      "none": true
-     },
-     {
       "zone": "AL001-1EX",
       "miss": [
        "AM",
@@ -9373,25 +7316,9 @@
        "西營盤"
       ],
       "none": true
-     },
-     {
-      "zone": "NT056EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "青衣長康普通科門診診所"
-      ],
-      "districts": [
-       "青衣"
-      ],
-      "none": true
      }
     ],
-    "addresses": 52
+    "addresses": 2
    },
    "WAN00001": {
     "window": false
@@ -9402,22 +7329,6 @@
    "MCP00001": {
     "window": true,
     "zones": [
-     {
-      "zone": "KN020EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "香港中華基督教青年會- 聯青社 - 青年會黃宜洲青年營"
-      ],
-      "districts": [
-       "寶琳"
-      ],
-      "none": true
-     },
      {
       "zone": "KN057-1EX",
       "miss": [
@@ -9435,7 +7346,7 @@
       "none": true
      }
     ],
-    "addresses": 2
+    "addresses": 1
    },
    "TM00001": {
     "window": false
@@ -9472,5 +7383,6 @@
    "NT-STEX",
    "NT-TSMEX"
   ]
- }
+ },
+ "excludedNoDash": 1025
 }

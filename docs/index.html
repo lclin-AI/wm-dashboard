@@ -321,6 +321,9 @@ function renderZG(d){
        "按 availableStores 歸街市；車線嚟自 OIX Delivery Zone。屯門連埋 NT-YTEX（元朗區）、" +
        "大埔墟連埋 NT-TSMEX（火炭／大學）一齊睇。共查 " + d.estatesChecked.toLocaleString() +
        " 個地址，每日更新一次。</div>";
+  if (d.excludedNoDash) h += "<div class=\"note\">Zone 冇「-」嗰啲（NT008EX 咁）唔報 —— " +
+       "粗粒度舊區號，入面多數係診所／學校／教堂／工廠呢類非住宅地址。今次剔走 " +
+       d.excludedNoDash.toLocaleString() + " 個地址-日。</div>";
   el("p-zg").innerHTML = h;
   el("p-zg").querySelectorAll("td.pick").forEach(td => td.onclick = () => {
     zgDate = td.dataset.d; renderZG(ZG);

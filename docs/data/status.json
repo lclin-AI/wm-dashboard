@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-06T21:54:29",
+ "updatedAt": "2026-10-06T21:58:53",
  "marketsChecked": 8,
  "marketsTotal": 8,
  "marketsFailed": [],
@@ -23,5 +23,5 @@
   "note": "要重新掃 QR（session 冇咗）— 行 node wa_login.js",
   "at": "2026-10-06T21:52:23"
  },
- "collectedAt": "2026-10-06T21:55:02"
+ "collectedAt": "2026-10-06T22:00:02"
 }

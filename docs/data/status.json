@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-06T15:49:39",
+ "updatedAt": "2026-10-06T15:54:14",
  "marketsChecked": 8,
  "marketsTotal": 8,
  "marketsFailed": [],
@@ -19,9 +19,9 @@
  },
  "whatsappConn": {
   "ok": false,
-  "state": "error",
-  "note": "等唔到 auth 鎖 — 有另一個 Baileys process 行緊",
-  "at": "2026-10-06T15:38:09"
+  "state": "logged_out",
+  "note": "要重新掃 QR（session 冇咗）— 行 node wa_login.js",
+  "at": "2026-10-06T15:53:14"
  },
- "collectedAt": "2026-10-06T15:50:02"
+ "collectedAt": "2026-10-06T15:55:02"
 }

@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-07T09:24:07",
+ "updatedAt": "2026-10-07T09:28:53",
  "marketsChecked": 8,
  "marketsTotal": 8,
  "marketsFailed": [],
@@ -18,10 +18,11 @@
   "note": ""
  },
  "whatsappConn": {
-  "ok": false,
-  "state": "logged_out",
-  "note": "要重新掃 QR（session 冇咗）— 行 node wa_login.js",
-  "at": "2026-10-07T09:10:09"
+  "ok": true,
+  "state": "logged_in",
+  "me": "85252174668:57@s.whatsapp.net",
+  "note": "連得上",
+  "at": "2026-10-07T09:25:25"
  },
- "collectedAt": "2026-10-07T09:25:02"
+ "collectedAt": "2026-10-07T09:30:02"
 }

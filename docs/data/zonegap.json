@@ -1,7 +1,6 @@
 {
- "updatedAt": "2026-10-07T06:35:13",
+ "updatedAt": "2026-10-08T06:35:07",
  "dates": [
-  "2026-10-07",
   "2026-10-08",
   "2026-10-09",
   "2026-10-10",
@@ -15,578 +14,11 @@
   "2026-10-18",
   "2026-10-19",
   "2026-10-20",
-  "2026-10-21"
+  "2026-10-21",
+  "2026-10-22"
  ],
- "estatesChecked": 32633,
+ "estatesChecked": 32632,
  "byDate": {
-  "2026-10-07": {
-   "SMI00001": {
-    "window": true,
-    "zones": [
-     {
-      "zone": "HK1028-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "西環 - HKTVmall超級市場 (西環石塘坊店)"
-      ],
-      "districts": [
-       "西環"
-      ],
-      "none": true
-     }
-    ],
-    "addresses": 1
-   },
-   "KOWC00001": {
-    "window": true,
-    "zones": [
-     {
-      "zone": "KN421-2EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "宏緻苑A 富緻閣",
-       "宏緻苑B 喜致閣",
-       "宏緻苑C 崇緻閣"
-      ],
-      "districts": [
-       "九龍灣"
-      ],
-      "none": true
-     },
-     {
-      "zone": "AL002-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "華興工業大廈 (新蒲崗大有街36號)"
-      ],
-      "districts": [
-       "新蒲崗"
-      ],
-      "none": true
-     },
-     {
-      "zone": "CL002-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "華興工業大廈 (新蒲崗大有街36號)"
-      ],
-      "districts": [
-       "新蒲崗"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK831-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "香島道官立小學 (只限地面交收)"
-      ],
-      "districts": [
-       "香港仔"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN465-2EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "鴻鵠臺第一座"
-      ],
-      "districts": [
-       "牛頭角"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN548-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "香港道教聯合會雲泉學校 (只限地面交收)"
-      ],
-      "districts": [
-       "秀茂坪"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN834-2EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "水務署機電工場"
-      ],
-      "districts": [
-       "石硤尾"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN872-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "陳樹渠紀念中學 (只限地面交收)"
-      ],
-      "districts": [
-       "長沙灣"
-      ],
-      "none": true
-     }
-    ],
-    "addresses": 10
-   },
-   "TW00001": {
-    "window": true,
-    "zones": [
-     {
-      "zone": "AL001-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "金基工業大廈 (大連排道35-41號)"
-      ],
-      "districts": [
-       "葵涌"
-      ],
-      "none": true
-     },
-     {
-      "zone": "HK797-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "太益樓(只限地面交收)"
-      ],
-      "districts": [
-       "西營盤"
-      ],
-      "none": true
-     }
-    ],
-    "addresses": 2
-   },
-   "WAN00001": {
-    "window": true,
-    "zones": [],
-    "addresses": 0
-   },
-   "POR00001": {
-    "window": true,
-    "zones": [
-     {
-      "zone": "KN854-3EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "匯華工廠大廈",
-       "福源廣場",
-       "兆威工業大廈",
-       "安泰大廈 (長沙灣道910號)",
-       "宣道國際學校 (瓊林街33號) (只限地面交收)",
-       "瓊林街83號A座",
-       "瓊林街83號B座"
-      ],
-      "districts": [
-       "荔枝角"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN823-4EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "香港城市大學電機工程系實驗室 (楊健民樓地下)",
-       "香港城市大學 - 劉鳴煒學術樓",
-       "香港城市大學賽馬會健康一體化大樓",
-       "香港城市大學葉傑全樓"
-      ],
-      "districts": [
-       "九龍塘"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN857-3EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "荔枝角收押所職員宿舍G座",
-       "饒宗頤文化館",
-       "荔枝角收押所職員宿舍 H座"
-      ],
-      "districts": [
-       "荔枝角"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN858-4EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "東方石油大廈",
-       "一號·西九龍2座"
-      ],
-      "districts": [
-       "荔枝角"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN580-4EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "北帝街28-28A號"
-      ],
-      "districts": [
-       "土瓜灣"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN820-2EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "聖母玫瑰書院 (只限地面交收)"
-      ],
-      "districts": [
-       "石硤尾"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN834-3EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "緹山 (洋房) (龍駒道9號)"
-      ],
-      "districts": [
-       "石硤尾"
-      ],
-      "none": true
-     }
-    ],
-    "addresses": 19
-   },
-   "MCP00001": {
-    "window": true,
-    "zones": [
-     {
-      "zone": "KN057-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "香港電視多媒體及電子商貿中心 - 辦公室 (10樓)"
-      ],
-      "districts": [
-       "將軍澳"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN1000-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "HKTV將軍澳總部 (只供員工使用)"
-      ],
-      "districts": [
-       "康城"
-      ],
-      "none": true
-     }
-    ],
-    "addresses": 2
-   },
-   "TM00001": {
-    "window": true,
-    "zones": [
-     {
-      "zone": "NT733-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "GOODMAN WESTLINK (小冷水路) (只限小冷水路GOODMAN閘口交收)"
-      ],
-      "districts": [
-       "屯門"
-      ],
-      "none": true
-     }
-    ],
-    "addresses": 1
-   },
-   "TPH00001": {
-    "window": true,
-    "zones": [
-     {
-      "zone": "NT472-2EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "肇軒臺",
-       "粉嶺嶺皮村",
-       "嶺仔村",
-       "馬料水新村 (只限馬料水新村牌坊交收)",
-       "獅頭嶺村 (只限獅頭嶺村公所交收)",
-       "馬尾下 (只限公廁旁空地交收)",
-       "粉嶺大塘湖村",
-       "軍地村 (只限君悅豪庭對出空地交收)"
-      ],
-      "districts": [
-       "沙頭角"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT446-3EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "好時花園 (只限地面交收)",
-       "好時華廷2期 (只限地面交收)"
-      ],
-      "districts": [
-       "太和"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT471-2EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "百勝山莊 (只限地面交收)",
-       "孔嶺村"
-      ],
-      "districts": [
-       "打鼓嶺"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN655-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "新華銀行大廈 (彌敦道774號)"
-      ],
-      "districts": [
-       "太子"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT470-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "虎地坳村 (只限梧桐河水閘交收)"
-      ],
-      "districts": [
-       "文錦渡"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT470-2EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "木湖村 (只限告示牌空地交收)"
-      ],
-      "districts": [
-       "文錦渡"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT699-3EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "虎地上村"
-      ],
-      "districts": [
-       "屯門"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT722-3EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "屯門和平新村"
-      ],
-      "districts": [
-       "屯門"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT729-7EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "陳屋埔 (只限欣景豪園閘口前空地交收)"
-      ],
-      "districts": [
-       "錦田"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT876-2EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "散石灣村"
-      ],
-      "districts": [
-       "梅窩"
-      ],
-      "none": true
-     }
-    ],
-    "addresses": 19
-   }
-  },
   "2026-10-08": {
    "SMI00001": {
     "window": true,
@@ -614,24 +46,6 @@
     "window": true,
     "zones": [
      {
-      "zone": "KN421-2EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "宏緻苑A 富緻閣",
-       "宏緻苑B 喜致閣",
-       "宏緻苑C 崇緻閣"
-      ],
-      "districts": [
-       "九龍灣"
-      ],
-      "none": true
-     },
-     {
       "zone": "AL002-1EX",
       "miss": [
        "AM",
@@ -664,22 +78,6 @@
       "none": true
      },
      {
-      "zone": "HK831-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "香島道官立小學 (只限地面交收)"
-      ],
-      "districts": [
-       "香港仔"
-      ],
-      "none": true
-     },
-     {
       "zone": "KN465-2EX",
       "miss": [
        "AM",
@@ -694,57 +92,9 @@
        "牛頭角"
       ],
       "none": true
-     },
-     {
-      "zone": "KN548-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "香港道教聯合會雲泉學校 (只限地面交收)"
-      ],
-      "districts": [
-       "秀茂坪"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN834-2EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "水務署機電工場"
-      ],
-      "districts": [
-       "石硤尾"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN872-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "陳樹渠紀念中學 (只限地面交收)"
-      ],
-      "districts": [
-       "長沙灣"
-      ],
-      "none": true
      }
     ],
-    "addresses": 10
+    "addresses": 3
    },
    "TW00001": {
     "window": true,
@@ -764,25 +114,9 @@
        "葵涌"
       ],
       "none": true
-     },
-     {
-      "zone": "HK797-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "太益樓(只限地面交收)"
-      ],
-      "districts": [
-       "西營盤"
-      ],
-      "none": true
      }
     ],
-    "addresses": 2
+    "addresses": 1
    },
    "WAN00001": {
     "window": true,
@@ -811,25 +145,6 @@
       ],
       "districts": [
        "荔枝角"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN823-4EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "香港城市大學電機工程系實驗室 (楊健民樓地下)",
-       "香港城市大學 - 劉鳴煒學術樓",
-       "香港城市大學賽馬會健康一體化大樓",
-       "香港城市大學葉傑全樓"
-      ],
-      "districts": [
-       "九龍塘"
       ],
       "none": true
      },
@@ -869,38 +184,6 @@
       "none": true
      },
      {
-      "zone": "KN580-4EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "北帝街28-28A號"
-      ],
-      "districts": [
-       "土瓜灣"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN820-2EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "聖母玫瑰書院 (只限地面交收)"
-      ],
-      "districts": [
-       "石硤尾"
-      ],
-      "none": true
-     },
-     {
       "zone": "KN834-3EX",
       "miss": [
        "AM",
@@ -917,7 +200,7 @@
       "none": true
      }
     ],
-    "addresses": 19
+    "addresses": 13
    },
    "MCP00001": {
     "window": true,
@@ -1040,22 +323,6 @@
       "none": true
      },
      {
-      "zone": "KN655-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "新華銀行大廈 (彌敦道774號)"
-      ],
-      "districts": [
-       "太子"
-      ],
-      "none": true
-     },
-     {
       "zone": "NT470-1EX",
       "miss": [
        "AM",
@@ -1084,22 +351,6 @@
       ],
       "districts": [
        "文錦渡"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT699-3EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "虎地上村"
-      ],
-      "districts": [
-       "屯門"
       ],
       "none": true
      },
@@ -1152,7 +403,7 @@
       "none": true
      }
     ],
-    "addresses": 19
+    "addresses": 17
    }
   },
   "2026-10-09": {
@@ -1182,24 +433,6 @@
     "window": true,
     "zones": [
      {
-      "zone": "KN421-2EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "宏緻苑A 富緻閣",
-       "宏緻苑B 喜致閣",
-       "宏緻苑C 崇緻閣"
-      ],
-      "districts": [
-       "九龍灣"
-      ],
-      "none": true
-     },
-     {
       "zone": "AL002-1EX",
       "miss": [
        "AM",
@@ -1232,22 +465,6 @@
       "none": true
      },
      {
-      "zone": "HK831-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "香島道官立小學 (只限地面交收)"
-      ],
-      "districts": [
-       "香港仔"
-      ],
-      "none": true
-     },
-     {
       "zone": "KN465-2EX",
       "miss": [
        "AM",
@@ -1262,57 +479,9 @@
        "牛頭角"
       ],
       "none": true
-     },
-     {
-      "zone": "KN548-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "香港道教聯合會雲泉學校 (只限地面交收)"
-      ],
-      "districts": [
-       "秀茂坪"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN834-2EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "水務署機電工場"
-      ],
-      "districts": [
-       "石硤尾"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN872-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "陳樹渠紀念中學 (只限地面交收)"
-      ],
-      "districts": [
-       "長沙灣"
-      ],
-      "none": true
      }
     ],
-    "addresses": 10
+    "addresses": 3
    },
    "TW00001": {
     "window": true,
@@ -1332,25 +501,9 @@
        "葵涌"
       ],
       "none": true
-     },
-     {
-      "zone": "HK797-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "太益樓(只限地面交收)"
-      ],
-      "districts": [
-       "西營盤"
-      ],
-      "none": true
      }
     ],
-    "addresses": 2
+    "addresses": 1
    },
    "WAN00001": {
     "window": true,
@@ -1379,25 +532,6 @@
       ],
       "districts": [
        "荔枝角"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN823-4EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "香港城市大學電機工程系實驗室 (楊健民樓地下)",
-       "香港城市大學 - 劉鳴煒學術樓",
-       "香港城市大學賽馬會健康一體化大樓",
-       "香港城市大學葉傑全樓"
-      ],
-      "districts": [
-       "九龍塘"
       ],
       "none": true
      },
@@ -1437,38 +571,6 @@
       "none": true
      },
      {
-      "zone": "KN580-4EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "北帝街28-28A號"
-      ],
-      "districts": [
-       "土瓜灣"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN820-2EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "聖母玫瑰書院 (只限地面交收)"
-      ],
-      "districts": [
-       "石硤尾"
-      ],
-      "none": true
-     },
-     {
       "zone": "KN834-3EX",
       "miss": [
        "AM",
@@ -1485,7 +587,7 @@
       "none": true
      }
     ],
-    "addresses": 19
+    "addresses": 13
    },
    "MCP00001": {
     "window": true,
@@ -1608,22 +710,6 @@
       "none": true
      },
      {
-      "zone": "KN655-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "新華銀行大廈 (彌敦道774號)"
-      ],
-      "districts": [
-       "太子"
-      ],
-      "none": true
-     },
-     {
       "zone": "NT470-1EX",
       "miss": [
        "AM",
@@ -1652,22 +738,6 @@
       ],
       "districts": [
        "文錦渡"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT699-3EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "虎地上村"
-      ],
-      "districts": [
-       "屯門"
       ],
       "none": true
      },
@@ -1720,7 +790,7 @@
       "none": true
      }
     ],
-    "addresses": 19
+    "addresses": 17
    }
   },
   "2026-10-10": {
@@ -1750,24 +820,6 @@
     "window": true,
     "zones": [
      {
-      "zone": "KN421-2EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "宏緻苑A 富緻閣",
-       "宏緻苑B 喜致閣",
-       "宏緻苑C 崇緻閣"
-      ],
-      "districts": [
-       "九龍灣"
-      ],
-      "none": true
-     },
-     {
       "zone": "AL002-1EX",
       "miss": [
        "AM",
@@ -1800,22 +852,6 @@
       "none": true
      },
      {
-      "zone": "HK831-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "香島道官立小學 (只限地面交收)"
-      ],
-      "districts": [
-       "香港仔"
-      ],
-      "none": true
-     },
-     {
       "zone": "KN465-2EX",
       "miss": [
        "AM",
@@ -1830,57 +866,9 @@
        "牛頭角"
       ],
       "none": true
-     },
-     {
-      "zone": "KN548-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "香港道教聯合會雲泉學校 (只限地面交收)"
-      ],
-      "districts": [
-       "秀茂坪"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN834-2EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "水務署機電工場"
-      ],
-      "districts": [
-       "石硤尾"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN872-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "陳樹渠紀念中學 (只限地面交收)"
-      ],
-      "districts": [
-       "長沙灣"
-      ],
-      "none": true
      }
     ],
-    "addresses": 10
+    "addresses": 3
    },
    "TW00001": {
     "window": true,
@@ -1900,25 +888,9 @@
        "葵涌"
       ],
       "none": true
-     },
-     {
-      "zone": "HK797-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "太益樓(只限地面交收)"
-      ],
-      "districts": [
-       "西營盤"
-      ],
-      "none": true
      }
     ],
-    "addresses": 2
+    "addresses": 1
    },
    "WAN00001": {
     "window": true,
@@ -1947,25 +919,6 @@
       ],
       "districts": [
        "荔枝角"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN823-4EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "香港城市大學電機工程系實驗室 (楊健民樓地下)",
-       "香港城市大學 - 劉鳴煒學術樓",
-       "香港城市大學賽馬會健康一體化大樓",
-       "香港城市大學葉傑全樓"
-      ],
-      "districts": [
-       "九龍塘"
       ],
       "none": true
      },
@@ -2005,38 +958,6 @@
       "none": true
      },
      {
-      "zone": "KN580-4EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "北帝街28-28A號"
-      ],
-      "districts": [
-       "土瓜灣"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN820-2EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "聖母玫瑰書院 (只限地面交收)"
-      ],
-      "districts": [
-       "石硤尾"
-      ],
-      "none": true
-     },
-     {
       "zone": "KN834-3EX",
       "miss": [
        "AM",
@@ -2053,7 +974,7 @@
       "none": true
      }
     ],
-    "addresses": 19
+    "addresses": 13
    },
    "MCP00001": {
     "window": true,
@@ -2176,22 +1097,6 @@
       "none": true
      },
      {
-      "zone": "KN655-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "新華銀行大廈 (彌敦道774號)"
-      ],
-      "districts": [
-       "太子"
-      ],
-      "none": true
-     },
-     {
       "zone": "NT470-1EX",
       "miss": [
        "AM",
@@ -2220,22 +1125,6 @@
       ],
       "districts": [
        "文錦渡"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT699-3EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "虎地上村"
-      ],
-      "districts": [
-       "屯門"
       ],
       "none": true
      },
@@ -2288,7 +1177,7 @@
       "none": true
      }
     ],
-    "addresses": 19
+    "addresses": 17
    }
   },
   "2026-10-11": {
@@ -2318,24 +1207,6 @@
     "window": true,
     "zones": [
      {
-      "zone": "KN421-2EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "宏緻苑A 富緻閣",
-       "宏緻苑B 喜致閣",
-       "宏緻苑C 崇緻閣"
-      ],
-      "districts": [
-       "九龍灣"
-      ],
-      "none": true
-     },
-     {
       "zone": "AL002-1EX",
       "miss": [
        "AM",
@@ -2368,22 +1239,6 @@
       "none": true
      },
      {
-      "zone": "HK831-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "香島道官立小學 (只限地面交收)"
-      ],
-      "districts": [
-       "香港仔"
-      ],
-      "none": true
-     },
-     {
       "zone": "KN465-2EX",
       "miss": [
        "AM",
@@ -2398,57 +1253,9 @@
        "牛頭角"
       ],
       "none": true
-     },
-     {
-      "zone": "KN548-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "香港道教聯合會雲泉學校 (只限地面交收)"
-      ],
-      "districts": [
-       "秀茂坪"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN834-2EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "水務署機電工場"
-      ],
-      "districts": [
-       "石硤尾"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN872-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "陳樹渠紀念中學 (只限地面交收)"
-      ],
-      "districts": [
-       "長沙灣"
-      ],
-      "none": true
      }
     ],
-    "addresses": 10
+    "addresses": 3
    },
    "TW00001": {
     "window": true,
@@ -2468,25 +1275,9 @@
        "葵涌"
       ],
       "none": true
-     },
-     {
-      "zone": "HK797-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "太益樓(只限地面交收)"
-      ],
-      "districts": [
-       "西營盤"
-      ],
-      "none": true
      }
     ],
-    "addresses": 2
+    "addresses": 1
    },
    "WAN00001": {
     "window": true,
@@ -2515,25 +1306,6 @@
       ],
       "districts": [
        "荔枝角"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN823-4EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "香港城市大學電機工程系實驗室 (楊健民樓地下)",
-       "香港城市大學 - 劉鳴煒學術樓",
-       "香港城市大學賽馬會健康一體化大樓",
-       "香港城市大學葉傑全樓"
-      ],
-      "districts": [
-       "九龍塘"
       ],
       "none": true
      },
@@ -2573,38 +1345,6 @@
       "none": true
      },
      {
-      "zone": "KN580-4EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "北帝街28-28A號"
-      ],
-      "districts": [
-       "土瓜灣"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN820-2EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "聖母玫瑰書院 (只限地面交收)"
-      ],
-      "districts": [
-       "石硤尾"
-      ],
-      "none": true
-     },
-     {
       "zone": "KN834-3EX",
       "miss": [
        "AM",
@@ -2621,7 +1361,7 @@
       "none": true
      }
     ],
-    "addresses": 19
+    "addresses": 13
    },
    "MCP00001": {
     "window": true,
@@ -2744,22 +1484,6 @@
       "none": true
      },
      {
-      "zone": "KN655-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "新華銀行大廈 (彌敦道774號)"
-      ],
-      "districts": [
-       "太子"
-      ],
-      "none": true
-     },
-     {
       "zone": "NT470-1EX",
       "miss": [
        "AM",
@@ -2788,22 +1512,6 @@
       ],
       "districts": [
        "文錦渡"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT699-3EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "虎地上村"
-      ],
-      "districts": [
-       "屯門"
       ],
       "none": true
      },
@@ -2856,7 +1564,7 @@
       "none": true
      }
     ],
-    "addresses": 19
+    "addresses": 17
    }
   },
   "2026-10-12": {
@@ -2886,24 +1594,6 @@
     "window": true,
     "zones": [
      {
-      "zone": "KN421-2EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "宏緻苑A 富緻閣",
-       "宏緻苑B 喜致閣",
-       "宏緻苑C 崇緻閣"
-      ],
-      "districts": [
-       "九龍灣"
-      ],
-      "none": true
-     },
-     {
       "zone": "AL002-1EX",
       "miss": [
        "AM",
@@ -2936,22 +1626,6 @@
       "none": true
      },
      {
-      "zone": "HK831-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "香島道官立小學 (只限地面交收)"
-      ],
-      "districts": [
-       "香港仔"
-      ],
-      "none": true
-     },
-     {
       "zone": "KN465-2EX",
       "miss": [
        "AM",
@@ -2966,57 +1640,9 @@
        "牛頭角"
       ],
       "none": true
-     },
-     {
-      "zone": "KN548-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "香港道教聯合會雲泉學校 (只限地面交收)"
-      ],
-      "districts": [
-       "秀茂坪"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN834-2EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "水務署機電工場"
-      ],
-      "districts": [
-       "石硤尾"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN872-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "陳樹渠紀念中學 (只限地面交收)"
-      ],
-      "districts": [
-       "長沙灣"
-      ],
-      "none": true
      }
     ],
-    "addresses": 10
+    "addresses": 3
    },
    "TW00001": {
     "window": true,
@@ -3036,25 +1662,9 @@
        "葵涌"
       ],
       "none": true
-     },
-     {
-      "zone": "HK797-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "太益樓(只限地面交收)"
-      ],
-      "districts": [
-       "西營盤"
-      ],
-      "none": true
      }
     ],
-    "addresses": 2
+    "addresses": 1
    },
    "WAN00001": {
     "window": true,
@@ -3083,25 +1693,6 @@
       ],
       "districts": [
        "荔枝角"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN823-4EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "香港城市大學電機工程系實驗室 (楊健民樓地下)",
-       "香港城市大學 - 劉鳴煒學術樓",
-       "香港城市大學賽馬會健康一體化大樓",
-       "香港城市大學葉傑全樓"
-      ],
-      "districts": [
-       "九龍塘"
       ],
       "none": true
      },
@@ -3141,38 +1732,6 @@
       "none": true
      },
      {
-      "zone": "KN580-4EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "北帝街28-28A號"
-      ],
-      "districts": [
-       "土瓜灣"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN820-2EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "聖母玫瑰書院 (只限地面交收)"
-      ],
-      "districts": [
-       "石硤尾"
-      ],
-      "none": true
-     },
-     {
       "zone": "KN834-3EX",
       "miss": [
        "AM",
@@ -3189,7 +1748,7 @@
       "none": true
      }
     ],
-    "addresses": 19
+    "addresses": 13
    },
    "MCP00001": {
     "window": true,
@@ -3312,22 +1871,6 @@
       "none": true
      },
      {
-      "zone": "KN655-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "新華銀行大廈 (彌敦道774號)"
-      ],
-      "districts": [
-       "太子"
-      ],
-      "none": true
-     },
-     {
       "zone": "NT470-1EX",
       "miss": [
        "AM",
@@ -3356,22 +1899,6 @@
       ],
       "districts": [
        "文錦渡"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT699-3EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "虎地上村"
-      ],
-      "districts": [
-       "屯門"
       ],
       "none": true
      },
@@ -3424,7 +1951,7 @@
       "none": true
      }
     ],
-    "addresses": 19
+    "addresses": 17
    }
   },
   "2026-10-13": {
@@ -3454,24 +1981,6 @@
     "window": true,
     "zones": [
      {
-      "zone": "KN421-2EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "宏緻苑A 富緻閣",
-       "宏緻苑B 喜致閣",
-       "宏緻苑C 崇緻閣"
-      ],
-      "districts": [
-       "九龍灣"
-      ],
-      "none": true
-     },
-     {
       "zone": "AL002-1EX",
       "miss": [
        "AM",
@@ -3504,22 +2013,6 @@
       "none": true
      },
      {
-      "zone": "HK831-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "香島道官立小學 (只限地面交收)"
-      ],
-      "districts": [
-       "香港仔"
-      ],
-      "none": true
-     },
-     {
       "zone": "KN465-2EX",
       "miss": [
        "AM",
@@ -3534,57 +2027,9 @@
        "牛頭角"
       ],
       "none": true
-     },
-     {
-      "zone": "KN548-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "香港道教聯合會雲泉學校 (只限地面交收)"
-      ],
-      "districts": [
-       "秀茂坪"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN834-2EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "水務署機電工場"
-      ],
-      "districts": [
-       "石硤尾"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN872-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "陳樹渠紀念中學 (只限地面交收)"
-      ],
-      "districts": [
-       "長沙灣"
-      ],
-      "none": true
      }
     ],
-    "addresses": 10
+    "addresses": 3
    },
    "TW00001": {
     "window": true,
@@ -3604,25 +2049,9 @@
        "葵涌"
       ],
       "none": true
-     },
-     {
-      "zone": "HK797-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "太益樓(只限地面交收)"
-      ],
-      "districts": [
-       "西營盤"
-      ],
-      "none": true
      }
     ],
-    "addresses": 2
+    "addresses": 1
    },
    "WAN00001": {
     "window": true,
@@ -3651,25 +2080,6 @@
       ],
       "districts": [
        "荔枝角"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN823-4EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "香港城市大學電機工程系實驗室 (楊健民樓地下)",
-       "香港城市大學 - 劉鳴煒學術樓",
-       "香港城市大學賽馬會健康一體化大樓",
-       "香港城市大學葉傑全樓"
-      ],
-      "districts": [
-       "九龍塘"
       ],
       "none": true
      },
@@ -3709,38 +2119,6 @@
       "none": true
      },
      {
-      "zone": "KN580-4EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "北帝街28-28A號"
-      ],
-      "districts": [
-       "土瓜灣"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN820-2EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "聖母玫瑰書院 (只限地面交收)"
-      ],
-      "districts": [
-       "石硤尾"
-      ],
-      "none": true
-     },
-     {
       "zone": "KN834-3EX",
       "miss": [
        "AM",
@@ -3757,7 +2135,7 @@
       "none": true
      }
     ],
-    "addresses": 19
+    "addresses": 13
    },
    "MCP00001": {
     "window": true,
@@ -3880,22 +2258,6 @@
       "none": true
      },
      {
-      "zone": "KN655-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "新華銀行大廈 (彌敦道774號)"
-      ],
-      "districts": [
-       "太子"
-      ],
-      "none": true
-     },
-     {
       "zone": "NT470-1EX",
       "miss": [
        "AM",
@@ -3924,22 +2286,6 @@
       ],
       "districts": [
        "文錦渡"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT699-3EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "虎地上村"
-      ],
-      "districts": [
-       "屯門"
       ],
       "none": true
      },
@@ -3992,7 +2338,7 @@
       "none": true
      }
     ],
-    "addresses": 19
+    "addresses": 17
    }
   },
   "2026-10-14": {
@@ -4022,24 +2368,6 @@
     "window": true,
     "zones": [
      {
-      "zone": "KN421-2EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "宏緻苑A 富緻閣",
-       "宏緻苑B 喜致閣",
-       "宏緻苑C 崇緻閣"
-      ],
-      "districts": [
-       "九龍灣"
-      ],
-      "none": true
-     },
-     {
       "zone": "AL002-1EX",
       "miss": [
        "AM",
@@ -4072,22 +2400,6 @@
       "none": true
      },
      {
-      "zone": "HK831-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "香島道官立小學 (只限地面交收)"
-      ],
-      "districts": [
-       "香港仔"
-      ],
-      "none": true
-     },
-     {
       "zone": "KN465-2EX",
       "miss": [
        "AM",
@@ -4102,57 +2414,9 @@
        "牛頭角"
       ],
       "none": true
-     },
-     {
-      "zone": "KN548-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "香港道教聯合會雲泉學校 (只限地面交收)"
-      ],
-      "districts": [
-       "秀茂坪"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN834-2EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "水務署機電工場"
-      ],
-      "districts": [
-       "石硤尾"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN872-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "陳樹渠紀念中學 (只限地面交收)"
-      ],
-      "districts": [
-       "長沙灣"
-      ],
-      "none": true
      }
     ],
-    "addresses": 10
+    "addresses": 3
    },
    "TW00001": {
     "window": true,
@@ -4172,25 +2436,9 @@
        "葵涌"
       ],
       "none": true
-     },
-     {
-      "zone": "HK797-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "太益樓(只限地面交收)"
-      ],
-      "districts": [
-       "西營盤"
-      ],
-      "none": true
      }
     ],
-    "addresses": 2
+    "addresses": 1
    },
    "WAN00001": {
     "window": true,
@@ -4219,25 +2467,6 @@
       ],
       "districts": [
        "荔枝角"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN823-4EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "香港城市大學電機工程系實驗室 (楊健民樓地下)",
-       "香港城市大學 - 劉鳴煒學術樓",
-       "香港城市大學賽馬會健康一體化大樓",
-       "香港城市大學葉傑全樓"
-      ],
-      "districts": [
-       "九龍塘"
       ],
       "none": true
      },
@@ -4277,38 +2506,6 @@
       "none": true
      },
      {
-      "zone": "KN580-4EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "北帝街28-28A號"
-      ],
-      "districts": [
-       "土瓜灣"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN820-2EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "聖母玫瑰書院 (只限地面交收)"
-      ],
-      "districts": [
-       "石硤尾"
-      ],
-      "none": true
-     },
-     {
       "zone": "KN834-3EX",
       "miss": [
        "AM",
@@ -4325,7 +2522,7 @@
       "none": true
      }
     ],
-    "addresses": 19
+    "addresses": 13
    },
    "MCP00001": {
     "window": true,
@@ -4448,22 +2645,6 @@
       "none": true
      },
      {
-      "zone": "KN655-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "新華銀行大廈 (彌敦道774號)"
-      ],
-      "districts": [
-       "太子"
-      ],
-      "none": true
-     },
-     {
       "zone": "NT470-1EX",
       "miss": [
        "AM",
@@ -4492,22 +2673,6 @@
       ],
       "districts": [
        "文錦渡"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT699-3EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "虎地上村"
-      ],
-      "districts": [
-       "屯門"
       ],
       "none": true
      },
@@ -4560,7 +2725,7 @@
       "none": true
      }
     ],
-    "addresses": 19
+    "addresses": 17
    }
   },
   "2026-10-15": {
@@ -4590,24 +2755,6 @@
     "window": true,
     "zones": [
      {
-      "zone": "KN421-2EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "宏緻苑A 富緻閣",
-       "宏緻苑B 喜致閣",
-       "宏緻苑C 崇緻閣"
-      ],
-      "districts": [
-       "九龍灣"
-      ],
-      "none": true
-     },
-     {
       "zone": "AL002-1EX",
       "miss": [
        "AM",
@@ -4640,22 +2787,6 @@
       "none": true
      },
      {
-      "zone": "HK831-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "香島道官立小學 (只限地面交收)"
-      ],
-      "districts": [
-       "香港仔"
-      ],
-      "none": true
-     },
-     {
       "zone": "KN465-2EX",
       "miss": [
        "AM",
@@ -4670,57 +2801,9 @@
        "牛頭角"
       ],
       "none": true
-     },
-     {
-      "zone": "KN548-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "香港道教聯合會雲泉學校 (只限地面交收)"
-      ],
-      "districts": [
-       "秀茂坪"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN834-2EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "水務署機電工場"
-      ],
-      "districts": [
-       "石硤尾"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN872-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "陳樹渠紀念中學 (只限地面交收)"
-      ],
-      "districts": [
-       "長沙灣"
-      ],
-      "none": true
      }
     ],
-    "addresses": 10
+    "addresses": 3
    },
    "TW00001": {
     "window": true,
@@ -4740,25 +2823,9 @@
        "葵涌"
       ],
       "none": true
-     },
-     {
-      "zone": "HK797-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "太益樓(只限地面交收)"
-      ],
-      "districts": [
-       "西營盤"
-      ],
-      "none": true
      }
     ],
-    "addresses": 2
+    "addresses": 1
    },
    "WAN00001": {
     "window": true,
@@ -4787,25 +2854,6 @@
       ],
       "districts": [
        "荔枝角"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN823-4EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "香港城市大學電機工程系實驗室 (楊健民樓地下)",
-       "香港城市大學 - 劉鳴煒學術樓",
-       "香港城市大學賽馬會健康一體化大樓",
-       "香港城市大學葉傑全樓"
-      ],
-      "districts": [
-       "九龍塘"
       ],
       "none": true
      },
@@ -4845,38 +2893,6 @@
       "none": true
      },
      {
-      "zone": "KN580-4EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "北帝街28-28A號"
-      ],
-      "districts": [
-       "土瓜灣"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN820-2EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "聖母玫瑰書院 (只限地面交收)"
-      ],
-      "districts": [
-       "石硤尾"
-      ],
-      "none": true
-     },
-     {
       "zone": "KN834-3EX",
       "miss": [
        "AM",
@@ -4893,7 +2909,7 @@
       "none": true
      }
     ],
-    "addresses": 19
+    "addresses": 13
    },
    "MCP00001": {
     "window": true,
@@ -5016,22 +3032,6 @@
       "none": true
      },
      {
-      "zone": "KN655-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "新華銀行大廈 (彌敦道774號)"
-      ],
-      "districts": [
-       "太子"
-      ],
-      "none": true
-     },
-     {
       "zone": "NT470-1EX",
       "miss": [
        "AM",
@@ -5060,22 +3060,6 @@
       ],
       "districts": [
        "文錦渡"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT699-3EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "虎地上村"
-      ],
-      "districts": [
-       "屯門"
       ],
       "none": true
      },
@@ -5128,7 +3112,7 @@
       "none": true
      }
     ],
-    "addresses": 19
+    "addresses": 17
    }
   },
   "2026-10-16": {
@@ -5158,24 +3142,6 @@
     "window": true,
     "zones": [
      {
-      "zone": "KN421-2EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "宏緻苑A 富緻閣",
-       "宏緻苑B 喜致閣",
-       "宏緻苑C 崇緻閣"
-      ],
-      "districts": [
-       "九龍灣"
-      ],
-      "none": true
-     },
-     {
       "zone": "AL002-1EX",
       "miss": [
        "AM",
@@ -5208,22 +3174,6 @@
       "none": true
      },
      {
-      "zone": "HK831-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "香島道官立小學 (只限地面交收)"
-      ],
-      "districts": [
-       "香港仔"
-      ],
-      "none": true
-     },
-     {
       "zone": "KN465-2EX",
       "miss": [
        "AM",
@@ -5238,57 +3188,9 @@
        "牛頭角"
       ],
       "none": true
-     },
-     {
-      "zone": "KN548-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "香港道教聯合會雲泉學校 (只限地面交收)"
-      ],
-      "districts": [
-       "秀茂坪"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN834-2EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "水務署機電工場"
-      ],
-      "districts": [
-       "石硤尾"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN872-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "陳樹渠紀念中學 (只限地面交收)"
-      ],
-      "districts": [
-       "長沙灣"
-      ],
-      "none": true
      }
     ],
-    "addresses": 10
+    "addresses": 3
    },
    "TW00001": {
     "window": true,
@@ -5308,25 +3210,9 @@
        "葵涌"
       ],
       "none": true
-     },
-     {
-      "zone": "HK797-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "太益樓(只限地面交收)"
-      ],
-      "districts": [
-       "西營盤"
-      ],
-      "none": true
      }
     ],
-    "addresses": 2
+    "addresses": 1
    },
    "WAN00001": {
     "window": true,
@@ -5355,25 +3241,6 @@
       ],
       "districts": [
        "荔枝角"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN823-4EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "香港城市大學電機工程系實驗室 (楊健民樓地下)",
-       "香港城市大學 - 劉鳴煒學術樓",
-       "香港城市大學賽馬會健康一體化大樓",
-       "香港城市大學葉傑全樓"
-      ],
-      "districts": [
-       "九龍塘"
       ],
       "none": true
      },
@@ -5413,38 +3280,6 @@
       "none": true
      },
      {
-      "zone": "KN580-4EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "北帝街28-28A號"
-      ],
-      "districts": [
-       "土瓜灣"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN820-2EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "聖母玫瑰書院 (只限地面交收)"
-      ],
-      "districts": [
-       "石硤尾"
-      ],
-      "none": true
-     },
-     {
       "zone": "KN834-3EX",
       "miss": [
        "AM",
@@ -5461,7 +3296,7 @@
       "none": true
      }
     ],
-    "addresses": 19
+    "addresses": 13
    },
    "MCP00001": {
     "window": true,
@@ -5584,22 +3419,6 @@
       "none": true
      },
      {
-      "zone": "KN655-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "新華銀行大廈 (彌敦道774號)"
-      ],
-      "districts": [
-       "太子"
-      ],
-      "none": true
-     },
-     {
       "zone": "NT470-1EX",
       "miss": [
        "AM",
@@ -5628,22 +3447,6 @@
       ],
       "districts": [
        "文錦渡"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT699-3EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "虎地上村"
-      ],
-      "districts": [
-       "屯門"
       ],
       "none": true
      },
@@ -5696,7 +3499,7 @@
       "none": true
      }
     ],
-    "addresses": 19
+    "addresses": 17
    }
   },
   "2026-10-17": {
@@ -5726,24 +3529,6 @@
     "window": true,
     "zones": [
      {
-      "zone": "KN421-2EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "宏緻苑A 富緻閣",
-       "宏緻苑B 喜致閣",
-       "宏緻苑C 崇緻閣"
-      ],
-      "districts": [
-       "九龍灣"
-      ],
-      "none": true
-     },
-     {
       "zone": "AL002-1EX",
       "miss": [
        "AM",
@@ -5776,22 +3561,6 @@
       "none": true
      },
      {
-      "zone": "HK831-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "香島道官立小學 (只限地面交收)"
-      ],
-      "districts": [
-       "香港仔"
-      ],
-      "none": true
-     },
-     {
       "zone": "KN465-2EX",
       "miss": [
        "AM",
@@ -5806,57 +3575,9 @@
        "牛頭角"
       ],
       "none": true
-     },
-     {
-      "zone": "KN548-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "香港道教聯合會雲泉學校 (只限地面交收)"
-      ],
-      "districts": [
-       "秀茂坪"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN834-2EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "水務署機電工場"
-      ],
-      "districts": [
-       "石硤尾"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN872-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "陳樹渠紀念中學 (只限地面交收)"
-      ],
-      "districts": [
-       "長沙灣"
-      ],
-      "none": true
      }
     ],
-    "addresses": 10
+    "addresses": 3
    },
    "TW00001": {
     "window": true,
@@ -5876,25 +3597,9 @@
        "葵涌"
       ],
       "none": true
-     },
-     {
-      "zone": "HK797-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "太益樓(只限地面交收)"
-      ],
-      "districts": [
-       "西營盤"
-      ],
-      "none": true
      }
     ],
-    "addresses": 2
+    "addresses": 1
    },
    "WAN00001": {
     "window": true,
@@ -5923,25 +3628,6 @@
       ],
       "districts": [
        "荔枝角"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN823-4EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "香港城市大學電機工程系實驗室 (楊健民樓地下)",
-       "香港城市大學 - 劉鳴煒學術樓",
-       "香港城市大學賽馬會健康一體化大樓",
-       "香港城市大學葉傑全樓"
-      ],
-      "districts": [
-       "九龍塘"
       ],
       "none": true
      },
@@ -5981,38 +3667,6 @@
       "none": true
      },
      {
-      "zone": "KN580-4EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "北帝街28-28A號"
-      ],
-      "districts": [
-       "土瓜灣"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN820-2EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "聖母玫瑰書院 (只限地面交收)"
-      ],
-      "districts": [
-       "石硤尾"
-      ],
-      "none": true
-     },
-     {
       "zone": "KN834-3EX",
       "miss": [
        "AM",
@@ -6029,7 +3683,7 @@
       "none": true
      }
     ],
-    "addresses": 19
+    "addresses": 13
    },
    "MCP00001": {
     "window": true,
@@ -6152,22 +3806,6 @@
       "none": true
      },
      {
-      "zone": "KN655-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "新華銀行大廈 (彌敦道774號)"
-      ],
-      "districts": [
-       "太子"
-      ],
-      "none": true
-     },
-     {
       "zone": "NT470-1EX",
       "miss": [
        "AM",
@@ -6196,22 +3834,6 @@
       ],
       "districts": [
        "文錦渡"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT699-3EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "虎地上村"
-      ],
-      "districts": [
-       "屯門"
       ],
       "none": true
      },
@@ -6264,7 +3886,7 @@
       "none": true
      }
     ],
-    "addresses": 19
+    "addresses": 17
    }
   },
   "2026-10-18": {
@@ -6294,24 +3916,6 @@
     "window": true,
     "zones": [
      {
-      "zone": "KN421-2EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "宏緻苑A 富緻閣",
-       "宏緻苑B 喜致閣",
-       "宏緻苑C 崇緻閣"
-      ],
-      "districts": [
-       "九龍灣"
-      ],
-      "none": true
-     },
-     {
       "zone": "AL002-1EX",
       "miss": [
        "AM",
@@ -6344,22 +3948,6 @@
       "none": true
      },
      {
-      "zone": "HK831-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "香島道官立小學 (只限地面交收)"
-      ],
-      "districts": [
-       "香港仔"
-      ],
-      "none": true
-     },
-     {
       "zone": "KN465-2EX",
       "miss": [
        "AM",
@@ -6374,57 +3962,9 @@
        "牛頭角"
       ],
       "none": true
-     },
-     {
-      "zone": "KN548-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "香港道教聯合會雲泉學校 (只限地面交收)"
-      ],
-      "districts": [
-       "秀茂坪"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN834-2EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "水務署機電工場"
-      ],
-      "districts": [
-       "石硤尾"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN872-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "陳樹渠紀念中學 (只限地面交收)"
-      ],
-      "districts": [
-       "長沙灣"
-      ],
-      "none": true
      }
     ],
-    "addresses": 10
+    "addresses": 3
    },
    "TW00001": {
     "window": true,
@@ -6444,25 +3984,9 @@
        "葵涌"
       ],
       "none": true
-     },
-     {
-      "zone": "HK797-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "太益樓(只限地面交收)"
-      ],
-      "districts": [
-       "西營盤"
-      ],
-      "none": true
      }
     ],
-    "addresses": 2
+    "addresses": 1
    },
    "WAN00001": {
     "window": true,
@@ -6491,25 +4015,6 @@
       ],
       "districts": [
        "荔枝角"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN823-4EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "香港城市大學電機工程系實驗室 (楊健民樓地下)",
-       "香港城市大學 - 劉鳴煒學術樓",
-       "香港城市大學賽馬會健康一體化大樓",
-       "香港城市大學葉傑全樓"
-      ],
-      "districts": [
-       "九龍塘"
       ],
       "none": true
      },
@@ -6549,38 +4054,6 @@
       "none": true
      },
      {
-      "zone": "KN580-4EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "北帝街28-28A號"
-      ],
-      "districts": [
-       "土瓜灣"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN820-2EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "聖母玫瑰書院 (只限地面交收)"
-      ],
-      "districts": [
-       "石硤尾"
-      ],
-      "none": true
-     },
-     {
       "zone": "KN834-3EX",
       "miss": [
        "AM",
@@ -6597,7 +4070,7 @@
       "none": true
      }
     ],
-    "addresses": 19
+    "addresses": 13
    },
    "MCP00001": {
     "window": true,
@@ -6720,22 +4193,6 @@
       "none": true
      },
      {
-      "zone": "KN655-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "新華銀行大廈 (彌敦道774號)"
-      ],
-      "districts": [
-       "太子"
-      ],
-      "none": true
-     },
-     {
       "zone": "NT470-1EX",
       "miss": [
        "AM",
@@ -6764,22 +4221,6 @@
       ],
       "districts": [
        "文錦渡"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT699-3EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "虎地上村"
-      ],
-      "districts": [
-       "屯門"
       ],
       "none": true
      },
@@ -6832,7 +4273,7 @@
       "none": true
      }
     ],
-    "addresses": 19
+    "addresses": 17
    }
   },
   "2026-10-19": {
@@ -6860,25 +4301,9 @@
        "葵涌"
       ],
       "none": true
-     },
-     {
-      "zone": "HK797-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "太益樓(只限地面交收)"
-      ],
-      "districts": [
-       "西營盤"
-      ],
-      "none": true
      }
     ],
-    "addresses": 2
+    "addresses": 1
    },
    "WAN00001": {
     "window": false
@@ -6956,25 +4381,9 @@
        "葵涌"
       ],
       "none": true
-     },
-     {
-      "zone": "HK797-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "太益樓(只限地面交收)"
-      ],
-      "districts": [
-       "西營盤"
-      ],
-      "none": true
      }
     ],
-    "addresses": 2
+    "addresses": 1
    },
    "WAN00001": {
     "window": false
@@ -7052,9 +4461,21 @@
        "葵涌"
       ],
       "none": true
-     },
+     }
+    ],
+    "addresses": 1
+   },
+   "WAN00001": {
+    "window": false
+   },
+   "POR00001": {
+    "window": false
+   },
+   "MCP00001": {
+    "window": true,
+    "zones": [
      {
-      "zone": "HK797-1EX",
+      "zone": "KN057-1EX",
       "miss": [
        "AM",
        "PM1",
@@ -7062,15 +4483,67 @@
        "EV"
       ],
       "estates": [
-       "太益樓(只限地面交收)"
+       "香港電視多媒體及電子商貿中心 - 辦公室 (10樓)"
       ],
       "districts": [
-       "西營盤"
+       "將軍澳"
+      ],
+      "none": true
+     },
+     {
+      "zone": "KN1000-1",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "HKTV將軍澳總部 (只供員工使用)"
+      ],
+      "districts": [
+       "康城"
       ],
       "none": true
      }
     ],
     "addresses": 2
+   },
+   "TM00001": {
+    "window": false
+   },
+   "TPH00001": {
+    "window": false
+   }
+  },
+  "2026-10-22": {
+   "SMI00001": {
+    "window": false
+   },
+   "KOWC00001": {
+    "window": false
+   },
+   "TW00001": {
+    "window": true,
+    "zones": [
+     {
+      "zone": "AL001-1EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "金基工業大廈 (大連排道35-41號)"
+      ],
+      "districts": [
+       "葵涌"
+      ],
+      "none": true
+     }
+    ],
+    "addresses": 1
    },
    "WAN00001": {
     "window": false
@@ -7152,5 +4625,5 @@
    "NT-TSMEX"
   ]
  },
- "excludedNoDash": 1005
+ "excludedNoDash": 985
 }

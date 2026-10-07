@@ -1,791 +1,747 @@
 {
- "updatedAt": "2026-10-07T06:33:47",
+ "updatedAt": "2026-10-08T06:33:47",
  "cells": [
   {
    "code": "KOWC00001",
-   "date": "2026-10-07",
+   "date": "2026-10-08",
    "plusDay": 0,
    "ts": "AM",
    "inOix": true,
    "ok": true,
-   "rows": 237,
+   "rows": 238,
    "routes": 7,
-   "quota": 9720
-  },
-  {
-   "code": "KOWC00001",
-   "date": "2026-10-07",
-   "plusDay": 0,
-   "ts": "PM",
-   "inOix": true,
-   "ok": true,
-   "rows": 237,
-   "routes": 7,
-   "quota": 9040
-  },
-  {
-   "code": "KOWC00001",
-   "date": "2026-10-07",
-   "plusDay": 0,
-   "ts": "PM2",
-   "inOix": true,
-   "ok": true,
-   "rows": 237,
-   "routes": 7,
-   "quota": 9480
-  },
-  {
-   "code": "KOWC00001",
-   "date": "2026-10-07",
-   "plusDay": 0,
-   "ts": "EV",
-   "inOix": true,
-   "ok": true,
-   "rows": 237,
-   "routes": 7,
-   "quota": 7080
+   "quota": 10220
   },
   {
    "code": "KOWC00001",
    "date": "2026-10-08",
-   "plusDay": 1,
-   "ts": "AM",
-   "inOix": true,
-   "ok": true,
-   "rows": 237,
-   "routes": 7,
-   "quota": 8460
-  },
-  {
-   "code": "KOWC00001",
-   "date": "2026-10-08",
-   "plusDay": 1,
-   "ts": "PM",
-   "inOix": true,
-   "ok": true,
-   "rows": 237,
-   "routes": 7,
-   "quota": 7360
-  },
-  {
-   "code": "KOWC00001",
-   "date": "2026-10-08",
-   "plusDay": 1,
-   "ts": "PM2",
-   "inOix": true,
-   "ok": true,
-   "rows": 237,
-   "routes": 7,
-   "quota": 5140
-  },
-  {
-   "code": "KOWC00001",
-   "date": "2026-10-08",
-   "plusDay": 1,
-   "ts": "EV",
-   "inOix": true,
-   "ok": true,
-   "rows": 237,
-   "routes": 7,
-   "quota": 7080
-  },
-  {
-   "code": "KOWC00001",
-   "date": "2026-10-09",
-   "plusDay": 2,
-   "ts": "AM",
-   "inOix": true,
-   "ok": true,
-   "rows": 237,
-   "routes": 7,
-   "quota": 8460
-  },
-  {
-   "code": "KOWC00001",
-   "date": "2026-10-09",
-   "plusDay": 2,
-   "ts": "PM",
-   "inOix": true,
-   "ok": true,
-   "rows": 237,
-   "routes": 7,
-   "quota": 7360
-  },
-  {
-   "code": "KOWC00001",
-   "date": "2026-10-09",
-   "plusDay": 2,
-   "ts": "PM2",
-   "inOix": true,
-   "ok": true,
-   "rows": 237,
-   "routes": 7,
-   "quota": 5140
-  },
-  {
-   "code": "KOWC00001",
-   "date": "2026-10-09",
-   "plusDay": 2,
-   "ts": "EV",
-   "inOix": true,
-   "ok": true,
-   "rows": 237,
-   "routes": 7,
-   "quota": 7080
-  },
-  {
-   "code": "KOWC00001",
-   "date": "2026-10-10",
-   "plusDay": 3,
-   "ts": "AM",
-   "inOix": true,
-   "ok": true,
-   "rows": 237,
-   "routes": 7,
-   "quota": 8460
-  },
-  {
-   "code": "KOWC00001",
-   "date": "2026-10-10",
-   "plusDay": 3,
-   "ts": "PM",
-   "inOix": true,
-   "ok": true,
-   "rows": 237,
-   "routes": 7,
-   "quota": 7360
-  },
-  {
-   "code": "KOWC00001",
-   "date": "2026-10-10",
-   "plusDay": 3,
-   "ts": "PM2",
-   "inOix": true,
-   "ok": true,
-   "rows": 237,
-   "routes": 7,
-   "quota": 5560
-  },
-  {
-   "code": "KOWC00001",
-   "date": "2026-10-10",
-   "plusDay": 3,
-   "ts": "EV",
-   "inOix": true,
-   "ok": true,
-   "rows": 237,
-   "routes": 7,
-   "quota": 7080
-  },
-  {
-   "code": "KOWC00001",
-   "date": "2026-10-11",
-   "plusDay": 4,
-   "ts": "AM",
-   "inOix": true,
-   "ok": true,
-   "rows": 237,
-   "routes": 7,
-   "quota": 8460
-  },
-  {
-   "code": "KOWC00001",
-   "date": "2026-10-11",
-   "plusDay": 4,
-   "ts": "PM",
-   "inOix": true,
-   "ok": true,
-   "rows": 237,
-   "routes": 7,
-   "quota": 7360
-  },
-  {
-   "code": "KOWC00001",
-   "date": "2026-10-11",
-   "plusDay": 4,
-   "ts": "PM2",
-   "inOix": true,
-   "ok": true,
-   "rows": 237,
-   "routes": 7,
-   "quota": 5140
-  },
-  {
-   "code": "KOWC00001",
-   "date": "2026-10-11",
-   "plusDay": 4,
-   "ts": "EV",
-   "inOix": true,
-   "ok": true,
-   "rows": 237,
-   "routes": 7,
-   "quota": 7080
-  },
-  {
-   "code": "KOWC00001",
-   "date": "2026-10-12",
-   "plusDay": 5,
-   "ts": "AM",
-   "inOix": true,
-   "ok": true,
-   "rows": 237,
-   "routes": 7,
-   "quota": 8460
-  },
-  {
-   "code": "KOWC00001",
-   "date": "2026-10-12",
-   "plusDay": 5,
-   "ts": "PM",
-   "inOix": true,
-   "ok": true,
-   "rows": 237,
-   "routes": 7,
-   "quota": 7360
-  },
-  {
-   "code": "KOWC00001",
-   "date": "2026-10-12",
-   "plusDay": 5,
-   "ts": "PM2",
-   "inOix": true,
-   "ok": true,
-   "rows": 237,
-   "routes": 7,
-   "quota": 5140
-  },
-  {
-   "code": "KOWC00001",
-   "date": "2026-10-12",
-   "plusDay": 5,
-   "ts": "EV",
-   "inOix": true,
-   "ok": true,
-   "rows": 237,
-   "routes": 7,
-   "quota": 7080
-  },
-  {
-   "code": "KOWC00001",
-   "date": "2026-10-13",
-   "plusDay": 6,
-   "ts": "AM",
-   "inOix": true,
-   "ok": true,
-   "rows": 237,
-   "routes": 7,
-   "quota": 8460
-  },
-  {
-   "code": "KOWC00001",
-   "date": "2026-10-13",
-   "plusDay": 6,
-   "ts": "PM",
-   "inOix": true,
-   "ok": true,
-   "rows": 237,
-   "routes": 7,
-   "quota": 7360
-  },
-  {
-   "code": "KOWC00001",
-   "date": "2026-10-13",
-   "plusDay": 6,
-   "ts": "PM2",
-   "inOix": true,
-   "ok": true,
-   "rows": 237,
-   "routes": 7,
-   "quota": 5140
-  },
-  {
-   "code": "KOWC00001",
-   "date": "2026-10-13",
-   "plusDay": 6,
-   "ts": "EV",
-   "inOix": true,
-   "ok": true,
-   "rows": 237,
-   "routes": 7,
-   "quota": 7080
-  },
-  {
-   "code": "KOWC00001",
-   "date": "2026-10-14",
-   "plusDay": 7,
-   "ts": "AM",
-   "inOix": true,
-   "ok": true,
-   "rows": 237,
-   "routes": 7,
-   "quota": 8460
-  },
-  {
-   "code": "KOWC00001",
-   "date": "2026-10-14",
-   "plusDay": 7,
-   "ts": "PM",
-   "inOix": true,
-   "ok": true,
-   "rows": 237,
-   "routes": 7,
-   "quota": 7360
-  },
-  {
-   "code": "KOWC00001",
-   "date": "2026-10-14",
-   "plusDay": 7,
-   "ts": "PM2",
-   "inOix": true,
-   "ok": true,
-   "rows": 237,
-   "routes": 7,
-   "quota": 5140
-  },
-  {
-   "code": "KOWC00001",
-   "date": "2026-10-14",
-   "plusDay": 7,
-   "ts": "EV",
-   "inOix": true,
-   "ok": true,
-   "rows": 237,
-   "routes": 7,
-   "quota": 7080
-  },
-  {
-   "code": "KOWC00001",
-   "date": "2026-10-15",
-   "plusDay": 8,
-   "ts": "AM",
-   "inOix": true,
-   "ok": true,
-   "rows": 237,
-   "routes": 7,
-   "quota": 8460
-  },
-  {
-   "code": "KOWC00001",
-   "date": "2026-10-15",
-   "plusDay": 8,
-   "ts": "PM",
-   "inOix": true,
-   "ok": true,
-   "rows": 237,
-   "routes": 7,
-   "quota": 7360
-  },
-  {
-   "code": "KOWC00001",
-   "date": "2026-10-15",
-   "plusDay": 8,
-   "ts": "PM2",
-   "inOix": true,
-   "ok": true,
-   "rows": 237,
-   "routes": 7,
-   "quota": 5140
-  },
-  {
-   "code": "KOWC00001",
-   "date": "2026-10-15",
-   "plusDay": 8,
-   "ts": "EV",
-   "inOix": true,
-   "ok": true,
-   "rows": 237,
-   "routes": 7,
-   "quota": 7080
-  },
-  {
-   "code": "KOWC00001",
-   "date": "2026-10-16",
-   "plusDay": 9,
-   "ts": "AM",
-   "inOix": true,
-   "ok": true,
-   "rows": 237,
-   "routes": 7,
-   "quota": 8460
-  },
-  {
-   "code": "KOWC00001",
-   "date": "2026-10-16",
-   "plusDay": 9,
-   "ts": "PM",
-   "inOix": true,
-   "ok": true,
-   "rows": 237,
-   "routes": 7,
-   "quota": 7360
-  },
-  {
-   "code": "KOWC00001",
-   "date": "2026-10-16",
-   "plusDay": 9,
-   "ts": "PM2",
-   "inOix": true,
-   "ok": true,
-   "rows": 237,
-   "routes": 7,
-   "quota": 5140
-  },
-  {
-   "code": "KOWC00001",
-   "date": "2026-10-16",
-   "plusDay": 9,
-   "ts": "EV",
-   "inOix": true,
-   "ok": true,
-   "rows": 237,
-   "routes": 7,
-   "quota": 7080
-  },
-  {
-   "code": "KOWC00001",
-   "date": "2026-10-17",
-   "plusDay": 10,
-   "ts": "AM",
-   "inOix": true,
-   "ok": true,
-   "rows": 237,
-   "routes": 7,
-   "quota": 8460
-  },
-  {
-   "code": "KOWC00001",
-   "date": "2026-10-17",
-   "plusDay": 10,
-   "ts": "PM",
-   "inOix": true,
-   "ok": true,
-   "rows": 237,
-   "routes": 7,
-   "quota": 7360
-  },
-  {
-   "code": "KOWC00001",
-   "date": "2026-10-17",
-   "plusDay": 10,
-   "ts": "PM2",
-   "inOix": true,
-   "ok": true,
-   "rows": 237,
-   "routes": 7,
-   "quota": 5140
-  },
-  {
-   "code": "KOWC00001",
-   "date": "2026-10-17",
-   "plusDay": 10,
-   "ts": "EV",
-   "inOix": true,
-   "ok": true,
-   "rows": 237,
-   "routes": 7,
-   "quota": 7080
-  },
-  {
-   "code": "KOWC00001",
-   "date": "2026-10-18",
-   "plusDay": 11,
-   "ts": "AM",
-   "inOix": true,
-   "ok": true,
-   "rows": 237,
-   "routes": 7,
-   "quota": 8460
-  },
-  {
-   "code": "KOWC00001",
-   "date": "2026-10-18",
-   "plusDay": 11,
-   "ts": "PM",
-   "inOix": true,
-   "ok": true,
-   "rows": 237,
-   "routes": 7,
-   "quota": 7360
-  },
-  {
-   "code": "KOWC00001",
-   "date": "2026-10-18",
-   "plusDay": 11,
-   "ts": "PM2",
-   "inOix": true,
-   "ok": true,
-   "rows": 237,
-   "routes": 7,
-   "quota": 5140
-  },
-  {
-   "code": "KOWC00001",
-   "date": "2026-10-18",
-   "plusDay": 11,
-   "ts": "EV",
-   "inOix": true,
-   "ok": true,
-   "rows": 237,
-   "routes": 7,
-   "quota": 7080
-  },
-  {
-   "code": "KOWC00001",
-   "date": "2026-10-19",
-   "plusDay": 12,
-   "ts": "AM",
-   "inOix": true,
-   "ok": false,
-   "rows": 0,
-   "routes": 0,
-   "quota": 0
-  },
-  {
-   "code": "KOWC00001",
-   "date": "2026-10-19",
-   "plusDay": 12,
-   "ts": "PM",
-   "inOix": true,
-   "ok": false,
-   "rows": 0,
-   "routes": 0,
-   "quota": 0
-  },
-  {
-   "code": "KOWC00001",
-   "date": "2026-10-19",
-   "plusDay": 12,
-   "ts": "PM2",
-   "inOix": true,
-   "ok": false,
-   "rows": 0,
-   "routes": 0,
-   "quota": 0
-  },
-  {
-   "code": "KOWC00001",
-   "date": "2026-10-19",
-   "plusDay": 12,
-   "ts": "EV",
-   "inOix": true,
-   "ok": false,
-   "rows": 0,
-   "routes": 0,
-   "quota": 0
-  },
-  {
-   "code": "KOWC00001",
-   "date": "2026-10-20",
-   "plusDay": 13,
-   "ts": "AM",
-   "inOix": true,
-   "ok": false,
-   "rows": 0,
-   "routes": 0,
-   "quota": 0
-  },
-  {
-   "code": "KOWC00001",
-   "date": "2026-10-20",
-   "plusDay": 13,
-   "ts": "PM",
-   "inOix": true,
-   "ok": false,
-   "rows": 0,
-   "routes": 0,
-   "quota": 0
-  },
-  {
-   "code": "KOWC00001",
-   "date": "2026-10-20",
-   "plusDay": 13,
-   "ts": "PM2",
-   "inOix": true,
-   "ok": false,
-   "rows": 0,
-   "routes": 0,
-   "quota": 0
-  },
-  {
-   "code": "KOWC00001",
-   "date": "2026-10-20",
-   "plusDay": 13,
-   "ts": "EV",
-   "inOix": true,
-   "ok": false,
-   "rows": 0,
-   "routes": 0,
-   "quota": 0
-  },
-  {
-   "code": "KOWC00001",
-   "date": "2026-10-21",
-   "plusDay": 14,
-   "ts": "AM",
-   "inOix": true,
-   "ok": false,
-   "rows": 0,
-   "routes": 0,
-   "quota": 0
-  },
-  {
-   "code": "KOWC00001",
-   "date": "2026-10-21",
-   "plusDay": 14,
-   "ts": "PM",
-   "inOix": true,
-   "ok": false,
-   "rows": 0,
-   "routes": 0,
-   "quota": 0
-  },
-  {
-   "code": "KOWC00001",
-   "date": "2026-10-21",
-   "plusDay": 14,
-   "ts": "PM2",
-   "inOix": true,
-   "ok": false,
-   "rows": 0,
-   "routes": 0,
-   "quota": 0
-  },
-  {
-   "code": "KOWC00001",
-   "date": "2026-10-21",
-   "plusDay": 14,
-   "ts": "EV",
-   "inOix": true,
-   "ok": false,
-   "rows": 0,
-   "routes": 0,
-   "quota": 0
-  },
-  {
-   "code": "MCP00001",
-   "date": "2026-10-07",
-   "plusDay": 0,
-   "ts": "AM",
-   "inOix": true,
-   "ok": true,
-   "rows": 194,
-   "routes": 12,
-   "quota": 7020
-  },
-  {
-   "code": "MCP00001",
-   "date": "2026-10-07",
    "plusDay": 0,
    "ts": "PM",
    "inOix": true,
    "ok": true,
-   "rows": 194,
-   "routes": 12,
-   "quota": 7020
+   "rows": 238,
+   "routes": 7,
+   "quota": 8520
   },
   {
-   "code": "MCP00001",
-   "date": "2026-10-07",
+   "code": "KOWC00001",
+   "date": "2026-10-08",
    "plusDay": 0,
    "ts": "PM2",
    "inOix": true,
    "ok": true,
-   "rows": 194,
-   "routes": 12,
-   "quota": 6800
-  },
-  {
-   "code": "MCP00001",
-   "date": "2026-10-07",
-   "plusDay": 0,
-   "ts": "EV",
-   "inOix": true,
-   "ok": true,
-   "rows": 194,
-   "routes": 12,
-   "quota": 4380
-  },
-  {
-   "code": "MCP00001",
-   "date": "2026-10-08",
-   "plusDay": 1,
-   "ts": "AM",
-   "inOix": true,
-   "ok": true,
-   "rows": 194,
-   "routes": 12,
-   "quota": 3880
-  },
-  {
-   "code": "MCP00001",
-   "date": "2026-10-08",
-   "plusDay": 1,
-   "ts": "PM",
-   "inOix": true,
-   "ok": true,
-   "rows": 194,
-   "routes": 12,
+   "rows": 238,
+   "routes": 7,
    "quota": 5160
   },
   {
-   "code": "MCP00001",
+   "code": "KOWC00001",
    "date": "2026-10-08",
+   "plusDay": 0,
+   "ts": "EV",
+   "inOix": true,
+   "ok": true,
+   "rows": 238,
+   "routes": 7,
+   "quota": 9840
+  },
+  {
+   "code": "KOWC00001",
+   "date": "2026-10-09",
+   "plusDay": 1,
+   "ts": "AM",
+   "inOix": true,
+   "ok": true,
+   "rows": 238,
+   "routes": 7,
+   "quota": 8480
+  },
+  {
+   "code": "KOWC00001",
+   "date": "2026-10-09",
+   "plusDay": 1,
+   "ts": "PM",
+   "inOix": true,
+   "ok": true,
+   "rows": 238,
+   "routes": 7,
+   "quota": 8100
+  },
+  {
+   "code": "KOWC00001",
+   "date": "2026-10-09",
    "plusDay": 1,
    "ts": "PM2",
    "inOix": true,
    "ok": true,
-   "rows": 194,
-   "routes": 12,
-   "quota": 4000
+   "rows": 238,
+   "routes": 7,
+   "quota": 6360
   },
   {
-   "code": "MCP00001",
-   "date": "2026-10-08",
+   "code": "KOWC00001",
+   "date": "2026-10-09",
    "plusDay": 1,
    "ts": "EV",
    "inOix": true,
    "ok": true,
-   "rows": 194,
-   "routes": 12,
-   "quota": 4840
+   "rows": 238,
+   "routes": 7,
+   "quota": 7100
+  },
+  {
+   "code": "KOWC00001",
+   "date": "2026-10-10",
+   "plusDay": 2,
+   "ts": "AM",
+   "inOix": true,
+   "ok": true,
+   "rows": 238,
+   "routes": 7,
+   "quota": 8480
+  },
+  {
+   "code": "KOWC00001",
+   "date": "2026-10-10",
+   "plusDay": 2,
+   "ts": "PM",
+   "inOix": true,
+   "ok": true,
+   "rows": 238,
+   "routes": 7,
+   "quota": 7800
+  },
+  {
+   "code": "KOWC00001",
+   "date": "2026-10-10",
+   "plusDay": 2,
+   "ts": "PM2",
+   "inOix": true,
+   "ok": true,
+   "rows": 238,
+   "routes": 7,
+   "quota": 7680
+  },
+  {
+   "code": "KOWC00001",
+   "date": "2026-10-10",
+   "plusDay": 2,
+   "ts": "EV",
+   "inOix": true,
+   "ok": true,
+   "rows": 238,
+   "routes": 7,
+   "quota": 7640
+  },
+  {
+   "code": "KOWC00001",
+   "date": "2026-10-11",
+   "plusDay": 3,
+   "ts": "AM",
+   "inOix": true,
+   "ok": true,
+   "rows": 238,
+   "routes": 7,
+   "quota": 8480
+  },
+  {
+   "code": "KOWC00001",
+   "date": "2026-10-11",
+   "plusDay": 3,
+   "ts": "PM",
+   "inOix": true,
+   "ok": true,
+   "rows": 238,
+   "routes": 7,
+   "quota": 7380
+  },
+  {
+   "code": "KOWC00001",
+   "date": "2026-10-11",
+   "plusDay": 3,
+   "ts": "PM2",
+   "inOix": true,
+   "ok": true,
+   "rows": 238,
+   "routes": 7,
+   "quota": 5160
+  },
+  {
+   "code": "KOWC00001",
+   "date": "2026-10-11",
+   "plusDay": 3,
+   "ts": "EV",
+   "inOix": true,
+   "ok": true,
+   "rows": 238,
+   "routes": 7,
+   "quota": 7100
+  },
+  {
+   "code": "KOWC00001",
+   "date": "2026-10-12",
+   "plusDay": 4,
+   "ts": "AM",
+   "inOix": true,
+   "ok": true,
+   "rows": 238,
+   "routes": 7,
+   "quota": 8480
+  },
+  {
+   "code": "KOWC00001",
+   "date": "2026-10-12",
+   "plusDay": 4,
+   "ts": "PM",
+   "inOix": true,
+   "ok": true,
+   "rows": 238,
+   "routes": 7,
+   "quota": 8720
+  },
+  {
+   "code": "KOWC00001",
+   "date": "2026-10-12",
+   "plusDay": 4,
+   "ts": "PM2",
+   "inOix": true,
+   "ok": true,
+   "rows": 238,
+   "routes": 7,
+   "quota": 5160
+  },
+  {
+   "code": "KOWC00001",
+   "date": "2026-10-12",
+   "plusDay": 4,
+   "ts": "EV",
+   "inOix": true,
+   "ok": true,
+   "rows": 238,
+   "routes": 7,
+   "quota": 7100
+  },
+  {
+   "code": "KOWC00001",
+   "date": "2026-10-13",
+   "plusDay": 5,
+   "ts": "AM",
+   "inOix": true,
+   "ok": true,
+   "rows": 238,
+   "routes": 7,
+   "quota": 8480
+  },
+  {
+   "code": "KOWC00001",
+   "date": "2026-10-13",
+   "plusDay": 5,
+   "ts": "PM",
+   "inOix": true,
+   "ok": true,
+   "rows": 238,
+   "routes": 7,
+   "quota": 7380
+  },
+  {
+   "code": "KOWC00001",
+   "date": "2026-10-13",
+   "plusDay": 5,
+   "ts": "PM2",
+   "inOix": true,
+   "ok": true,
+   "rows": 238,
+   "routes": 7,
+   "quota": 5160
+  },
+  {
+   "code": "KOWC00001",
+   "date": "2026-10-13",
+   "plusDay": 5,
+   "ts": "EV",
+   "inOix": true,
+   "ok": true,
+   "rows": 238,
+   "routes": 7,
+   "quota": 7100
+  },
+  {
+   "code": "KOWC00001",
+   "date": "2026-10-14",
+   "plusDay": 6,
+   "ts": "AM",
+   "inOix": true,
+   "ok": true,
+   "rows": 238,
+   "routes": 7,
+   "quota": 8480
+  },
+  {
+   "code": "KOWC00001",
+   "date": "2026-10-14",
+   "plusDay": 6,
+   "ts": "PM",
+   "inOix": true,
+   "ok": true,
+   "rows": 238,
+   "routes": 7,
+   "quota": 7380
+  },
+  {
+   "code": "KOWC00001",
+   "date": "2026-10-14",
+   "plusDay": 6,
+   "ts": "PM2",
+   "inOix": true,
+   "ok": true,
+   "rows": 238,
+   "routes": 7,
+   "quota": 5160
+  },
+  {
+   "code": "KOWC00001",
+   "date": "2026-10-14",
+   "plusDay": 6,
+   "ts": "EV",
+   "inOix": true,
+   "ok": true,
+   "rows": 238,
+   "routes": 7,
+   "quota": 7100
+  },
+  {
+   "code": "KOWC00001",
+   "date": "2026-10-15",
+   "plusDay": 7,
+   "ts": "AM",
+   "inOix": true,
+   "ok": true,
+   "rows": 238,
+   "routes": 7,
+   "quota": 8480
+  },
+  {
+   "code": "KOWC00001",
+   "date": "2026-10-15",
+   "plusDay": 7,
+   "ts": "PM",
+   "inOix": true,
+   "ok": true,
+   "rows": 238,
+   "routes": 7,
+   "quota": 7380
+  },
+  {
+   "code": "KOWC00001",
+   "date": "2026-10-15",
+   "plusDay": 7,
+   "ts": "PM2",
+   "inOix": true,
+   "ok": true,
+   "rows": 238,
+   "routes": 7,
+   "quota": 5160
+  },
+  {
+   "code": "KOWC00001",
+   "date": "2026-10-15",
+   "plusDay": 7,
+   "ts": "EV",
+   "inOix": true,
+   "ok": true,
+   "rows": 238,
+   "routes": 7,
+   "quota": 7100
+  },
+  {
+   "code": "KOWC00001",
+   "date": "2026-10-16",
+   "plusDay": 8,
+   "ts": "AM",
+   "inOix": true,
+   "ok": true,
+   "rows": 238,
+   "routes": 7,
+   "quota": 8480
+  },
+  {
+   "code": "KOWC00001",
+   "date": "2026-10-16",
+   "plusDay": 8,
+   "ts": "PM",
+   "inOix": true,
+   "ok": true,
+   "rows": 238,
+   "routes": 7,
+   "quota": 7380
+  },
+  {
+   "code": "KOWC00001",
+   "date": "2026-10-16",
+   "plusDay": 8,
+   "ts": "PM2",
+   "inOix": true,
+   "ok": true,
+   "rows": 238,
+   "routes": 7,
+   "quota": 5160
+  },
+  {
+   "code": "KOWC00001",
+   "date": "2026-10-16",
+   "plusDay": 8,
+   "ts": "EV",
+   "inOix": true,
+   "ok": true,
+   "rows": 238,
+   "routes": 7,
+   "quota": 7100
+  },
+  {
+   "code": "KOWC00001",
+   "date": "2026-10-17",
+   "plusDay": 9,
+   "ts": "AM",
+   "inOix": true,
+   "ok": true,
+   "rows": 238,
+   "routes": 7,
+   "quota": 8480
+  },
+  {
+   "code": "KOWC00001",
+   "date": "2026-10-17",
+   "plusDay": 9,
+   "ts": "PM",
+   "inOix": true,
+   "ok": true,
+   "rows": 238,
+   "routes": 7,
+   "quota": 7380
+  },
+  {
+   "code": "KOWC00001",
+   "date": "2026-10-17",
+   "plusDay": 9,
+   "ts": "PM2",
+   "inOix": true,
+   "ok": true,
+   "rows": 238,
+   "routes": 7,
+   "quota": 5160
+  },
+  {
+   "code": "KOWC00001",
+   "date": "2026-10-17",
+   "plusDay": 9,
+   "ts": "EV",
+   "inOix": true,
+   "ok": true,
+   "rows": 238,
+   "routes": 7,
+   "quota": 7100
+  },
+  {
+   "code": "KOWC00001",
+   "date": "2026-10-18",
+   "plusDay": 10,
+   "ts": "AM",
+   "inOix": true,
+   "ok": true,
+   "rows": 238,
+   "routes": 7,
+   "quota": 8480
+  },
+  {
+   "code": "KOWC00001",
+   "date": "2026-10-18",
+   "plusDay": 10,
+   "ts": "PM",
+   "inOix": true,
+   "ok": true,
+   "rows": 238,
+   "routes": 7,
+   "quota": 7380
+  },
+  {
+   "code": "KOWC00001",
+   "date": "2026-10-18",
+   "plusDay": 10,
+   "ts": "PM2",
+   "inOix": true,
+   "ok": true,
+   "rows": 238,
+   "routes": 7,
+   "quota": 5160
+  },
+  {
+   "code": "KOWC00001",
+   "date": "2026-10-18",
+   "plusDay": 10,
+   "ts": "EV",
+   "inOix": true,
+   "ok": true,
+   "rows": 238,
+   "routes": 7,
+   "quota": 7100
+  },
+  {
+   "code": "KOWC00001",
+   "date": "2026-10-19",
+   "plusDay": 11,
+   "ts": "AM",
+   "inOix": true,
+   "ok": false,
+   "rows": 0,
+   "routes": 0,
+   "quota": 0
+  },
+  {
+   "code": "KOWC00001",
+   "date": "2026-10-19",
+   "plusDay": 11,
+   "ts": "PM",
+   "inOix": true,
+   "ok": false,
+   "rows": 0,
+   "routes": 0,
+   "quota": 0
+  },
+  {
+   "code": "KOWC00001",
+   "date": "2026-10-19",
+   "plusDay": 11,
+   "ts": "PM2",
+   "inOix": true,
+   "ok": false,
+   "rows": 0,
+   "routes": 0,
+   "quota": 0
+  },
+  {
+   "code": "KOWC00001",
+   "date": "2026-10-19",
+   "plusDay": 11,
+   "ts": "EV",
+   "inOix": true,
+   "ok": false,
+   "rows": 0,
+   "routes": 0,
+   "quota": 0
+  },
+  {
+   "code": "KOWC00001",
+   "date": "2026-10-20",
+   "plusDay": 12,
+   "ts": "AM",
+   "inOix": true,
+   "ok": false,
+   "rows": 0,
+   "routes": 0,
+   "quota": 0
+  },
+  {
+   "code": "KOWC00001",
+   "date": "2026-10-20",
+   "plusDay": 12,
+   "ts": "PM",
+   "inOix": true,
+   "ok": false,
+   "rows": 0,
+   "routes": 0,
+   "quota": 0
+  },
+  {
+   "code": "KOWC00001",
+   "date": "2026-10-20",
+   "plusDay": 12,
+   "ts": "PM2",
+   "inOix": true,
+   "ok": false,
+   "rows": 0,
+   "routes": 0,
+   "quota": 0
+  },
+  {
+   "code": "KOWC00001",
+   "date": "2026-10-20",
+   "plusDay": 12,
+   "ts": "EV",
+   "inOix": true,
+   "ok": false,
+   "rows": 0,
+   "routes": 0,
+   "quota": 0
+  },
+  {
+   "code": "KOWC00001",
+   "date": "2026-10-21",
+   "plusDay": 13,
+   "ts": "AM",
+   "inOix": true,
+   "ok": false,
+   "rows": 0,
+   "routes": 0,
+   "quota": 0
+  },
+  {
+   "code": "KOWC00001",
+   "date": "2026-10-21",
+   "plusDay": 13,
+   "ts": "PM",
+   "inOix": true,
+   "ok": false,
+   "rows": 0,
+   "routes": 0,
+   "quota": 0
+  },
+  {
+   "code": "KOWC00001",
+   "date": "2026-10-21",
+   "plusDay": 13,
+   "ts": "PM2",
+   "inOix": true,
+   "ok": false,
+   "rows": 0,
+   "routes": 0,
+   "quota": 0
+  },
+  {
+   "code": "KOWC00001",
+   "date": "2026-10-21",
+   "plusDay": 13,
+   "ts": "EV",
+   "inOix": true,
+   "ok": false,
+   "rows": 0,
+   "routes": 0,
+   "quota": 0
+  },
+  {
+   "code": "KOWC00001",
+   "date": "2026-10-22",
+   "plusDay": 14,
+   "ts": "AM",
+   "inOix": true,
+   "ok": false,
+   "rows": 0,
+   "routes": 0,
+   "quota": 0
+  },
+  {
+   "code": "KOWC00001",
+   "date": "2026-10-22",
+   "plusDay": 14,
+   "ts": "PM",
+   "inOix": true,
+   "ok": false,
+   "rows": 0,
+   "routes": 0,
+   "quota": 0
+  },
+  {
+   "code": "KOWC00001",
+   "date": "2026-10-22",
+   "plusDay": 14,
+   "ts": "PM2",
+   "inOix": true,
+   "ok": false,
+   "rows": 0,
+   "routes": 0,
+   "quota": 0
+  },
+  {
+   "code": "KOWC00001",
+   "date": "2026-10-22",
+   "plusDay": 14,
+   "ts": "EV",
+   "inOix": true,
+   "ok": false,
+   "rows": 0,
+   "routes": 0,
+   "quota": 0
   },
   {
    "code": "MCP00001",
-   "date": "2026-10-09",
-   "plusDay": 2,
+   "date": "2026-10-08",
+   "plusDay": 0,
    "ts": "AM",
    "inOix": true,
    "ok": true,
    "rows": 194,
    "routes": 12,
-   "quota": 3880
+   "quota": 7340
   },
   {
    "code": "MCP00001",
-   "date": "2026-10-09",
-   "plusDay": 2,
+   "date": "2026-10-08",
+   "plusDay": 0,
    "ts": "PM",
    "inOix": true,
    "ok": true,
    "rows": 194,
    "routes": 12,
-   "quota": 4000
+   "quota": 7480
   },
   {
    "code": "MCP00001",
-   "date": "2026-10-09",
-   "plusDay": 2,
+   "date": "2026-10-08",
+   "plusDay": 0,
    "ts": "PM2",
    "inOix": true,
    "ok": true,
    "rows": 194,
    "routes": 12,
-   "quota": 3880
+   "quota": 5580
+  },
+  {
+   "code": "MCP00001",
+   "date": "2026-10-08",
+   "plusDay": 0,
+   "ts": "EV",
+   "inOix": true,
+   "ok": true,
+   "rows": 194,
+   "routes": 12,
+   "quota": 7560
   },
   {
    "code": "MCP00001",
    "date": "2026-10-09",
-   "plusDay": 2,
+   "plusDay": 1,
+   "ts": "AM",
+   "inOix": true,
+   "ok": true,
+   "rows": 194,
+   "routes": 12,
+   "quota": 4200
+  },
+  {
+   "code": "MCP00001",
+   "date": "2026-10-09",
+   "plusDay": 1,
+   "ts": "PM",
+   "inOix": true,
+   "ok": true,
+   "rows": 194,
+   "routes": 12,
+   "quota": 4320
+  },
+  {
+   "code": "MCP00001",
+   "date": "2026-10-09",
+   "plusDay": 1,
+   "ts": "PM2",
+   "inOix": true,
+   "ok": true,
+   "rows": 194,
+   "routes": 12,
+   "quota": 4200
+  },
+  {
+   "code": "MCP00001",
+   "date": "2026-10-09",
+   "plusDay": 1,
    "ts": "EV",
    "inOix": true,
    "ok": true,
@@ -796,7 +752,7 @@
   {
    "code": "MCP00001",
    "date": "2026-10-10",
-   "plusDay": 3,
+   "plusDay": 2,
    "ts": "AM",
    "inOix": true,
    "ok": true,
@@ -807,8 +763,19 @@
   {
    "code": "MCP00001",
    "date": "2026-10-10",
-   "plusDay": 3,
+   "plusDay": 2,
    "ts": "PM",
+   "inOix": true,
+   "ok": true,
+   "rows": 194,
+   "routes": 12,
+   "quota": 3980
+  },
+  {
+   "code": "MCP00001",
+   "date": "2026-10-10",
+   "plusDay": 2,
+   "ts": "PM2",
    "inOix": true,
    "ok": true,
    "rows": 194,
@@ -818,6 +785,39 @@
   {
    "code": "MCP00001",
    "date": "2026-10-10",
+   "plusDay": 2,
+   "ts": "EV",
+   "inOix": true,
+   "ok": true,
+   "rows": 194,
+   "routes": 12,
+   "quota": 5240
+  },
+  {
+   "code": "MCP00001",
+   "date": "2026-10-11",
+   "plusDay": 3,
+   "ts": "AM",
+   "inOix": true,
+   "ok": true,
+   "rows": 194,
+   "routes": 12,
+   "quota": 3880
+  },
+  {
+   "code": "MCP00001",
+   "date": "2026-10-11",
+   "plusDay": 3,
+   "ts": "PM",
+   "inOix": true,
+   "ok": true,
+   "rows": 194,
+   "routes": 12,
+   "quota": 3880
+  },
+  {
+   "code": "MCP00001",
+   "date": "2026-10-11",
    "plusDay": 3,
    "ts": "PM2",
    "inOix": true,
@@ -828,7 +828,7 @@
   },
   {
    "code": "MCP00001",
-   "date": "2026-10-10",
+   "date": "2026-10-11",
    "plusDay": 3,
    "ts": "EV",
    "inOix": true,
@@ -839,7 +839,7 @@
   },
   {
    "code": "MCP00001",
-   "date": "2026-10-11",
+   "date": "2026-10-12",
    "plusDay": 4,
    "ts": "AM",
    "inOix": true,
@@ -850,18 +850,18 @@
   },
   {
    "code": "MCP00001",
-   "date": "2026-10-11",
+   "date": "2026-10-12",
    "plusDay": 4,
    "ts": "PM",
    "inOix": true,
    "ok": true,
    "rows": 194,
    "routes": 12,
-   "quota": 3880
+   "quota": 7240
   },
   {
    "code": "MCP00001",
-   "date": "2026-10-11",
+   "date": "2026-10-12",
    "plusDay": 4,
    "ts": "PM2",
    "inOix": true,
@@ -872,7 +872,7 @@
   },
   {
    "code": "MCP00001",
-   "date": "2026-10-11",
+   "date": "2026-10-12",
    "plusDay": 4,
    "ts": "EV",
    "inOix": true,
@@ -883,7 +883,7 @@
   },
   {
    "code": "MCP00001",
-   "date": "2026-10-12",
+   "date": "2026-10-13",
    "plusDay": 5,
    "ts": "AM",
    "inOix": true,
@@ -894,7 +894,7 @@
   },
   {
    "code": "MCP00001",
-   "date": "2026-10-12",
+   "date": "2026-10-13",
    "plusDay": 5,
    "ts": "PM",
    "inOix": true,
@@ -905,7 +905,7 @@
   },
   {
    "code": "MCP00001",
-   "date": "2026-10-12",
+   "date": "2026-10-13",
    "plusDay": 5,
    "ts": "PM2",
    "inOix": true,
@@ -916,7 +916,7 @@
   },
   {
    "code": "MCP00001",
-   "date": "2026-10-12",
+   "date": "2026-10-13",
    "plusDay": 5,
    "ts": "EV",
    "inOix": true,
@@ -927,7 +927,7 @@
   },
   {
    "code": "MCP00001",
-   "date": "2026-10-13",
+   "date": "2026-10-14",
    "plusDay": 6,
    "ts": "AM",
    "inOix": true,
@@ -938,7 +938,7 @@
   },
   {
    "code": "MCP00001",
-   "date": "2026-10-13",
+   "date": "2026-10-14",
    "plusDay": 6,
    "ts": "PM",
    "inOix": true,
@@ -949,7 +949,7 @@
   },
   {
    "code": "MCP00001",
-   "date": "2026-10-13",
+   "date": "2026-10-14",
    "plusDay": 6,
    "ts": "PM2",
    "inOix": true,
@@ -960,7 +960,7 @@
   },
   {
    "code": "MCP00001",
-   "date": "2026-10-13",
+   "date": "2026-10-14",
    "plusDay": 6,
    "ts": "EV",
    "inOix": true,
@@ -971,7 +971,7 @@
   },
   {
    "code": "MCP00001",
-   "date": "2026-10-14",
+   "date": "2026-10-15",
    "plusDay": 7,
    "ts": "AM",
    "inOix": true,
@@ -982,7 +982,7 @@
   },
   {
    "code": "MCP00001",
-   "date": "2026-10-14",
+   "date": "2026-10-15",
    "plusDay": 7,
    "ts": "PM",
    "inOix": true,
@@ -993,7 +993,7 @@
   },
   {
    "code": "MCP00001",
-   "date": "2026-10-14",
+   "date": "2026-10-15",
    "plusDay": 7,
    "ts": "PM2",
    "inOix": true,
@@ -1004,7 +1004,7 @@
   },
   {
    "code": "MCP00001",
-   "date": "2026-10-14",
+   "date": "2026-10-15",
    "plusDay": 7,
    "ts": "EV",
    "inOix": true,
@@ -1015,7 +1015,7 @@
   },
   {
    "code": "MCP00001",
-   "date": "2026-10-15",
+   "date": "2026-10-16",
    "plusDay": 8,
    "ts": "AM",
    "inOix": true,
@@ -1026,7 +1026,7 @@
   },
   {
    "code": "MCP00001",
-   "date": "2026-10-15",
+   "date": "2026-10-16",
    "plusDay": 8,
    "ts": "PM",
    "inOix": true,
@@ -1037,7 +1037,7 @@
   },
   {
    "code": "MCP00001",
-   "date": "2026-10-15",
+   "date": "2026-10-16",
    "plusDay": 8,
    "ts": "PM2",
    "inOix": true,
@@ -1048,7 +1048,7 @@
   },
   {
    "code": "MCP00001",
-   "date": "2026-10-15",
+   "date": "2026-10-16",
    "plusDay": 8,
    "ts": "EV",
    "inOix": true,
@@ -1059,7 +1059,7 @@
   },
   {
    "code": "MCP00001",
-   "date": "2026-10-16",
+   "date": "2026-10-17",
    "plusDay": 9,
    "ts": "AM",
    "inOix": true,
@@ -1070,7 +1070,7 @@
   },
   {
    "code": "MCP00001",
-   "date": "2026-10-16",
+   "date": "2026-10-17",
    "plusDay": 9,
    "ts": "PM",
    "inOix": true,
@@ -1081,7 +1081,7 @@
   },
   {
    "code": "MCP00001",
-   "date": "2026-10-16",
+   "date": "2026-10-17",
    "plusDay": 9,
    "ts": "PM2",
    "inOix": true,
@@ -1092,7 +1092,7 @@
   },
   {
    "code": "MCP00001",
-   "date": "2026-10-16",
+   "date": "2026-10-17",
    "plusDay": 9,
    "ts": "EV",
    "inOix": true,
@@ -1103,7 +1103,7 @@
   },
   {
    "code": "MCP00001",
-   "date": "2026-10-17",
+   "date": "2026-10-18",
    "plusDay": 10,
    "ts": "AM",
    "inOix": true,
@@ -1114,7 +1114,7 @@
   },
   {
    "code": "MCP00001",
-   "date": "2026-10-17",
+   "date": "2026-10-18",
    "plusDay": 10,
    "ts": "PM",
    "inOix": true,
@@ -1125,7 +1125,7 @@
   },
   {
    "code": "MCP00001",
-   "date": "2026-10-17",
+   "date": "2026-10-18",
    "plusDay": 10,
    "ts": "PM2",
    "inOix": true,
@@ -1136,7 +1136,7 @@
   },
   {
    "code": "MCP00001",
-   "date": "2026-10-17",
+   "date": "2026-10-18",
    "plusDay": 10,
    "ts": "EV",
    "inOix": true,
@@ -1147,7 +1147,7 @@
   },
   {
    "code": "MCP00001",
-   "date": "2026-10-18",
+   "date": "2026-10-19",
    "plusDay": 11,
    "ts": "AM",
    "inOix": true,
@@ -1158,7 +1158,7 @@
   },
   {
    "code": "MCP00001",
-   "date": "2026-10-18",
+   "date": "2026-10-19",
    "plusDay": 11,
    "ts": "PM",
    "inOix": true,
@@ -1169,7 +1169,7 @@
   },
   {
    "code": "MCP00001",
-   "date": "2026-10-18",
+   "date": "2026-10-19",
    "plusDay": 11,
    "ts": "PM2",
    "inOix": true,
@@ -1180,7 +1180,7 @@
   },
   {
    "code": "MCP00001",
-   "date": "2026-10-18",
+   "date": "2026-10-19",
    "plusDay": 11,
    "ts": "EV",
    "inOix": true,
@@ -1191,7 +1191,7 @@
   },
   {
    "code": "MCP00001",
-   "date": "2026-10-19",
+   "date": "2026-10-20",
    "plusDay": 12,
    "ts": "AM",
    "inOix": true,
@@ -1202,7 +1202,7 @@
   },
   {
    "code": "MCP00001",
-   "date": "2026-10-19",
+   "date": "2026-10-20",
    "plusDay": 12,
    "ts": "PM",
    "inOix": true,
@@ -1213,7 +1213,7 @@
   },
   {
    "code": "MCP00001",
-   "date": "2026-10-19",
+   "date": "2026-10-20",
    "plusDay": 12,
    "ts": "PM2",
    "inOix": true,
@@ -1224,7 +1224,7 @@
   },
   {
    "code": "MCP00001",
-   "date": "2026-10-19",
+   "date": "2026-10-20",
    "plusDay": 12,
    "ts": "EV",
    "inOix": true,
@@ -1235,7 +1235,7 @@
   },
   {
    "code": "MCP00001",
-   "date": "2026-10-20",
+   "date": "2026-10-21",
    "plusDay": 13,
    "ts": "AM",
    "inOix": true,
@@ -1246,7 +1246,7 @@
   },
   {
    "code": "MCP00001",
-   "date": "2026-10-20",
+   "date": "2026-10-21",
    "plusDay": 13,
    "ts": "PM",
    "inOix": true,
@@ -1257,7 +1257,7 @@
   },
   {
    "code": "MCP00001",
-   "date": "2026-10-20",
+   "date": "2026-10-21",
    "plusDay": 13,
    "ts": "PM2",
    "inOix": true,
@@ -1268,7 +1268,7 @@
   },
   {
    "code": "MCP00001",
-   "date": "2026-10-20",
+   "date": "2026-10-21",
    "plusDay": 13,
    "ts": "EV",
    "inOix": true,
@@ -1279,7 +1279,7 @@
   },
   {
    "code": "MCP00001",
-   "date": "2026-10-21",
+   "date": "2026-10-22",
    "plusDay": 14,
    "ts": "AM",
    "inOix": true,
@@ -1290,7 +1290,7 @@
   },
   {
    "code": "MCP00001",
-   "date": "2026-10-21",
+   "date": "2026-10-22",
    "plusDay": 14,
    "ts": "PM",
    "inOix": true,
@@ -1301,7 +1301,7 @@
   },
   {
    "code": "MCP00001",
-   "date": "2026-10-21",
+   "date": "2026-10-22",
    "plusDay": 14,
    "ts": "PM2",
    "inOix": true,
@@ -1312,7 +1312,7 @@
   },
   {
    "code": "MCP00001",
-   "date": "2026-10-21",
+   "date": "2026-10-22",
    "plusDay": 14,
    "ts": "EV",
    "inOix": true,
@@ -1320,65 +1320,65 @@
    "rows": 194,
    "routes": 12,
    "quota": 3880
-  },
-  {
-   "code": "POR00001",
-   "date": "2026-10-07",
-   "plusDay": 0,
-   "ts": "AM",
-   "inOix": true,
-   "ok": true,
-   "rows": 192,
-   "routes": 12,
-   "quota": 7500
-  },
-  {
-   "code": "POR00001",
-   "date": "2026-10-07",
-   "plusDay": 0,
-   "ts": "PM",
-   "inOix": true,
-   "ok": true,
-   "rows": 192,
-   "routes": 12,
-   "quota": 7680
-  },
-  {
-   "code": "POR00001",
-   "date": "2026-10-07",
-   "plusDay": 0,
-   "ts": "PM2",
-   "inOix": true,
-   "ok": true,
-   "rows": 192,
-   "routes": 12,
-   "quota": 6860
-  },
-  {
-   "code": "POR00001",
-   "date": "2026-10-07",
-   "plusDay": 0,
-   "ts": "EV",
-   "inOix": true,
-   "ok": true,
-   "rows": 192,
-   "routes": 12,
-   "quota": 6820
   },
   {
    "code": "POR00001",
    "date": "2026-10-08",
+   "plusDay": 0,
+   "ts": "AM",
+   "inOix": true,
+   "ok": true,
+   "rows": 192,
+   "routes": 12,
+   "quota": 6900
+  },
+  {
+   "code": "POR00001",
+   "date": "2026-10-08",
+   "plusDay": 0,
+   "ts": "PM",
+   "inOix": true,
+   "ok": true,
+   "rows": 192,
+   "routes": 12,
+   "quota": 7200
+  },
+  {
+   "code": "POR00001",
+   "date": "2026-10-08",
+   "plusDay": 0,
+   "ts": "PM2",
+   "inOix": true,
+   "ok": true,
+   "rows": 192,
+   "routes": 12,
+   "quota": 5840
+  },
+  {
+   "code": "POR00001",
+   "date": "2026-10-08",
+   "plusDay": 0,
+   "ts": "EV",
+   "inOix": true,
+   "ok": true,
+   "rows": 192,
+   "routes": 12,
+   "quota": 7300
+  },
+  {
+   "code": "POR00001",
+   "date": "2026-10-09",
    "plusDay": 1,
    "ts": "AM",
    "inOix": true,
    "ok": true,
    "rows": 192,
    "routes": 12,
-   "quota": 5100
+   "quota": 4940
   },
   {
    "code": "POR00001",
-   "date": "2026-10-08",
+   "date": "2026-10-09",
    "plusDay": 1,
    "ts": "PM",
    "inOix": true,
@@ -1389,29 +1389,29 @@
   },
   {
    "code": "POR00001",
-   "date": "2026-10-08",
+   "date": "2026-10-09",
    "plusDay": 1,
    "ts": "PM2",
    "inOix": true,
    "ok": true,
    "rows": 192,
    "routes": 12,
-   "quota": 5100
+   "quota": 6140
   },
   {
    "code": "POR00001",
-   "date": "2026-10-08",
+   "date": "2026-10-09",
    "plusDay": 1,
    "ts": "EV",
    "inOix": true,
    "ok": true,
    "rows": 192,
    "routes": 12,
-   "quota": 6480
+   "quota": 6820
   },
   {
    "code": "POR00001",
-   "date": "2026-10-09",
+   "date": "2026-10-10",
    "plusDay": 2,
    "ts": "AM",
    "inOix": true,
@@ -1422,20 +1422,9 @@
   },
   {
    "code": "POR00001",
-   "date": "2026-10-09",
+   "date": "2026-10-10",
    "plusDay": 2,
    "ts": "PM",
-   "inOix": true,
-   "ok": true,
-   "rows": 192,
-   "routes": 12,
-   "quota": 4720
-  },
-  {
-   "code": "POR00001",
-   "date": "2026-10-09",
-   "plusDay": 2,
-   "ts": "PM2",
    "inOix": true,
    "ok": true,
    "rows": 192,
@@ -1444,7 +1433,18 @@
   },
   {
    "code": "POR00001",
-   "date": "2026-10-09",
+   "date": "2026-10-10",
+   "plusDay": 2,
+   "ts": "PM2",
+   "inOix": true,
+   "ok": true,
+   "rows": 192,
+   "routes": 12,
+   "quota": 4720
+  },
+  {
+   "code": "POR00001",
+   "date": "2026-10-10",
    "plusDay": 2,
    "ts": "EV",
    "inOix": true,
@@ -1455,7 +1455,7 @@
   },
   {
    "code": "POR00001",
-   "date": "2026-10-10",
+   "date": "2026-10-11",
    "plusDay": 3,
    "ts": "AM",
    "inOix": true,
@@ -1466,7 +1466,7 @@
   },
   {
    "code": "POR00001",
-   "date": "2026-10-10",
+   "date": "2026-10-11",
    "plusDay": 3,
    "ts": "PM",
    "inOix": true,
@@ -1477,7 +1477,7 @@
   },
   {
    "code": "POR00001",
-   "date": "2026-10-10",
+   "date": "2026-10-11",
    "plusDay": 3,
    "ts": "PM2",
    "inOix": true,
@@ -1488,7 +1488,7 @@
   },
   {
    "code": "POR00001",
-   "date": "2026-10-10",
+   "date": "2026-10-11",
    "plusDay": 3,
    "ts": "EV",
    "inOix": true,
@@ -1499,7 +1499,7 @@
   },
   {
    "code": "POR00001",
-   "date": "2026-10-11",
+   "date": "2026-10-12",
    "plusDay": 4,
    "ts": "AM",
    "inOix": true,
@@ -1510,18 +1510,18 @@
   },
   {
    "code": "POR00001",
-   "date": "2026-10-11",
+   "date": "2026-10-12",
    "plusDay": 4,
    "ts": "PM",
    "inOix": true,
    "ok": true,
    "rows": 192,
    "routes": 12,
-   "quota": 4720
+   "quota": 6880
   },
   {
    "code": "POR00001",
-   "date": "2026-10-11",
+   "date": "2026-10-12",
    "plusDay": 4,
    "ts": "PM2",
    "inOix": true,
@@ -1532,7 +1532,7 @@
   },
   {
    "code": "POR00001",
-   "date": "2026-10-11",
+   "date": "2026-10-12",
    "plusDay": 4,
    "ts": "EV",
    "inOix": true,
@@ -1543,7 +1543,7 @@
   },
   {
    "code": "POR00001",
-   "date": "2026-10-12",
+   "date": "2026-10-13",
    "plusDay": 5,
    "ts": "AM",
    "inOix": true,
@@ -1554,7 +1554,7 @@
   },
   {
    "code": "POR00001",
-   "date": "2026-10-12",
+   "date": "2026-10-13",
    "plusDay": 5,
    "ts": "PM",
    "inOix": true,
@@ -1565,7 +1565,7 @@
   },
   {
    "code": "POR00001",
-   "date": "2026-10-12",
+   "date": "2026-10-13",
    "plusDay": 5,
    "ts": "PM2",
    "inOix": true,
@@ -1576,7 +1576,7 @@
   },
   {
    "code": "POR00001",
-   "date": "2026-10-12",
+   "date": "2026-10-13",
    "plusDay": 5,
    "ts": "EV",
    "inOix": true,
@@ -1587,7 +1587,7 @@
   },
   {
    "code": "POR00001",
-   "date": "2026-10-13",
+   "date": "2026-10-14",
    "plusDay": 6,
    "ts": "AM",
    "inOix": true,
@@ -1598,7 +1598,7 @@
   },
   {
    "code": "POR00001",
-   "date": "2026-10-13",
+   "date": "2026-10-14",
    "plusDay": 6,
    "ts": "PM",
    "inOix": true,
@@ -1609,7 +1609,7 @@
   },
   {
    "code": "POR00001",
-   "date": "2026-10-13",
+   "date": "2026-10-14",
    "plusDay": 6,
    "ts": "PM2",
    "inOix": true,
@@ -1620,7 +1620,7 @@
   },
   {
    "code": "POR00001",
-   "date": "2026-10-13",
+   "date": "2026-10-14",
    "plusDay": 6,
    "ts": "EV",
    "inOix": true,
@@ -1631,7 +1631,7 @@
   },
   {
    "code": "POR00001",
-   "date": "2026-10-14",
+   "date": "2026-10-15",
    "plusDay": 7,
    "ts": "AM",
    "inOix": true,
@@ -1642,7 +1642,7 @@
   },
   {
    "code": "POR00001",
-   "date": "2026-10-14",
+   "date": "2026-10-15",
    "plusDay": 7,
    "ts": "PM",
    "inOix": true,
@@ -1653,7 +1653,7 @@
   },
   {
    "code": "POR00001",
-   "date": "2026-10-14",
+   "date": "2026-10-15",
    "plusDay": 7,
    "ts": "PM2",
    "inOix": true,
@@ -1664,7 +1664,7 @@
   },
   {
    "code": "POR00001",
-   "date": "2026-10-14",
+   "date": "2026-10-15",
    "plusDay": 7,
    "ts": "EV",
    "inOix": true,
@@ -1675,7 +1675,7 @@
   },
   {
    "code": "POR00001",
-   "date": "2026-10-15",
+   "date": "2026-10-16",
    "plusDay": 8,
    "ts": "AM",
    "inOix": true,
@@ -1686,7 +1686,7 @@
   },
   {
    "code": "POR00001",
-   "date": "2026-10-15",
+   "date": "2026-10-16",
    "plusDay": 8,
    "ts": "PM",
    "inOix": true,
@@ -1697,7 +1697,7 @@
   },
   {
    "code": "POR00001",
-   "date": "2026-10-15",
+   "date": "2026-10-16",
    "plusDay": 8,
    "ts": "PM2",
    "inOix": true,
@@ -1708,7 +1708,7 @@
   },
   {
    "code": "POR00001",
-   "date": "2026-10-15",
+   "date": "2026-10-16",
    "plusDay": 8,
    "ts": "EV",
    "inOix": true,
@@ -1719,7 +1719,7 @@
   },
   {
    "code": "POR00001",
-   "date": "2026-10-16",
+   "date": "2026-10-17",
    "plusDay": 9,
    "ts": "AM",
    "inOix": true,
@@ -1730,7 +1730,7 @@
   },
   {
    "code": "POR00001",
-   "date": "2026-10-16",
+   "date": "2026-10-17",
    "plusDay": 9,
    "ts": "PM",
    "inOix": true,
@@ -1741,7 +1741,7 @@
   },
   {
    "code": "POR00001",
-   "date": "2026-10-16",
+   "date": "2026-10-17",
    "plusDay": 9,
    "ts": "PM2",
    "inOix": true,
@@ -1752,7 +1752,7 @@
   },
   {
    "code": "POR00001",
-   "date": "2026-10-16",
+   "date": "2026-10-17",
    "plusDay": 9,
    "ts": "EV",
    "inOix": true,
@@ -1763,7 +1763,7 @@
   },
   {
    "code": "POR00001",
-   "date": "2026-10-17",
+   "date": "2026-10-18",
    "plusDay": 10,
    "ts": "AM",
    "inOix": true,
@@ -1774,7 +1774,7 @@
   },
   {
    "code": "POR00001",
-   "date": "2026-10-17",
+   "date": "2026-10-18",
    "plusDay": 10,
    "ts": "PM",
    "inOix": true,
@@ -1785,7 +1785,7 @@
   },
   {
    "code": "POR00001",
-   "date": "2026-10-17",
+   "date": "2026-10-18",
    "plusDay": 10,
    "ts": "PM2",
    "inOix": true,
@@ -1796,7 +1796,7 @@
   },
   {
    "code": "POR00001",
-   "date": "2026-10-17",
+   "date": "2026-10-18",
    "plusDay": 10,
    "ts": "EV",
    "inOix": true,
@@ -1807,52 +1807,8 @@
   },
   {
    "code": "POR00001",
-   "date": "2026-10-18",
-   "plusDay": 11,
-   "ts": "AM",
-   "inOix": true,
-   "ok": true,
-   "rows": 192,
-   "routes": 12,
-   "quota": 4940
-  },
-  {
-   "code": "POR00001",
-   "date": "2026-10-18",
-   "plusDay": 11,
-   "ts": "PM",
-   "inOix": true,
-   "ok": true,
-   "rows": 192,
-   "routes": 12,
-   "quota": 4720
-  },
-  {
-   "code": "POR00001",
-   "date": "2026-10-18",
-   "plusDay": 11,
-   "ts": "PM2",
-   "inOix": true,
-   "ok": true,
-   "rows": 192,
-   "routes": 12,
-   "quota": 4720
-  },
-  {
-   "code": "POR00001",
-   "date": "2026-10-18",
-   "plusDay": 11,
-   "ts": "EV",
-   "inOix": true,
-   "ok": true,
-   "rows": 192,
-   "routes": 12,
-   "quota": 6480
-  },
-  {
-   "code": "POR00001",
    "date": "2026-10-19",
-   "plusDay": 12,
+   "plusDay": 11,
    "ts": "AM",
    "inOix": true,
    "ok": false,
@@ -1863,7 +1819,7 @@
   {
    "code": "POR00001",
    "date": "2026-10-19",
-   "plusDay": 12,
+   "plusDay": 11,
    "ts": "PM",
    "inOix": true,
    "ok": false,
@@ -1874,7 +1830,7 @@
   {
    "code": "POR00001",
    "date": "2026-10-19",
-   "plusDay": 12,
+   "plusDay": 11,
    "ts": "PM2",
    "inOix": true,
    "ok": false,
@@ -1885,7 +1841,7 @@
   {
    "code": "POR00001",
    "date": "2026-10-19",
-   "plusDay": 12,
+   "plusDay": 11,
    "ts": "EV",
    "inOix": true,
    "ok": false,
@@ -1896,7 +1852,7 @@
   {
    "code": "POR00001",
    "date": "2026-10-20",
-   "plusDay": 13,
+   "plusDay": 12,
    "ts": "AM",
    "inOix": true,
    "ok": false,
@@ -1907,7 +1863,7 @@
   {
    "code": "POR00001",
    "date": "2026-10-20",
-   "plusDay": 13,
+   "plusDay": 12,
    "ts": "PM",
    "inOix": true,
    "ok": false,
@@ -1918,7 +1874,7 @@
   {
    "code": "POR00001",
    "date": "2026-10-20",
-   "plusDay": 13,
+   "plusDay": 12,
    "ts": "PM2",
    "inOix": true,
    "ok": false,
@@ -1929,7 +1885,7 @@
   {
    "code": "POR00001",
    "date": "2026-10-20",
-   "plusDay": 13,
+   "plusDay": 12,
    "ts": "EV",
    "inOix": true,
    "ok": false,
@@ -1940,6 +1896,50 @@
   {
    "code": "POR00001",
    "date": "2026-10-21",
+   "plusDay": 13,
+   "ts": "AM",
+   "inOix": true,
+   "ok": false,
+   "rows": 0,
+   "routes": 0,
+   "quota": 0
+  },
+  {
+   "code": "POR00001",
+   "date": "2026-10-21",
+   "plusDay": 13,
+   "ts": "PM",
+   "inOix": true,
+   "ok": false,
+   "rows": 0,
+   "routes": 0,
+   "quota": 0
+  },
+  {
+   "code": "POR00001",
+   "date": "2026-10-21",
+   "plusDay": 13,
+   "ts": "PM2",
+   "inOix": true,
+   "ok": false,
+   "rows": 0,
+   "routes": 0,
+   "quota": 0
+  },
+  {
+   "code": "POR00001",
+   "date": "2026-10-21",
+   "plusDay": 13,
+   "ts": "EV",
+   "inOix": true,
+   "ok": false,
+   "rows": 0,
+   "routes": 0,
+   "quota": 0
+  },
+  {
+   "code": "POR00001",
+   "date": "2026-10-22",
    "plusDay": 14,
    "ts": "AM",
    "inOix": true,
@@ -1950,7 +1950,7 @@
   },
   {
    "code": "POR00001",
-   "date": "2026-10-21",
+   "date": "2026-10-22",
    "plusDay": 14,
    "ts": "PM",
    "inOix": true,
@@ -1961,7 +1961,7 @@
   },
   {
    "code": "POR00001",
-   "date": "2026-10-21",
+   "date": "2026-10-22",
    "plusDay": 14,
    "ts": "PM2",
    "inOix": true,
@@ -1972,7 +1972,7 @@
   },
   {
    "code": "POR00001",
-   "date": "2026-10-21",
+   "date": "2026-10-22",
    "plusDay": 14,
    "ts": "EV",
    "inOix": true,
@@ -1983,9 +1983,20 @@
   },
   {
    "code": "SMI00001",
-   "date": "2026-10-07",
+   "date": "2026-10-08",
    "plusDay": 0,
    "ts": "AM",
+   "inOix": true,
+   "ok": true,
+   "rows": 233,
+   "routes": 7,
+   "quota": 9740
+  },
+  {
+   "code": "SMI00001",
+   "date": "2026-10-08",
+   "plusDay": 0,
+   "ts": "PM",
    "inOix": true,
    "ok": true,
    "rows": 233,
@@ -1994,9 +2005,20 @@
   },
   {
    "code": "SMI00001",
-   "date": "2026-10-07",
+   "date": "2026-10-08",
    "plusDay": 0,
-   "ts": "PM",
+   "ts": "PM2",
+   "inOix": true,
+   "ok": true,
+   "rows": 233,
+   "routes": 7,
+   "quota": 7380
+  },
+  {
+   "code": "SMI00001",
+   "date": "2026-10-08",
+   "plusDay": 0,
+   "ts": "EV",
    "inOix": true,
    "ok": true,
    "rows": 233,
@@ -2005,96 +2027,30 @@
   },
   {
    "code": "SMI00001",
-   "date": "2026-10-07",
-   "plusDay": 0,
-   "ts": "PM2",
-   "inOix": true,
-   "ok": true,
-   "rows": 233,
-   "routes": 7,
-   "quota": 9320
-  },
-  {
-   "code": "SMI00001",
-   "date": "2026-10-07",
-   "plusDay": 0,
-   "ts": "EV",
-   "inOix": true,
-   "ok": true,
-   "rows": 233,
-   "routes": 7,
-   "quota": 5220
-  },
-  {
-   "code": "SMI00001",
-   "date": "2026-10-08",
+   "date": "2026-10-09",
    "plusDay": 1,
    "ts": "AM",
    "inOix": true,
    "ok": true,
    "rows": 233,
    "routes": 7,
-   "quota": 4660
+   "quota": 5400
   },
   {
    "code": "SMI00001",
-   "date": "2026-10-08",
+   "date": "2026-10-09",
    "plusDay": 1,
    "ts": "PM",
    "inOix": true,
    "ok": true,
    "rows": 233,
    "routes": 7,
-   "quota": 5220
+   "quota": 5760
   },
   {
    "code": "SMI00001",
-   "date": "2026-10-08",
+   "date": "2026-10-09",
    "plusDay": 1,
-   "ts": "PM2",
-   "inOix": true,
-   "ok": true,
-   "rows": 233,
-   "routes": 7,
-   "quota": 4660
-  },
-  {
-   "code": "SMI00001",
-   "date": "2026-10-08",
-   "plusDay": 1,
-   "ts": "EV",
-   "inOix": true,
-   "ok": true,
-   "rows": 233,
-   "routes": 7,
-   "quota": 4860
-  },
-  {
-   "code": "SMI00001",
-   "date": "2026-10-09",
-   "plusDay": 2,
-   "ts": "AM",
-   "inOix": true,
-   "ok": true,
-   "rows": 233,
-   "routes": 7,
-   "quota": 4660
-  },
-  {
-   "code": "SMI00001",
-   "date": "2026-10-09",
-   "plusDay": 2,
-   "ts": "PM",
-   "inOix": true,
-   "ok": true,
-   "rows": 233,
-   "routes": 7,
-   "quota": 4660
-  },
-  {
-   "code": "SMI00001",
-   "date": "2026-10-09",
-   "plusDay": 2,
    "ts": "PM2",
    "inOix": true,
    "ok": true,
@@ -2105,7 +2061,7 @@
   {
    "code": "SMI00001",
    "date": "2026-10-09",
-   "plusDay": 2,
+   "plusDay": 1,
    "ts": "EV",
    "inOix": true,
    "ok": true,
@@ -2116,7 +2072,7 @@
   {
    "code": "SMI00001",
    "date": "2026-10-10",
-   "plusDay": 3,
+   "plusDay": 2,
    "ts": "AM",
    "inOix": true,
    "ok": true,
@@ -2127,18 +2083,18 @@
   {
    "code": "SMI00001",
    "date": "2026-10-10",
-   "plusDay": 3,
+   "plusDay": 2,
    "ts": "PM",
    "inOix": true,
    "ok": true,
    "rows": 233,
    "routes": 7,
-   "quota": 4660
+   "quota": 6200
   },
   {
    "code": "SMI00001",
    "date": "2026-10-10",
-   "plusDay": 3,
+   "plusDay": 2,
    "ts": "PM2",
    "inOix": true,
    "ok": true,
@@ -2149,6 +2105,50 @@
   {
    "code": "SMI00001",
    "date": "2026-10-10",
+   "plusDay": 2,
+   "ts": "EV",
+   "inOix": true,
+   "ok": true,
+   "rows": 233,
+   "routes": 7,
+   "quota": 6940
+  },
+  {
+   "code": "SMI00001",
+   "date": "2026-10-11",
+   "plusDay": 3,
+   "ts": "AM",
+   "inOix": true,
+   "ok": true,
+   "rows": 233,
+   "routes": 7,
+   "quota": 4660
+  },
+  {
+   "code": "SMI00001",
+   "date": "2026-10-11",
+   "plusDay": 3,
+   "ts": "PM",
+   "inOix": true,
+   "ok": true,
+   "rows": 233,
+   "routes": 7,
+   "quota": 4660
+  },
+  {
+   "code": "SMI00001",
+   "date": "2026-10-11",
+   "plusDay": 3,
+   "ts": "PM2",
+   "inOix": true,
+   "ok": true,
+   "rows": 233,
+   "routes": 7,
+   "quota": 4660
+  },
+  {
+   "code": "SMI00001",
+   "date": "2026-10-11",
    "plusDay": 3,
    "ts": "EV",
    "inOix": true,
@@ -2159,7 +2159,7 @@
   },
   {
    "code": "SMI00001",
-   "date": "2026-10-11",
+   "date": "2026-10-12",
    "plusDay": 4,
    "ts": "AM",
    "inOix": true,
@@ -2170,18 +2170,18 @@
   },
   {
    "code": "SMI00001",
-   "date": "2026-10-11",
+   "date": "2026-10-12",
    "plusDay": 4,
    "ts": "PM",
    "inOix": true,
    "ok": true,
    "rows": 233,
    "routes": 7,
-   "quota": 4660
+   "quota": 9320
   },
   {
    "code": "SMI00001",
-   "date": "2026-10-11",
+   "date": "2026-10-12",
    "plusDay": 4,
    "ts": "PM2",
    "inOix": true,
@@ -2192,7 +2192,7 @@
   },
   {
    "code": "SMI00001",
-   "date": "2026-10-11",
+   "date": "2026-10-12",
    "plusDay": 4,
    "ts": "EV",
    "inOix": true,
@@ -2203,7 +2203,7 @@
   },
   {
    "code": "SMI00001",
-   "date": "2026-10-12",
+   "date": "2026-10-13",
    "plusDay": 5,
    "ts": "AM",
    "inOix": true,
@@ -2214,7 +2214,7 @@
   },
   {
    "code": "SMI00001",
-   "date": "2026-10-12",
+   "date": "2026-10-13",
    "plusDay": 5,
    "ts": "PM",
    "inOix": true,
@@ -2225,7 +2225,7 @@
   },
   {
    "code": "SMI00001",
-   "date": "2026-10-12",
+   "date": "2026-10-13",
    "plusDay": 5,
    "ts": "PM2",
    "inOix": true,
@@ -2236,7 +2236,7 @@
   },
   {
    "code": "SMI00001",
-   "date": "2026-10-12",
+   "date": "2026-10-13",
    "plusDay": 5,
    "ts": "EV",
    "inOix": true,
@@ -2247,7 +2247,7 @@
   },
   {
    "code": "SMI00001",
-   "date": "2026-10-13",
+   "date": "2026-10-14",
    "plusDay": 6,
    "ts": "AM",
    "inOix": true,
@@ -2258,7 +2258,7 @@
   },
   {
    "code": "SMI00001",
-   "date": "2026-10-13",
+   "date": "2026-10-14",
    "plusDay": 6,
    "ts": "PM",
    "inOix": true,
@@ -2269,7 +2269,7 @@
   },
   {
    "code": "SMI00001",
-   "date": "2026-10-13",
+   "date": "2026-10-14",
    "plusDay": 6,
    "ts": "PM2",
    "inOix": true,
@@ -2280,7 +2280,7 @@
   },
   {
    "code": "SMI00001",
-   "date": "2026-10-13",
+   "date": "2026-10-14",
    "plusDay": 6,
    "ts": "EV",
    "inOix": true,
@@ -2291,7 +2291,7 @@
   },
   {
    "code": "SMI00001",
-   "date": "2026-10-14",
+   "date": "2026-10-15",
    "plusDay": 7,
    "ts": "AM",
    "inOix": true,
@@ -2302,7 +2302,7 @@
   },
   {
    "code": "SMI00001",
-   "date": "2026-10-14",
+   "date": "2026-10-15",
    "plusDay": 7,
    "ts": "PM",
    "inOix": true,
@@ -2313,7 +2313,7 @@
   },
   {
    "code": "SMI00001",
-   "date": "2026-10-14",
+   "date": "2026-10-15",
    "plusDay": 7,
    "ts": "PM2",
    "inOix": true,
@@ -2324,7 +2324,7 @@
   },
   {
    "code": "SMI00001",
-   "date": "2026-10-14",
+   "date": "2026-10-15",
    "plusDay": 7,
    "ts": "EV",
    "inOix": true,
@@ -2335,7 +2335,7 @@
   },
   {
    "code": "SMI00001",
-   "date": "2026-10-15",
+   "date": "2026-10-16",
    "plusDay": 8,
    "ts": "AM",
    "inOix": true,
@@ -2346,7 +2346,7 @@
   },
   {
    "code": "SMI00001",
-   "date": "2026-10-15",
+   "date": "2026-10-16",
    "plusDay": 8,
    "ts": "PM",
    "inOix": true,
@@ -2357,7 +2357,7 @@
   },
   {
    "code": "SMI00001",
-   "date": "2026-10-15",
+   "date": "2026-10-16",
    "plusDay": 8,
    "ts": "PM2",
    "inOix": true,
@@ -2368,7 +2368,7 @@
   },
   {
    "code": "SMI00001",
-   "date": "2026-10-15",
+   "date": "2026-10-16",
    "plusDay": 8,
    "ts": "EV",
    "inOix": true,
@@ -2379,7 +2379,7 @@
   },
   {
    "code": "SMI00001",
-   "date": "2026-10-16",
+   "date": "2026-10-17",
    "plusDay": 9,
    "ts": "AM",
    "inOix": true,
@@ -2390,7 +2390,7 @@
   },
   {
    "code": "SMI00001",
-   "date": "2026-10-16",
+   "date": "2026-10-17",
    "plusDay": 9,
    "ts": "PM",
    "inOix": true,
@@ -2401,7 +2401,7 @@
   },
   {
    "code": "SMI00001",
-   "date": "2026-10-16",
+   "date": "2026-10-17",
    "plusDay": 9,
    "ts": "PM2",
    "inOix": true,
@@ -2412,7 +2412,7 @@
   },
   {
    "code": "SMI00001",
-   "date": "2026-10-16",
+   "date": "2026-10-17",
    "plusDay": 9,
    "ts": "EV",
    "inOix": true,
@@ -2423,7 +2423,7 @@
   },
   {
    "code": "SMI00001",
-   "date": "2026-10-17",
+   "date": "2026-10-18",
    "plusDay": 10,
    "ts": "AM",
    "inOix": true,
@@ -2434,7 +2434,7 @@
   },
   {
    "code": "SMI00001",
-   "date": "2026-10-17",
+   "date": "2026-10-18",
    "plusDay": 10,
    "ts": "PM",
    "inOix": true,
@@ -2445,7 +2445,7 @@
   },
   {
    "code": "SMI00001",
-   "date": "2026-10-17",
+   "date": "2026-10-18",
    "plusDay": 10,
    "ts": "PM2",
    "inOix": true,
@@ -2456,7 +2456,7 @@
   },
   {
    "code": "SMI00001",
-   "date": "2026-10-17",
+   "date": "2026-10-18",
    "plusDay": 10,
    "ts": "EV",
    "inOix": true,
@@ -2467,52 +2467,8 @@
   },
   {
    "code": "SMI00001",
-   "date": "2026-10-18",
-   "plusDay": 11,
-   "ts": "AM",
-   "inOix": true,
-   "ok": true,
-   "rows": 233,
-   "routes": 7,
-   "quota": 4660
-  },
-  {
-   "code": "SMI00001",
-   "date": "2026-10-18",
-   "plusDay": 11,
-   "ts": "PM",
-   "inOix": true,
-   "ok": true,
-   "rows": 233,
-   "routes": 7,
-   "quota": 4660
-  },
-  {
-   "code": "SMI00001",
-   "date": "2026-10-18",
-   "plusDay": 11,
-   "ts": "PM2",
-   "inOix": true,
-   "ok": true,
-   "rows": 233,
-   "routes": 7,
-   "quota": 4660
-  },
-  {
-   "code": "SMI00001",
-   "date": "2026-10-18",
-   "plusDay": 11,
-   "ts": "EV",
-   "inOix": true,
-   "ok": true,
-   "rows": 233,
-   "routes": 7,
-   "quota": 4660
-  },
-  {
-   "code": "SMI00001",
    "date": "2026-10-19",
-   "plusDay": 12,
+   "plusDay": 11,
    "ts": "AM",
    "inOix": true,
    "ok": false,
@@ -2523,7 +2479,7 @@
   {
    "code": "SMI00001",
    "date": "2026-10-19",
-   "plusDay": 12,
+   "plusDay": 11,
    "ts": "PM",
    "inOix": true,
    "ok": false,
@@ -2534,7 +2490,7 @@
   {
    "code": "SMI00001",
    "date": "2026-10-19",
-   "plusDay": 12,
+   "plusDay": 11,
    "ts": "PM2",
    "inOix": true,
    "ok": false,
@@ -2545,7 +2501,7 @@
   {
    "code": "SMI00001",
    "date": "2026-10-19",
-   "plusDay": 12,
+   "plusDay": 11,
    "ts": "EV",
    "inOix": true,
    "ok": false,
@@ -2556,7 +2512,7 @@
   {
    "code": "SMI00001",
    "date": "2026-10-20",
-   "plusDay": 13,
+   "plusDay": 12,
    "ts": "AM",
    "inOix": true,
    "ok": false,
@@ -2567,7 +2523,7 @@
   {
    "code": "SMI00001",
    "date": "2026-10-20",
-   "plusDay": 13,
+   "plusDay": 12,
    "ts": "PM",
    "inOix": true,
    "ok": false,
@@ -2578,7 +2534,7 @@
   {
    "code": "SMI00001",
    "date": "2026-10-20",
-   "plusDay": 13,
+   "plusDay": 12,
    "ts": "PM2",
    "inOix": true,
    "ok": false,
@@ -2589,7 +2545,7 @@
   {
    "code": "SMI00001",
    "date": "2026-10-20",
-   "plusDay": 13,
+   "plusDay": 12,
    "ts": "EV",
    "inOix": true,
    "ok": false,
@@ -2600,6 +2556,50 @@
   {
    "code": "SMI00001",
    "date": "2026-10-21",
+   "plusDay": 13,
+   "ts": "AM",
+   "inOix": true,
+   "ok": false,
+   "rows": 0,
+   "routes": 0,
+   "quota": 0
+  },
+  {
+   "code": "SMI00001",
+   "date": "2026-10-21",
+   "plusDay": 13,
+   "ts": "PM",
+   "inOix": true,
+   "ok": false,
+   "rows": 0,
+   "routes": 0,
+   "quota": 0
+  },
+  {
+   "code": "SMI00001",
+   "date": "2026-10-21",
+   "plusDay": 13,
+   "ts": "PM2",
+   "inOix": true,
+   "ok": false,
+   "rows": 0,
+   "routes": 0,
+   "quota": 0
+  },
+  {
+   "code": "SMI00001",
+   "date": "2026-10-21",
+   "plusDay": 13,
+   "ts": "EV",
+   "inOix": true,
+   "ok": false,
+   "rows": 0,
+   "routes": 0,
+   "quota": 0
+  },
+  {
+   "code": "SMI00001",
+   "date": "2026-10-22",
    "plusDay": 14,
    "ts": "AM",
    "inOix": true,
@@ -2610,7 +2610,7 @@
   },
   {
    "code": "SMI00001",
-   "date": "2026-10-21",
+   "date": "2026-10-22",
    "plusDay": 14,
    "ts": "PM",
    "inOix": true,
@@ -2621,7 +2621,7 @@
   },
   {
    "code": "SMI00001",
-   "date": "2026-10-21",
+   "date": "2026-10-22",
    "plusDay": 14,
    "ts": "PM2",
    "inOix": true,
@@ -2632,7 +2632,7 @@
   },
   {
    "code": "SMI00001",
-   "date": "2026-10-21",
+   "date": "2026-10-22",
    "plusDay": 14,
    "ts": "EV",
    "inOix": true,
@@ -2643,7 +2643,7 @@
   },
   {
    "code": "TM00001",
-   "date": "2026-10-07",
+   "date": "2026-10-08",
    "plusDay": 0,
    "ts": "AM",
    "inOix": true,
@@ -2654,7 +2654,7 @@
   },
   {
    "code": "TM00001",
-   "date": "2026-10-07",
+   "date": "2026-10-08",
    "plusDay": 0,
    "ts": "PM",
    "inOix": true,
@@ -2665,7 +2665,7 @@
   },
   {
    "code": "TM00001",
-   "date": "2026-10-07",
+   "date": "2026-10-08",
    "plusDay": 0,
    "ts": "PM2",
    "inOix": true,
@@ -2676,7 +2676,7 @@
   },
   {
    "code": "TM00001",
-   "date": "2026-10-07",
+   "date": "2026-10-08",
    "plusDay": 0,
    "ts": "EV",
    "inOix": true,
@@ -2687,7 +2687,7 @@
   },
   {
    "code": "TM00001",
-   "date": "2026-10-08",
+   "date": "2026-10-09",
    "plusDay": 1,
    "ts": "AM",
    "inOix": true,
@@ -2698,7 +2698,7 @@
   },
   {
    "code": "TM00001",
-   "date": "2026-10-08",
+   "date": "2026-10-09",
    "plusDay": 1,
    "ts": "PM",
    "inOix": true,
@@ -2709,7 +2709,7 @@
   },
   {
    "code": "TM00001",
-   "date": "2026-10-08",
+   "date": "2026-10-09",
    "plusDay": 1,
    "ts": "PM2",
    "inOix": true,
@@ -2720,7 +2720,7 @@
   },
   {
    "code": "TM00001",
-   "date": "2026-10-08",
+   "date": "2026-10-09",
    "plusDay": 1,
    "ts": "EV",
    "inOix": true,
@@ -2731,7 +2731,7 @@
   },
   {
    "code": "TM00001",
-   "date": "2026-10-09",
+   "date": "2026-10-10",
    "plusDay": 2,
    "ts": "AM",
    "inOix": true,
@@ -2742,7 +2742,7 @@
   },
   {
    "code": "TM00001",
-   "date": "2026-10-09",
+   "date": "2026-10-10",
    "plusDay": 2,
    "ts": "PM",
    "inOix": true,
@@ -2753,7 +2753,7 @@
   },
   {
    "code": "TM00001",
-   "date": "2026-10-09",
+   "date": "2026-10-10",
    "plusDay": 2,
    "ts": "PM2",
    "inOix": true,
@@ -2764,7 +2764,7 @@
   },
   {
    "code": "TM00001",
-   "date": "2026-10-09",
+   "date": "2026-10-10",
    "plusDay": 2,
    "ts": "EV",
    "inOix": true,
@@ -2775,7 +2775,7 @@
   },
   {
    "code": "TM00001",
-   "date": "2026-10-10",
+   "date": "2026-10-11",
    "plusDay": 3,
    "ts": "AM",
    "inOix": true,
@@ -2786,7 +2786,7 @@
   },
   {
    "code": "TM00001",
-   "date": "2026-10-10",
+   "date": "2026-10-11",
    "plusDay": 3,
    "ts": "PM",
    "inOix": true,
@@ -2797,7 +2797,7 @@
   },
   {
    "code": "TM00001",
-   "date": "2026-10-10",
+   "date": "2026-10-11",
    "plusDay": 3,
    "ts": "PM2",
    "inOix": true,
@@ -2808,7 +2808,7 @@
   },
   {
    "code": "TM00001",
-   "date": "2026-10-10",
+   "date": "2026-10-11",
    "plusDay": 3,
    "ts": "EV",
    "inOix": true,
@@ -2819,7 +2819,7 @@
   },
   {
    "code": "TM00001",
-   "date": "2026-10-11",
+   "date": "2026-10-12",
    "plusDay": 4,
    "ts": "AM",
    "inOix": true,
@@ -2830,7 +2830,7 @@
   },
   {
    "code": "TM00001",
-   "date": "2026-10-11",
+   "date": "2026-10-12",
    "plusDay": 4,
    "ts": "PM",
    "inOix": true,
@@ -2841,7 +2841,7 @@
   },
   {
    "code": "TM00001",
-   "date": "2026-10-11",
+   "date": "2026-10-12",
    "plusDay": 4,
    "ts": "PM2",
    "inOix": true,
@@ -2852,7 +2852,7 @@
   },
   {
    "code": "TM00001",
-   "date": "2026-10-11",
+   "date": "2026-10-12",
    "plusDay": 4,
    "ts": "EV",
    "inOix": true,
@@ -2863,7 +2863,7 @@
   },
   {
    "code": "TM00001",
-   "date": "2026-10-12",
+   "date": "2026-10-13",
    "plusDay": 5,
    "ts": "AM",
    "inOix": true,
@@ -2874,7 +2874,7 @@
   },
   {
    "code": "TM00001",
-   "date": "2026-10-12",
+   "date": "2026-10-13",
    "plusDay": 5,
    "ts": "PM",
    "inOix": true,
@@ -2885,7 +2885,7 @@
   },
   {
    "code": "TM00001",
-   "date": "2026-10-12",
+   "date": "2026-10-13",
    "plusDay": 5,
    "ts": "PM2",
    "inOix": true,
@@ -2896,7 +2896,7 @@
   },
   {
    "code": "TM00001",
-   "date": "2026-10-12",
+   "date": "2026-10-13",
    "plusDay": 5,
    "ts": "EV",
    "inOix": true,
@@ -2907,7 +2907,7 @@
   },
   {
    "code": "TM00001",
-   "date": "2026-10-13",
+   "date": "2026-10-14",
    "plusDay": 6,
    "ts": "AM",
    "inOix": true,
@@ -2918,7 +2918,7 @@
   },
   {
    "code": "TM00001",
-   "date": "2026-10-13",
+   "date": "2026-10-14",
    "plusDay": 6,
    "ts": "PM",
    "inOix": true,
@@ -2929,7 +2929,7 @@
   },
   {
    "code": "TM00001",
-   "date": "2026-10-13",
+   "date": "2026-10-14",
    "plusDay": 6,
    "ts": "PM2",
    "inOix": true,
@@ -2940,7 +2940,7 @@
   },
   {
    "code": "TM00001",
-   "date": "2026-10-13",
+   "date": "2026-10-14",
    "plusDay": 6,
    "ts": "EV",
    "inOix": true,
@@ -2951,7 +2951,7 @@
   },
   {
    "code": "TM00001",
-   "date": "2026-10-14",
+   "date": "2026-10-15",
    "plusDay": 7,
    "ts": "AM",
    "inOix": true,
@@ -2962,7 +2962,7 @@
   },
   {
    "code": "TM00001",
-   "date": "2026-10-14",
+   "date": "2026-10-15",
    "plusDay": 7,
    "ts": "PM",
    "inOix": true,
@@ -2973,7 +2973,7 @@
   },
   {
    "code": "TM00001",
-   "date": "2026-10-14",
+   "date": "2026-10-15",
    "plusDay": 7,
    "ts": "PM2",
    "inOix": true,
@@ -2984,7 +2984,7 @@
   },
   {
    "code": "TM00001",
-   "date": "2026-10-14",
+   "date": "2026-10-15",
    "plusDay": 7,
    "ts": "EV",
    "inOix": true,
@@ -2995,7 +2995,7 @@
   },
   {
    "code": "TM00001",
-   "date": "2026-10-15",
+   "date": "2026-10-16",
    "plusDay": 8,
    "ts": "AM",
    "inOix": true,
@@ -3006,7 +3006,7 @@
   },
   {
    "code": "TM00001",
-   "date": "2026-10-15",
+   "date": "2026-10-16",
    "plusDay": 8,
    "ts": "PM",
    "inOix": true,
@@ -3017,7 +3017,7 @@
   },
   {
    "code": "TM00001",
-   "date": "2026-10-15",
+   "date": "2026-10-16",
    "plusDay": 8,
    "ts": "PM2",
    "inOix": true,
@@ -3028,7 +3028,7 @@
   },
   {
    "code": "TM00001",
-   "date": "2026-10-15",
+   "date": "2026-10-16",
    "plusDay": 8,
    "ts": "EV",
    "inOix": true,
@@ -3039,7 +3039,7 @@
   },
   {
    "code": "TM00001",
-   "date": "2026-10-16",
+   "date": "2026-10-17",
    "plusDay": 9,
    "ts": "AM",
    "inOix": true,
@@ -3050,7 +3050,7 @@
   },
   {
    "code": "TM00001",
-   "date": "2026-10-16",
+   "date": "2026-10-17",
    "plusDay": 9,
    "ts": "PM",
    "inOix": true,
@@ -3061,7 +3061,7 @@
   },
   {
    "code": "TM00001",
-   "date": "2026-10-16",
+   "date": "2026-10-17",
    "plusDay": 9,
    "ts": "PM2",
    "inOix": true,
@@ -3072,7 +3072,7 @@
   },
   {
    "code": "TM00001",
-   "date": "2026-10-16",
+   "date": "2026-10-17",
    "plusDay": 9,
    "ts": "EV",
    "inOix": true,
@@ -3083,7 +3083,7 @@
   },
   {
    "code": "TM00001",
-   "date": "2026-10-17",
+   "date": "2026-10-18",
    "plusDay": 10,
    "ts": "AM",
    "inOix": true,
@@ -3094,7 +3094,7 @@
   },
   {
    "code": "TM00001",
-   "date": "2026-10-17",
+   "date": "2026-10-18",
    "plusDay": 10,
    "ts": "PM",
    "inOix": true,
@@ -3105,7 +3105,7 @@
   },
   {
    "code": "TM00001",
-   "date": "2026-10-17",
+   "date": "2026-10-18",
    "plusDay": 10,
    "ts": "PM2",
    "inOix": true,
@@ -3116,7 +3116,7 @@
   },
   {
    "code": "TM00001",
-   "date": "2026-10-17",
+   "date": "2026-10-18",
    "plusDay": 10,
    "ts": "EV",
    "inOix": true,
@@ -3127,52 +3127,8 @@
   },
   {
    "code": "TM00001",
-   "date": "2026-10-18",
-   "plusDay": 11,
-   "ts": "AM",
-   "inOix": true,
-   "ok": true,
-   "rows": 145,
-   "routes": 10,
-   "quota": 8700
-  },
-  {
-   "code": "TM00001",
-   "date": "2026-10-18",
-   "plusDay": 11,
-   "ts": "PM",
-   "inOix": true,
-   "ok": true,
-   "rows": 145,
-   "routes": 10,
-   "quota": 8700
-  },
-  {
-   "code": "TM00001",
-   "date": "2026-10-18",
-   "plusDay": 11,
-   "ts": "PM2",
-   "inOix": true,
-   "ok": true,
-   "rows": 145,
-   "routes": 10,
-   "quota": 8700
-  },
-  {
-   "code": "TM00001",
-   "date": "2026-10-18",
-   "plusDay": 11,
-   "ts": "EV",
-   "inOix": true,
-   "ok": true,
-   "rows": 145,
-   "routes": 10,
-   "quota": 8700
-  },
-  {
-   "code": "TM00001",
    "date": "2026-10-19",
-   "plusDay": 12,
+   "plusDay": 11,
    "ts": "AM",
    "inOix": true,
    "ok": false,
@@ -3183,7 +3139,7 @@
   {
    "code": "TM00001",
    "date": "2026-10-19",
-   "plusDay": 12,
+   "plusDay": 11,
    "ts": "PM",
    "inOix": true,
    "ok": false,
@@ -3194,7 +3150,7 @@
   {
    "code": "TM00001",
    "date": "2026-10-19",
-   "plusDay": 12,
+   "plusDay": 11,
    "ts": "PM2",
    "inOix": true,
    "ok": false,
@@ -3205,7 +3161,7 @@
   {
    "code": "TM00001",
    "date": "2026-10-19",
-   "plusDay": 12,
+   "plusDay": 11,
    "ts": "EV",
    "inOix": true,
    "ok": false,
@@ -3216,7 +3172,7 @@
   {
    "code": "TM00001",
    "date": "2026-10-20",
-   "plusDay": 13,
+   "plusDay": 12,
    "ts": "AM",
    "inOix": true,
    "ok": false,
@@ -3227,7 +3183,7 @@
   {
    "code": "TM00001",
    "date": "2026-10-20",
-   "plusDay": 13,
+   "plusDay": 12,
    "ts": "PM",
    "inOix": true,
    "ok": false,
@@ -3238,7 +3194,7 @@
   {
    "code": "TM00001",
    "date": "2026-10-20",
-   "plusDay": 13,
+   "plusDay": 12,
    "ts": "PM2",
    "inOix": true,
    "ok": false,
@@ -3249,7 +3205,7 @@
   {
    "code": "TM00001",
    "date": "2026-10-20",
-   "plusDay": 13,
+   "plusDay": 12,
    "ts": "EV",
    "inOix": true,
    "ok": false,
@@ -3260,6 +3216,50 @@
   {
    "code": "TM00001",
    "date": "2026-10-21",
+   "plusDay": 13,
+   "ts": "AM",
+   "inOix": true,
+   "ok": false,
+   "rows": 0,
+   "routes": 0,
+   "quota": 0
+  },
+  {
+   "code": "TM00001",
+   "date": "2026-10-21",
+   "plusDay": 13,
+   "ts": "PM",
+   "inOix": true,
+   "ok": false,
+   "rows": 0,
+   "routes": 0,
+   "quota": 0
+  },
+  {
+   "code": "TM00001",
+   "date": "2026-10-21",
+   "plusDay": 13,
+   "ts": "PM2",
+   "inOix": true,
+   "ok": false,
+   "rows": 0,
+   "routes": 0,
+   "quota": 0
+  },
+  {
+   "code": "TM00001",
+   "date": "2026-10-21",
+   "plusDay": 13,
+   "ts": "EV",
+   "inOix": true,
+   "ok": false,
+   "rows": 0,
+   "routes": 0,
+   "quota": 0
+  },
+  {
+   "code": "TM00001",
+   "date": "2026-10-22",
    "plusDay": 14,
    "ts": "AM",
    "inOix": true,
@@ -3270,7 +3270,7 @@
   },
   {
    "code": "TM00001",
-   "date": "2026-10-21",
+   "date": "2026-10-22",
    "plusDay": 14,
    "ts": "PM",
    "inOix": true,
@@ -3281,7 +3281,7 @@
   },
   {
    "code": "TM00001",
-   "date": "2026-10-21",
+   "date": "2026-10-22",
    "plusDay": 14,
    "ts": "PM2",
    "inOix": true,
@@ -3292,7 +3292,7 @@
   },
   {
    "code": "TM00001",
-   "date": "2026-10-21",
+   "date": "2026-10-22",
    "plusDay": 14,
    "ts": "EV",
    "inOix": true,
@@ -3303,7 +3303,7 @@
   },
   {
    "code": "TPH00001",
-   "date": "2026-10-07",
+   "date": "2026-10-08",
    "plusDay": 0,
    "ts": "AM",
    "inOix": true,
@@ -3314,7 +3314,7 @@
   },
   {
    "code": "TPH00001",
-   "date": "2026-10-07",
+   "date": "2026-10-08",
    "plusDay": 0,
    "ts": "PM",
    "inOix": true,
@@ -3325,7 +3325,7 @@
   },
   {
    "code": "TPH00001",
-   "date": "2026-10-07",
+   "date": "2026-10-08",
    "plusDay": 0,
    "ts": "PM2",
    "inOix": true,
@@ -3336,7 +3336,7 @@
   },
   {
    "code": "TPH00001",
-   "date": "2026-10-07",
+   "date": "2026-10-08",
    "plusDay": 0,
    "ts": "EV",
    "inOix": true,
@@ -3347,7 +3347,7 @@
   },
   {
    "code": "TPH00001",
-   "date": "2026-10-08",
+   "date": "2026-10-09",
    "plusDay": 1,
    "ts": "AM",
    "inOix": true,
@@ -3358,7 +3358,7 @@
   },
   {
    "code": "TPH00001",
-   "date": "2026-10-08",
+   "date": "2026-10-09",
    "plusDay": 1,
    "ts": "PM",
    "inOix": true,
@@ -3369,7 +3369,7 @@
   },
   {
    "code": "TPH00001",
-   "date": "2026-10-08",
+   "date": "2026-10-09",
    "plusDay": 1,
    "ts": "PM2",
    "inOix": true,
@@ -3380,7 +3380,7 @@
   },
   {
    "code": "TPH00001",
-   "date": "2026-10-08",
+   "date": "2026-10-09",
    "plusDay": 1,
    "ts": "EV",
    "inOix": true,
@@ -3391,7 +3391,7 @@
   },
   {
    "code": "TPH00001",
-   "date": "2026-10-09",
+   "date": "2026-10-10",
    "plusDay": 2,
    "ts": "AM",
    "inOix": true,
@@ -3402,7 +3402,7 @@
   },
   {
    "code": "TPH00001",
-   "date": "2026-10-09",
+   "date": "2026-10-10",
    "plusDay": 2,
    "ts": "PM",
    "inOix": true,
@@ -3413,7 +3413,7 @@
   },
   {
    "code": "TPH00001",
-   "date": "2026-10-09",
+   "date": "2026-10-10",
    "plusDay": 2,
    "ts": "PM2",
    "inOix": true,
@@ -3424,7 +3424,7 @@
   },
   {
    "code": "TPH00001",
-   "date": "2026-10-09",
+   "date": "2026-10-10",
    "plusDay": 2,
    "ts": "EV",
    "inOix": true,
@@ -3435,7 +3435,7 @@
   },
   {
    "code": "TPH00001",
-   "date": "2026-10-10",
+   "date": "2026-10-11",
    "plusDay": 3,
    "ts": "AM",
    "inOix": true,
@@ -3446,7 +3446,7 @@
   },
   {
    "code": "TPH00001",
-   "date": "2026-10-10",
+   "date": "2026-10-11",
    "plusDay": 3,
    "ts": "PM",
    "inOix": true,
@@ -3457,7 +3457,7 @@
   },
   {
    "code": "TPH00001",
-   "date": "2026-10-10",
+   "date": "2026-10-11",
    "plusDay": 3,
    "ts": "PM2",
    "inOix": true,
@@ -3468,7 +3468,7 @@
   },
   {
    "code": "TPH00001",
-   "date": "2026-10-10",
+   "date": "2026-10-11",
    "plusDay": 3,
    "ts": "EV",
    "inOix": true,
@@ -3479,7 +3479,7 @@
   },
   {
    "code": "TPH00001",
-   "date": "2026-10-11",
+   "date": "2026-10-12",
    "plusDay": 4,
    "ts": "AM",
    "inOix": true,
@@ -3490,7 +3490,7 @@
   },
   {
    "code": "TPH00001",
-   "date": "2026-10-11",
+   "date": "2026-10-12",
    "plusDay": 4,
    "ts": "PM",
    "inOix": true,
@@ -3501,7 +3501,7 @@
   },
   {
    "code": "TPH00001",
-   "date": "2026-10-11",
+   "date": "2026-10-12",
    "plusDay": 4,
    "ts": "PM2",
    "inOix": true,
@@ -3512,7 +3512,7 @@
   },
   {
    "code": "TPH00001",
-   "date": "2026-10-11",
+   "date": "2026-10-12",
    "plusDay": 4,
    "ts": "EV",
    "inOix": true,
@@ -3523,7 +3523,7 @@
   },
   {
    "code": "TPH00001",
-   "date": "2026-10-12",
+   "date": "2026-10-13",
    "plusDay": 5,
    "ts": "AM",
    "inOix": true,
@@ -3534,7 +3534,7 @@
   },
   {
    "code": "TPH00001",
-   "date": "2026-10-12",
+   "date": "2026-10-13",
    "plusDay": 5,
    "ts": "PM",
    "inOix": true,
@@ -3545,7 +3545,7 @@
   },
   {
    "code": "TPH00001",
-   "date": "2026-10-12",
+   "date": "2026-10-13",
    "plusDay": 5,
    "ts": "PM2",
    "inOix": true,
@@ -3556,7 +3556,7 @@
   },
   {
    "code": "TPH00001",
-   "date": "2026-10-12",
+   "date": "2026-10-13",
    "plusDay": 5,
    "ts": "EV",
    "inOix": true,
@@ -3567,7 +3567,7 @@
   },
   {
    "code": "TPH00001",
-   "date": "2026-10-13",
+   "date": "2026-10-14",
    "plusDay": 6,
    "ts": "AM",
    "inOix": true,
@@ -3578,7 +3578,7 @@
   },
   {
    "code": "TPH00001",
-   "date": "2026-10-13",
+   "date": "2026-10-14",
    "plusDay": 6,
    "ts": "PM",
    "inOix": true,
@@ -3589,7 +3589,7 @@
   },
   {
    "code": "TPH00001",
-   "date": "2026-10-13",
+   "date": "2026-10-14",
    "plusDay": 6,
    "ts": "PM2",
    "inOix": true,
@@ -3600,7 +3600,7 @@
   },
   {
    "code": "TPH00001",
-   "date": "2026-10-13",
+   "date": "2026-10-14",
    "plusDay": 6,
    "ts": "EV",
    "inOix": true,
@@ -3611,7 +3611,7 @@
   },
   {
    "code": "TPH00001",
-   "date": "2026-10-14",
+   "date": "2026-10-15",
    "plusDay": 7,
    "ts": "AM",
    "inOix": true,
@@ -3622,7 +3622,7 @@
   },
   {
    "code": "TPH00001",
-   "date": "2026-10-14",
+   "date": "2026-10-15",
    "plusDay": 7,
    "ts": "PM",
    "inOix": true,
@@ -3633,7 +3633,7 @@
   },
   {
    "code": "TPH00001",
-   "date": "2026-10-14",
+   "date": "2026-10-15",
    "plusDay": 7,
    "ts": "PM2",
    "inOix": true,
@@ -3644,7 +3644,7 @@
   },
   {
    "code": "TPH00001",
-   "date": "2026-10-14",
+   "date": "2026-10-15",
    "plusDay": 7,
    "ts": "EV",
    "inOix": true,
@@ -3655,7 +3655,7 @@
   },
   {
    "code": "TPH00001",
-   "date": "2026-10-15",
+   "date": "2026-10-16",
    "plusDay": 8,
    "ts": "AM",
    "inOix": true,
@@ -3666,7 +3666,7 @@
   },
   {
    "code": "TPH00001",
-   "date": "2026-10-15",
+   "date": "2026-10-16",
    "plusDay": 8,
    "ts": "PM",
    "inOix": true,
@@ -3677,7 +3677,7 @@
   },
   {
    "code": "TPH00001",
-   "date": "2026-10-15",
+   "date": "2026-10-16",
    "plusDay": 8,
    "ts": "PM2",
    "inOix": true,
@@ -3688,7 +3688,7 @@
   },
   {
    "code": "TPH00001",
-   "date": "2026-10-15",
+   "date": "2026-10-16",
    "plusDay": 8,
    "ts": "EV",
    "inOix": true,
@@ -3699,7 +3699,7 @@
   },
   {
    "code": "TPH00001",
-   "date": "2026-10-16",
+   "date": "2026-10-17",
    "plusDay": 9,
    "ts": "AM",
    "inOix": true,
@@ -3710,7 +3710,7 @@
   },
   {
    "code": "TPH00001",
-   "date": "2026-10-16",
+   "date": "2026-10-17",
    "plusDay": 9,
    "ts": "PM",
    "inOix": true,
@@ -3721,7 +3721,7 @@
   },
   {
    "code": "TPH00001",
-   "date": "2026-10-16",
+   "date": "2026-10-17",
    "plusDay": 9,
    "ts": "PM2",
    "inOix": true,
@@ -3732,7 +3732,7 @@
   },
   {
    "code": "TPH00001",
-   "date": "2026-10-16",
+   "date": "2026-10-17",
    "plusDay": 9,
    "ts": "EV",
    "inOix": true,
@@ -3743,7 +3743,7 @@
   },
   {
    "code": "TPH00001",
-   "date": "2026-10-17",
+   "date": "2026-10-18",
    "plusDay": 10,
    "ts": "AM",
    "inOix": true,
@@ -3754,7 +3754,7 @@
   },
   {
    "code": "TPH00001",
-   "date": "2026-10-17",
+   "date": "2026-10-18",
    "plusDay": 10,
    "ts": "PM",
    "inOix": true,
@@ -3765,7 +3765,7 @@
   },
   {
    "code": "TPH00001",
-   "date": "2026-10-17",
+   "date": "2026-10-18",
    "plusDay": 10,
    "ts": "PM2",
    "inOix": true,
@@ -3776,7 +3776,7 @@
   },
   {
    "code": "TPH00001",
-   "date": "2026-10-17",
+   "date": "2026-10-18",
    "plusDay": 10,
    "ts": "EV",
    "inOix": true,
@@ -3787,52 +3787,8 @@
   },
   {
    "code": "TPH00001",
-   "date": "2026-10-18",
-   "plusDay": 11,
-   "ts": "AM",
-   "inOix": true,
-   "ok": true,
-   "rows": 149,
-   "routes": 5,
-   "quota": 8940
-  },
-  {
-   "code": "TPH00001",
-   "date": "2026-10-18",
-   "plusDay": 11,
-   "ts": "PM",
-   "inOix": true,
-   "ok": true,
-   "rows": 149,
-   "routes": 5,
-   "quota": 8940
-  },
-  {
-   "code": "TPH00001",
-   "date": "2026-10-18",
-   "plusDay": 11,
-   "ts": "PM2",
-   "inOix": true,
-   "ok": true,
-   "rows": 149,
-   "routes": 5,
-   "quota": 8940
-  },
-  {
-   "code": "TPH00001",
-   "date": "2026-10-18",
-   "plusDay": 11,
-   "ts": "EV",
-   "inOix": true,
-   "ok": true,
-   "rows": 149,
-   "routes": 5,
-   "quota": 8940
-  },
-  {
-   "code": "TPH00001",
    "date": "2026-10-19",
-   "plusDay": 12,
+   "plusDay": 11,
    "ts": "AM",
    "inOix": true,
    "ok": false,
@@ -3843,7 +3799,7 @@
   {
    "code": "TPH00001",
    "date": "2026-10-19",
-   "plusDay": 12,
+   "plusDay": 11,
    "ts": "PM",
    "inOix": true,
    "ok": false,
@@ -3854,7 +3810,7 @@
   {
    "code": "TPH00001",
    "date": "2026-10-19",
-   "plusDay": 12,
+   "plusDay": 11,
    "ts": "PM2",
    "inOix": true,
    "ok": false,
@@ -3865,7 +3821,7 @@
   {
    "code": "TPH00001",
    "date": "2026-10-19",
-   "plusDay": 12,
+   "plusDay": 11,
    "ts": "EV",
    "inOix": true,
    "ok": false,
@@ -3876,7 +3832,7 @@
   {
    "code": "TPH00001",
    "date": "2026-10-20",
-   "plusDay": 13,
+   "plusDay": 12,
    "ts": "AM",
    "inOix": true,
    "ok": false,
@@ -3887,7 +3843,7 @@
   {
    "code": "TPH00001",
    "date": "2026-10-20",
-   "plusDay": 13,
+   "plusDay": 12,
    "ts": "PM",
    "inOix": true,
    "ok": false,
@@ -3898,7 +3854,7 @@
   {
    "code": "TPH00001",
    "date": "2026-10-20",
-   "plusDay": 13,
+   "plusDay": 12,
    "ts": "PM2",
    "inOix": true,
    "ok": false,
@@ -3909,7 +3865,7 @@
   {
    "code": "TPH00001",
    "date": "2026-10-20",
-   "plusDay": 13,
+   "plusDay": 12,
    "ts": "EV",
    "inOix": true,
    "ok": false,
@@ -3920,6 +3876,50 @@
   {
    "code": "TPH00001",
    "date": "2026-10-21",
+   "plusDay": 13,
+   "ts": "AM",
+   "inOix": true,
+   "ok": false,
+   "rows": 0,
+   "routes": 0,
+   "quota": 0
+  },
+  {
+   "code": "TPH00001",
+   "date": "2026-10-21",
+   "plusDay": 13,
+   "ts": "PM",
+   "inOix": true,
+   "ok": false,
+   "rows": 0,
+   "routes": 0,
+   "quota": 0
+  },
+  {
+   "code": "TPH00001",
+   "date": "2026-10-21",
+   "plusDay": 13,
+   "ts": "PM2",
+   "inOix": true,
+   "ok": false,
+   "rows": 0,
+   "routes": 0,
+   "quota": 0
+  },
+  {
+   "code": "TPH00001",
+   "date": "2026-10-21",
+   "plusDay": 13,
+   "ts": "EV",
+   "inOix": true,
+   "ok": false,
+   "rows": 0,
+   "routes": 0,
+   "quota": 0
+  },
+  {
+   "code": "TPH00001",
+   "date": "2026-10-22",
    "plusDay": 14,
    "ts": "AM",
    "inOix": true,
@@ -3930,7 +3930,7 @@
   },
   {
    "code": "TPH00001",
-   "date": "2026-10-21",
+   "date": "2026-10-22",
    "plusDay": 14,
    "ts": "PM",
    "inOix": true,
@@ -3941,7 +3941,7 @@
   },
   {
    "code": "TPH00001",
-   "date": "2026-10-21",
+   "date": "2026-10-22",
    "plusDay": 14,
    "ts": "PM2",
    "inOix": true,
@@ -3952,7 +3952,7 @@
   },
   {
    "code": "TPH00001",
-   "date": "2026-10-21",
+   "date": "2026-10-22",
    "plusDay": 14,
    "ts": "EV",
    "inOix": true,
@@ -3963,64 +3963,75 @@
   },
   {
    "code": "TW00001",
-   "date": "2026-10-07",
+   "date": "2026-10-08",
    "plusDay": 0,
    "ts": "AM",
    "inOix": true,
    "ok": true,
    "rows": 111,
    "routes": 9,
-   "quota": 4440
+   "quota": 3280
   },
   {
    "code": "TW00001",
-   "date": "2026-10-07",
+   "date": "2026-10-08",
    "plusDay": 0,
    "ts": "PM",
    "inOix": true,
    "ok": true,
    "rows": 111,
    "routes": 9,
-   "quota": 3820
+   "quota": 4000
   },
   {
    "code": "TW00001",
-   "date": "2026-10-07",
+   "date": "2026-10-08",
    "plusDay": 0,
    "ts": "PM2",
    "inOix": true,
    "ok": true,
    "rows": 111,
    "routes": 9,
-   "quota": 3760
+   "quota": 3500
   },
   {
    "code": "TW00001",
-   "date": "2026-10-07",
+   "date": "2026-10-08",
    "plusDay": 0,
    "ts": "EV",
    "inOix": true,
    "ok": true,
    "rows": 111,
    "routes": 9,
-   "quota": 2660
+   "quota": 4720
   },
   {
    "code": "TW00001",
-   "date": "2026-10-08",
+   "date": "2026-10-09",
    "plusDay": 1,
    "ts": "AM",
    "inOix": true,
    "ok": true,
    "rows": 111,
    "routes": 9,
-   "quota": 2420
+   "quota": 2360
   },
   {
    "code": "TW00001",
-   "date": "2026-10-08",
+   "date": "2026-10-09",
    "plusDay": 1,
    "ts": "PM",
+   "inOix": true,
+   "ok": true,
+   "rows": 111,
+   "routes": 9,
+   "quota": 2720
+  },
+  {
+   "code": "TW00001",
+   "date": "2026-10-09",
+   "plusDay": 1,
+   "ts": "PM2",
    "inOix": true,
    "ok": true,
    "rows": 111,
@@ -4029,29 +4040,18 @@
   },
   {
    "code": "TW00001",
-   "date": "2026-10-08",
-   "plusDay": 1,
-   "ts": "PM2",
-   "inOix": true,
-   "ok": true,
-   "rows": 111,
-   "routes": 9,
-   "quota": 2640
-  },
-  {
-   "code": "TW00001",
-   "date": "2026-10-08",
+   "date": "2026-10-09",
    "plusDay": 1,
    "ts": "EV",
    "inOix": true,
    "ok": true,
    "rows": 111,
    "routes": 9,
-   "quota": 2500
+   "quota": 2980
   },
   {
    "code": "TW00001",
-   "date": "2026-10-09",
+   "date": "2026-10-10",
    "plusDay": 2,
    "ts": "AM",
    "inOix": true,
@@ -4062,40 +4062,40 @@
   },
   {
    "code": "TW00001",
-   "date": "2026-10-09",
+   "date": "2026-10-10",
    "plusDay": 2,
    "ts": "PM",
    "inOix": true,
    "ok": true,
    "rows": 111,
    "routes": 9,
-   "quota": 2480
+   "quota": 3140
   },
   {
    "code": "TW00001",
-   "date": "2026-10-09",
+   "date": "2026-10-10",
    "plusDay": 2,
    "ts": "PM2",
    "inOix": true,
    "ok": true,
    "rows": 111,
    "routes": 9,
-   "quota": 2640
+   "quota": 2840
   },
   {
    "code": "TW00001",
-   "date": "2026-10-09",
+   "date": "2026-10-10",
    "plusDay": 2,
    "ts": "EV",
    "inOix": true,
    "ok": true,
    "rows": 111,
    "routes": 9,
-   "quota": 2480
+   "quota": 2560
   },
   {
    "code": "TW00001",
-   "date": "2026-10-10",
+   "date": "2026-10-11",
    "plusDay": 3,
    "ts": "AM",
    "inOix": true,
@@ -4106,7 +4106,7 @@
   },
   {
    "code": "TW00001",
-   "date": "2026-10-10",
+   "date": "2026-10-11",
    "plusDay": 3,
    "ts": "PM",
    "inOix": true,
@@ -4117,7 +4117,7 @@
   },
   {
    "code": "TW00001",
-   "date": "2026-10-10",
+   "date": "2026-10-11",
    "plusDay": 3,
    "ts": "PM2",
    "inOix": true,
@@ -4128,7 +4128,7 @@
   },
   {
    "code": "TW00001",
-   "date": "2026-10-10",
+   "date": "2026-10-11",
    "plusDay": 3,
    "ts": "EV",
    "inOix": true,
@@ -4139,7 +4139,7 @@
   },
   {
    "code": "TW00001",
-   "date": "2026-10-11",
+   "date": "2026-10-12",
    "plusDay": 4,
    "ts": "AM",
    "inOix": true,
@@ -4150,18 +4150,18 @@
   },
   {
    "code": "TW00001",
-   "date": "2026-10-11",
+   "date": "2026-10-12",
    "plusDay": 4,
    "ts": "PM",
    "inOix": true,
    "ok": true,
    "rows": 111,
    "routes": 9,
-   "quota": 2220
+   "quota": 4180
   },
   {
    "code": "TW00001",
-   "date": "2026-10-11",
+   "date": "2026-10-12",
    "plusDay": 4,
    "ts": "PM2",
    "inOix": true,
@@ -4172,7 +4172,7 @@
   },
   {
    "code": "TW00001",
-   "date": "2026-10-11",
+   "date": "2026-10-12",
    "plusDay": 4,
    "ts": "EV",
    "inOix": true,
@@ -4183,7 +4183,7 @@
   },
   {
    "code": "TW00001",
-   "date": "2026-10-12",
+   "date": "2026-10-13",
    "plusDay": 5,
    "ts": "AM",
    "inOix": true,
@@ -4194,7 +4194,7 @@
   },
   {
    "code": "TW00001",
-   "date": "2026-10-12",
+   "date": "2026-10-13",
    "plusDay": 5,
    "ts": "PM",
    "inOix": true,
@@ -4205,7 +4205,7 @@
   },
   {
    "code": "TW00001",
-   "date": "2026-10-12",
+   "date": "2026-10-13",
    "plusDay": 5,
    "ts": "PM2",
    "inOix": true,
@@ -4216,7 +4216,7 @@
   },
   {
    "code": "TW00001",
-   "date": "2026-10-12",
+   "date": "2026-10-13",
    "plusDay": 5,
    "ts": "EV",
    "inOix": true,
@@ -4227,7 +4227,7 @@
   },
   {
    "code": "TW00001",
-   "date": "2026-10-13",
+   "date": "2026-10-14",
    "plusDay": 6,
    "ts": "AM",
    "inOix": true,
@@ -4238,7 +4238,7 @@
   },
   {
    "code": "TW00001",
-   "date": "2026-10-13",
+   "date": "2026-10-14",
    "plusDay": 6,
    "ts": "PM",
    "inOix": true,
@@ -4249,7 +4249,7 @@
   },
   {
    "code": "TW00001",
-   "date": "2026-10-13",
+   "date": "2026-10-14",
    "plusDay": 6,
    "ts": "PM2",
    "inOix": true,
@@ -4260,7 +4260,7 @@
   },
   {
    "code": "TW00001",
-   "date": "2026-10-13",
+   "date": "2026-10-14",
    "plusDay": 6,
    "ts": "EV",
    "inOix": true,
@@ -4271,7 +4271,7 @@
   },
   {
    "code": "TW00001",
-   "date": "2026-10-14",
+   "date": "2026-10-15",
    "plusDay": 7,
    "ts": "AM",
    "inOix": true,
@@ -4282,7 +4282,7 @@
   },
   {
    "code": "TW00001",
-   "date": "2026-10-14",
+   "date": "2026-10-15",
    "plusDay": 7,
    "ts": "PM",
    "inOix": true,
@@ -4293,7 +4293,7 @@
   },
   {
    "code": "TW00001",
-   "date": "2026-10-14",
+   "date": "2026-10-15",
    "plusDay": 7,
    "ts": "PM2",
    "inOix": true,
@@ -4304,7 +4304,7 @@
   },
   {
    "code": "TW00001",
-   "date": "2026-10-14",
+   "date": "2026-10-15",
    "plusDay": 7,
    "ts": "EV",
    "inOix": true,
@@ -4315,7 +4315,7 @@
   },
   {
    "code": "TW00001",
-   "date": "2026-10-15",
+   "date": "2026-10-16",
    "plusDay": 8,
    "ts": "AM",
    "inOix": true,
@@ -4326,7 +4326,7 @@
   },
   {
    "code": "TW00001",
-   "date": "2026-10-15",
+   "date": "2026-10-16",
    "plusDay": 8,
    "ts": "PM",
    "inOix": true,
@@ -4337,7 +4337,7 @@
   },
   {
    "code": "TW00001",
-   "date": "2026-10-15",
+   "date": "2026-10-16",
    "plusDay": 8,
    "ts": "PM2",
    "inOix": true,
@@ -4348,7 +4348,7 @@
   },
   {
    "code": "TW00001",
-   "date": "2026-10-15",
+   "date": "2026-10-16",
    "plusDay": 8,
    "ts": "EV",
    "inOix": true,
@@ -4359,7 +4359,7 @@
   },
   {
    "code": "TW00001",
-   "date": "2026-10-16",
+   "date": "2026-10-17",
    "plusDay": 9,
    "ts": "AM",
    "inOix": true,
@@ -4370,7 +4370,7 @@
   },
   {
    "code": "TW00001",
-   "date": "2026-10-16",
+   "date": "2026-10-17",
    "plusDay": 9,
    "ts": "PM",
    "inOix": true,
@@ -4381,7 +4381,7 @@
   },
   {
    "code": "TW00001",
-   "date": "2026-10-16",
+   "date": "2026-10-17",
    "plusDay": 9,
    "ts": "PM2",
    "inOix": true,
@@ -4392,7 +4392,7 @@
   },
   {
    "code": "TW00001",
-   "date": "2026-10-16",
+   "date": "2026-10-17",
    "plusDay": 9,
    "ts": "EV",
    "inOix": true,
@@ -4403,7 +4403,7 @@
   },
   {
    "code": "TW00001",
-   "date": "2026-10-17",
+   "date": "2026-10-18",
    "plusDay": 10,
    "ts": "AM",
    "inOix": true,
@@ -4414,7 +4414,7 @@
   },
   {
    "code": "TW00001",
-   "date": "2026-10-17",
+   "date": "2026-10-18",
    "plusDay": 10,
    "ts": "PM",
    "inOix": true,
@@ -4425,7 +4425,7 @@
   },
   {
    "code": "TW00001",
-   "date": "2026-10-17",
+   "date": "2026-10-18",
    "plusDay": 10,
    "ts": "PM2",
    "inOix": true,
@@ -4436,7 +4436,7 @@
   },
   {
    "code": "TW00001",
-   "date": "2026-10-17",
+   "date": "2026-10-18",
    "plusDay": 10,
    "ts": "EV",
    "inOix": true,
@@ -4447,7 +4447,7 @@
   },
   {
    "code": "TW00001",
-   "date": "2026-10-18",
+   "date": "2026-10-19",
    "plusDay": 11,
    "ts": "AM",
    "inOix": true,
@@ -4458,7 +4458,7 @@
   },
   {
    "code": "TW00001",
-   "date": "2026-10-18",
+   "date": "2026-10-19",
    "plusDay": 11,
    "ts": "PM",
    "inOix": true,
@@ -4469,7 +4469,7 @@
   },
   {
    "code": "TW00001",
-   "date": "2026-10-18",
+   "date": "2026-10-19",
    "plusDay": 11,
    "ts": "PM2",
    "inOix": true,
@@ -4480,7 +4480,7 @@
   },
   {
    "code": "TW00001",
-   "date": "2026-10-18",
+   "date": "2026-10-19",
    "plusDay": 11,
    "ts": "EV",
    "inOix": true,
@@ -4491,7 +4491,7 @@
   },
   {
    "code": "TW00001",
-   "date": "2026-10-19",
+   "date": "2026-10-20",
    "plusDay": 12,
    "ts": "AM",
    "inOix": true,
@@ -4502,7 +4502,7 @@
   },
   {
    "code": "TW00001",
-   "date": "2026-10-19",
+   "date": "2026-10-20",
    "plusDay": 12,
    "ts": "PM",
    "inOix": true,
@@ -4513,7 +4513,7 @@
   },
   {
    "code": "TW00001",
-   "date": "2026-10-19",
+   "date": "2026-10-20",
    "plusDay": 12,
    "ts": "PM2",
    "inOix": true,
@@ -4524,52 +4524,8 @@
   },
   {
    "code": "TW00001",
-   "date": "2026-10-19",
+   "date": "2026-10-20",
    "plusDay": 12,
-   "ts": "EV",
-   "inOix": true,
-   "ok": true,
-   "rows": 111,
-   "routes": 9,
-   "quota": 2220
-  },
-  {
-   "code": "TW00001",
-   "date": "2026-10-20",
-   "plusDay": 13,
-   "ts": "AM",
-   "inOix": true,
-   "ok": true,
-   "rows": 111,
-   "routes": 9,
-   "quota": 2220
-  },
-  {
-   "code": "TW00001",
-   "date": "2026-10-20",
-   "plusDay": 13,
-   "ts": "PM",
-   "inOix": true,
-   "ok": true,
-   "rows": 111,
-   "routes": 9,
-   "quota": 2220
-  },
-  {
-   "code": "TW00001",
-   "date": "2026-10-20",
-   "plusDay": 13,
-   "ts": "PM2",
-   "inOix": true,
-   "ok": true,
-   "rows": 111,
-   "routes": 9,
-   "quota": 2640
-  },
-  {
-   "code": "TW00001",
-   "date": "2026-10-20",
-   "plusDay": 13,
    "ts": "EV",
    "inOix": true,
    "ok": true,
@@ -4580,6 +4536,50 @@
   {
    "code": "TW00001",
    "date": "2026-10-21",
+   "plusDay": 13,
+   "ts": "AM",
+   "inOix": true,
+   "ok": true,
+   "rows": 111,
+   "routes": 9,
+   "quota": 2220
+  },
+  {
+   "code": "TW00001",
+   "date": "2026-10-21",
+   "plusDay": 13,
+   "ts": "PM",
+   "inOix": true,
+   "ok": true,
+   "rows": 111,
+   "routes": 9,
+   "quota": 2220
+  },
+  {
+   "code": "TW00001",
+   "date": "2026-10-21",
+   "plusDay": 13,
+   "ts": "PM2",
+   "inOix": true,
+   "ok": true,
+   "rows": 111,
+   "routes": 9,
+   "quota": 2640
+  },
+  {
+   "code": "TW00001",
+   "date": "2026-10-21",
+   "plusDay": 13,
+   "ts": "EV",
+   "inOix": true,
+   "ok": true,
+   "rows": 111,
+   "routes": 9,
+   "quota": 2220
+  },
+  {
+   "code": "TW00001",
+   "date": "2026-10-22",
    "plusDay": 14,
    "ts": "AM",
    "inOix": true,
@@ -4590,7 +4590,7 @@
   },
   {
    "code": "TW00001",
-   "date": "2026-10-21",
+   "date": "2026-10-22",
    "plusDay": 14,
    "ts": "PM",
    "inOix": true,
@@ -4601,7 +4601,7 @@
   },
   {
    "code": "TW00001",
-   "date": "2026-10-21",
+   "date": "2026-10-22",
    "plusDay": 14,
    "ts": "PM2",
    "inOix": true,
@@ -4612,7 +4612,7 @@
   },
   {
    "code": "TW00001",
-   "date": "2026-10-21",
+   "date": "2026-10-22",
    "plusDay": 14,
    "ts": "EV",
    "inOix": true,
@@ -4623,18 +4623,18 @@
   },
   {
    "code": "WAN00001",
-   "date": "2026-10-07",
+   "date": "2026-10-08",
    "plusDay": 0,
    "ts": "AM",
    "inOix": true,
    "ok": true,
    "rows": 308,
    "routes": 6,
-   "quota": 12320
+   "quota": 13020
   },
   {
    "code": "WAN00001",
-   "date": "2026-10-07",
+   "date": "2026-10-08",
    "plusDay": 0,
    "ts": "PM",
    "inOix": true,
@@ -4645,64 +4645,53 @@
   },
   {
    "code": "WAN00001",
-   "date": "2026-10-07",
+   "date": "2026-10-08",
    "plusDay": 0,
    "ts": "PM2",
    "inOix": true,
    "ok": true,
    "rows": 308,
    "routes": 6,
-   "quota": 11600
+   "quota": 12320
   },
   {
    "code": "WAN00001",
-   "date": "2026-10-07",
+   "date": "2026-10-08",
    "plusDay": 0,
    "ts": "EV",
    "inOix": true,
    "ok": true,
    "rows": 308,
    "routes": 6,
-   "quota": 7180
+   "quota": 12320
   },
   {
    "code": "WAN00001",
-   "date": "2026-10-08",
+   "date": "2026-10-09",
    "plusDay": 1,
    "ts": "AM",
    "inOix": true,
    "ok": true,
    "rows": 308,
    "routes": 6,
-   "quota": 9520
+   "quota": 6160
   },
   {
    "code": "WAN00001",
-   "date": "2026-10-08",
+   "date": "2026-10-09",
    "plusDay": 1,
    "ts": "PM",
    "inOix": true,
    "ok": true,
    "rows": 308,
    "routes": 6,
-   "quota": 8240
+   "quota": 6160
   },
   {
    "code": "WAN00001",
-   "date": "2026-10-08",
+   "date": "2026-10-09",
    "plusDay": 1,
    "ts": "PM2",
-   "inOix": true,
-   "ok": true,
-   "rows": 308,
-   "routes": 6,
-   "quota": 9040
-  },
-  {
-   "code": "WAN00001",
-   "date": "2026-10-08",
-   "plusDay": 1,
-   "ts": "EV",
    "inOix": true,
    "ok": true,
    "rows": 308,
@@ -4712,40 +4701,7 @@
   {
    "code": "WAN00001",
    "date": "2026-10-09",
-   "plusDay": 2,
-   "ts": "AM",
-   "inOix": true,
-   "ok": true,
-   "rows": 308,
-   "routes": 6,
-   "quota": 6160
-  },
-  {
-   "code": "WAN00001",
-   "date": "2026-10-09",
-   "plusDay": 2,
-   "ts": "PM",
-   "inOix": true,
-   "ok": true,
-   "rows": 308,
-   "routes": 6,
-   "quota": 6160
-  },
-  {
-   "code": "WAN00001",
-   "date": "2026-10-09",
-   "plusDay": 2,
-   "ts": "PM2",
-   "inOix": true,
-   "ok": true,
-   "rows": 308,
-   "routes": 6,
-   "quota": 6160
-  },
-  {
-   "code": "WAN00001",
-   "date": "2026-10-09",
-   "plusDay": 2,
+   "plusDay": 1,
    "ts": "EV",
    "inOix": true,
    "ok": true,
@@ -4756,7 +4712,7 @@
   {
    "code": "WAN00001",
    "date": "2026-10-10",
-   "plusDay": 3,
+   "plusDay": 2,
    "ts": "AM",
    "inOix": true,
    "ok": true,
@@ -4767,7 +4723,7 @@
   {
    "code": "WAN00001",
    "date": "2026-10-10",
-   "plusDay": 3,
+   "plusDay": 2,
    "ts": "PM",
    "inOix": true,
    "ok": true,
@@ -4778,17 +4734,61 @@
   {
    "code": "WAN00001",
    "date": "2026-10-10",
-   "plusDay": 3,
+   "plusDay": 2,
    "ts": "PM2",
    "inOix": true,
    "ok": true,
    "rows": 308,
    "routes": 6,
-   "quota": 6160
+   "quota": 7180
   },
   {
    "code": "WAN00001",
    "date": "2026-10-10",
+   "plusDay": 2,
+   "ts": "EV",
+   "inOix": true,
+   "ok": true,
+   "rows": 308,
+   "routes": 6,
+   "quota": 7320
+  },
+  {
+   "code": "WAN00001",
+   "date": "2026-10-11",
+   "plusDay": 3,
+   "ts": "AM",
+   "inOix": true,
+   "ok": true,
+   "rows": 308,
+   "routes": 6,
+   "quota": 6160
+  },
+  {
+   "code": "WAN00001",
+   "date": "2026-10-11",
+   "plusDay": 3,
+   "ts": "PM",
+   "inOix": true,
+   "ok": true,
+   "rows": 308,
+   "routes": 6,
+   "quota": 6160
+  },
+  {
+   "code": "WAN00001",
+   "date": "2026-10-11",
+   "plusDay": 3,
+   "ts": "PM2",
+   "inOix": true,
+   "ok": true,
+   "rows": 308,
+   "routes": 6,
+   "quota": 6160
+  },
+  {
+   "code": "WAN00001",
+   "date": "2026-10-11",
    "plusDay": 3,
    "ts": "EV",
    "inOix": true,
@@ -4799,7 +4799,7 @@
   },
   {
    "code": "WAN00001",
-   "date": "2026-10-11",
+   "date": "2026-10-12",
    "plusDay": 4,
    "ts": "AM",
    "inOix": true,
@@ -4810,18 +4810,18 @@
   },
   {
    "code": "WAN00001",
-   "date": "2026-10-11",
+   "date": "2026-10-12",
    "plusDay": 4,
    "ts": "PM",
    "inOix": true,
    "ok": true,
    "rows": 308,
    "routes": 6,
-   "quota": 6160
+   "quota": 11600
   },
   {
    "code": "WAN00001",
-   "date": "2026-10-11",
+   "date": "2026-10-12",
    "plusDay": 4,
    "ts": "PM2",
    "inOix": true,
@@ -4832,7 +4832,7 @@
   },
   {
    "code": "WAN00001",
-   "date": "2026-10-11",
+   "date": "2026-10-12",
    "plusDay": 4,
    "ts": "EV",
    "inOix": true,
@@ -4843,7 +4843,7 @@
   },
   {
    "code": "WAN00001",
-   "date": "2026-10-12",
+   "date": "2026-10-13",
    "plusDay": 5,
    "ts": "AM",
    "inOix": true,
@@ -4854,7 +4854,7 @@
   },
   {
    "code": "WAN00001",
-   "date": "2026-10-12",
+   "date": "2026-10-13",
    "plusDay": 5,
    "ts": "PM",
    "inOix": true,
@@ -4865,7 +4865,7 @@
   },
   {
    "code": "WAN00001",
-   "date": "2026-10-12",
+   "date": "2026-10-13",
    "plusDay": 5,
    "ts": "PM2",
    "inOix": true,
@@ -4876,7 +4876,7 @@
   },
   {
    "code": "WAN00001",
-   "date": "2026-10-12",
+   "date": "2026-10-13",
    "plusDay": 5,
    "ts": "EV",
    "inOix": true,
@@ -4887,7 +4887,7 @@
   },
   {
    "code": "WAN00001",
-   "date": "2026-10-13",
+   "date": "2026-10-14",
    "plusDay": 6,
    "ts": "AM",
    "inOix": true,
@@ -4898,7 +4898,7 @@
   },
   {
    "code": "WAN00001",
-   "date": "2026-10-13",
+   "date": "2026-10-14",
    "plusDay": 6,
    "ts": "PM",
    "inOix": true,
@@ -4909,7 +4909,7 @@
   },
   {
    "code": "WAN00001",
-   "date": "2026-10-13",
+   "date": "2026-10-14",
    "plusDay": 6,
    "ts": "PM2",
    "inOix": true,
@@ -4920,7 +4920,7 @@
   },
   {
    "code": "WAN00001",
-   "date": "2026-10-13",
+   "date": "2026-10-14",
    "plusDay": 6,
    "ts": "EV",
    "inOix": true,
@@ -4931,7 +4931,7 @@
   },
   {
    "code": "WAN00001",
-   "date": "2026-10-14",
+   "date": "2026-10-15",
    "plusDay": 7,
    "ts": "AM",
    "inOix": true,
@@ -4942,7 +4942,7 @@
   },
   {
    "code": "WAN00001",
-   "date": "2026-10-14",
+   "date": "2026-10-15",
    "plusDay": 7,
    "ts": "PM",
    "inOix": true,
@@ -4953,7 +4953,7 @@
   },
   {
    "code": "WAN00001",
-   "date": "2026-10-14",
+   "date": "2026-10-15",
    "plusDay": 7,
    "ts": "PM2",
    "inOix": true,
@@ -4964,7 +4964,7 @@
   },
   {
    "code": "WAN00001",
-   "date": "2026-10-14",
+   "date": "2026-10-15",
    "plusDay": 7,
    "ts": "EV",
    "inOix": true,
@@ -4975,7 +4975,7 @@
   },
   {
    "code": "WAN00001",
-   "date": "2026-10-15",
+   "date": "2026-10-16",
    "plusDay": 8,
    "ts": "AM",
    "inOix": true,
@@ -4986,7 +4986,7 @@
   },
   {
    "code": "WAN00001",
-   "date": "2026-10-15",
+   "date": "2026-10-16",
    "plusDay": 8,
    "ts": "PM",
    "inOix": true,
@@ -4997,7 +4997,7 @@
   },
   {
    "code": "WAN00001",
-   "date": "2026-10-15",
+   "date": "2026-10-16",
    "plusDay": 8,
    "ts": "PM2",
    "inOix": true,
@@ -5008,7 +5008,7 @@
   },
   {
    "code": "WAN00001",
-   "date": "2026-10-15",
+   "date": "2026-10-16",
    "plusDay": 8,
    "ts": "EV",
    "inOix": true,
@@ -5019,7 +5019,7 @@
   },
   {
    "code": "WAN00001",
-   "date": "2026-10-16",
+   "date": "2026-10-17",
    "plusDay": 9,
    "ts": "AM",
    "inOix": true,
@@ -5030,7 +5030,7 @@
   },
   {
    "code": "WAN00001",
-   "date": "2026-10-16",
+   "date": "2026-10-17",
    "plusDay": 9,
    "ts": "PM",
    "inOix": true,
@@ -5041,7 +5041,7 @@
   },
   {
    "code": "WAN00001",
-   "date": "2026-10-16",
+   "date": "2026-10-17",
    "plusDay": 9,
    "ts": "PM2",
    "inOix": true,
@@ -5052,7 +5052,7 @@
   },
   {
    "code": "WAN00001",
-   "date": "2026-10-16",
+   "date": "2026-10-17",
    "plusDay": 9,
    "ts": "EV",
    "inOix": true,
@@ -5063,7 +5063,7 @@
   },
   {
    "code": "WAN00001",
-   "date": "2026-10-17",
+   "date": "2026-10-18",
    "plusDay": 10,
    "ts": "AM",
    "inOix": true,
@@ -5074,7 +5074,7 @@
   },
   {
    "code": "WAN00001",
-   "date": "2026-10-17",
+   "date": "2026-10-18",
    "plusDay": 10,
    "ts": "PM",
    "inOix": true,
@@ -5085,7 +5085,7 @@
   },
   {
    "code": "WAN00001",
-   "date": "2026-10-17",
+   "date": "2026-10-18",
    "plusDay": 10,
    "ts": "PM2",
    "inOix": true,
@@ -5096,7 +5096,7 @@
   },
   {
    "code": "WAN00001",
-   "date": "2026-10-17",
+   "date": "2026-10-18",
    "plusDay": 10,
    "ts": "EV",
    "inOix": true,
@@ -5107,52 +5107,8 @@
   },
   {
    "code": "WAN00001",
-   "date": "2026-10-18",
-   "plusDay": 11,
-   "ts": "AM",
-   "inOix": true,
-   "ok": true,
-   "rows": 308,
-   "routes": 6,
-   "quota": 6160
-  },
-  {
-   "code": "WAN00001",
-   "date": "2026-10-18",
-   "plusDay": 11,
-   "ts": "PM",
-   "inOix": true,
-   "ok": true,
-   "rows": 308,
-   "routes": 6,
-   "quota": 6160
-  },
-  {
-   "code": "WAN00001",
-   "date": "2026-10-18",
-   "plusDay": 11,
-   "ts": "PM2",
-   "inOix": true,
-   "ok": true,
-   "rows": 308,
-   "routes": 6,
-   "quota": 6160
-  },
-  {
-   "code": "WAN00001",
-   "date": "2026-10-18",
-   "plusDay": 11,
-   "ts": "EV",
-   "inOix": true,
-   "ok": true,
-   "rows": 308,
-   "routes": 6,
-   "quota": 6160
-  },
-  {
-   "code": "WAN00001",
    "date": "2026-10-19",
-   "plusDay": 12,
+   "plusDay": 11,
    "ts": "AM",
    "inOix": true,
    "ok": false,
@@ -5163,7 +5119,7 @@
   {
    "code": "WAN00001",
    "date": "2026-10-19",
-   "plusDay": 12,
+   "plusDay": 11,
    "ts": "PM",
    "inOix": true,
    "ok": false,
@@ -5174,7 +5130,7 @@
   {
    "code": "WAN00001",
    "date": "2026-10-19",
-   "plusDay": 12,
+   "plusDay": 11,
    "ts": "PM2",
    "inOix": true,
    "ok": false,
@@ -5185,7 +5141,7 @@
   {
    "code": "WAN00001",
    "date": "2026-10-19",
-   "plusDay": 12,
+   "plusDay": 11,
    "ts": "EV",
    "inOix": true,
    "ok": false,
@@ -5196,7 +5152,7 @@
   {
    "code": "WAN00001",
    "date": "2026-10-20",
-   "plusDay": 13,
+   "plusDay": 12,
    "ts": "AM",
    "inOix": true,
    "ok": false,
@@ -5207,7 +5163,7 @@
   {
    "code": "WAN00001",
    "date": "2026-10-20",
-   "plusDay": 13,
+   "plusDay": 12,
    "ts": "PM",
    "inOix": true,
    "ok": false,
@@ -5218,7 +5174,7 @@
   {
    "code": "WAN00001",
    "date": "2026-10-20",
-   "plusDay": 13,
+   "plusDay": 12,
    "ts": "PM2",
    "inOix": true,
    "ok": false,
@@ -5229,7 +5185,7 @@
   {
    "code": "WAN00001",
    "date": "2026-10-20",
-   "plusDay": 13,
+   "plusDay": 12,
    "ts": "EV",
    "inOix": true,
    "ok": false,
@@ -5240,6 +5196,50 @@
   {
    "code": "WAN00001",
    "date": "2026-10-21",
+   "plusDay": 13,
+   "ts": "AM",
+   "inOix": true,
+   "ok": false,
+   "rows": 0,
+   "routes": 0,
+   "quota": 0
+  },
+  {
+   "code": "WAN00001",
+   "date": "2026-10-21",
+   "plusDay": 13,
+   "ts": "PM",
+   "inOix": true,
+   "ok": false,
+   "rows": 0,
+   "routes": 0,
+   "quota": 0
+  },
+  {
+   "code": "WAN00001",
+   "date": "2026-10-21",
+   "plusDay": 13,
+   "ts": "PM2",
+   "inOix": true,
+   "ok": false,
+   "rows": 0,
+   "routes": 0,
+   "quota": 0
+  },
+  {
+   "code": "WAN00001",
+   "date": "2026-10-21",
+   "plusDay": 13,
+   "ts": "EV",
+   "inOix": true,
+   "ok": false,
+   "rows": 0,
+   "routes": 0,
+   "quota": 0
+  },
+  {
+   "code": "WAN00001",
+   "date": "2026-10-22",
    "plusDay": 14,
    "ts": "AM",
    "inOix": true,
@@ -5250,7 +5250,7 @@
   },
   {
    "code": "WAN00001",
-   "date": "2026-10-21",
+   "date": "2026-10-22",
    "plusDay": 14,
    "ts": "PM",
    "inOix": true,
@@ -5261,7 +5261,7 @@
   },
   {
    "code": "WAN00001",
-   "date": "2026-10-21",
+   "date": "2026-10-22",
    "plusDay": 14,
    "ts": "PM2",
    "inOix": true,
@@ -5272,7 +5272,7 @@
   },
   {
    "code": "WAN00001",
-   "date": "2026-10-21",
+   "date": "2026-10-22",
    "plusDay": 14,
    "ts": "EV",
    "inOix": true,

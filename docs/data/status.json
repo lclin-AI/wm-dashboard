@@ -1,19 +1,19 @@
 {
- "updatedAt": "2026-10-08T23:38:50",
+ "updatedAt": "2026-10-08T23:44:46",
  "marketsChecked": 8,
  "marketsTotal": 8,
  "marketsFailed": [],
- "blownCount": 0,
+ "blownCount": 1,
  "oixOk": true,
  "carlineCheckedAt": "2026-10-08T10:27:59",
  "lastWhatsApp": {
-  "at": "2026-10-08T03:43:38",
+  "at": "2026-10-08T23:39:30",
   "ok": true,
   "rc": 0,
   "head": "🚨 街市即日餸 爆 quota"
  },
  "lastSlack": {
-  "at": "2026-10-08T03:43:34",
+  "at": "2026-10-08T23:38:59",
   "ok": true,
   "note": ""
  },
@@ -24,5 +24,5 @@
   "note": "連得上",
   "at": "2026-10-08T23:33:21"
  },
- "collectedAt": "2026-10-08T23:40:03"
+ "collectedAt": "2026-10-08T23:45:03"
 }

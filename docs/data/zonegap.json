@@ -1,7 +1,6 @@
 {
- "updatedAt": "2026-10-08T06:35:07",
+ "updatedAt": "2026-10-09T06:35:23",
  "dates": [
-  "2026-10-08",
   "2026-10-09",
   "2026-10-10",
   "2026-10-11",
@@ -15,397 +14,11 @@
   "2026-10-19",
   "2026-10-20",
   "2026-10-21",
-  "2026-10-22"
+  "2026-10-22",
+  "2026-10-23"
  ],
  "estatesChecked": 32632,
  "byDate": {
-  "2026-10-08": {
-   "SMI00001": {
-    "window": true,
-    "zones": [
-     {
-      "zone": "HK1028-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "西環 - HKTVmall超級市場 (西環石塘坊店)"
-      ],
-      "districts": [
-       "西環"
-      ],
-      "none": true
-     }
-    ],
-    "addresses": 1
-   },
-   "KOWC00001": {
-    "window": true,
-    "zones": [
-     {
-      "zone": "AL002-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "華興工業大廈 (新蒲崗大有街36號)"
-      ],
-      "districts": [
-       "新蒲崗"
-      ],
-      "none": true
-     },
-     {
-      "zone": "CL002-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "華興工業大廈 (新蒲崗大有街36號)"
-      ],
-      "districts": [
-       "新蒲崗"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN465-2EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "鴻鵠臺第一座"
-      ],
-      "districts": [
-       "牛頭角"
-      ],
-      "none": true
-     }
-    ],
-    "addresses": 3
-   },
-   "TW00001": {
-    "window": true,
-    "zones": [
-     {
-      "zone": "AL001-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "金基工業大廈 (大連排道35-41號)"
-      ],
-      "districts": [
-       "葵涌"
-      ],
-      "none": true
-     }
-    ],
-    "addresses": 1
-   },
-   "WAN00001": {
-    "window": true,
-    "zones": [],
-    "addresses": 0
-   },
-   "POR00001": {
-    "window": true,
-    "zones": [
-     {
-      "zone": "KN854-3EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "匯華工廠大廈",
-       "福源廣場",
-       "兆威工業大廈",
-       "安泰大廈 (長沙灣道910號)",
-       "宣道國際學校 (瓊林街33號) (只限地面交收)",
-       "瓊林街83號A座",
-       "瓊林街83號B座"
-      ],
-      "districts": [
-       "荔枝角"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN857-3EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "荔枝角收押所職員宿舍G座",
-       "饒宗頤文化館",
-       "荔枝角收押所職員宿舍 H座"
-      ],
-      "districts": [
-       "荔枝角"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN858-4EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "東方石油大廈",
-       "一號·西九龍2座"
-      ],
-      "districts": [
-       "荔枝角"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN834-3EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "緹山 (洋房) (龍駒道9號)"
-      ],
-      "districts": [
-       "石硤尾"
-      ],
-      "none": true
-     }
-    ],
-    "addresses": 13
-   },
-   "MCP00001": {
-    "window": true,
-    "zones": [
-     {
-      "zone": "KN057-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "香港電視多媒體及電子商貿中心 - 辦公室 (10樓)"
-      ],
-      "districts": [
-       "將軍澳"
-      ],
-      "none": true
-     },
-     {
-      "zone": "KN1000-1",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "HKTV將軍澳總部 (只供員工使用)"
-      ],
-      "districts": [
-       "康城"
-      ],
-      "none": true
-     }
-    ],
-    "addresses": 2
-   },
-   "TM00001": {
-    "window": true,
-    "zones": [
-     {
-      "zone": "NT733-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "GOODMAN WESTLINK (小冷水路) (只限小冷水路GOODMAN閘口交收)"
-      ],
-      "districts": [
-       "屯門"
-      ],
-      "none": true
-     }
-    ],
-    "addresses": 1
-   },
-   "TPH00001": {
-    "window": true,
-    "zones": [
-     {
-      "zone": "NT472-2EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "肇軒臺",
-       "粉嶺嶺皮村",
-       "嶺仔村",
-       "馬料水新村 (只限馬料水新村牌坊交收)",
-       "獅頭嶺村 (只限獅頭嶺村公所交收)",
-       "馬尾下 (只限公廁旁空地交收)",
-       "粉嶺大塘湖村",
-       "軍地村 (只限君悅豪庭對出空地交收)"
-      ],
-      "districts": [
-       "沙頭角"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT446-3EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "好時花園 (只限地面交收)",
-       "好時華廷2期 (只限地面交收)"
-      ],
-      "districts": [
-       "太和"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT471-2EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "百勝山莊 (只限地面交收)",
-       "孔嶺村"
-      ],
-      "districts": [
-       "打鼓嶺"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT470-1EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "虎地坳村 (只限梧桐河水閘交收)"
-      ],
-      "districts": [
-       "文錦渡"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT470-2EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "木湖村 (只限告示牌空地交收)"
-      ],
-      "districts": [
-       "文錦渡"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT722-3EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "屯門和平新村"
-      ],
-      "districts": [
-       "屯門"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT729-7EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "陳屋埔 (只限欣景豪園閘口前空地交收)"
-      ],
-      "districts": [
-       "錦田"
-      ],
-      "none": true
-     },
-     {
-      "zone": "NT876-2EX",
-      "miss": [
-       "AM",
-       "PM1",
-       "PM2",
-       "EV"
-      ],
-      "estates": [
-       "散石灣村"
-      ],
-      "districts": [
-       "梅窩"
-      ],
-      "none": true
-     }
-    ],
-    "addresses": 17
-   }
-  },
   "2026-10-09": {
    "SMI00001": {
     "window": true,
@@ -4278,10 +3891,80 @@
   },
   "2026-10-19": {
    "SMI00001": {
-    "window": false
+    "window": true,
+    "zones": [
+     {
+      "zone": "HK1028-1",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "西環 - HKTVmall超級市場 (西環石塘坊店)"
+      ],
+      "districts": [
+       "西環"
+      ],
+      "none": true
+     }
+    ],
+    "addresses": 1
    },
    "KOWC00001": {
-    "window": false
+    "window": true,
+    "zones": [
+     {
+      "zone": "AL002-1EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "華興工業大廈 (新蒲崗大有街36號)"
+      ],
+      "districts": [
+       "新蒲崗"
+      ],
+      "none": true
+     },
+     {
+      "zone": "CL002-1EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "華興工業大廈 (新蒲崗大有街36號)"
+      ],
+      "districts": [
+       "新蒲崗"
+      ],
+      "none": true
+     },
+     {
+      "zone": "KN465-2EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "鴻鵠臺第一座"
+      ],
+      "districts": [
+       "牛頭角"
+      ],
+      "none": true
+     }
+    ],
+    "addresses": 3
    },
    "TW00001": {
     "window": true,
@@ -4306,10 +3989,88 @@
     "addresses": 1
    },
    "WAN00001": {
-    "window": false
+    "window": true,
+    "zones": [],
+    "addresses": 0
    },
    "POR00001": {
-    "window": false
+    "window": true,
+    "zones": [
+     {
+      "zone": "KN854-3EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "匯華工廠大廈",
+       "福源廣場",
+       "兆威工業大廈",
+       "安泰大廈 (長沙灣道910號)",
+       "宣道國際學校 (瓊林街33號) (只限地面交收)",
+       "瓊林街83號A座",
+       "瓊林街83號B座"
+      ],
+      "districts": [
+       "荔枝角"
+      ],
+      "none": true
+     },
+     {
+      "zone": "KN857-3EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "荔枝角收押所職員宿舍G座",
+       "饒宗頤文化館",
+       "荔枝角收押所職員宿舍 H座"
+      ],
+      "districts": [
+       "荔枝角"
+      ],
+      "none": true
+     },
+     {
+      "zone": "KN858-4EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "東方石油大廈",
+       "一號·西九龍2座"
+      ],
+      "districts": [
+       "荔枝角"
+      ],
+      "none": true
+     },
+     {
+      "zone": "KN834-3EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "緹山 (洋房) (龍駒道9號)"
+      ],
+      "districts": [
+       "石硤尾"
+      ],
+      "none": true
+     }
+    ],
+    "addresses": 13
    },
    "MCP00001": {
     "window": true,
@@ -4358,10 +4119,80 @@
   },
   "2026-10-20": {
    "SMI00001": {
-    "window": false
+    "window": true,
+    "zones": [
+     {
+      "zone": "HK1028-1",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "西環 - HKTVmall超級市場 (西環石塘坊店)"
+      ],
+      "districts": [
+       "西環"
+      ],
+      "none": true
+     }
+    ],
+    "addresses": 1
    },
    "KOWC00001": {
-    "window": false
+    "window": true,
+    "zones": [
+     {
+      "zone": "AL002-1EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "華興工業大廈 (新蒲崗大有街36號)"
+      ],
+      "districts": [
+       "新蒲崗"
+      ],
+      "none": true
+     },
+     {
+      "zone": "CL002-1EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "華興工業大廈 (新蒲崗大有街36號)"
+      ],
+      "districts": [
+       "新蒲崗"
+      ],
+      "none": true
+     },
+     {
+      "zone": "KN465-2EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "鴻鵠臺第一座"
+      ],
+      "districts": [
+       "牛頭角"
+      ],
+      "none": true
+     }
+    ],
+    "addresses": 3
    },
    "TW00001": {
     "window": true,
@@ -4386,10 +4217,88 @@
     "addresses": 1
    },
    "WAN00001": {
-    "window": false
+    "window": true,
+    "zones": [],
+    "addresses": 0
    },
    "POR00001": {
-    "window": false
+    "window": true,
+    "zones": [
+     {
+      "zone": "KN854-3EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "匯華工廠大廈",
+       "福源廣場",
+       "兆威工業大廈",
+       "安泰大廈 (長沙灣道910號)",
+       "宣道國際學校 (瓊林街33號) (只限地面交收)",
+       "瓊林街83號A座",
+       "瓊林街83號B座"
+      ],
+      "districts": [
+       "荔枝角"
+      ],
+      "none": true
+     },
+     {
+      "zone": "KN857-3EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "荔枝角收押所職員宿舍G座",
+       "饒宗頤文化館",
+       "荔枝角收押所職員宿舍 H座"
+      ],
+      "districts": [
+       "荔枝角"
+      ],
+      "none": true
+     },
+     {
+      "zone": "KN858-4EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "東方石油大廈",
+       "一號·西九龍2座"
+      ],
+      "districts": [
+       "荔枝角"
+      ],
+      "none": true
+     },
+     {
+      "zone": "KN834-3EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "緹山 (洋房) (龍駒道9號)"
+      ],
+      "districts": [
+       "石硤尾"
+      ],
+      "none": true
+     }
+    ],
+    "addresses": 13
    },
    "MCP00001": {
     "window": true,
@@ -4438,10 +4347,80 @@
   },
   "2026-10-21": {
    "SMI00001": {
-    "window": false
+    "window": true,
+    "zones": [
+     {
+      "zone": "HK1028-1",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "西環 - HKTVmall超級市場 (西環石塘坊店)"
+      ],
+      "districts": [
+       "西環"
+      ],
+      "none": true
+     }
+    ],
+    "addresses": 1
    },
    "KOWC00001": {
-    "window": false
+    "window": true,
+    "zones": [
+     {
+      "zone": "AL002-1EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "華興工業大廈 (新蒲崗大有街36號)"
+      ],
+      "districts": [
+       "新蒲崗"
+      ],
+      "none": true
+     },
+     {
+      "zone": "CL002-1EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "華興工業大廈 (新蒲崗大有街36號)"
+      ],
+      "districts": [
+       "新蒲崗"
+      ],
+      "none": true
+     },
+     {
+      "zone": "KN465-2EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "鴻鵠臺第一座"
+      ],
+      "districts": [
+       "牛頭角"
+      ],
+      "none": true
+     }
+    ],
+    "addresses": 3
    },
    "TW00001": {
     "window": true,
@@ -4466,10 +4445,88 @@
     "addresses": 1
    },
    "WAN00001": {
-    "window": false
+    "window": true,
+    "zones": [],
+    "addresses": 0
    },
    "POR00001": {
-    "window": false
+    "window": true,
+    "zones": [
+     {
+      "zone": "KN854-3EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "匯華工廠大廈",
+       "福源廣場",
+       "兆威工業大廈",
+       "安泰大廈 (長沙灣道910號)",
+       "宣道國際學校 (瓊林街33號) (只限地面交收)",
+       "瓊林街83號A座",
+       "瓊林街83號B座"
+      ],
+      "districts": [
+       "荔枝角"
+      ],
+      "none": true
+     },
+     {
+      "zone": "KN857-3EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "荔枝角收押所職員宿舍G座",
+       "饒宗頤文化館",
+       "荔枝角收押所職員宿舍 H座"
+      ],
+      "districts": [
+       "荔枝角"
+      ],
+      "none": true
+     },
+     {
+      "zone": "KN858-4EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "東方石油大廈",
+       "一號·西九龍2座"
+      ],
+      "districts": [
+       "荔枝角"
+      ],
+      "none": true
+     },
+     {
+      "zone": "KN834-3EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "緹山 (洋房) (龍駒道9號)"
+      ],
+      "districts": [
+       "石硤尾"
+      ],
+      "none": true
+     }
+    ],
+    "addresses": 13
    },
    "MCP00001": {
     "window": true,
@@ -4518,10 +4575,80 @@
   },
   "2026-10-22": {
    "SMI00001": {
-    "window": false
+    "window": true,
+    "zones": [
+     {
+      "zone": "HK1028-1",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "西環 - HKTVmall超級市場 (西環石塘坊店)"
+      ],
+      "districts": [
+       "西環"
+      ],
+      "none": true
+     }
+    ],
+    "addresses": 1
    },
    "KOWC00001": {
-    "window": false
+    "window": true,
+    "zones": [
+     {
+      "zone": "AL002-1EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "華興工業大廈 (新蒲崗大有街36號)"
+      ],
+      "districts": [
+       "新蒲崗"
+      ],
+      "none": true
+     },
+     {
+      "zone": "CL002-1EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "華興工業大廈 (新蒲崗大有街36號)"
+      ],
+      "districts": [
+       "新蒲崗"
+      ],
+      "none": true
+     },
+     {
+      "zone": "KN465-2EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "鴻鵠臺第一座"
+      ],
+      "districts": [
+       "牛頭角"
+      ],
+      "none": true
+     }
+    ],
+    "addresses": 3
    },
    "TW00001": {
     "window": true,
@@ -4546,10 +4673,316 @@
     "addresses": 1
    },
    "WAN00001": {
-    "window": false
+    "window": true,
+    "zones": [],
+    "addresses": 0
    },
    "POR00001": {
+    "window": true,
+    "zones": [
+     {
+      "zone": "KN854-3EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "匯華工廠大廈",
+       "福源廣場",
+       "兆威工業大廈",
+       "安泰大廈 (長沙灣道910號)",
+       "宣道國際學校 (瓊林街33號) (只限地面交收)",
+       "瓊林街83號A座",
+       "瓊林街83號B座"
+      ],
+      "districts": [
+       "荔枝角"
+      ],
+      "none": true
+     },
+     {
+      "zone": "KN857-3EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "荔枝角收押所職員宿舍G座",
+       "饒宗頤文化館",
+       "荔枝角收押所職員宿舍 H座"
+      ],
+      "districts": [
+       "荔枝角"
+      ],
+      "none": true
+     },
+     {
+      "zone": "KN858-4EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "東方石油大廈",
+       "一號·西九龍2座"
+      ],
+      "districts": [
+       "荔枝角"
+      ],
+      "none": true
+     },
+     {
+      "zone": "KN834-3EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "緹山 (洋房) (龍駒道9號)"
+      ],
+      "districts": [
+       "石硤尾"
+      ],
+      "none": true
+     }
+    ],
+    "addresses": 13
+   },
+   "MCP00001": {
+    "window": true,
+    "zones": [
+     {
+      "zone": "KN057-1EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "香港電視多媒體及電子商貿中心 - 辦公室 (10樓)"
+      ],
+      "districts": [
+       "將軍澳"
+      ],
+      "none": true
+     },
+     {
+      "zone": "KN1000-1",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "HKTV將軍澳總部 (只供員工使用)"
+      ],
+      "districts": [
+       "康城"
+      ],
+      "none": true
+     }
+    ],
+    "addresses": 2
+   },
+   "TM00001": {
     "window": false
+   },
+   "TPH00001": {
+    "window": false
+   }
+  },
+  "2026-10-23": {
+   "SMI00001": {
+    "window": true,
+    "zones": [
+     {
+      "zone": "HK1028-1",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "西環 - HKTVmall超級市場 (西環石塘坊店)"
+      ],
+      "districts": [
+       "西環"
+      ],
+      "none": true
+     }
+    ],
+    "addresses": 1
+   },
+   "KOWC00001": {
+    "window": true,
+    "zones": [
+     {
+      "zone": "AL002-1EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "華興工業大廈 (新蒲崗大有街36號)"
+      ],
+      "districts": [
+       "新蒲崗"
+      ],
+      "none": true
+     },
+     {
+      "zone": "CL002-1EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "華興工業大廈 (新蒲崗大有街36號)"
+      ],
+      "districts": [
+       "新蒲崗"
+      ],
+      "none": true
+     },
+     {
+      "zone": "KN465-2EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "鴻鵠臺第一座"
+      ],
+      "districts": [
+       "牛頭角"
+      ],
+      "none": true
+     }
+    ],
+    "addresses": 3
+   },
+   "TW00001": {
+    "window": true,
+    "zones": [
+     {
+      "zone": "AL001-1EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "金基工業大廈 (大連排道35-41號)"
+      ],
+      "districts": [
+       "葵涌"
+      ],
+      "none": true
+     }
+    ],
+    "addresses": 1
+   },
+   "WAN00001": {
+    "window": true,
+    "zones": [],
+    "addresses": 0
+   },
+   "POR00001": {
+    "window": true,
+    "zones": [
+     {
+      "zone": "KN854-3EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "匯華工廠大廈",
+       "福源廣場",
+       "兆威工業大廈",
+       "安泰大廈 (長沙灣道910號)",
+       "宣道國際學校 (瓊林街33號) (只限地面交收)",
+       "瓊林街83號A座",
+       "瓊林街83號B座"
+      ],
+      "districts": [
+       "荔枝角"
+      ],
+      "none": true
+     },
+     {
+      "zone": "KN857-3EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "荔枝角收押所職員宿舍G座",
+       "饒宗頤文化館",
+       "荔枝角收押所職員宿舍 H座"
+      ],
+      "districts": [
+       "荔枝角"
+      ],
+      "none": true
+     },
+     {
+      "zone": "KN858-4EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "東方石油大廈",
+       "一號·西九龍2座"
+      ],
+      "districts": [
+       "荔枝角"
+      ],
+      "none": true
+     },
+     {
+      "zone": "KN834-3EX",
+      "miss": [
+       "AM",
+       "PM1",
+       "PM2",
+       "EV"
+      ],
+      "estates": [
+       "緹山 (洋房) (龍駒道9號)"
+      ],
+      "districts": [
+       "石硤尾"
+      ],
+      "none": true
+     }
+    ],
+    "addresses": 13
    },
    "MCP00001": {
     "window": true,
@@ -4625,5 +5058,5 @@
    "NT-TSMEX"
   ]
  },
- "excludedNoDash": 985
+ "excludedNoDash": 1005
 }

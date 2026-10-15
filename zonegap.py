@@ -8,8 +8,9 @@ zonegap.py — 搵出「CMS 話送得到、但 OIX 冇車線」嘅地址，逐�
   · 只計 active estate，isolatedArea=true（偏遠）一律剔走；O2O 店自取點都剔走。
   · mapping 跟 estate 行（ZoneStoreGroupMapping 開關 = N，即係 legacy estate mapping），
     唔係跟 zone —— 同一個 zone 可以有啲 estate map 咗、有啲冇。
-  · 一個街市嘅車線唔止喺自己個 district：屯門嘅元朗區仲行緊 NT-YTEX（舊元朗 WMYL*），
-    大埔墟嘅火炭／大學行 NT-TSMEX（WMTPS*/WMTPM*）。漏咗呢兩個會誤報 300+ 個 zone。
+  · （2026-10-14 前）屯門嘅元朗區行 NT-YTEX、大埔墟嘅火炭／大學行 NT-TSMEX，
+    所以一個街市要睇多過一個 district。而家冇呢回事 —— 兩邊都收晒入
+    TM00001 / TPH00001，WM_DISTRICTS 每個街市得返一個 district。
   · 某街市某日自己個 district 完全冇 row = 車線未開到嗰日（批次推），唔逐個地址報。
   · zone 冇「-」嗰啲（HK005EX / NT008EX / KN020EX 咁）唔報（lclin 2026-10-06）。
 """
@@ -29,10 +30,10 @@ from quota_report import headers, T  # noqa: E402
 
 ACTIVE = list(C.CARLINE_DISTRICT)             # 八個 active 街市
 # 街市 -> 佢啲 zone 可能掛喺邊幾個 OIX district（第一個係自己嗰個）
+# 2026-10-14 起每個街市得返一個 district（NT-YTEX / NT-TSMEX 嘅 zone 已經
+# 收晒入 TM00001 / TPH00001），而且全部四時段，所以冇 THREE_SLOT。
 WM_DISTRICTS = {m: [d] for m, d in C.CARLINE_DISTRICT.items()}
-WM_DISTRICTS["TM00001"].append("NT-YTEX")
-WM_DISTRICTS["TPH00001"].append("NT-TSMEX")
-THREE_SLOT = set(C.THREE_SLOT) | {"NT-YTEX", "NT-TSMEX"}
+THREE_SLOT = set(C.THREE_SLOT)
 SLOTS = ("AM", "PM1", "PM2", "EV")
 
 # zone 有兩種格式：`KN421-2EX` / `HK1028-1`（有「-」）同 `NT008EX`（冇）。

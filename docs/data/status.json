@@ -1,28 +1,24 @@
 {
- "updatedAt": "2026-10-16T09:24:32",
+ "updatedAt": "2026-10-16T09:29:18",
  "marketsChecked": 8,
  "marketsTotal": 8,
  "marketsFailed": [],
  "blownCount": 2,
  "oixOk": true,
- "carlineCheckedAt": "2026-10-16T09:23:09",
+ "carlineCheckedAt": "2026-10-16T09:26:34",
  "lastWhatsApp": {
   "at": "2026-10-16T09:23:42",
   "ok": true,
   "rc": 0,
   "head": "🚧 邊撚個未上車線？"
  },
- "lastSlack": {
-  "at": "2026-10-16T09:23:33",
-  "ok": true,
-  "note": ""
- },
+ "lastSlack": null,
  "whatsappConn": {
   "ok": true,
   "state": "logged_in",
   "me": "85252174668:57@s.whatsapp.net",
   "note": "連得上",
-  "at": "2026-10-16T09:11:52"
+  "at": "2026-10-16T09:27:04"
  },
- "collectedAt": "2026-10-16T09:25:02"
+ "collectedAt": "2026-10-16T09:30:02"
 }

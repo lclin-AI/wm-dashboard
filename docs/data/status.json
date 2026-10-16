@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-16T17:43:49",
+ "updatedAt": "2026-10-16T17:49:46",
  "marketsChecked": 8,
  "marketsTotal": 8,
  "marketsFailed": [],
@@ -19,5 +19,5 @@
   "note": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
   "at": "2026-10-16T17:42:49"
  },
- "collectedAt": "2026-10-16T17:45:02"
+ "collectedAt": "2026-10-16T17:50:02"
 }

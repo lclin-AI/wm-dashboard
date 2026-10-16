@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-10-16T17:49:46",
+ "updatedAt": "2026-10-16T17:54:54",
  "marketsChecked": 8,
  "marketsTotal": 8,
  "marketsFailed": [],
  "blownCount": 2,
  "oixOk": true,
- "carlineCheckedAt": "2026-10-16T09:26:34",
+ "carlineCheckedAt": "2026-10-16T17:52:24",
  "lastWhatsApp": {
   "at": "2026-10-16T09:23:42",
   "ok": true,
@@ -14,10 +14,11 @@
  },
  "lastSlack": null,
  "whatsappConn": {
-  "ok": false,
-  "state": "check_failed",
-  "note": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-  "at": "2026-10-16T17:42:49"
+  "ok": true,
+  "state": "logged_in",
+  "me": "85252174668:57@s.whatsapp.net",
+  "note": "連得上",
+  "at": "2026-10-16T17:52:47"
  },
- "collectedAt": "2026-10-16T17:50:02"
+ "collectedAt": "2026-10-16T17:55:02"
 }

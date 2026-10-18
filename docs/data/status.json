@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-10-18T17:49:34",
+ "updatedAt": "2026-10-18T17:54:02",
  "marketsChecked": 8,
  "marketsTotal": 8,
  "marketsFailed": [],
  "blownCount": 0,
  "oixOk": true,
- "carlineCheckedAt": "2026-10-17T17:53:15",
+ "carlineCheckedAt": "2026-10-18T17:54:02",
  "lastWhatsApp": {
   "at": "2026-10-18T05:12:23",
   "ok": true,
@@ -22,7 +22,7 @@
   "state": "logged_in",
   "me": "85252174668:57@s.whatsapp.net",
   "note": "連得上",
-  "at": "2026-10-18T17:35:01"
+  "at": "2026-10-18T17:50:51"
  },
- "collectedAt": "2026-10-18T17:50:02"
+ "collectedAt": "2026-10-18T17:55:02"
 }

@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-20T08:35:36",
+ "updatedAt": "2026-10-20T08:40:08",
  "cells": [
   {
    "code": "KOWC00001",
@@ -18,7 +18,7 @@
    "ts": "PM",
    "slot": "13:00-15:30",
    "inOix": true,
-   "used": 87,
+   "used": 88,
    "quota": 108
   },
   {
@@ -538,7 +538,7 @@
    "ts": "PM",
    "slot": "13:00-15:30",
    "inOix": true,
-   "used": 77,
+   "used": 79,
    "quota": 140
   },
   {
@@ -548,7 +548,7 @@
    "ts": "PM2",
    "slot": "16:00-18:30",
    "inOix": true,
-   "used": 33,
+   "used": 35,
    "quota": 120
   },
   {
@@ -1018,7 +1018,7 @@
    "ts": "PM",
    "slot": "13:00-15:30",
    "inOix": true,
-   "used": 117,
+   "used": 121,
    "quota": 182
   },
   {
@@ -1028,7 +1028,7 @@
    "ts": "PM2",
    "slot": "16:00-18:30",
    "inOix": true,
-   "used": 49,
+   "used": 51,
    "quota": 156
   },
   {
@@ -1548,7 +1548,7 @@
    "ts": "PM2",
    "slot": "16:00-18:30",
    "inOix": true,
-   "used": 29,
+   "used": 30,
    "quota": 84
   },
   {
@@ -2058,7 +2058,7 @@
    "ts": "PM",
    "slot": "13:00-15:30",
    "inOix": true,
-   "used": 138,
+   "used": 140,
    "quota": 180
   },
   {
@@ -2068,7 +2068,7 @@
    "ts": "PM2",
    "slot": "16:00-18:30",
    "inOix": true,
-   "used": 33,
+   "used": 40,
    "quota": 180
   },
   {
@@ -2578,7 +2578,7 @@
    "ts": "PM",
    "slot": "13:00-15:30",
    "inOix": true,
-   "used": 118,
+   "used": 121,
    "quota": 200
   },
   {
@@ -2588,7 +2588,7 @@
    "ts": "PM2",
    "slot": "16:00-18:30",
    "inOix": true,
-   "used": 38,
+   "used": 41,
    "quota": 180
   },
   {
@@ -3098,7 +3098,7 @@
    "ts": "PM",
    "slot": "13:00-15:30",
    "inOix": true,
-   "used": 68,
+   "used": 71,
    "quota": 126
   },
   {
@@ -3108,7 +3108,7 @@
    "ts": "PM2",
    "slot": "16:00-18:30",
    "inOix": true,
-   "used": 22,
+   "used": 25,
    "quota": 108
   },
   {
@@ -3578,7 +3578,7 @@
    "ts": "PM",
    "slot": "13:00-15:30",
    "inOix": true,
-   "used": 65,
+   "used": 67,
    "quota": 126
   },
   {
@@ -3588,7 +3588,7 @@
    "ts": "PM2",
    "slot": "16:00-18:30",
    "inOix": true,
-   "used": 18,
+   "used": 19,
    "quota": 108
   },
   {

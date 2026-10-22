@@ -1,50 +1,10 @@
 {
- "updatedAt": "2026-10-22T23:55:08",
+ "updatedAt": "2026-10-23T00:00:08",
  "cells": [
   {
    "code": "KOWC00001",
-   "date": "2026-10-22",
-   "plusDay": 0,
-   "ts": "AM",
-   "slot": "10:00-12:30",
-   "inOix": true,
-   "used": 73,
-   "quota": 98
-  },
-  {
-   "code": "KOWC00001",
-   "date": "2026-10-22",
-   "plusDay": 0,
-   "ts": "PM",
-   "slot": "13:00-15:30",
-   "inOix": true,
-   "used": 74,
-   "quota": 98
-  },
-  {
-   "code": "KOWC00001",
-   "date": "2026-10-22",
-   "plusDay": 0,
-   "ts": "PM2",
-   "slot": "16:00-18:30",
-   "inOix": true,
-   "used": 49,
-   "quota": 84
-  },
-  {
-   "code": "KOWC00001",
-   "date": "2026-10-22",
-   "plusDay": 0,
-   "ts": "EV",
-   "slot": "18:00-20:30",
-   "inOix": true,
-   "used": 40,
-   "quota": 84
-  },
-  {
-   "code": "KOWC00001",
    "date": "2026-10-23",
-   "plusDay": 1,
+   "plusDay": 0,
    "ts": "AM",
    "slot": "10:00-12:30",
    "inOix": true,
@@ -54,7 +14,7 @@
   {
    "code": "KOWC00001",
    "date": "2026-10-23",
-   "plusDay": 1,
+   "plusDay": 0,
    "ts": "PM",
    "slot": "13:00-15:30",
    "inOix": true,
@@ -64,7 +24,7 @@
   {
    "code": "KOWC00001",
    "date": "2026-10-23",
-   "plusDay": 1,
+   "plusDay": 0,
    "ts": "PM2",
    "slot": "16:00-18:30",
    "inOix": true,
@@ -74,7 +34,7 @@
   {
    "code": "KOWC00001",
    "date": "2026-10-23",
-   "plusDay": 1,
+   "plusDay": 0,
    "ts": "EV",
    "slot": "18:00-20:30",
    "inOix": true,
@@ -84,7 +44,7 @@
   {
    "code": "KOWC00001",
    "date": "2026-10-24",
-   "plusDay": 2,
+   "plusDay": 1,
    "ts": "AM",
    "slot": "10:00-12:30",
    "inOix": true,
@@ -94,7 +54,7 @@
   {
    "code": "KOWC00001",
    "date": "2026-10-24",
-   "plusDay": 2,
+   "plusDay": 1,
    "ts": "PM",
    "slot": "13:00-15:30",
    "inOix": true,
@@ -104,7 +64,7 @@
   {
    "code": "KOWC00001",
    "date": "2026-10-24",
-   "plusDay": 2,
+   "plusDay": 1,
    "ts": "PM2",
    "slot": "16:00-18:30",
    "inOix": true,
@@ -114,7 +74,7 @@
   {
    "code": "KOWC00001",
    "date": "2026-10-24",
-   "plusDay": 2,
+   "plusDay": 1,
    "ts": "EV",
    "slot": "18:00-20:30",
    "inOix": true,
@@ -124,7 +84,7 @@
   {
    "code": "KOWC00001",
    "date": "2026-10-25",
-   "plusDay": 3,
+   "plusDay": 2,
    "ts": "AM",
    "slot": "10:00-12:30",
    "inOix": true,
@@ -134,7 +94,7 @@
   {
    "code": "KOWC00001",
    "date": "2026-10-25",
-   "plusDay": 3,
+   "plusDay": 2,
    "ts": "PM",
    "slot": "13:00-15:30",
    "inOix": true,
@@ -144,7 +104,7 @@
   {
    "code": "KOWC00001",
    "date": "2026-10-25",
-   "plusDay": 3,
+   "plusDay": 2,
    "ts": "PM2",
    "slot": "16:00-18:30",
    "inOix": true,
@@ -154,6 +114,46 @@
   {
    "code": "KOWC00001",
    "date": "2026-10-25",
+   "plusDay": 2,
+   "ts": "EV",
+   "slot": "18:00-20:30",
+   "inOix": true,
+   "used": 0,
+   "quota": 84
+  },
+  {
+   "code": "KOWC00001",
+   "date": "2026-10-26",
+   "plusDay": 3,
+   "ts": "AM",
+   "slot": "10:00-12:30",
+   "inOix": true,
+   "used": 0,
+   "quota": 98
+  },
+  {
+   "code": "KOWC00001",
+   "date": "2026-10-26",
+   "plusDay": 3,
+   "ts": "PM",
+   "slot": "13:00-15:30",
+   "inOix": true,
+   "used": 0,
+   "quota": 98
+  },
+  {
+   "code": "KOWC00001",
+   "date": "2026-10-26",
+   "plusDay": 3,
+   "ts": "PM2",
+   "slot": "16:00-18:30",
+   "inOix": true,
+   "used": 0,
+   "quota": 84
+  },
+  {
+   "code": "KOWC00001",
+   "date": "2026-10-26",
    "plusDay": 3,
    "ts": "EV",
    "slot": "18:00-20:30",
@@ -163,48 +163,8 @@
   },
   {
    "code": "KOWC00001",
-   "date": "2026-10-26",
-   "plusDay": 4,
-   "ts": "AM",
-   "slot": "10:00-12:30",
-   "inOix": true,
-   "used": 0,
-   "quota": 98
-  },
-  {
-   "code": "KOWC00001",
-   "date": "2026-10-26",
-   "plusDay": 4,
-   "ts": "PM",
-   "slot": "13:00-15:30",
-   "inOix": true,
-   "used": 0,
-   "quota": 98
-  },
-  {
-   "code": "KOWC00001",
-   "date": "2026-10-26",
-   "plusDay": 4,
-   "ts": "PM2",
-   "slot": "16:00-18:30",
-   "inOix": true,
-   "used": 0,
-   "quota": 84
-  },
-  {
-   "code": "KOWC00001",
-   "date": "2026-10-26",
-   "plusDay": 4,
-   "ts": "EV",
-   "slot": "18:00-20:30",
-   "inOix": true,
-   "used": 0,
-   "quota": 84
-  },
-  {
-   "code": "KOWC00001",
    "date": "2026-10-27",
-   "plusDay": 5,
+   "plusDay": 4,
    "ts": "AM",
    "slot": "10:00-12:30",
    "inOix": true,
@@ -214,7 +174,7 @@
   {
    "code": "KOWC00001",
    "date": "2026-10-27",
-   "plusDay": 5,
+   "plusDay": 4,
    "ts": "PM",
    "slot": "13:00-15:30",
    "inOix": true,
@@ -224,7 +184,7 @@
   {
    "code": "KOWC00001",
    "date": "2026-10-27",
-   "plusDay": 5,
+   "plusDay": 4,
    "ts": "PM2",
    "slot": "16:00-18:30",
    "inOix": true,
@@ -234,6 +194,46 @@
   {
    "code": "KOWC00001",
    "date": "2026-10-27",
+   "plusDay": 4,
+   "ts": "EV",
+   "slot": "18:00-20:30",
+   "inOix": true,
+   "used": 0,
+   "quota": 96
+  },
+  {
+   "code": "KOWC00001",
+   "date": "2026-10-28",
+   "plusDay": 5,
+   "ts": "AM",
+   "slot": "10:00-12:30",
+   "inOix": true,
+   "used": 0,
+   "quota": 108
+  },
+  {
+   "code": "KOWC00001",
+   "date": "2026-10-28",
+   "plusDay": 5,
+   "ts": "PM",
+   "slot": "13:00-15:30",
+   "inOix": true,
+   "used": 0,
+   "quota": 108
+  },
+  {
+   "code": "KOWC00001",
+   "date": "2026-10-28",
+   "plusDay": 5,
+   "ts": "PM2",
+   "slot": "16:00-18:30",
+   "inOix": true,
+   "used": 0,
+   "quota": 96
+  },
+  {
+   "code": "KOWC00001",
+   "date": "2026-10-28",
    "plusDay": 5,
    "ts": "EV",
    "slot": "18:00-20:30",
@@ -243,48 +243,8 @@
   },
   {
    "code": "KOWC00001",
-   "date": "2026-10-28",
-   "plusDay": 6,
-   "ts": "AM",
-   "slot": "10:00-12:30",
-   "inOix": true,
-   "used": 0,
-   "quota": 108
-  },
-  {
-   "code": "KOWC00001",
-   "date": "2026-10-28",
-   "plusDay": 6,
-   "ts": "PM",
-   "slot": "13:00-15:30",
-   "inOix": true,
-   "used": 0,
-   "quota": 108
-  },
-  {
-   "code": "KOWC00001",
-   "date": "2026-10-28",
-   "plusDay": 6,
-   "ts": "PM2",
-   "slot": "16:00-18:30",
-   "inOix": true,
-   "used": 0,
-   "quota": 96
-  },
-  {
-   "code": "KOWC00001",
-   "date": "2026-10-28",
-   "plusDay": 6,
-   "ts": "EV",
-   "slot": "18:00-20:30",
-   "inOix": true,
-   "used": 0,
-   "quota": 96
-  },
-  {
-   "code": "KOWC00001",
    "date": "2026-10-29",
-   "plusDay": 7,
+   "plusDay": 6,
    "ts": "AM",
    "slot": "10:00-12:30",
    "inOix": true,
@@ -294,7 +254,7 @@
   {
    "code": "KOWC00001",
    "date": "2026-10-29",
-   "plusDay": 7,
+   "plusDay": 6,
    "ts": "PM",
    "slot": "13:00-15:30",
    "inOix": true,
@@ -304,7 +264,7 @@
   {
    "code": "KOWC00001",
    "date": "2026-10-29",
-   "plusDay": 7,
+   "plusDay": 6,
    "ts": "PM2",
    "slot": "16:00-18:30",
    "inOix": true,
@@ -314,6 +274,46 @@
   {
    "code": "KOWC00001",
    "date": "2026-10-29",
+   "plusDay": 6,
+   "ts": "EV",
+   "slot": "18:00-20:30",
+   "inOix": true,
+   "used": 0,
+   "quota": 84
+  },
+  {
+   "code": "KOWC00001",
+   "date": "2026-10-30",
+   "plusDay": 7,
+   "ts": "AM",
+   "slot": "10:00-12:30",
+   "inOix": true,
+   "used": 0,
+   "quota": 98
+  },
+  {
+   "code": "KOWC00001",
+   "date": "2026-10-30",
+   "plusDay": 7,
+   "ts": "PM",
+   "slot": "13:00-15:30",
+   "inOix": true,
+   "used": 0,
+   "quota": 98
+  },
+  {
+   "code": "KOWC00001",
+   "date": "2026-10-30",
+   "plusDay": 7,
+   "ts": "PM2",
+   "slot": "16:00-18:30",
+   "inOix": true,
+   "used": 0,
+   "quota": 84
+  },
+  {
+   "code": "KOWC00001",
+   "date": "2026-10-30",
    "plusDay": 7,
    "ts": "EV",
    "slot": "18:00-20:30",
@@ -323,7 +323,7 @@
   },
   {
    "code": "KOWC00001",
-   "date": "2026-10-30",
+   "date": "2026-10-31",
    "plusDay": 8,
    "ts": "AM",
    "slot": "10:00-12:30",
@@ -333,7 +333,7 @@
   },
   {
    "code": "KOWC00001",
-   "date": "2026-10-30",
+   "date": "2026-10-31",
    "plusDay": 8,
    "ts": "PM",
    "slot": "13:00-15:30",
@@ -343,7 +343,7 @@
   },
   {
    "code": "KOWC00001",
-   "date": "2026-10-30",
+   "date": "2026-10-31",
    "plusDay": 8,
    "ts": "PM2",
    "slot": "16:00-18:30",
@@ -353,7 +353,7 @@
   },
   {
    "code": "KOWC00001",
-   "date": "2026-10-30",
+   "date": "2026-10-31",
    "plusDay": 8,
    "ts": "EV",
    "slot": "18:00-20:30",
@@ -363,7 +363,7 @@
   },
   {
    "code": "KOWC00001",
-   "date": "2026-10-31",
+   "date": "2026-11-01",
    "plusDay": 9,
    "ts": "AM",
    "slot": "10:00-12:30",
@@ -373,7 +373,7 @@
   },
   {
    "code": "KOWC00001",
-   "date": "2026-10-31",
+   "date": "2026-11-01",
    "plusDay": 9,
    "ts": "PM",
    "slot": "13:00-15:30",
@@ -383,7 +383,7 @@
   },
   {
    "code": "KOWC00001",
-   "date": "2026-10-31",
+   "date": "2026-11-01",
    "plusDay": 9,
    "ts": "PM2",
    "slot": "16:00-18:30",
@@ -393,98 +393,18 @@
   },
   {
    "code": "KOWC00001",
-   "date": "2026-10-31",
+   "date": "2026-11-01",
    "plusDay": 9,
    "ts": "EV",
    "slot": "18:00-20:30",
    "inOix": true,
    "used": 0,
    "quota": 84
-  },
-  {
-   "code": "KOWC00001",
-   "date": "2026-11-01",
-   "plusDay": 10,
-   "ts": "AM",
-   "slot": "10:00-12:30",
-   "inOix": true,
-   "used": 0,
-   "quota": 98
-  },
-  {
-   "code": "KOWC00001",
-   "date": "2026-11-01",
-   "plusDay": 10,
-   "ts": "PM",
-   "slot": "13:00-15:30",
-   "inOix": true,
-   "used": 0,
-   "quota": 98
-  },
-  {
-   "code": "KOWC00001",
-   "date": "2026-11-01",
-   "plusDay": 10,
-   "ts": "PM2",
-   "slot": "16:00-18:30",
-   "inOix": true,
-   "used": 0,
-   "quota": 84
-  },
-  {
-   "code": "KOWC00001",
-   "date": "2026-11-01",
-   "plusDay": 10,
-   "ts": "EV",
-   "slot": "18:00-20:30",
-   "inOix": true,
-   "used": 0,
-   "quota": 84
-  },
-  {
-   "code": "MCP00001",
-   "date": "2026-10-22",
-   "plusDay": 0,
-   "ts": "AM",
-   "slot": "10:00-12:30",
-   "inOix": true,
-   "used": 70,
-   "quota": 140
-  },
-  {
-   "code": "MCP00001",
-   "date": "2026-10-22",
-   "plusDay": 0,
-   "ts": "PM",
-   "slot": "13:00-15:30",
-   "inOix": true,
-   "used": 67,
-   "quota": 140
-  },
-  {
-   "code": "MCP00001",
-   "date": "2026-10-22",
-   "plusDay": 0,
-   "ts": "PM2",
-   "slot": "16:00-18:30",
-   "inOix": true,
-   "used": 83,
-   "quota": 140
-  },
-  {
-   "code": "MCP00001",
-   "date": "2026-10-22",
-   "plusDay": 0,
-   "ts": "EV",
-   "slot": "18:00-20:30",
-   "inOix": true,
-   "used": 33,
-   "quota": 140
   },
   {
    "code": "MCP00001",
    "date": "2026-10-23",
-   "plusDay": 1,
+   "plusDay": 0,
    "ts": "AM",
    "slot": "10:00-12:30",
    "inOix": true,
@@ -494,7 +414,7 @@
   {
    "code": "MCP00001",
    "date": "2026-10-23",
-   "plusDay": 1,
+   "plusDay": 0,
    "ts": "PM",
    "slot": "13:00-15:30",
    "inOix": true,
@@ -504,17 +424,17 @@
   {
    "code": "MCP00001",
    "date": "2026-10-23",
-   "plusDay": 1,
+   "plusDay": 0,
    "ts": "PM2",
    "slot": "16:00-18:30",
    "inOix": true,
-   "used": 63,
+   "used": 62,
    "quota": 140
   },
   {
    "code": "MCP00001",
    "date": "2026-10-23",
-   "plusDay": 1,
+   "plusDay": 0,
    "ts": "EV",
    "slot": "18:00-20:30",
    "inOix": true,
@@ -524,7 +444,7 @@
   {
    "code": "MCP00001",
    "date": "2026-10-24",
-   "plusDay": 2,
+   "plusDay": 1,
    "ts": "AM",
    "slot": "10:00-12:30",
    "inOix": true,
@@ -534,7 +454,7 @@
   {
    "code": "MCP00001",
    "date": "2026-10-24",
-   "plusDay": 2,
+   "plusDay": 1,
    "ts": "PM",
    "slot": "13:00-15:30",
    "inOix": true,
@@ -544,7 +464,7 @@
   {
    "code": "MCP00001",
    "date": "2026-10-24",
-   "plusDay": 2,
+   "plusDay": 1,
    "ts": "PM2",
    "slot": "16:00-18:30",
    "inOix": true,
@@ -554,7 +474,7 @@
   {
    "code": "MCP00001",
    "date": "2026-10-24",
-   "plusDay": 2,
+   "plusDay": 1,
    "ts": "EV",
    "slot": "18:00-20:30",
    "inOix": true,
@@ -564,7 +484,7 @@
   {
    "code": "MCP00001",
    "date": "2026-10-25",
-   "plusDay": 3,
+   "plusDay": 2,
    "ts": "AM",
    "slot": "10:00-12:30",
    "inOix": true,
@@ -574,7 +494,7 @@
   {
    "code": "MCP00001",
    "date": "2026-10-25",
-   "plusDay": 3,
+   "plusDay": 2,
    "ts": "PM",
    "slot": "13:00-15:30",
    "inOix": true,
@@ -584,7 +504,7 @@
   {
    "code": "MCP00001",
    "date": "2026-10-25",
-   "plusDay": 3,
+   "plusDay": 2,
    "ts": "PM2",
    "slot": "16:00-18:30",
    "inOix": true,
@@ -594,7 +514,7 @@
   {
    "code": "MCP00001",
    "date": "2026-10-25",
-   "plusDay": 3,
+   "plusDay": 2,
    "ts": "EV",
    "slot": "18:00-20:30",
    "inOix": true,
@@ -604,7 +524,7 @@
   {
    "code": "MCP00001",
    "date": "2026-10-26",
-   "plusDay": 4,
+   "plusDay": 3,
    "ts": "AM",
    "slot": "10:00-12:30",
    "inOix": true,
@@ -614,7 +534,7 @@
   {
    "code": "MCP00001",
    "date": "2026-10-26",
-   "plusDay": 4,
+   "plusDay": 3,
    "ts": "PM",
    "slot": "13:00-15:30",
    "inOix": true,
@@ -624,7 +544,7 @@
   {
    "code": "MCP00001",
    "date": "2026-10-26",
-   "plusDay": 4,
+   "plusDay": 3,
    "ts": "PM2",
    "slot": "16:00-18:30",
    "inOix": true,
@@ -634,7 +554,7 @@
   {
    "code": "MCP00001",
    "date": "2026-10-26",
-   "plusDay": 4,
+   "plusDay": 3,
    "ts": "EV",
    "slot": "18:00-20:30",
    "inOix": true,
@@ -644,7 +564,7 @@
   {
    "code": "MCP00001",
    "date": "2026-10-27",
-   "plusDay": 5,
+   "plusDay": 4,
    "ts": "AM",
    "slot": "10:00-12:30",
    "inOix": true,
@@ -654,7 +574,7 @@
   {
    "code": "MCP00001",
    "date": "2026-10-27",
-   "plusDay": 5,
+   "plusDay": 4,
    "ts": "PM",
    "slot": "13:00-15:30",
    "inOix": true,
@@ -664,7 +584,7 @@
   {
    "code": "MCP00001",
    "date": "2026-10-27",
-   "plusDay": 5,
+   "plusDay": 4,
    "ts": "PM2",
    "slot": "16:00-18:30",
    "inOix": true,
@@ -674,7 +594,7 @@
   {
    "code": "MCP00001",
    "date": "2026-10-27",
-   "plusDay": 5,
+   "plusDay": 4,
    "ts": "EV",
    "slot": "18:00-20:30",
    "inOix": true,
@@ -684,7 +604,7 @@
   {
    "code": "MCP00001",
    "date": "2026-10-28",
-   "plusDay": 6,
+   "plusDay": 5,
    "ts": "AM",
    "slot": "10:00-12:30",
    "inOix": true,
@@ -694,7 +614,7 @@
   {
    "code": "MCP00001",
    "date": "2026-10-28",
-   "plusDay": 6,
+   "plusDay": 5,
    "ts": "PM",
    "slot": "13:00-15:30",
    "inOix": true,
@@ -704,7 +624,7 @@
   {
    "code": "MCP00001",
    "date": "2026-10-28",
-   "plusDay": 6,
+   "plusDay": 5,
    "ts": "PM2",
    "slot": "16:00-18:30",
    "inOix": true,
@@ -714,7 +634,7 @@
   {
    "code": "MCP00001",
    "date": "2026-10-28",
-   "plusDay": 6,
+   "plusDay": 5,
    "ts": "EV",
    "slot": "18:00-20:30",
    "inOix": true,
@@ -724,7 +644,7 @@
   {
    "code": "MCP00001",
    "date": "2026-10-29",
-   "plusDay": 7,
+   "plusDay": 6,
    "ts": "AM",
    "slot": "10:00-12:30",
    "inOix": true,
@@ -734,7 +654,7 @@
   {
    "code": "MCP00001",
    "date": "2026-10-29",
-   "plusDay": 7,
+   "plusDay": 6,
    "ts": "PM",
    "slot": "13:00-15:30",
    "inOix": true,
@@ -744,7 +664,7 @@
   {
    "code": "MCP00001",
    "date": "2026-10-29",
-   "plusDay": 7,
+   "plusDay": 6,
    "ts": "PM2",
    "slot": "16:00-18:30",
    "inOix": true,
@@ -754,7 +674,7 @@
   {
    "code": "MCP00001",
    "date": "2026-10-29",
-   "plusDay": 7,
+   "plusDay": 6,
    "ts": "EV",
    "slot": "18:00-20:30",
    "inOix": true,
@@ -764,7 +684,7 @@
   {
    "code": "MCP00001",
    "date": "2026-10-30",
-   "plusDay": 8,
+   "plusDay": 7,
    "ts": "AM",
    "slot": "10:00-12:30",
    "inOix": true,
@@ -774,7 +694,7 @@
   {
    "code": "MCP00001",
    "date": "2026-10-30",
-   "plusDay": 8,
+   "plusDay": 7,
    "ts": "PM",
    "slot": "13:00-15:30",
    "inOix": true,
@@ -784,7 +704,7 @@
   {
    "code": "MCP00001",
    "date": "2026-10-30",
-   "plusDay": 8,
+   "plusDay": 7,
    "ts": "PM2",
    "slot": "16:00-18:30",
    "inOix": true,
@@ -794,7 +714,7 @@
   {
    "code": "MCP00001",
    "date": "2026-10-30",
-   "plusDay": 8,
+   "plusDay": 7,
    "ts": "EV",
    "slot": "18:00-20:30",
    "inOix": true,
@@ -804,7 +724,7 @@
   {
    "code": "MCP00001",
    "date": "2026-10-31",
-   "plusDay": 9,
+   "plusDay": 8,
    "ts": "AM",
    "slot": "10:00-12:30",
    "inOix": true,
@@ -814,7 +734,7 @@
   {
    "code": "MCP00001",
    "date": "2026-10-31",
-   "plusDay": 9,
+   "plusDay": 8,
    "ts": "PM",
    "slot": "13:00-15:30",
    "inOix": true,
@@ -824,7 +744,7 @@
   {
    "code": "MCP00001",
    "date": "2026-10-31",
-   "plusDay": 9,
+   "plusDay": 8,
    "ts": "PM2",
    "slot": "16:00-18:30",
    "inOix": true,
@@ -834,7 +754,7 @@
   {
    "code": "MCP00001",
    "date": "2026-10-31",
-   "plusDay": 9,
+   "plusDay": 8,
    "ts": "EV",
    "slot": "18:00-20:30",
    "inOix": true,
@@ -843,68 +763,28 @@
   },
   {
    "code": "POR00001",
-   "date": "2026-10-22",
+   "date": "2026-10-23",
    "plusDay": 0,
    "ts": "AM",
    "slot": "10:00-12:30",
    "inOix": true,
-   "used": 74,
+   "used": 49,
    "quota": 168
   },
   {
    "code": "POR00001",
-   "date": "2026-10-22",
+   "date": "2026-10-23",
    "plusDay": 0,
    "ts": "PM",
    "slot": "13:00-15:30",
    "inOix": true,
-   "used": 96,
+   "used": 51,
    "quota": 168
   },
   {
    "code": "POR00001",
-   "date": "2026-10-22",
+   "date": "2026-10-23",
    "plusDay": 0,
-   "ts": "PM2",
-   "slot": "16:00-18:30",
-   "inOix": true,
-   "used": 64,
-   "quota": 144
-  },
-  {
-   "code": "POR00001",
-   "date": "2026-10-22",
-   "plusDay": 0,
-   "ts": "EV",
-   "slot": "18:00-20:30",
-   "inOix": true,
-   "used": 28,
-   "quota": 144
-  },
-  {
-   "code": "POR00001",
-   "date": "2026-10-23",
-   "plusDay": 1,
-   "ts": "AM",
-   "slot": "10:00-12:30",
-   "inOix": true,
-   "used": 46,
-   "quota": 168
-  },
-  {
-   "code": "POR00001",
-   "date": "2026-10-23",
-   "plusDay": 1,
-   "ts": "PM",
-   "slot": "13:00-15:30",
-   "inOix": true,
-   "used": 50,
-   "quota": 168
-  },
-  {
-   "code": "POR00001",
-   "date": "2026-10-23",
-   "plusDay": 1,
    "ts": "PM2",
    "slot": "16:00-18:30",
    "inOix": true,
@@ -914,7 +794,7 @@
   {
    "code": "POR00001",
    "date": "2026-10-23",
-   "plusDay": 1,
+   "plusDay": 0,
    "ts": "EV",
    "slot": "18:00-20:30",
    "inOix": true,
@@ -924,7 +804,7 @@
   {
    "code": "POR00001",
    "date": "2026-10-24",
-   "plusDay": 2,
+   "plusDay": 1,
    "ts": "AM",
    "slot": "10:00-12:30",
    "inOix": true,
@@ -934,7 +814,7 @@
   {
    "code": "POR00001",
    "date": "2026-10-24",
-   "plusDay": 2,
+   "plusDay": 1,
    "ts": "PM",
    "slot": "13:00-15:30",
    "inOix": true,
@@ -944,7 +824,7 @@
   {
    "code": "POR00001",
    "date": "2026-10-24",
-   "plusDay": 2,
+   "plusDay": 1,
    "ts": "PM2",
    "slot": "16:00-18:30",
    "inOix": true,
@@ -954,7 +834,7 @@
   {
    "code": "POR00001",
    "date": "2026-10-24",
-   "plusDay": 2,
+   "plusDay": 1,
    "ts": "EV",
    "slot": "18:00-20:30",
    "inOix": true,
@@ -964,7 +844,7 @@
   {
    "code": "POR00001",
    "date": "2026-10-25",
-   "plusDay": 3,
+   "plusDay": 2,
    "ts": "AM",
    "slot": "10:00-12:30",
    "inOix": true,
@@ -974,7 +854,7 @@
   {
    "code": "POR00001",
    "date": "2026-10-25",
-   "plusDay": 3,
+   "plusDay": 2,
    "ts": "PM",
    "slot": "13:00-15:30",
    "inOix": true,
@@ -984,7 +864,7 @@
   {
    "code": "POR00001",
    "date": "2026-10-25",
-   "plusDay": 3,
+   "plusDay": 2,
    "ts": "PM2",
    "slot": "16:00-18:30",
    "inOix": true,
@@ -994,7 +874,7 @@
   {
    "code": "POR00001",
    "date": "2026-10-25",
-   "plusDay": 3,
+   "plusDay": 2,
    "ts": "EV",
    "slot": "18:00-20:30",
    "inOix": true,
@@ -1004,7 +884,7 @@
   {
    "code": "POR00001",
    "date": "2026-10-26",
-   "plusDay": 4,
+   "plusDay": 3,
    "ts": "AM",
    "slot": "10:00-12:30",
    "inOix": true,
@@ -1014,7 +894,7 @@
   {
    "code": "POR00001",
    "date": "2026-10-26",
-   "plusDay": 4,
+   "plusDay": 3,
    "ts": "PM",
    "slot": "13:00-15:30",
    "inOix": true,
@@ -1024,7 +904,7 @@
   {
    "code": "POR00001",
    "date": "2026-10-26",
-   "plusDay": 4,
+   "plusDay": 3,
    "ts": "PM2",
    "slot": "16:00-18:30",
    "inOix": true,
@@ -1034,7 +914,7 @@
   {
    "code": "POR00001",
    "date": "2026-10-26",
-   "plusDay": 4,
+   "plusDay": 3,
    "ts": "EV",
    "slot": "18:00-20:30",
    "inOix": true,
@@ -1044,7 +924,7 @@
   {
    "code": "POR00001",
    "date": "2026-10-27",
-   "plusDay": 5,
+   "plusDay": 4,
    "ts": "AM",
    "slot": "10:00-12:30",
    "inOix": true,
@@ -1054,7 +934,7 @@
   {
    "code": "POR00001",
    "date": "2026-10-27",
-   "plusDay": 5,
+   "plusDay": 4,
    "ts": "PM",
    "slot": "13:00-15:30",
    "inOix": true,
@@ -1064,7 +944,7 @@
   {
    "code": "POR00001",
    "date": "2026-10-27",
-   "plusDay": 5,
+   "plusDay": 4,
    "ts": "PM2",
    "slot": "16:00-18:30",
    "inOix": true,
@@ -1074,7 +954,7 @@
   {
    "code": "POR00001",
    "date": "2026-10-27",
-   "plusDay": 5,
+   "plusDay": 4,
    "ts": "EV",
    "slot": "18:00-20:30",
    "inOix": true,
@@ -1084,7 +964,7 @@
   {
    "code": "POR00001",
    "date": "2026-10-28",
-   "plusDay": 6,
+   "plusDay": 5,
    "ts": "AM",
    "slot": "10:00-12:30",
    "inOix": true,
@@ -1094,7 +974,7 @@
   {
    "code": "POR00001",
    "date": "2026-10-28",
-   "plusDay": 6,
+   "plusDay": 5,
    "ts": "PM",
    "slot": "13:00-15:30",
    "inOix": true,
@@ -1104,7 +984,7 @@
   {
    "code": "POR00001",
    "date": "2026-10-28",
-   "plusDay": 6,
+   "plusDay": 5,
    "ts": "PM2",
    "slot": "16:00-18:30",
    "inOix": true,
@@ -1114,6 +994,46 @@
   {
    "code": "POR00001",
    "date": "2026-10-28",
+   "plusDay": 5,
+   "ts": "EV",
+   "slot": "18:00-20:30",
+   "inOix": true,
+   "used": 0,
+   "quota": 144
+  },
+  {
+   "code": "POR00001",
+   "date": "2026-10-29",
+   "plusDay": 6,
+   "ts": "AM",
+   "slot": "10:00-12:30",
+   "inOix": true,
+   "used": 0,
+   "quota": 168
+  },
+  {
+   "code": "POR00001",
+   "date": "2026-10-29",
+   "plusDay": 6,
+   "ts": "PM",
+   "slot": "13:00-15:30",
+   "inOix": true,
+   "used": 0,
+   "quota": 168
+  },
+  {
+   "code": "POR00001",
+   "date": "2026-10-29",
+   "plusDay": 6,
+   "ts": "PM2",
+   "slot": "16:00-18:30",
+   "inOix": true,
+   "used": 0,
+   "quota": 144
+  },
+  {
+   "code": "POR00001",
+   "date": "2026-10-29",
    "plusDay": 6,
    "ts": "EV",
    "slot": "18:00-20:30",
@@ -1123,7 +1043,7 @@
   },
   {
    "code": "POR00001",
-   "date": "2026-10-29",
+   "date": "2026-10-30",
    "plusDay": 7,
    "ts": "AM",
    "slot": "10:00-12:30",
@@ -1133,7 +1053,7 @@
   },
   {
    "code": "POR00001",
-   "date": "2026-10-29",
+   "date": "2026-10-30",
    "plusDay": 7,
    "ts": "PM",
    "slot": "13:00-15:30",
@@ -1143,7 +1063,7 @@
   },
   {
    "code": "POR00001",
-   "date": "2026-10-29",
+   "date": "2026-10-30",
    "plusDay": 7,
    "ts": "PM2",
    "slot": "16:00-18:30",
@@ -1153,7 +1073,7 @@
   },
   {
    "code": "POR00001",
-   "date": "2026-10-29",
+   "date": "2026-10-30",
    "plusDay": 7,
    "ts": "EV",
    "slot": "18:00-20:30",
@@ -1163,7 +1083,7 @@
   },
   {
    "code": "POR00001",
-   "date": "2026-10-30",
+   "date": "2026-10-31",
    "plusDay": 8,
    "ts": "AM",
    "slot": "10:00-12:30",
@@ -1173,7 +1093,7 @@
   },
   {
    "code": "POR00001",
-   "date": "2026-10-30",
+   "date": "2026-10-31",
    "plusDay": 8,
    "ts": "PM",
    "slot": "13:00-15:30",
@@ -1183,48 +1103,8 @@
   },
   {
    "code": "POR00001",
-   "date": "2026-10-30",
+   "date": "2026-10-31",
    "plusDay": 8,
-   "ts": "PM2",
-   "slot": "16:00-18:30",
-   "inOix": true,
-   "used": 0,
-   "quota": 144
-  },
-  {
-   "code": "POR00001",
-   "date": "2026-10-30",
-   "plusDay": 8,
-   "ts": "EV",
-   "slot": "18:00-20:30",
-   "inOix": true,
-   "used": 0,
-   "quota": 144
-  },
-  {
-   "code": "POR00001",
-   "date": "2026-10-31",
-   "plusDay": 9,
-   "ts": "AM",
-   "slot": "10:00-12:30",
-   "inOix": true,
-   "used": 0,
-   "quota": 168
-  },
-  {
-   "code": "POR00001",
-   "date": "2026-10-31",
-   "plusDay": 9,
-   "ts": "PM",
-   "slot": "13:00-15:30",
-   "inOix": true,
-   "used": 0,
-   "quota": 168
-  },
-  {
-   "code": "POR00001",
-   "date": "2026-10-31",
-   "plusDay": 9,
    "ts": "PM2",
    "slot": "16:00-18:30",
    "inOix": true,
@@ -1234,97 +1114,57 @@
   {
    "code": "POR00001",
    "date": "2026-10-31",
+   "plusDay": 8,
+   "ts": "EV",
+   "slot": "18:00-20:30",
+   "inOix": true,
+   "used": 0,
+   "quota": 144
+  },
+  {
+   "code": "POR00001",
+   "date": "2026-11-01",
+   "plusDay": 9,
+   "ts": "AM",
+   "slot": "10:00-12:30",
+   "inOix": true,
+   "used": 0,
+   "quota": 168
+  },
+  {
+   "code": "POR00001",
+   "date": "2026-11-01",
+   "plusDay": 9,
+   "ts": "PM",
+   "slot": "13:00-15:30",
+   "inOix": true,
+   "used": 0,
+   "quota": 168
+  },
+  {
+   "code": "POR00001",
+   "date": "2026-11-01",
+   "plusDay": 9,
+   "ts": "PM2",
+   "slot": "16:00-18:30",
+   "inOix": true,
+   "used": 0,
+   "quota": 144
+  },
+  {
+   "code": "POR00001",
+   "date": "2026-11-01",
    "plusDay": 9,
    "ts": "EV",
    "slot": "18:00-20:30",
    "inOix": true,
    "used": 0,
    "quota": 144
-  },
-  {
-   "code": "POR00001",
-   "date": "2026-11-01",
-   "plusDay": 10,
-   "ts": "AM",
-   "slot": "10:00-12:30",
-   "inOix": true,
-   "used": 0,
-   "quota": 168
-  },
-  {
-   "code": "POR00001",
-   "date": "2026-11-01",
-   "plusDay": 10,
-   "ts": "PM",
-   "slot": "13:00-15:30",
-   "inOix": true,
-   "used": 0,
-   "quota": 168
-  },
-  {
-   "code": "POR00001",
-   "date": "2026-11-01",
-   "plusDay": 10,
-   "ts": "PM2",
-   "slot": "16:00-18:30",
-   "inOix": true,
-   "used": 0,
-   "quota": 144
-  },
-  {
-   "code": "POR00001",
-   "date": "2026-11-01",
-   "plusDay": 10,
-   "ts": "EV",
-   "slot": "18:00-20:30",
-   "inOix": true,
-   "used": 0,
-   "quota": 144
-  },
-  {
-   "code": "SMI00001",
-   "date": "2026-10-22",
-   "plusDay": 0,
-   "ts": "AM",
-   "slot": "10:00-12:30",
-   "inOix": true,
-   "used": 51,
-   "quota": 98
-  },
-  {
-   "code": "SMI00001",
-   "date": "2026-10-22",
-   "plusDay": 0,
-   "ts": "PM",
-   "slot": "13:00-15:30",
-   "inOix": true,
-   "used": 53,
-   "quota": 98
-  },
-  {
-   "code": "SMI00001",
-   "date": "2026-10-22",
-   "plusDay": 0,
-   "ts": "PM2",
-   "slot": "16:00-18:30",
-   "inOix": true,
-   "used": 43,
-   "quota": 84
-  },
-  {
-   "code": "SMI00001",
-   "date": "2026-10-22",
-   "plusDay": 0,
-   "ts": "EV",
-   "slot": "18:00-20:30",
-   "inOix": true,
-   "used": 19,
-   "quota": 84
   },
   {
    "code": "SMI00001",
    "date": "2026-10-23",
-   "plusDay": 1,
+   "plusDay": 0,
    "ts": "AM",
    "slot": "10:00-12:30",
    "inOix": true,
@@ -1334,7 +1174,7 @@
   {
    "code": "SMI00001",
    "date": "2026-10-23",
-   "plusDay": 1,
+   "plusDay": 0,
    "ts": "PM",
    "slot": "13:00-15:30",
    "inOix": true,
@@ -1344,7 +1184,7 @@
   {
    "code": "SMI00001",
    "date": "2026-10-23",
-   "plusDay": 1,
+   "plusDay": 0,
    "ts": "PM2",
    "slot": "16:00-18:30",
    "inOix": true,
@@ -1354,7 +1194,7 @@
   {
    "code": "SMI00001",
    "date": "2026-10-23",
-   "plusDay": 1,
+   "plusDay": 0,
    "ts": "EV",
    "slot": "18:00-20:30",
    "inOix": true,
@@ -1364,7 +1204,7 @@
   {
    "code": "SMI00001",
    "date": "2026-10-24",
-   "plusDay": 2,
+   "plusDay": 1,
    "ts": "AM",
    "slot": "10:00-12:30",
    "inOix": true,
@@ -1374,7 +1214,7 @@
   {
    "code": "SMI00001",
    "date": "2026-10-24",
-   "plusDay": 2,
+   "plusDay": 1,
    "ts": "PM",
    "slot": "13:00-15:30",
    "inOix": true,
@@ -1384,7 +1224,7 @@
   {
    "code": "SMI00001",
    "date": "2026-10-24",
-   "plusDay": 2,
+   "plusDay": 1,
    "ts": "PM2",
    "slot": "16:00-18:30",
    "inOix": true,
@@ -1394,57 +1234,57 @@
   {
    "code": "SMI00001",
    "date": "2026-10-24",
+   "plusDay": 1,
+   "ts": "EV",
+   "slot": "18:00-20:30",
+   "inOix": true,
+   "used": 2,
+   "quota": 84
+  },
+  {
+   "code": "SMI00001",
+   "date": "2026-10-25",
+   "plusDay": 2,
+   "ts": "AM",
+   "slot": "10:00-12:30",
+   "inOix": true,
+   "used": 0,
+   "quota": 98
+  },
+  {
+   "code": "SMI00001",
+   "date": "2026-10-25",
+   "plusDay": 2,
+   "ts": "PM",
+   "slot": "13:00-15:30",
+   "inOix": true,
+   "used": 0,
+   "quota": 98
+  },
+  {
+   "code": "SMI00001",
+   "date": "2026-10-25",
+   "plusDay": 2,
+   "ts": "PM2",
+   "slot": "16:00-18:30",
+   "inOix": true,
+   "used": 0,
+   "quota": 84
+  },
+  {
+   "code": "SMI00001",
+   "date": "2026-10-25",
    "plusDay": 2,
    "ts": "EV",
    "slot": "18:00-20:30",
    "inOix": true,
-   "used": 2,
-   "quota": 84
-  },
-  {
-   "code": "SMI00001",
-   "date": "2026-10-25",
-   "plusDay": 3,
-   "ts": "AM",
-   "slot": "10:00-12:30",
-   "inOix": true,
-   "used": 0,
-   "quota": 98
-  },
-  {
-   "code": "SMI00001",
-   "date": "2026-10-25",
-   "plusDay": 3,
-   "ts": "PM",
-   "slot": "13:00-15:30",
-   "inOix": true,
-   "used": 0,
-   "quota": 98
-  },
-  {
-   "code": "SMI00001",
-   "date": "2026-10-25",
-   "plusDay": 3,
-   "ts": "PM2",
-   "slot": "16:00-18:30",
-   "inOix": true,
-   "used": 0,
-   "quota": 84
-  },
-  {
-   "code": "SMI00001",
-   "date": "2026-10-25",
-   "plusDay": 3,
-   "ts": "EV",
-   "slot": "18:00-20:30",
-   "inOix": true,
    "used": 1,
    "quota": 84
   },
   {
    "code": "SMI00001",
    "date": "2026-10-26",
-   "plusDay": 4,
+   "plusDay": 3,
    "ts": "AM",
    "slot": "10:00-12:30",
    "inOix": true,
@@ -1454,7 +1294,7 @@
   {
    "code": "SMI00001",
    "date": "2026-10-26",
-   "plusDay": 4,
+   "plusDay": 3,
    "ts": "PM",
    "slot": "13:00-15:30",
    "inOix": true,
@@ -1464,7 +1304,7 @@
   {
    "code": "SMI00001",
    "date": "2026-10-26",
-   "plusDay": 4,
+   "plusDay": 3,
    "ts": "PM2",
    "slot": "16:00-18:30",
    "inOix": true,
@@ -1474,7 +1314,7 @@
   {
    "code": "SMI00001",
    "date": "2026-10-26",
-   "plusDay": 4,
+   "plusDay": 3,
    "ts": "EV",
    "slot": "18:00-20:30",
    "inOix": true,
@@ -1484,7 +1324,7 @@
   {
    "code": "SMI00001",
    "date": "2026-10-27",
-   "plusDay": 5,
+   "plusDay": 4,
    "ts": "AM",
    "slot": "10:00-12:30",
    "inOix": true,
@@ -1494,7 +1334,7 @@
   {
    "code": "SMI00001",
    "date": "2026-10-27",
-   "plusDay": 5,
+   "plusDay": 4,
    "ts": "PM",
    "slot": "13:00-15:30",
    "inOix": true,
@@ -1504,7 +1344,7 @@
   {
    "code": "SMI00001",
    "date": "2026-10-27",
-   "plusDay": 5,
+   "plusDay": 4,
    "ts": "PM2",
    "slot": "16:00-18:30",
    "inOix": true,
@@ -1514,7 +1354,7 @@
   {
    "code": "SMI00001",
    "date": "2026-10-27",
-   "plusDay": 5,
+   "plusDay": 4,
    "ts": "EV",
    "slot": "18:00-20:30",
    "inOix": true,
@@ -1524,7 +1364,7 @@
   {
    "code": "SMI00001",
    "date": "2026-10-28",
-   "plusDay": 6,
+   "plusDay": 5,
    "ts": "AM",
    "slot": "10:00-12:30",
    "inOix": true,
@@ -1534,7 +1374,7 @@
   {
    "code": "SMI00001",
    "date": "2026-10-28",
-   "plusDay": 6,
+   "plusDay": 5,
    "ts": "PM",
    "slot": "13:00-15:30",
    "inOix": true,
@@ -1544,7 +1384,7 @@
   {
    "code": "SMI00001",
    "date": "2026-10-28",
-   "plusDay": 6,
+   "plusDay": 5,
    "ts": "PM2",
    "slot": "16:00-18:30",
    "inOix": true,
@@ -1554,6 +1394,46 @@
   {
    "code": "SMI00001",
    "date": "2026-10-28",
+   "plusDay": 5,
+   "ts": "EV",
+   "slot": "18:00-20:30",
+   "inOix": true,
+   "used": 0,
+   "quota": 84
+  },
+  {
+   "code": "SMI00001",
+   "date": "2026-10-29",
+   "plusDay": 6,
+   "ts": "AM",
+   "slot": "10:00-12:30",
+   "inOix": true,
+   "used": 0,
+   "quota": 98
+  },
+  {
+   "code": "SMI00001",
+   "date": "2026-10-29",
+   "plusDay": 6,
+   "ts": "PM",
+   "slot": "13:00-15:30",
+   "inOix": true,
+   "used": 0,
+   "quota": 98
+  },
+  {
+   "code": "SMI00001",
+   "date": "2026-10-29",
+   "plusDay": 6,
+   "ts": "PM2",
+   "slot": "16:00-18:30",
+   "inOix": true,
+   "used": 0,
+   "quota": 84
+  },
+  {
+   "code": "SMI00001",
+   "date": "2026-10-29",
    "plusDay": 6,
    "ts": "EV",
    "slot": "18:00-20:30",
@@ -1563,7 +1443,7 @@
   },
   {
    "code": "SMI00001",
-   "date": "2026-10-29",
+   "date": "2026-10-30",
    "plusDay": 7,
    "ts": "AM",
    "slot": "10:00-12:30",
@@ -1573,7 +1453,7 @@
   },
   {
    "code": "SMI00001",
-   "date": "2026-10-29",
+   "date": "2026-10-30",
    "plusDay": 7,
    "ts": "PM",
    "slot": "13:00-15:30",
@@ -1583,7 +1463,7 @@
   },
   {
    "code": "SMI00001",
-   "date": "2026-10-29",
+   "date": "2026-10-30",
    "plusDay": 7,
    "ts": "PM2",
    "slot": "16:00-18:30",
@@ -1593,7 +1473,7 @@
   },
   {
    "code": "SMI00001",
-   "date": "2026-10-29",
+   "date": "2026-10-30",
    "plusDay": 7,
    "ts": "EV",
    "slot": "18:00-20:30",
@@ -1603,7 +1483,7 @@
   },
   {
    "code": "SMI00001",
-   "date": "2026-10-30",
+   "date": "2026-10-31",
    "plusDay": 8,
    "ts": "AM",
    "slot": "10:00-12:30",
@@ -1613,7 +1493,7 @@
   },
   {
    "code": "SMI00001",
-   "date": "2026-10-30",
+   "date": "2026-10-31",
    "plusDay": 8,
    "ts": "PM",
    "slot": "13:00-15:30",
@@ -1623,7 +1503,7 @@
   },
   {
    "code": "SMI00001",
-   "date": "2026-10-30",
+   "date": "2026-10-31",
    "plusDay": 8,
    "ts": "PM2",
    "slot": "16:00-18:30",
@@ -1633,7 +1513,7 @@
   },
   {
    "code": "SMI00001",
-   "date": "2026-10-30",
+   "date": "2026-10-31",
    "plusDay": 8,
    "ts": "EV",
    "slot": "18:00-20:30",
@@ -1643,7 +1523,7 @@
   },
   {
    "code": "SMI00001",
-   "date": "2026-10-31",
+   "date": "2026-11-01",
    "plusDay": 9,
    "ts": "AM",
    "slot": "10:00-12:30",
@@ -1653,7 +1533,7 @@
   },
   {
    "code": "SMI00001",
-   "date": "2026-10-31",
+   "date": "2026-11-01",
    "plusDay": 9,
    "ts": "PM",
    "slot": "13:00-15:30",
@@ -1663,7 +1543,7 @@
   },
   {
    "code": "SMI00001",
-   "date": "2026-10-31",
+   "date": "2026-11-01",
    "plusDay": 9,
    "ts": "PM2",
    "slot": "16:00-18:30",
@@ -1673,48 +1553,8 @@
   },
   {
    "code": "SMI00001",
-   "date": "2026-10-31",
+   "date": "2026-11-01",
    "plusDay": 9,
-   "ts": "EV",
-   "slot": "18:00-20:30",
-   "inOix": true,
-   "used": 0,
-   "quota": 84
-  },
-  {
-   "code": "SMI00001",
-   "date": "2026-11-01",
-   "plusDay": 10,
-   "ts": "AM",
-   "slot": "10:00-12:30",
-   "inOix": true,
-   "used": 0,
-   "quota": 98
-  },
-  {
-   "code": "SMI00001",
-   "date": "2026-11-01",
-   "plusDay": 10,
-   "ts": "PM",
-   "slot": "13:00-15:30",
-   "inOix": true,
-   "used": 0,
-   "quota": 98
-  },
-  {
-   "code": "SMI00001",
-   "date": "2026-11-01",
-   "plusDay": 10,
-   "ts": "PM2",
-   "slot": "16:00-18:30",
-   "inOix": true,
-   "used": 0,
-   "quota": 84
-  },
-  {
-   "code": "SMI00001",
-   "date": "2026-11-01",
-   "plusDay": 10,
    "ts": "EV",
    "slot": "18:00-20:30",
    "inOix": true,
@@ -1723,68 +1563,28 @@
   },
   {
    "code": "TM00001",
-   "date": "2026-10-22",
+   "date": "2026-10-23",
    "plusDay": 0,
    "ts": "AM",
    "slot": "10:00-12:30",
    "inOix": true,
-   "used": 127,
-   "quota": 180
-  },
-  {
-   "code": "TM00001",
-   "date": "2026-10-22",
-   "plusDay": 0,
-   "ts": "PM",
-   "slot": "13:00-15:30",
-   "inOix": true,
-   "used": 106,
-   "quota": 180
-  },
-  {
-   "code": "TM00001",
-   "date": "2026-10-22",
-   "plusDay": 0,
-   "ts": "PM2",
-   "slot": "16:00-18:30",
-   "inOix": true,
-   "used": 119,
-   "quota": 180
-  },
-  {
-   "code": "TM00001",
-   "date": "2026-10-22",
-   "plusDay": 0,
-   "ts": "EV",
-   "slot": "18:00-20:30",
-   "inOix": true,
-   "used": 69,
+   "used": 89,
    "quota": 180
   },
   {
    "code": "TM00001",
    "date": "2026-10-23",
-   "plusDay": 1,
-   "ts": "AM",
-   "slot": "10:00-12:30",
-   "inOix": true,
-   "used": 87,
-   "quota": 180
-  },
-  {
-   "code": "TM00001",
-   "date": "2026-10-23",
-   "plusDay": 1,
+   "plusDay": 0,
    "ts": "PM",
    "slot": "13:00-15:30",
    "inOix": true,
-   "used": 34,
+   "used": 35,
    "quota": 180
   },
   {
    "code": "TM00001",
    "date": "2026-10-23",
-   "plusDay": 1,
+   "plusDay": 0,
    "ts": "PM2",
    "slot": "16:00-18:30",
    "inOix": true,
@@ -1794,7 +1594,7 @@
   {
    "code": "TM00001",
    "date": "2026-10-23",
-   "plusDay": 1,
+   "plusDay": 0,
    "ts": "EV",
    "slot": "18:00-20:30",
    "inOix": true,
@@ -1804,7 +1604,7 @@
   {
    "code": "TM00001",
    "date": "2026-10-24",
-   "plusDay": 2,
+   "plusDay": 1,
    "ts": "AM",
    "slot": "10:00-12:30",
    "inOix": true,
@@ -1814,7 +1614,7 @@
   {
    "code": "TM00001",
    "date": "2026-10-24",
-   "plusDay": 2,
+   "plusDay": 1,
    "ts": "PM",
    "slot": "13:00-15:30",
    "inOix": true,
@@ -1824,26 +1624,66 @@
   {
    "code": "TM00001",
    "date": "2026-10-24",
-   "plusDay": 2,
+   "plusDay": 1,
    "ts": "PM2",
    "slot": "16:00-18:30",
    "inOix": true,
-   "used": 23,
+   "used": 25,
    "quota": 180
   },
   {
    "code": "TM00001",
    "date": "2026-10-24",
+   "plusDay": 1,
+   "ts": "EV",
+   "slot": "18:00-20:30",
+   "inOix": true,
+   "used": 1,
+   "quota": 180
+  },
+  {
+   "code": "TM00001",
+   "date": "2026-10-25",
+   "plusDay": 2,
+   "ts": "AM",
+   "slot": "10:00-12:30",
+   "inOix": true,
+   "used": 0,
+   "quota": 180
+  },
+  {
+   "code": "TM00001",
+   "date": "2026-10-25",
+   "plusDay": 2,
+   "ts": "PM",
+   "slot": "13:00-15:30",
+   "inOix": true,
+   "used": 0,
+   "quota": 180
+  },
+  {
+   "code": "TM00001",
+   "date": "2026-10-25",
+   "plusDay": 2,
+   "ts": "PM2",
+   "slot": "16:00-18:30",
+   "inOix": true,
+   "used": 1,
+   "quota": 180
+  },
+  {
+   "code": "TM00001",
+   "date": "2026-10-25",
    "plusDay": 2,
    "ts": "EV",
    "slot": "18:00-20:30",
    "inOix": true,
-   "used": 1,
+   "used": 0,
    "quota": 180
   },
   {
    "code": "TM00001",
-   "date": "2026-10-25",
+   "date": "2026-10-26",
    "plusDay": 3,
    "ts": "AM",
    "slot": "10:00-12:30",
@@ -1853,7 +1693,7 @@
   },
   {
    "code": "TM00001",
-   "date": "2026-10-25",
+   "date": "2026-10-26",
    "plusDay": 3,
    "ts": "PM",
    "slot": "13:00-15:30",
@@ -1863,17 +1703,17 @@
   },
   {
    "code": "TM00001",
-   "date": "2026-10-25",
+   "date": "2026-10-26",
    "plusDay": 3,
    "ts": "PM2",
    "slot": "16:00-18:30",
    "inOix": true,
-   "used": 1,
+   "used": 0,
    "quota": 180
   },
   {
    "code": "TM00001",
-   "date": "2026-10-25",
+   "date": "2026-10-26",
    "plusDay": 3,
    "ts": "EV",
    "slot": "18:00-20:30",
@@ -1883,7 +1723,7 @@
   },
   {
    "code": "TM00001",
-   "date": "2026-10-26",
+   "date": "2026-10-27",
    "plusDay": 4,
    "ts": "AM",
    "slot": "10:00-12:30",
@@ -1893,48 +1733,8 @@
   },
   {
    "code": "TM00001",
-   "date": "2026-10-26",
-   "plusDay": 4,
-   "ts": "PM",
-   "slot": "13:00-15:30",
-   "inOix": true,
-   "used": 0,
-   "quota": 180
-  },
-  {
-   "code": "TM00001",
-   "date": "2026-10-26",
-   "plusDay": 4,
-   "ts": "PM2",
-   "slot": "16:00-18:30",
-   "inOix": true,
-   "used": 0,
-   "quota": 180
-  },
-  {
-   "code": "TM00001",
-   "date": "2026-10-26",
-   "plusDay": 4,
-   "ts": "EV",
-   "slot": "18:00-20:30",
-   "inOix": true,
-   "used": 0,
-   "quota": 180
-  },
-  {
-   "code": "TM00001",
    "date": "2026-10-27",
-   "plusDay": 5,
-   "ts": "AM",
-   "slot": "10:00-12:30",
-   "inOix": true,
-   "used": 0,
-   "quota": 180
-  },
-  {
-   "code": "TM00001",
-   "date": "2026-10-27",
-   "plusDay": 5,
+   "plusDay": 4,
    "ts": "PM",
    "slot": "13:00-15:30",
    "inOix": true,
@@ -1944,7 +1744,7 @@
   {
    "code": "TM00001",
    "date": "2026-10-27",
-   "plusDay": 5,
+   "plusDay": 4,
    "ts": "PM2",
    "slot": "16:00-18:30",
    "inOix": true,
@@ -1954,7 +1754,7 @@
   {
    "code": "TM00001",
    "date": "2026-10-27",
-   "plusDay": 5,
+   "plusDay": 4,
    "ts": "EV",
    "slot": "18:00-20:30",
    "inOix": true,
@@ -1964,7 +1764,7 @@
   {
    "code": "TM00001",
    "date": "2026-10-28",
-   "plusDay": 6,
+   "plusDay": 5,
    "ts": "AM",
    "slot": "10:00-12:30",
    "inOix": true,
@@ -1974,7 +1774,7 @@
   {
    "code": "TM00001",
    "date": "2026-10-28",
-   "plusDay": 6,
+   "plusDay": 5,
    "ts": "PM",
    "slot": "13:00-15:30",
    "inOix": true,
@@ -1984,7 +1784,7 @@
   {
    "code": "TM00001",
    "date": "2026-10-28",
-   "plusDay": 6,
+   "plusDay": 5,
    "ts": "PM2",
    "slot": "16:00-18:30",
    "inOix": true,
@@ -1994,6 +1794,46 @@
   {
    "code": "TM00001",
    "date": "2026-10-28",
+   "plusDay": 5,
+   "ts": "EV",
+   "slot": "18:00-20:30",
+   "inOix": true,
+   "used": 0,
+   "quota": 180
+  },
+  {
+   "code": "TM00001",
+   "date": "2026-10-29",
+   "plusDay": 6,
+   "ts": "AM",
+   "slot": "10:00-12:30",
+   "inOix": true,
+   "used": 0,
+   "quota": 180
+  },
+  {
+   "code": "TM00001",
+   "date": "2026-10-29",
+   "plusDay": 6,
+   "ts": "PM",
+   "slot": "13:00-15:30",
+   "inOix": true,
+   "used": 0,
+   "quota": 180
+  },
+  {
+   "code": "TM00001",
+   "date": "2026-10-29",
+   "plusDay": 6,
+   "ts": "PM2",
+   "slot": "16:00-18:30",
+   "inOix": true,
+   "used": 0,
+   "quota": 180
+  },
+  {
+   "code": "TM00001",
+   "date": "2026-10-29",
    "plusDay": 6,
    "ts": "EV",
    "slot": "18:00-20:30",
@@ -2003,7 +1843,7 @@
   },
   {
    "code": "TM00001",
-   "date": "2026-10-29",
+   "date": "2026-10-30",
    "plusDay": 7,
    "ts": "AM",
    "slot": "10:00-12:30",
@@ -2013,7 +1853,7 @@
   },
   {
    "code": "TM00001",
-   "date": "2026-10-29",
+   "date": "2026-10-30",
    "plusDay": 7,
    "ts": "PM",
    "slot": "13:00-15:30",
@@ -2023,7 +1863,7 @@
   },
   {
    "code": "TM00001",
-   "date": "2026-10-29",
+   "date": "2026-10-30",
    "plusDay": 7,
    "ts": "PM2",
    "slot": "16:00-18:30",
@@ -2033,7 +1873,7 @@
   },
   {
    "code": "TM00001",
-   "date": "2026-10-29",
+   "date": "2026-10-30",
    "plusDay": 7,
    "ts": "EV",
    "slot": "18:00-20:30",
@@ -2043,7 +1883,7 @@
   },
   {
    "code": "TM00001",
-   "date": "2026-10-30",
+   "date": "2026-10-31",
    "plusDay": 8,
    "ts": "AM",
    "slot": "10:00-12:30",
@@ -2053,7 +1893,7 @@
   },
   {
    "code": "TM00001",
-   "date": "2026-10-30",
+   "date": "2026-10-31",
    "plusDay": 8,
    "ts": "PM",
    "slot": "13:00-15:30",
@@ -2063,7 +1903,7 @@
   },
   {
    "code": "TM00001",
-   "date": "2026-10-30",
+   "date": "2026-10-31",
    "plusDay": 8,
    "ts": "PM2",
    "slot": "16:00-18:30",
@@ -2073,7 +1913,7 @@
   },
   {
    "code": "TM00001",
-   "date": "2026-10-30",
+   "date": "2026-10-31",
    "plusDay": 8,
    "ts": "EV",
    "slot": "18:00-20:30",
@@ -2083,7 +1923,7 @@
   },
   {
    "code": "TM00001",
-   "date": "2026-10-31",
+   "date": "2026-11-01",
    "plusDay": 9,
    "ts": "AM",
    "slot": "10:00-12:30",
@@ -2093,7 +1933,7 @@
   },
   {
    "code": "TM00001",
-   "date": "2026-10-31",
+   "date": "2026-11-01",
    "plusDay": 9,
    "ts": "PM",
    "slot": "13:00-15:30",
@@ -2103,7 +1943,7 @@
   },
   {
    "code": "TM00001",
-   "date": "2026-10-31",
+   "date": "2026-11-01",
    "plusDay": 9,
    "ts": "PM2",
    "slot": "16:00-18:30",
@@ -2113,108 +1953,28 @@
   },
   {
    "code": "TM00001",
-   "date": "2026-10-31",
+   "date": "2026-11-01",
    "plusDay": 9,
    "ts": "EV",
    "slot": "18:00-20:30",
    "inOix": true,
    "used": 0,
    "quota": 180
-  },
-  {
-   "code": "TM00001",
-   "date": "2026-11-01",
-   "plusDay": 10,
-   "ts": "AM",
-   "slot": "10:00-12:30",
-   "inOix": true,
-   "used": 0,
-   "quota": 180
-  },
-  {
-   "code": "TM00001",
-   "date": "2026-11-01",
-   "plusDay": 10,
-   "ts": "PM",
-   "slot": "13:00-15:30",
-   "inOix": true,
-   "used": 0,
-   "quota": 180
-  },
-  {
-   "code": "TM00001",
-   "date": "2026-11-01",
-   "plusDay": 10,
-   "ts": "PM2",
-   "slot": "16:00-18:30",
-   "inOix": true,
-   "used": 0,
-   "quota": 180
-  },
-  {
-   "code": "TM00001",
-   "date": "2026-11-01",
-   "plusDay": 10,
-   "ts": "EV",
-   "slot": "18:00-20:30",
-   "inOix": true,
-   "used": 0,
-   "quota": 180
-  },
-  {
-   "code": "TPH00001",
-   "date": "2026-10-22",
-   "plusDay": 0,
-   "ts": "AM",
-   "slot": "10:00-12:30",
-   "inOix": true,
-   "used": 134,
-   "quota": 200
-  },
-  {
-   "code": "TPH00001",
-   "date": "2026-10-22",
-   "plusDay": 0,
-   "ts": "PM",
-   "slot": "13:00-15:30",
-   "inOix": true,
-   "used": 116,
-   "quota": 200
-  },
-  {
-   "code": "TPH00001",
-   "date": "2026-10-22",
-   "plusDay": 0,
-   "ts": "PM2",
-   "slot": "16:00-18:30",
-   "inOix": true,
-   "used": 92,
-   "quota": 200
-  },
-  {
-   "code": "TPH00001",
-   "date": "2026-10-22",
-   "plusDay": 0,
-   "ts": "EV",
-   "slot": "18:00-20:30",
-   "inOix": true,
-   "used": 39,
-   "quota": 160
   },
   {
    "code": "TPH00001",
    "date": "2026-10-23",
-   "plusDay": 1,
+   "plusDay": 0,
    "ts": "AM",
    "slot": "10:00-12:30",
    "inOix": true,
-   "used": 87,
+   "used": 88,
    "quota": 220
   },
   {
    "code": "TPH00001",
    "date": "2026-10-23",
-   "plusDay": 1,
+   "plusDay": 0,
    "ts": "PM",
    "slot": "13:00-15:30",
    "inOix": true,
@@ -2224,17 +1984,17 @@
   {
    "code": "TPH00001",
    "date": "2026-10-23",
-   "plusDay": 1,
+   "plusDay": 0,
    "ts": "PM2",
    "slot": "16:00-18:30",
    "inOix": true,
-   "used": 100,
+   "used": 101,
    "quota": 200
   },
   {
    "code": "TPH00001",
    "date": "2026-10-23",
-   "plusDay": 1,
+   "plusDay": 0,
    "ts": "EV",
    "slot": "18:00-20:30",
    "inOix": true,
@@ -2244,7 +2004,7 @@
   {
    "code": "TPH00001",
    "date": "2026-10-24",
-   "plusDay": 2,
+   "plusDay": 1,
    "ts": "AM",
    "slot": "10:00-12:30",
    "inOix": true,
@@ -2254,7 +2014,7 @@
   {
    "code": "TPH00001",
    "date": "2026-10-24",
-   "plusDay": 2,
+   "plusDay": 1,
    "ts": "PM",
    "slot": "13:00-15:30",
    "inOix": true,
@@ -2264,7 +2024,7 @@
   {
    "code": "TPH00001",
    "date": "2026-10-24",
-   "plusDay": 2,
+   "plusDay": 1,
    "ts": "PM2",
    "slot": "16:00-18:30",
    "inOix": true,
@@ -2274,7 +2034,7 @@
   {
    "code": "TPH00001",
    "date": "2026-10-24",
-   "plusDay": 2,
+   "plusDay": 1,
    "ts": "EV",
    "slot": "18:00-20:30",
    "inOix": true,
@@ -2284,7 +2044,7 @@
   {
    "code": "TPH00001",
    "date": "2026-10-25",
-   "plusDay": 3,
+   "plusDay": 2,
    "ts": "AM",
    "slot": "10:00-12:30",
    "inOix": true,
@@ -2294,7 +2054,7 @@
   {
    "code": "TPH00001",
    "date": "2026-10-25",
-   "plusDay": 3,
+   "plusDay": 2,
    "ts": "PM",
    "slot": "13:00-15:30",
    "inOix": true,
@@ -2304,7 +2064,7 @@
   {
    "code": "TPH00001",
    "date": "2026-10-25",
-   "plusDay": 3,
+   "plusDay": 2,
    "ts": "PM2",
    "slot": "16:00-18:30",
    "inOix": true,
@@ -2314,7 +2074,7 @@
   {
    "code": "TPH00001",
    "date": "2026-10-25",
-   "plusDay": 3,
+   "plusDay": 2,
    "ts": "EV",
    "slot": "18:00-20:30",
    "inOix": true,
@@ -2324,7 +2084,7 @@
   {
    "code": "TPH00001",
    "date": "2026-10-26",
-   "plusDay": 4,
+   "plusDay": 3,
    "ts": "AM",
    "slot": "10:00-12:30",
    "inOix": true,
@@ -2334,7 +2094,7 @@
   {
    "code": "TPH00001",
    "date": "2026-10-26",
-   "plusDay": 4,
+   "plusDay": 3,
    "ts": "PM",
    "slot": "13:00-15:30",
    "inOix": true,
@@ -2344,7 +2104,7 @@
   {
    "code": "TPH00001",
    "date": "2026-10-26",
-   "plusDay": 4,
+   "plusDay": 3,
    "ts": "PM2",
    "slot": "16:00-18:30",
    "inOix": true,
@@ -2354,7 +2114,7 @@
   {
    "code": "TPH00001",
    "date": "2026-10-26",
-   "plusDay": 4,
+   "plusDay": 3,
    "ts": "EV",
    "slot": "18:00-20:30",
    "inOix": true,
@@ -2364,7 +2124,7 @@
   {
    "code": "TPH00001",
    "date": "2026-10-27",
-   "plusDay": 5,
+   "plusDay": 4,
    "ts": "AM",
    "slot": "10:00-12:30",
    "inOix": true,
@@ -2374,7 +2134,7 @@
   {
    "code": "TPH00001",
    "date": "2026-10-27",
-   "plusDay": 5,
+   "plusDay": 4,
    "ts": "PM",
    "slot": "13:00-15:30",
    "inOix": true,
@@ -2384,7 +2144,7 @@
   {
    "code": "TPH00001",
    "date": "2026-10-27",
-   "plusDay": 5,
+   "plusDay": 4,
    "ts": "PM2",
    "slot": "16:00-18:30",
    "inOix": true,
@@ -2394,7 +2154,7 @@
   {
    "code": "TPH00001",
    "date": "2026-10-27",
-   "plusDay": 5,
+   "plusDay": 4,
    "ts": "EV",
    "slot": "18:00-20:30",
    "inOix": true,
@@ -2404,7 +2164,7 @@
   {
    "code": "TPH00001",
    "date": "2026-10-28",
-   "plusDay": 6,
+   "plusDay": 5,
    "ts": "AM",
    "slot": "10:00-12:30",
    "inOix": true,
@@ -2414,7 +2174,7 @@
   {
    "code": "TPH00001",
    "date": "2026-10-28",
-   "plusDay": 6,
+   "plusDay": 5,
    "ts": "PM",
    "slot": "13:00-15:30",
    "inOix": true,
@@ -2424,7 +2184,7 @@
   {
    "code": "TPH00001",
    "date": "2026-10-28",
-   "plusDay": 6,
+   "plusDay": 5,
    "ts": "PM2",
    "slot": "16:00-18:30",
    "inOix": true,
@@ -2434,6 +2194,46 @@
   {
    "code": "TPH00001",
    "date": "2026-10-28",
+   "plusDay": 5,
+   "ts": "EV",
+   "slot": "18:00-20:30",
+   "inOix": true,
+   "used": 0,
+   "quota": 160
+  },
+  {
+   "code": "TPH00001",
+   "date": "2026-10-29",
+   "plusDay": 6,
+   "ts": "AM",
+   "slot": "10:00-12:30",
+   "inOix": true,
+   "used": 0,
+   "quota": 200
+  },
+  {
+   "code": "TPH00001",
+   "date": "2026-10-29",
+   "plusDay": 6,
+   "ts": "PM",
+   "slot": "13:00-15:30",
+   "inOix": true,
+   "used": 0,
+   "quota": 200
+  },
+  {
+   "code": "TPH00001",
+   "date": "2026-10-29",
+   "plusDay": 6,
+   "ts": "PM2",
+   "slot": "16:00-18:30",
+   "inOix": true,
+   "used": 0,
+   "quota": 200
+  },
+  {
+   "code": "TPH00001",
+   "date": "2026-10-29",
    "plusDay": 6,
    "ts": "EV",
    "slot": "18:00-20:30",
@@ -2443,27 +2243,27 @@
   },
   {
    "code": "TPH00001",
-   "date": "2026-10-29",
+   "date": "2026-10-30",
    "plusDay": 7,
    "ts": "AM",
    "slot": "10:00-12:30",
    "inOix": true,
    "used": 0,
-   "quota": 200
+   "quota": 220
   },
   {
    "code": "TPH00001",
-   "date": "2026-10-29",
+   "date": "2026-10-30",
    "plusDay": 7,
    "ts": "PM",
    "slot": "13:00-15:30",
    "inOix": true,
    "used": 0,
-   "quota": 200
+   "quota": 220
   },
   {
    "code": "TPH00001",
-   "date": "2026-10-29",
+   "date": "2026-10-30",
    "plusDay": 7,
    "ts": "PM2",
    "slot": "16:00-18:30",
@@ -2473,7 +2273,7 @@
   },
   {
    "code": "TPH00001",
-   "date": "2026-10-29",
+   "date": "2026-10-30",
    "plusDay": 7,
    "ts": "EV",
    "slot": "18:00-20:30",
@@ -2483,48 +2283,8 @@
   },
   {
    "code": "TPH00001",
-   "date": "2026-10-30",
-   "plusDay": 8,
-   "ts": "AM",
-   "slot": "10:00-12:30",
-   "inOix": true,
-   "used": 0,
-   "quota": 220
-  },
-  {
-   "code": "TPH00001",
-   "date": "2026-10-30",
-   "plusDay": 8,
-   "ts": "PM",
-   "slot": "13:00-15:30",
-   "inOix": true,
-   "used": 0,
-   "quota": 220
-  },
-  {
-   "code": "TPH00001",
-   "date": "2026-10-30",
-   "plusDay": 8,
-   "ts": "PM2",
-   "slot": "16:00-18:30",
-   "inOix": true,
-   "used": 0,
-   "quota": 200
-  },
-  {
-   "code": "TPH00001",
-   "date": "2026-10-30",
-   "plusDay": 8,
-   "ts": "EV",
-   "slot": "18:00-20:30",
-   "inOix": true,
-   "used": 0,
-   "quota": 160
-  },
-  {
-   "code": "TPH00001",
    "date": "2026-10-31",
-   "plusDay": 9,
+   "plusDay": 8,
    "ts": "AM",
    "slot": "10:00-12:30",
    "inOix": true,
@@ -2534,7 +2294,7 @@
   {
    "code": "TPH00001",
    "date": "2026-10-31",
-   "plusDay": 9,
+   "plusDay": 8,
    "ts": "PM",
    "slot": "13:00-15:30",
    "inOix": true,
@@ -2544,7 +2304,7 @@
   {
    "code": "TPH00001",
    "date": "2026-10-31",
-   "plusDay": 9,
+   "plusDay": 8,
    "ts": "PM2",
    "slot": "16:00-18:30",
    "inOix": true,
@@ -2554,7 +2314,7 @@
   {
    "code": "TPH00001",
    "date": "2026-10-31",
-   "plusDay": 9,
+   "plusDay": 8,
    "ts": "EV",
    "slot": "18:00-20:30",
    "inOix": true,
@@ -2564,7 +2324,7 @@
   {
    "code": "TPH00001",
    "date": "2026-11-01",
-   "plusDay": 10,
+   "plusDay": 9,
    "ts": "AM",
    "slot": "10:00-12:30",
    "inOix": true,
@@ -2574,7 +2334,7 @@
   {
    "code": "TPH00001",
    "date": "2026-11-01",
-   "plusDay": 10,
+   "plusDay": 9,
    "ts": "PM",
    "slot": "13:00-15:30",
    "inOix": true,
@@ -2584,7 +2344,7 @@
   {
    "code": "TPH00001",
    "date": "2026-11-01",
-   "plusDay": 10,
+   "plusDay": 9,
    "ts": "PM2",
    "slot": "16:00-18:30",
    "inOix": true,
@@ -2594,57 +2354,17 @@
   {
    "code": "TPH00001",
    "date": "2026-11-01",
-   "plusDay": 10,
+   "plusDay": 9,
    "ts": "EV",
    "slot": "18:00-20:30",
    "inOix": true,
    "used": 0,
    "quota": 180
-  },
-  {
-   "code": "TW00001",
-   "date": "2026-10-22",
-   "plusDay": 0,
-   "ts": "AM",
-   "slot": "10:00-12:30",
-   "inOix": true,
-   "used": 48,
-   "quota": 126
-  },
-  {
-   "code": "TW00001",
-   "date": "2026-10-22",
-   "plusDay": 0,
-   "ts": "PM",
-   "slot": "13:00-15:30",
-   "inOix": true,
-   "used": 70,
-   "quota": 126
-  },
-  {
-   "code": "TW00001",
-   "date": "2026-10-22",
-   "plusDay": 0,
-   "ts": "PM2",
-   "slot": "16:00-18:30",
-   "inOix": true,
-   "used": 59,
-   "quota": 126
-  },
-  {
-   "code": "TW00001",
-   "date": "2026-10-22",
-   "plusDay": 0,
-   "ts": "EV",
-   "slot": "18:00-20:30",
-   "inOix": true,
-   "used": 31,
-   "quota": 108
   },
   {
    "code": "TW00001",
    "date": "2026-10-23",
-   "plusDay": 1,
+   "plusDay": 0,
    "ts": "AM",
    "slot": "10:00-12:30",
    "inOix": true,
@@ -2654,7 +2374,7 @@
   {
    "code": "TW00001",
    "date": "2026-10-23",
-   "plusDay": 1,
+   "plusDay": 0,
    "ts": "PM",
    "slot": "13:00-15:30",
    "inOix": true,
@@ -2664,7 +2384,7 @@
   {
    "code": "TW00001",
    "date": "2026-10-23",
-   "plusDay": 1,
+   "plusDay": 0,
    "ts": "PM2",
    "slot": "16:00-18:30",
    "inOix": true,
@@ -2674,7 +2394,7 @@
   {
    "code": "TW00001",
    "date": "2026-10-23",
-   "plusDay": 1,
+   "plusDay": 0,
    "ts": "EV",
    "slot": "18:00-20:30",
    "inOix": true,
@@ -2684,7 +2404,7 @@
   {
    "code": "TW00001",
    "date": "2026-10-24",
-   "plusDay": 2,
+   "plusDay": 1,
    "ts": "AM",
    "slot": "10:00-12:30",
    "inOix": true,
@@ -2694,7 +2414,7 @@
   {
    "code": "TW00001",
    "date": "2026-10-24",
-   "plusDay": 2,
+   "plusDay": 1,
    "ts": "PM",
    "slot": "13:00-15:30",
    "inOix": true,
@@ -2704,7 +2424,7 @@
   {
    "code": "TW00001",
    "date": "2026-10-24",
-   "plusDay": 2,
+   "plusDay": 1,
    "ts": "PM2",
    "slot": "16:00-18:30",
    "inOix": true,
@@ -2714,7 +2434,7 @@
   {
    "code": "TW00001",
    "date": "2026-10-24",
-   "plusDay": 2,
+   "plusDay": 1,
    "ts": "EV",
    "slot": "18:00-20:30",
    "inOix": true,
@@ -2724,7 +2444,7 @@
   {
    "code": "TW00001",
    "date": "2026-10-25",
-   "plusDay": 3,
+   "plusDay": 2,
    "ts": "AM",
    "slot": "10:00-12:30",
    "inOix": true,
@@ -2734,7 +2454,7 @@
   {
    "code": "TW00001",
    "date": "2026-10-25",
-   "plusDay": 3,
+   "plusDay": 2,
    "ts": "PM",
    "slot": "13:00-15:30",
    "inOix": true,
@@ -2744,7 +2464,7 @@
   {
    "code": "TW00001",
    "date": "2026-10-25",
-   "plusDay": 3,
+   "plusDay": 2,
    "ts": "PM2",
    "slot": "16:00-18:30",
    "inOix": true,
@@ -2754,7 +2474,7 @@
   {
    "code": "TW00001",
    "date": "2026-10-25",
-   "plusDay": 3,
+   "plusDay": 2,
    "ts": "EV",
    "slot": "18:00-20:30",
    "inOix": true,
@@ -2764,7 +2484,7 @@
   {
    "code": "TW00001",
    "date": "2026-10-26",
-   "plusDay": 4,
+   "plusDay": 3,
    "ts": "AM",
    "slot": "10:00-12:30",
    "inOix": true,
@@ -2774,7 +2494,7 @@
   {
    "code": "TW00001",
    "date": "2026-10-26",
-   "plusDay": 4,
+   "plusDay": 3,
    "ts": "PM",
    "slot": "13:00-15:30",
    "inOix": true,
@@ -2784,7 +2504,7 @@
   {
    "code": "TW00001",
    "date": "2026-10-26",
-   "plusDay": 4,
+   "plusDay": 3,
    "ts": "PM2",
    "slot": "16:00-18:30",
    "inOix": true,
@@ -2794,7 +2514,7 @@
   {
    "code": "TW00001",
    "date": "2026-10-26",
-   "plusDay": 4,
+   "plusDay": 3,
    "ts": "EV",
    "slot": "18:00-20:30",
    "inOix": true,
@@ -2804,7 +2524,7 @@
   {
    "code": "TW00001",
    "date": "2026-10-27",
-   "plusDay": 5,
+   "plusDay": 4,
    "ts": "AM",
    "slot": "10:00-12:30",
    "inOix": true,
@@ -2814,7 +2534,7 @@
   {
    "code": "TW00001",
    "date": "2026-10-27",
-   "plusDay": 5,
+   "plusDay": 4,
    "ts": "PM",
    "slot": "13:00-15:30",
    "inOix": true,
@@ -2824,7 +2544,7 @@
   {
    "code": "TW00001",
    "date": "2026-10-27",
-   "plusDay": 5,
+   "plusDay": 4,
    "ts": "PM2",
    "slot": "16:00-18:30",
    "inOix": true,
@@ -2834,6 +2554,46 @@
   {
    "code": "TW00001",
    "date": "2026-10-27",
+   "plusDay": 4,
+   "ts": "EV",
+   "slot": "18:00-20:30",
+   "inOix": true,
+   "used": 0,
+   "quota": 108
+  },
+  {
+   "code": "TW00001",
+   "date": "2026-10-28",
+   "plusDay": 5,
+   "ts": "AM",
+   "slot": "10:00-12:30",
+   "inOix": true,
+   "used": 0,
+   "quota": 126
+  },
+  {
+   "code": "TW00001",
+   "date": "2026-10-28",
+   "plusDay": 5,
+   "ts": "PM",
+   "slot": "13:00-15:30",
+   "inOix": true,
+   "used": 0,
+   "quota": 126
+  },
+  {
+   "code": "TW00001",
+   "date": "2026-10-28",
+   "plusDay": 5,
+   "ts": "PM2",
+   "slot": "16:00-18:30",
+   "inOix": true,
+   "used": 0,
+   "quota": 108
+  },
+  {
+   "code": "TW00001",
+   "date": "2026-10-28",
    "plusDay": 5,
    "ts": "EV",
    "slot": "18:00-20:30",
@@ -2843,7 +2603,7 @@
   },
   {
    "code": "TW00001",
-   "date": "2026-10-28",
+   "date": "2026-10-29",
    "plusDay": 6,
    "ts": "AM",
    "slot": "10:00-12:30",
@@ -2853,7 +2613,7 @@
   },
   {
    "code": "TW00001",
-   "date": "2026-10-28",
+   "date": "2026-10-29",
    "plusDay": 6,
    "ts": "PM",
    "slot": "13:00-15:30",
@@ -2863,17 +2623,17 @@
   },
   {
    "code": "TW00001",
-   "date": "2026-10-28",
+   "date": "2026-10-29",
    "plusDay": 6,
    "ts": "PM2",
    "slot": "16:00-18:30",
    "inOix": true,
    "used": 0,
-   "quota": 108
+   "quota": 126
   },
   {
    "code": "TW00001",
-   "date": "2026-10-28",
+   "date": "2026-10-29",
    "plusDay": 6,
    "ts": "EV",
    "slot": "18:00-20:30",
@@ -2883,7 +2643,7 @@
   },
   {
    "code": "TW00001",
-   "date": "2026-10-29",
+   "date": "2026-10-30",
    "plusDay": 7,
    "ts": "AM",
    "slot": "10:00-12:30",
@@ -2893,7 +2653,7 @@
   },
   {
    "code": "TW00001",
-   "date": "2026-10-29",
+   "date": "2026-10-30",
    "plusDay": 7,
    "ts": "PM",
    "slot": "13:00-15:30",
@@ -2903,7 +2663,7 @@
   },
   {
    "code": "TW00001",
-   "date": "2026-10-29",
+   "date": "2026-10-30",
    "plusDay": 7,
    "ts": "PM2",
    "slot": "16:00-18:30",
@@ -2913,48 +2673,8 @@
   },
   {
    "code": "TW00001",
-   "date": "2026-10-29",
+   "date": "2026-10-30",
    "plusDay": 7,
-   "ts": "EV",
-   "slot": "18:00-20:30",
-   "inOix": true,
-   "used": 0,
-   "quota": 108
-  },
-  {
-   "code": "TW00001",
-   "date": "2026-10-30",
-   "plusDay": 8,
-   "ts": "AM",
-   "slot": "10:00-12:30",
-   "inOix": true,
-   "used": 0,
-   "quota": 126
-  },
-  {
-   "code": "TW00001",
-   "date": "2026-10-30",
-   "plusDay": 8,
-   "ts": "PM",
-   "slot": "13:00-15:30",
-   "inOix": true,
-   "used": 0,
-   "quota": 126
-  },
-  {
-   "code": "TW00001",
-   "date": "2026-10-30",
-   "plusDay": 8,
-   "ts": "PM2",
-   "slot": "16:00-18:30",
-   "inOix": true,
-   "used": 0,
-   "quota": 126
-  },
-  {
-   "code": "TW00001",
-   "date": "2026-10-30",
-   "plusDay": 8,
    "ts": "EV",
    "slot": "18:00-20:30",
    "inOix": true,
@@ -2964,7 +2684,7 @@
   {
    "code": "TW00001",
    "date": "2026-10-31",
-   "plusDay": 9,
+   "plusDay": 8,
    "ts": "AM",
    "slot": "10:00-12:30",
    "inOix": true,
@@ -2974,7 +2694,7 @@
   {
    "code": "TW00001",
    "date": "2026-10-31",
-   "plusDay": 9,
+   "plusDay": 8,
    "ts": "PM",
    "slot": "13:00-15:30",
    "inOix": true,
@@ -2984,7 +2704,7 @@
   {
    "code": "TW00001",
    "date": "2026-10-31",
-   "plusDay": 9,
+   "plusDay": 8,
    "ts": "PM2",
    "slot": "16:00-18:30",
    "inOix": true,
@@ -2994,57 +2714,17 @@
   {
    "code": "TW00001",
    "date": "2026-10-31",
-   "plusDay": 9,
+   "plusDay": 8,
    "ts": "EV",
    "slot": "18:00-20:30",
    "inOix": true,
    "used": 0,
    "quota": 118
-  },
-  {
-   "code": "WAN00001",
-   "date": "2026-10-22",
-   "plusDay": 0,
-   "ts": "AM",
-   "slot": "10:00-12:30",
-   "inOix": true,
-   "used": 72,
-   "quota": 112
-  },
-  {
-   "code": "WAN00001",
-   "date": "2026-10-22",
-   "plusDay": 0,
-   "ts": "PM",
-   "slot": "13:00-15:30",
-   "inOix": true,
-   "used": 52,
-   "quota": 112
-  },
-  {
-   "code": "WAN00001",
-   "date": "2026-10-22",
-   "plusDay": 0,
-   "ts": "PM2",
-   "slot": "16:00-18:30",
-   "inOix": true,
-   "used": 42,
-   "quota": 96
-  },
-  {
-   "code": "WAN00001",
-   "date": "2026-10-22",
-   "plusDay": 0,
-   "ts": "EV",
-   "slot": "18:00-20:30",
-   "inOix": true,
-   "used": 19,
-   "quota": 96
   },
   {
    "code": "WAN00001",
    "date": "2026-10-23",
-   "plusDay": 1,
+   "plusDay": 0,
    "ts": "AM",
    "slot": "10:00-12:30",
    "inOix": true,
@@ -3054,17 +2734,17 @@
   {
    "code": "WAN00001",
    "date": "2026-10-23",
-   "plusDay": 1,
+   "plusDay": 0,
    "ts": "PM",
    "slot": "13:00-15:30",
    "inOix": true,
-   "used": 32,
+   "used": 33,
    "quota": 112
   },
   {
    "code": "WAN00001",
    "date": "2026-10-23",
-   "plusDay": 1,
+   "plusDay": 0,
    "ts": "PM2",
    "slot": "16:00-18:30",
    "inOix": true,
@@ -3074,7 +2754,7 @@
   {
    "code": "WAN00001",
    "date": "2026-10-23",
-   "plusDay": 1,
+   "plusDay": 0,
    "ts": "EV",
    "slot": "18:00-20:30",
    "inOix": true,
@@ -3084,7 +2764,7 @@
   {
    "code": "WAN00001",
    "date": "2026-10-24",
-   "plusDay": 2,
+   "plusDay": 1,
    "ts": "AM",
    "slot": "10:00-12:30",
    "inOix": true,
@@ -3094,7 +2774,7 @@
   {
    "code": "WAN00001",
    "date": "2026-10-24",
-   "plusDay": 2,
+   "plusDay": 1,
    "ts": "PM",
    "slot": "13:00-15:30",
    "inOix": true,
@@ -3104,7 +2784,7 @@
   {
    "code": "WAN00001",
    "date": "2026-10-24",
-   "plusDay": 2,
+   "plusDay": 1,
    "ts": "PM2",
    "slot": "16:00-18:30",
    "inOix": true,
@@ -3114,7 +2794,7 @@
   {
    "code": "WAN00001",
    "date": "2026-10-24",
-   "plusDay": 2,
+   "plusDay": 1,
    "ts": "EV",
    "slot": "18:00-20:30",
    "inOix": true,
@@ -3124,7 +2804,7 @@
   {
    "code": "WAN00001",
    "date": "2026-10-25",
-   "plusDay": 3,
+   "plusDay": 2,
    "ts": "AM",
    "slot": "10:00-12:30",
    "inOix": true,
@@ -3134,7 +2814,7 @@
   {
    "code": "WAN00001",
    "date": "2026-10-25",
-   "plusDay": 3,
+   "plusDay": 2,
    "ts": "PM",
    "slot": "13:00-15:30",
    "inOix": true,
@@ -3144,7 +2824,7 @@
   {
    "code": "WAN00001",
    "date": "2026-10-25",
-   "plusDay": 3,
+   "plusDay": 2,
    "ts": "PM2",
    "slot": "16:00-18:30",
    "inOix": true,
@@ -3154,7 +2834,7 @@
   {
    "code": "WAN00001",
    "date": "2026-10-25",
-   "plusDay": 3,
+   "plusDay": 2,
    "ts": "EV",
    "slot": "18:00-20:30",
    "inOix": true,
@@ -3164,7 +2844,7 @@
   {
    "code": "WAN00001",
    "date": "2026-10-26",
-   "plusDay": 4,
+   "plusDay": 3,
    "ts": "AM",
    "slot": "10:00-12:30",
    "inOix": true,
@@ -3174,7 +2854,7 @@
   {
    "code": "WAN00001",
    "date": "2026-10-26",
-   "plusDay": 4,
+   "plusDay": 3,
    "ts": "PM",
    "slot": "13:00-15:30",
    "inOix": true,
@@ -3184,7 +2864,7 @@
   {
    "code": "WAN00001",
    "date": "2026-10-26",
-   "plusDay": 4,
+   "plusDay": 3,
    "ts": "PM2",
    "slot": "16:00-18:30",
    "inOix": true,
@@ -3194,7 +2874,7 @@
   {
    "code": "WAN00001",
    "date": "2026-10-26",
-   "plusDay": 4,
+   "plusDay": 3,
    "ts": "EV",
    "slot": "18:00-20:30",
    "inOix": true,
@@ -3204,7 +2884,7 @@
   {
    "code": "WAN00001",
    "date": "2026-10-27",
-   "plusDay": 5,
+   "plusDay": 4,
    "ts": "AM",
    "slot": "10:00-12:30",
    "inOix": true,
@@ -3214,7 +2894,7 @@
   {
    "code": "WAN00001",
    "date": "2026-10-27",
-   "plusDay": 5,
+   "plusDay": 4,
    "ts": "PM",
    "slot": "13:00-15:30",
    "inOix": true,
@@ -3224,7 +2904,7 @@
   {
    "code": "WAN00001",
    "date": "2026-10-27",
-   "plusDay": 5,
+   "plusDay": 4,
    "ts": "PM2",
    "slot": "16:00-18:30",
    "inOix": true,
@@ -3234,7 +2914,7 @@
   {
    "code": "WAN00001",
    "date": "2026-10-27",
-   "plusDay": 5,
+   "plusDay": 4,
    "ts": "EV",
    "slot": "18:00-20:30",
    "inOix": true,
@@ -3244,7 +2924,7 @@
   {
    "code": "WAN00001",
    "date": "2026-10-28",
-   "plusDay": 6,
+   "plusDay": 5,
    "ts": "AM",
    "slot": "10:00-12:30",
    "inOix": true,
@@ -3254,7 +2934,7 @@
   {
    "code": "WAN00001",
    "date": "2026-10-28",
-   "plusDay": 6,
+   "plusDay": 5,
    "ts": "PM",
    "slot": "13:00-15:30",
    "inOix": true,
@@ -3264,7 +2944,7 @@
   {
    "code": "WAN00001",
    "date": "2026-10-28",
-   "plusDay": 6,
+   "plusDay": 5,
    "ts": "PM2",
    "slot": "16:00-18:30",
    "inOix": true,
@@ -3274,6 +2954,46 @@
   {
    "code": "WAN00001",
    "date": "2026-10-28",
+   "plusDay": 5,
+   "ts": "EV",
+   "slot": "18:00-20:30",
+   "inOix": true,
+   "used": 0,
+   "quota": 96
+  },
+  {
+   "code": "WAN00001",
+   "date": "2026-10-29",
+   "plusDay": 6,
+   "ts": "AM",
+   "slot": "10:00-12:30",
+   "inOix": true,
+   "used": 0,
+   "quota": 112
+  },
+  {
+   "code": "WAN00001",
+   "date": "2026-10-29",
+   "plusDay": 6,
+   "ts": "PM",
+   "slot": "13:00-15:30",
+   "inOix": true,
+   "used": 0,
+   "quota": 112
+  },
+  {
+   "code": "WAN00001",
+   "date": "2026-10-29",
+   "plusDay": 6,
+   "ts": "PM2",
+   "slot": "16:00-18:30",
+   "inOix": true,
+   "used": 0,
+   "quota": 96
+  },
+  {
+   "code": "WAN00001",
+   "date": "2026-10-29",
    "plusDay": 6,
    "ts": "EV",
    "slot": "18:00-20:30",
@@ -3283,7 +3003,7 @@
   },
   {
    "code": "WAN00001",
-   "date": "2026-10-29",
+   "date": "2026-10-30",
    "plusDay": 7,
    "ts": "AM",
    "slot": "10:00-12:30",
@@ -3293,7 +3013,7 @@
   },
   {
    "code": "WAN00001",
-   "date": "2026-10-29",
+   "date": "2026-10-30",
    "plusDay": 7,
    "ts": "PM",
    "slot": "13:00-15:30",
@@ -3303,7 +3023,7 @@
   },
   {
    "code": "WAN00001",
-   "date": "2026-10-29",
+   "date": "2026-10-30",
    "plusDay": 7,
    "ts": "PM2",
    "slot": "16:00-18:30",
@@ -3313,7 +3033,7 @@
   },
   {
    "code": "WAN00001",
-   "date": "2026-10-29",
+   "date": "2026-10-30",
    "plusDay": 7,
    "ts": "EV",
    "slot": "18:00-20:30",
@@ -3323,48 +3043,8 @@
   },
   {
    "code": "WAN00001",
-   "date": "2026-10-30",
-   "plusDay": 8,
-   "ts": "AM",
-   "slot": "10:00-12:30",
-   "inOix": true,
-   "used": 0,
-   "quota": 112
-  },
-  {
-   "code": "WAN00001",
-   "date": "2026-10-30",
-   "plusDay": 8,
-   "ts": "PM",
-   "slot": "13:00-15:30",
-   "inOix": true,
-   "used": 0,
-   "quota": 112
-  },
-  {
-   "code": "WAN00001",
-   "date": "2026-10-30",
-   "plusDay": 8,
-   "ts": "PM2",
-   "slot": "16:00-18:30",
-   "inOix": true,
-   "used": 0,
-   "quota": 96
-  },
-  {
-   "code": "WAN00001",
-   "date": "2026-10-30",
-   "plusDay": 8,
-   "ts": "EV",
-   "slot": "18:00-20:30",
-   "inOix": true,
-   "used": 0,
-   "quota": 96
-  },
-  {
-   "code": "WAN00001",
    "date": "2026-10-31",
-   "plusDay": 9,
+   "plusDay": 8,
    "ts": "AM",
    "slot": "10:00-12:30",
    "inOix": true,
@@ -3374,7 +3054,7 @@
   {
    "code": "WAN00001",
    "date": "2026-10-31",
-   "plusDay": 9,
+   "plusDay": 8,
    "ts": "PM",
    "slot": "13:00-15:30",
    "inOix": true,
@@ -3384,7 +3064,7 @@
   {
    "code": "WAN00001",
    "date": "2026-10-31",
-   "plusDay": 9,
+   "plusDay": 8,
    "ts": "PM2",
    "slot": "16:00-18:30",
    "inOix": true,
@@ -3394,7 +3074,7 @@
   {
    "code": "WAN00001",
    "date": "2026-10-31",
-   "plusDay": 9,
+   "plusDay": 8,
    "ts": "EV",
    "slot": "18:00-20:30",
    "inOix": true,
@@ -3404,7 +3084,7 @@
   {
    "code": "WAN00001",
    "date": "2026-11-01",
-   "plusDay": 10,
+   "plusDay": 9,
    "ts": "AM",
    "slot": "10:00-12:30",
    "inOix": true,
@@ -3414,7 +3094,7 @@
   {
    "code": "WAN00001",
    "date": "2026-11-01",
-   "plusDay": 10,
+   "plusDay": 9,
    "ts": "PM",
    "slot": "13:00-15:30",
    "inOix": true,
@@ -3424,7 +3104,7 @@
   {
    "code": "WAN00001",
    "date": "2026-11-01",
-   "plusDay": 10,
+   "plusDay": 9,
    "ts": "PM2",
    "slot": "16:00-18:30",
    "inOix": true,
@@ -3434,7 +3114,7 @@
   {
    "code": "WAN00001",
    "date": "2026-11-01",
-   "plusDay": 10,
+   "plusDay": 9,
    "ts": "EV",
    "slot": "18:00-20:30",
    "inOix": true,

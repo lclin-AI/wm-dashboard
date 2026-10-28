@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-28T12:54:25",
+ "updatedAt": "2026-10-28T12:59:29",
  "cells": [
   {
    "code": "SMI00001",
@@ -25,7 +25,7 @@
    "date": "2026-10-28",
    "plusDay": 0,
    "slot": "16:00-18:30",
-   "status": "gone",
+   "status": "cutoff",
    "cutoff": "2026-10-28T13:00:00"
   },
   {
@@ -241,7 +241,7 @@
    "date": "2026-10-28",
    "plusDay": 0,
    "slot": "16:00-18:30",
-   "status": "gone",
+   "status": "cutoff",
    "cutoff": "2026-10-28T13:00:00"
   },
   {
@@ -349,7 +349,7 @@
    "date": "2026-10-28",
    "plusDay": 0,
    "slot": "16:00-18:30",
-   "status": "gone",
+   "status": "cutoff",
    "cutoff": "2026-10-28T13:00:00"
   },
   {
@@ -457,7 +457,7 @@
    "date": "2026-10-28",
    "plusDay": 0,
    "slot": "16:00-18:30",
-   "status": "gone",
+   "status": "cutoff",
    "cutoff": "2026-10-28T13:00:00"
   },
   {
@@ -565,16 +565,16 @@
    "date": "2026-10-28",
    "plusDay": 0,
    "slot": "16:00-18:30",
+   "status": "cutoff",
+   "cutoff": "2026-10-28T13:00:00"
+  },
+  {
+   "code": "WAN00001",
+   "name": "灣仔街市",
+   "date": "2026-10-28",
+   "plusDay": 0,
+   "slot": "18:00-20:30",
    "status": "none",
-   "cutoff": "2026-10-28T13:00:00"
-  },
-  {
-   "code": "WAN00001",
-   "name": "灣仔街市",
-   "date": "2026-10-28",
-   "plusDay": 0,
-   "slot": "18:00-20:30",
-   "status": "none",
    "cutoff": "2026-10-28T16:00:00"
   },
   {
@@ -673,7 +673,7 @@
    "date": "2026-10-28",
    "plusDay": 0,
    "slot": "16:00-18:30",
-   "status": "gone",
+   "status": "cutoff",
    "cutoff": "2026-10-28T13:00:00"
   },
   {
@@ -781,7 +781,7 @@
    "date": "2026-10-28",
    "plusDay": 0,
    "slot": "16:00-18:30",
-   "status": "gone",
+   "status": "cutoff",
    "cutoff": "2026-10-28T13:00:00"
   },
   {
@@ -866,5 +866,5 @@
    "cutoff": "2026-10-30T16:00:00"
   }
  ],
- "ageSeconds": 36
+ "ageSeconds": 32
 }

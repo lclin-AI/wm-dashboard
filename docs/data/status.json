@@ -1,19 +1,19 @@
 {
- "updatedAt": "2026-10-30T11:44:04",
+ "updatedAt": "2026-10-30T11:49:16",
  "marketsChecked": 8,
  "marketsTotal": 8,
  "marketsFailed": [],
- "blownCount": 0,
+ "blownCount": 2,
  "oixOk": true,
  "carlineCheckedAt": "2026-10-30T09:46:39",
  "lastWhatsApp": {
-  "at": "2026-10-30T06:17:37",
+  "at": "2026-10-30T11:47:49",
   "ok": true,
   "rc": 0,
-  "head": "✅ 街市即日餸 App 返返正常，時段又查得返。"
+  "head": "🚨 街市即日餸 爆 quota"
  },
  "lastSlack": {
-  "at": "2026-10-30T06:16:47",
+  "at": "2026-10-30T11:47:00",
   "ok": true,
   "note": ""
  },
@@ -22,7 +22,7 @@
   "state": "logged_in",
   "me": "85252174668:57@s.whatsapp.net",
   "note": "連得上",
-  "at": "2026-10-30T11:30:14"
+  "at": "2026-10-30T11:45:42"
  },
- "collectedAt": "2026-10-30T11:45:01"
+ "collectedAt": "2026-10-30T11:50:01"
 }

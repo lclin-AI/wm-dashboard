@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-01T17:20:08",
+ "updatedAt": "2026-11-01T17:25:09",
  "cells": [
   {
    "code": "KOWC00001",
@@ -48,7 +48,7 @@
    "ts": "AM",
    "slot": "10:00-12:30",
    "inOix": true,
-   "used": 16,
+   "used": 17,
    "quota": 112
   },
   {
@@ -58,7 +58,7 @@
    "ts": "PM",
    "slot": "13:00-15:30",
    "inOix": true,
-   "used": 5,
+   "used": 6,
    "quota": 112
   },
   {
@@ -648,7 +648,7 @@
    "ts": "AM",
    "slot": "10:00-12:30",
    "inOix": true,
-   "used": 16,
+   "used": 17,
    "quota": 155
   },
   {
@@ -1248,8 +1248,8 @@
    "ts": "AM",
    "slot": "10:00-12:30",
    "inOix": true,
-   "used": 17,
-   "quota": 210
+   "used": 18,
+   "quota": 168
   },
   {
    "code": "POR00001",
@@ -1259,7 +1259,7 @@
    "slot": "13:00-15:30",
    "inOix": true,
    "used": 19,
-   "quota": 210
+   "quota": 168
   },
   {
    "code": "POR00001",
@@ -1269,7 +1269,7 @@
    "slot": "16:00-18:30",
    "inOix": true,
    "used": 21,
-   "quota": 180
+   "quota": 144
   },
   {
    "code": "POR00001",
@@ -1279,7 +1279,7 @@
    "slot": "18:00-20:30",
    "inOix": true,
    "used": 0,
-   "quota": 180
+   "quota": 144
   },
   {
    "code": "POR00001",
@@ -1289,7 +1289,7 @@
    "slot": "10:00-12:30",
    "inOix": true,
    "used": 0,
-   "quota": 168
+   "quota": 182
   },
   {
    "code": "POR00001",
@@ -1299,7 +1299,7 @@
    "slot": "13:00-15:30",
    "inOix": true,
    "used": 0,
-   "quota": 168
+   "quota": 182
   },
   {
    "code": "POR00001",
@@ -1309,7 +1309,7 @@
    "slot": "16:00-18:30",
    "inOix": true,
    "used": 0,
-   "quota": 144
+   "quota": 156
   },
   {
    "code": "POR00001",
@@ -1319,7 +1319,7 @@
    "slot": "18:00-20:30",
    "inOix": true,
    "used": 6,
-   "quota": 144
+   "quota": 156
   },
   {
    "code": "POR00001",
@@ -1329,7 +1329,7 @@
    "slot": "10:00-12:30",
    "inOix": true,
    "used": 0,
-   "quota": 168
+   "quota": 182
   },
   {
    "code": "POR00001",
@@ -1339,7 +1339,7 @@
    "slot": "13:00-15:30",
    "inOix": true,
    "used": 0,
-   "quota": 168
+   "quota": 182
   },
   {
    "code": "POR00001",
@@ -1349,7 +1349,7 @@
    "slot": "16:00-18:30",
    "inOix": true,
    "used": 0,
-   "quota": 144
+   "quota": 156
   },
   {
    "code": "POR00001",
@@ -1359,7 +1359,7 @@
    "slot": "18:00-20:30",
    "inOix": true,
    "used": 0,
-   "quota": 144
+   "quota": 156
   },
   {
    "code": "POR00001",
@@ -1529,7 +1529,7 @@
    "slot": "10:00-12:30",
    "inOix": true,
    "used": 0,
-   "quota": 210
+   "quota": 168
   },
   {
    "code": "POR00001",
@@ -1539,7 +1539,7 @@
    "slot": "13:00-15:30",
    "inOix": true,
    "used": 0,
-   "quota": 210
+   "quota": 168
   },
   {
    "code": "POR00001",
@@ -1549,7 +1549,7 @@
    "slot": "16:00-18:30",
    "inOix": true,
    "used": 0,
-   "quota": 180
+   "quota": 144
   },
   {
    "code": "POR00001",
@@ -1559,7 +1559,7 @@
    "slot": "18:00-20:30",
    "inOix": true,
    "used": 0,
-   "quota": 180
+   "quota": 144
   },
   {
    "code": "POR00001",
@@ -1569,7 +1569,7 @@
    "slot": "10:00-12:30",
    "inOix": true,
    "used": 0,
-   "quota": 168
+   "quota": 182
   },
   {
    "code": "POR00001",
@@ -1579,7 +1579,7 @@
    "slot": "13:00-15:30",
    "inOix": true,
    "used": 0,
-   "quota": 168
+   "quota": 182
   },
   {
    "code": "POR00001",
@@ -1589,7 +1589,7 @@
    "slot": "16:00-18:30",
    "inOix": true,
    "used": 0,
-   "quota": 144
+   "quota": 156
   },
   {
    "code": "POR00001",
@@ -1599,7 +1599,7 @@
    "slot": "18:00-20:30",
    "inOix": true,
    "used": 0,
-   "quota": 144
+   "quota": 156
   },
   {
    "code": "POR00001",
@@ -1609,7 +1609,7 @@
    "slot": "10:00-12:30",
    "inOix": true,
    "used": 0,
-   "quota": 168
+   "quota": 182
   },
   {
    "code": "POR00001",
@@ -1619,7 +1619,7 @@
    "slot": "13:00-15:30",
    "inOix": true,
    "used": 0,
-   "quota": 168
+   "quota": 182
   },
   {
    "code": "POR00001",
@@ -1629,7 +1629,7 @@
    "slot": "16:00-18:30",
    "inOix": true,
    "used": 0,
-   "quota": 144
+   "quota": 156
   },
   {
    "code": "POR00001",
@@ -1639,7 +1639,7 @@
    "slot": "18:00-20:30",
    "inOix": true,
    "used": 0,
-   "quota": 144
+   "quota": 156
   },
   {
    "code": "POR00001",
@@ -1848,7 +1848,7 @@
    "ts": "AM",
    "slot": "10:00-12:30",
    "inOix": true,
-   "used": 16,
+   "used": 17,
    "quota": 112
   },
   {
@@ -3088,7 +3088,7 @@
    "ts": "AM",
    "slot": "10:00-12:30",
    "inOix": true,
-   "used": 1,
+   "used": 2,
    "quota": 200
   },
   {
